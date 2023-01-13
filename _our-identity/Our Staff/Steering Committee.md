@@ -46,7 +46,7 @@ third_nav_title: Our Staff
     <td class="tg-emg8"> </td>
   </tr>
   <tr>
-    <td class="tg-emg8"> </td>
+    <td class="tg-emg8"><br></td>
     <td class="tg-emg8"> </td>
     <td class="tg-emg8"> </td>
   </tr>
@@ -96,7 +96,7 @@ third_nav_title: Our Staff
     <td class="tg-emg8"> Character and Citizenship Education &amp; Social Studies (CCE &amp; SS)</td>
   </tr>
   <tr>
-    <td class="tg-emg8"> </td>
+    <td class="tg-emg8"><br></td>
     <td class="tg-emg8"> </td>
     <td class="tg-emg8"> </td>
   </tr>
@@ -116,7 +116,7 @@ third_nav_title: Our Staff
     <td class="tg-emg8"> Lower Primary (LP)</td>
   </tr>
   <tr>
-    <td class="tg-emg8"> </td>
+    <td class="tg-emg8"><br> </td>
     <td class="tg-emg8"> </td>
     <td class="tg-emg8"> </td>
   </tr>
@@ -162,7 +162,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-emg8"> </td>
+    <td class="tg-emg8"><br></td>
     <td class="tg-emg8"> </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-emg8"> Mdm Siti Masura Binte Hatnen</td>
     <td class="tg-emg8">Administration Manager</td>
-    <td class="tg-emg8"> </td>
+    <td class="tg-emg8"></td>
   </tr>
   <tr>
     <td class="tg-emg8"> Mr Heng Chai Boon Eddie</td>
