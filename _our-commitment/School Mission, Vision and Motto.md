@@ -8,14 +8,14 @@ description: ""
 
 
 <img src="/images/img_our_mission.jpeg" 
-     style="width:35%">
+     style="width:15%">
 <center><h5>Our Mission</h5><br>Igniting the Joy of Learning, Inspiring all to Care and Share.</center>
 
 
 
 
 <img src="/images/img_ourvision.jpeg" 
-     style="width:35%">
+     style="width:15%">
 <center><h5>Our Vision</h5><br>A Gracious Community of Confident and Innovative Life-long Learners.</center>
 
 
@@ -32,4 +32,4 @@ The heart represents patience, love and most of all, passion and determination -
 The colour gold represents integrity and moral courage in the fulfillment of duties of responsibilities, while the colour green signifies growth and vitality and blue symbolizes sincerity and unity in harmony.
 
 <img src="/images/img_school_motto.jpeg" 
-     style="width:45%">
+     style="width:35%">
