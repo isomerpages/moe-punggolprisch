@@ -3,4 +3,5 @@ title: Type of Offences
 permalink: /our-commitment/type-of-offences/
 description: ""
 ---
-![](/images/Offences.jpeg)
+<img src="/images/Offences.jpeg" 
+     style="width:75%">
