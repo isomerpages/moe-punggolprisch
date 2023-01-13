@@ -30,16 +30,17 @@ During school operating hours, students should contact the School-based Helpline
                    Mondays - Fridays: 8:00 am - 4:00 pm
 
 
-Students can also fill in a school-based form to request for the above matters at go.gov.sg/sls-pps
+Students can also fill in a school-based form to request for the above matters at [go.gov.sg/sls-pps](go.gov.sg/sls-pps)
 
 
 
-For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
 
 
-Useful Links 
+**Useful Links**
 
-Updated SLS Instructions and FAQs
+
+*   [Updated SLS Instructions and FAQs](/files/SLS%20Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf)
 
 We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.
