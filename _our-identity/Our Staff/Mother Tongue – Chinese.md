@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <img src="/images/MTL%20Chinese.png" 
-     style="width:35%">
+     style="width:45%">
 
 
 <style type="text/css">
