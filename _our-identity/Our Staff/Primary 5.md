@@ -4,7 +4,7 @@ permalink: /our-identity/Our-Staff/primary-5/
 description: ""
 third_nav_title: Our Staff
 ---
-<img src="/images/principal.jpg" 
+<img src="/images/P5.png" 
      style="width:35%">
 
 
