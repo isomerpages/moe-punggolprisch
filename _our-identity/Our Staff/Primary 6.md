@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <img src="/images/P6.png" 
-     style="width:45%">
+     style="width:35%">
 
 
 <style type="text/css">
