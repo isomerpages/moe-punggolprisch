@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Our Staff/Mother Tongue – Chinese.md
       - Our Staff/Mother Tongue – Malay.md
       - Our Staff/Mother Tongue – Tamil.md
       - Our Staff/PE ART MUSIC (PAM) Teachers.md
