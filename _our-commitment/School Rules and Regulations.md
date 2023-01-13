@@ -4,7 +4,7 @@ permalink: /our-commitment/school-rules-and-regulations/
 description: ""
 ---
 <img src="/images/PPS%20School%20rules.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 All students are school ambassadors who play pivotal roles in upholding the tradition of excellence and display S.T.A.R. values in all areas of their school life.
 
