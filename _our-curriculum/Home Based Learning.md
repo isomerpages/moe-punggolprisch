@@ -25,9 +25,8 @@ As the provision of computing device is an integral part of Home-based learning,
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 
-                   School-based Helpline: 6385 0762
-
-                   Mondays - Fridays: 8:00 am - 4:00 pm
+> * School-based Helpline: 6385 0762
+> * Mondays - Fridays: 8:00 am - 4:00 pm
 
 
 Students can also fill in a school-based form to request for the above matters at [go.gov.sg/sls-pps](go.gov.sg/sls-pps)
