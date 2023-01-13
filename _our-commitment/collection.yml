@@ -1,0 +1,4 @@
+collections:
+  our-commitment:
+    output: true
+    order: []
