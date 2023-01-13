@@ -20,4 +20,6 @@ Our CCA’s objective is to help selected students improve their health which re
   
 
 **Venue**   
-ISH Dance Studio & Arena
+ISH Dance Studio &amp; Arena
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqn9fJZpQQBAZ9-zWZOUjE2Y14ic3kvw3CAYSQ--KkpT1WhZCj35Sw8zrxvQNDbexhNIu4FAMsJjzL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
