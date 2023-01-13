@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <img src="/images/MTL%20Tamil.png" 
-     style="width:35%">
+     style="width:45%">
 
 
 
