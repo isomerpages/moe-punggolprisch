@@ -2,5 +2,6 @@ collections:
   our-identity:
     output: true
     order:
+      - Our Staff/Learning Support Team.md
       - Our Staff/.keep
       - Our School Song.md
