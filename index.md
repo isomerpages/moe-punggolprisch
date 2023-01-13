@@ -22,6 +22,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,6 +33,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
