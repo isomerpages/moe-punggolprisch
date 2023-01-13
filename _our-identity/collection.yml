@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Our Staff/PE ART MUSIC (PAM) Teachers.md
       - Our Staff/Non Form Teachers.md
       - Our Staff/Admin Support.md
       - Our Staff/Learning Support Team.md
