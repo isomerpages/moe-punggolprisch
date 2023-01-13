@@ -2,4 +2,5 @@ collections:
   our-commitment:
     output: true
     order:
+      - Information on School Attire.md
       - Type of Offences.md
