@@ -1,6 +1,16 @@
 logo: /images/punggol-primary-school.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Commitment
+    collection: our-commitment
+  - title: Our Identity
+    collection: our-identity
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Pride
+    collection: our-pride
+  - title: Our Partners
+    collection: our-partners
+  - title: Our Contacts
+    collection: our-contacts
+  - title: Our MK@Punggol
+    url: /our-mk-at-punggol
