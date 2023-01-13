@@ -1,4 +1,5 @@
 collections:
   our-commitment:
     output: true
-    order: []
+    order:
+      - Type of Offences.md
