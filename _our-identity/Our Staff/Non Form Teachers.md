@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <img src="/images/non%20FTs.png" 
-     style="width:35%">
+     style="width:45%">
 
 Mr Chan Chin San Alvin  
 Mdm Noraini Bte Yosorh  
