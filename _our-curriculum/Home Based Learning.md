@@ -43,6 +43,6 @@ For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.
 
 *   [Updated SLS Instructions and FAQs](/files/SLS%20Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf)
 
-We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.
+*We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.*
 
 <iframe width="800" height="315" src="https://www.youtube.com/embed/qg4x-rswXUM" title="Home-based Learning: How to Make it Work (Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
