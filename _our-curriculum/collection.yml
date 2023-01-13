@@ -2,4 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Authentic Problem Based Learning.md
       - Home Based Learning.md
