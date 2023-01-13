@@ -41,4 +41,7 @@ Every waking hour
 Punggol Primary    
 Let the people see   
 We’ll be the very best that we can be   
-We’ll be the very best that we can be    
+We’ll be the very best that we can be
+
+
+(embed song here)
