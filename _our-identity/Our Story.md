@@ -4,7 +4,7 @@ permalink: /our-identity/our-story/
 description: ""
 ---
 <img src="/images/our-story.png" 
-     style="width:35%">
+     style="width:30%">
 
 Punggol Primary School was established in January 1995 at the former Hai Sing Girls’ High School. In March 1998, the school moved to its current location and underwent PRIME in 2002-2004. With a student population of about 1400 pupils and staffed by 90 teachers and 16 support/administrative officers, the school has been slated for PERI upgrading in 2014 and will be transiting to single session in 2015.
 
