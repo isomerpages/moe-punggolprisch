@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/CCA.md
       - CCA/CCA Recruitment Drive.md
       - CCA/.keep
       - Authentic Problem Based Learning.md
