@@ -4,7 +4,7 @@ permalink: /our-commitment/school-vision-mission-and-motto/
 description: ""
 ---
 <img src="/images/Vision%20Mission%20motto.png" 
-     style="width:45%">
+     style="width:60%">
 
 
 <img src="/images/img_our_mission.jpeg" 
@@ -22,7 +22,7 @@ description: ""
 
 
 <img src="/images/motto.png" 
-     style="width:45%">
+     style="width:40%">
 <center><h5>′Pride In Performance′</h5></center>
 
 The star symbol represents performance, excellence and achievement. The freeform is used to symbolize adaptability to changes. The form represents that of a human body leaping forward - showing a dynamic leap to meet societal changes. The star also represents the 4 core values of our school - Self-discipline, Teamwork, Affection and Responsibility.
