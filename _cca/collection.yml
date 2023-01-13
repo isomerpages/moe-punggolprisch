@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Health & Fitness Club.md
       - Physical Sports/.keep
