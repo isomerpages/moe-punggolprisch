@@ -45,3 +45,7 @@ Primary 1 Innovation classroom and Art Rooms
 ##### Achievement
 
 9 Gold and 1 Silver Company Awards since 2011
+
+![](/images/Latest%20Photo_1.jpeg)
+![](/images/Lates%20Photo-2.jpeg)
+![](/images/Lates%20Photo-3.jpeg)
