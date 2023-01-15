@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Hockey.md
