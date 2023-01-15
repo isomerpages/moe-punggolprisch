@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Hockey.md
       - Physical Sports/Modular CCA (Sports).md
       - Physical Sports/Health & Fitness Club.md
       - Physical Sports/.keep
