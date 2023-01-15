@@ -45,7 +45,7 @@ Junior Boys&nbsp; &nbsp; 3rd
 
   
 
-**2018**&nbsp;   
+**2018**   
 Junior Boys&nbsp; &nbsp;Champion   
 Junior Girls&nbsp; &nbsp; 2nd   
 Senior Girls&nbsp; &nbsp; 2nd   
