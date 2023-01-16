@@ -50,4 +50,13 @@ Library
 
 ##### Debate
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjjzPbTc63mtLmXoACdW6iacbVzvC0-YA5mF6B5a4y826e6poVgioEGSpvKaEB_xktLAG2NcGEY0w2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjjzPbTc63mtLmXoACdW6iacbVzvC0-YA5mF6B5a4y826e6poVgioEGSpvKaEB_xktLAG2NcGEY0w2/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
+
+
+##### Drama
+
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSA5l7Zeed6Vx90oOPWJWZClkyfdco5lpKOoXiUm-KV4LiZYtYT_uxjryQQyM0RgopTQ_HBD3BoWLPV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+
+##### Year-end Celebration
+
+![](/images/Year%20End%20Celebration.jpeg)
