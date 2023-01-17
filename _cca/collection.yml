@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - Clubs and Societies/Design & Innovation Club.md
       - Clubs and Societies/English Drama Club.md
       - Clubs and Societies/Robotics.md
