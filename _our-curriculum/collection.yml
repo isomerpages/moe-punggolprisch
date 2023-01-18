@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Growing Year Programme/Information For Parents.md
       - Growing Year Programme/.keep
       - Authentic Problem Based Learning.md
       - Home Based Learning.md
