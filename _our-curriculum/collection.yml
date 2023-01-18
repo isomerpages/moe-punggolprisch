@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Growing Year Programme/.keep
-      - CCA/CCAs.md
-      - CCA/CCA Recruitment Drive.md
-      - CCA/.keep
       - Authentic Problem Based Learning.md
       - Home Based Learning.md
+      - CCA/.keep
+      - CCA/CCAs.md
+      - CCA/CCA Recruitment Drive.md
