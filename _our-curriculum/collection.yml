@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Maths/Financial Literacy Programme.md
       - Maths/.keep
       - Mother Tongue Language/Mother Tongue Language.md
       - Mother Tongue Language/Programmes and Activities.md
