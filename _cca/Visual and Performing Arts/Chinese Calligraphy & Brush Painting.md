@@ -51,3 +51,5 @@ Art Studio 1
 **SYF Art and Craft Exhibition 2015**
 * Certificate of Recognition
 
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfvdPaxgu15wltBqrc8R9iQpHS1lEw2DsQ-P1rJSk3uBOms48WR0HpvNbhxmjsCvewxENuvHpdDM1s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
