@@ -4,3 +4,11 @@ permalink: /our-curriculum/Science/science-talent-development-programme/
 description: ""
 third_nav_title: Science
 ---
+![](/images/school%20website%20Science3.jpeg)
+
+**Innovation Programme (IvP)**
+
+The Innovation Programme (IvP) provides a unique opportunity for pupils to develop their problem-solving and thinking skills.  
+This programme allows pupils to think critically about existing problems, generate ideas to improve the situation, develop prototypes to test and improve their ideas and be exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmL-2WKbf_lU9r5nq_KTJ7wezSsgsX7ljWoFccTf801aIAMQph5E5YU9VRBtg-Pq73ETWILDPwnyLt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
