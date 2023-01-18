@@ -52,4 +52,6 @@ Art Studio 1
 * Certificate of Recognition
 
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfvdPaxgu15wltBqrc8R9iQpHS1lEw2DsQ-P1rJSk3uBOms48WR0HpvNbhxmjsCvewxENuvHpdDM1s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfvdPaxgu15wltBqrc8R9iQpHS1lEw2DsQ-P1rJSk3uBOms48WR0HpvNbhxmjsCvewxENuvHpdDM1s/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsBv-RxCxXL9wLzpwAjibWPiK8-ZvJGDSIEzHtZKn9Ud1dS7tcneT6xQ--TRRZ4U8RbK28DjOtpieo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
