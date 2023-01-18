@@ -16,10 +16,10 @@ third_nav_title: CCA
 
 In PPS, we offer students CCAs from the following options:
 
-*   [Clubs and Societies](/CCA/club-and-societies)
-*   [Physical Sports](/cca/Physical-Sports/health-and-fitness-club/)
-*   Uniformed Groups
-*   Visual and Performing Arts Group
+*   [Clubs and Societies](/cca/Clubs-and-Societies/design-and-innovation-club/)
+*   [Physical Sports](/cca/Physical-Sports/basketball/)
+*   [Uniformed Groups](/cca/Uniformed-Groups/boys-brigade/)
+*   [Visual and Performing Arts Group](/cca/Visual-and-Performing-Arts/arts-n-craft-club/)
 
 
 At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all pupils to participate in at least 1 school-based CCA during their course of study in PPS.
