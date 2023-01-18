@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Growing Year Programme/MOE Sexuality Education in Schools.md
-      - Growing Year Programme/Overview of PPS’s Sexuality Education Programme
+      - Growing Years Programme/MOE Sexuality Education in Schools.md
+      - Growing Years Programme/Overview of PPS’s Sexuality Education Programme
         for 2023.md
-      - Growing Year Programme/Information For Parents.md
-      - Growing Year Programme/.keep
+      - Growing Years Programme/Information For Parents.md
+      - Growing Years Programme/.keep
       - Authentic Problem Based Learning.md
       - Home Based Learning.md
       - CCA/.keep
