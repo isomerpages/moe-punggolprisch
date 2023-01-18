@@ -114,3 +114,6 @@ third_nav_title: Growing Year Programme
 </tbody>
 </table>
 
+**<u>Please Note:</u>**
+
+***For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
