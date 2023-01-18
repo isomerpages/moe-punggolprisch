@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Physical Education/PE Programme.md
       - Physical Education/.keep
       - Growing Years Programme/MOE Sexuality Education in Schools.md
       - Growing Years Programme/Overview of PPS’s Sexuality Education Programme
