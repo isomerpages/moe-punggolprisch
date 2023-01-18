@@ -17,8 +17,7 @@ third_nav_title: Growing Year Programme
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitude</u> about sexuality.
 
 
-3\. The Key Messages of Sexuality Education are:
-
+3\. The Key Messages of Sexuality Education are:   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Love and respect yourself as you love and respect others;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Build positive relationships based on love and respect (which are the foundation for strong families);   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Make responsible decisions for yourself, your family and society; and   
