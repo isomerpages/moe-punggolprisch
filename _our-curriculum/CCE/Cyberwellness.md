@@ -30,7 +30,13 @@ third_nav_title: CCE
     <label for="accordion2"><h3>Cyber Wellness Ambassadors
 			</h3></label>
     <div>
-      <p>This is a simple one line item</p>
+      <p dir="ltr">The roles of the Cyber Wellness Ambassadors include:</p>
+<ul>
+<li><strong>Lead and Inspire</strong>:&nbsp;Be exemplary as a responsible online user.</li>
+<li><strong>Teach and Advocate</strong>:&nbsp;Create authentic materials to share with their peers.</li>
+</ul>
+<p>Our ambassadors are appointed and trained from P3 level to assume their roles through P6 level. Due to COVID-19, the students have gained more ICT knowledge but are continuously susceptible to online threats and dangers. Thus the training are conducted online to equip the ambassadors with sensitively and alertness in dealing with these dangers.</p>
+<p>Guided by the Cyber Wellness Principles of Sense &ndash; Think &ndash; Act, the students are constantly reminded to exemplify their actions online and offline. The training has been shifted online conducted by our teachers via Zoom and SLS.</p>
     </div>
 	</li>
 	<li>
