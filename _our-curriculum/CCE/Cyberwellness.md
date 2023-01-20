@@ -46,9 +46,24 @@ third_nav_title: CCE
 	</li>
 	<li>
     <input id="accordion3" type="checkbox">
-    <label for="accordion3">Simple</label>
+	<label for="accordion3"><h3>Cyber Wellness Information for Parents
+</h3></label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!&nbsp;</p>
+<h4>Kindly refer to MOE Parent Kits for Home-based Learning</h4>
+<p><a href="https://punggolpri.moe.edu.sg/home-based-learning">https://punggolpri.moe.edu.sg/home-based-learning</a></p>
+<h4>Punggol Cyber News_May_June</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Cyberwellness/2021%20newsletter/Punggol%20Cyber%20News_May_June.pdf">Punggol Cyber News_May_June.pdf</a></p>
+<h4>Punggol Cyber News_Mar_Apr</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Cyberwellness/2021%20newsletter/Punggol%20Cyber%20News_Mar_Apr.pdf">Punggol Cyber News_Mar_Apr.pdf</a></p>
+<h4>Punggol Cyber News_Jan_Feb</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Cyberwellness/2021%20newsletter/Punggol%20Cyber%20News_Jan_Feb.pdf">Punggol Cyber News_Jan_Feb.pdf</a></p>
+<h4>Punggol Cyber News_November_December</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Punggol%20Cyber%20News_November_December.pdf">Punggol Cyber News_November_December.pdf</a>&nbsp;</p>
+<h4>Punggol Cyber News_September_October</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Cyberwellness/Punggol%20Cyber%20News_September_October.pdf">Punggol Cyber News_September_October.pdf</a></p>
+<h4>Punggol Cyber News_Jul _August</h4>
+<p><a href="https://punggolpri.moe.edu.sg/qql/slot/u152/Cyberwellness/Punggol%20Cyber%20News_Jul%20-August.pdf">Punggol Cyber News_Jul -August.pdf</a></p>
     </div>
 	</li>
 </ul>
