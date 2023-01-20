@@ -27,7 +27,8 @@ third_nav_title: CCE
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Simple</label>
+    <label for="accordion2"><h3>Cyber Wellness Ambassadors
+			</h3></label>
     <div>
       <p>This is a simple one line item</p>
     </div>
