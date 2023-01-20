@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/ICT.md
       - ICT/ICT Literacy Programme.md
       - ICT/ICT Student Leader Programme.md
       - ICT/.keep
