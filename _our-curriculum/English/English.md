@@ -5,7 +5,7 @@ description: ""
 third_nav_title: English
 ---
 <img src="/images/English.png" 
-     style="width:15%">
+     style="width:20%">
 
 
 ##### Department Curricular Goals:
@@ -15,4 +15,3 @@ To develop values, learning dispositions and skills to listen actively to multip
 
 <img src="/images/photo1.jpeg" 
      style="width:65%">
-
