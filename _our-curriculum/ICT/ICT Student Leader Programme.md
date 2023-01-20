@@ -4,7 +4,8 @@ permalink: /our-curriculum/ICT/ict-student-leader-programme/
 description: ""
 third_nav_title: ICT
 ---
-![](/images/ICTPrg.png)
+<img src="/images/ICTPrg.png" 
+     style="width:65%">
 
 ICT Leaders from each class went through a training in the beginning of the year to gain deeper understanding about their roles and responsibilities. The students learnt ICT skills required for them to assist in the operation of IT equipment in classrooms. They also learnt the qualities of a responsible digital learner.
 
