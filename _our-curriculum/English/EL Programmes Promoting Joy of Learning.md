@@ -26,6 +26,4 @@ As part of EL department efforts to build a reading culture in our school, a wid
 **(embed video here)**
 
 <img src="/images/Picture14.png" 
-     style="width:65%">
-
-
+     style="width:85%">
