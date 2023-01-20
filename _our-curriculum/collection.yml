@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/.keep
       - Maths/Maths.md
       - Maths/PPS key Math Programmes and Activities.md
       - Maths/Financial Literacy Programme.md
