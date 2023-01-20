@@ -37,10 +37,10 @@ third_nav_title: CCE
 </ul>
 <p>Our ambassadors are appointed and trained from P3 level to assume their roles through P6 level. Due to COVID-19, the students have gained more ICT knowledge but are continuously susceptible to online threats and dangers. Thus the training are conducted online to equip the ambassadors with sensitively and alertness in dealing with these dangers.</p>
 <p>Guided by the Cyber Wellness Principles of Sense &ndash; Think &ndash; Act, the students are constantly reminded to exemplify their actions online and offline. The training has been shifted online conducted by our teachers via Zoom and SLS.</p>
-			<p><img src="/images/principal.jpg" 
-     style="width:65%"><br><img src="/images/principal.jpg" 
+			<p><img src="/images/training%201.jpeg" 
+     style="width:65%"><br><img src="/images/training%202.jpeg" 
      style="width:65%">
-			<h5>Reflections and contributions by the ambassadors during online training.</h5><img src="/images/principal.jpg" 
+			<h5>Reflections and contributions by the ambassadors during online training.</h5><img src="/images/training%203.jpeg" 
 				 style="width:65%"></p>
     </div>
 	</li>
