@@ -92,3 +92,18 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 ##### ICT-enhanced lessons
 
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQshYRVLVzwla4AHB3bkeYwJo00npeEypOLav9m9wjq1HlFhZXS4s3JgmTBus8zPS8iQvBWE4nu3xK8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+
+
+##### Primary 5 Code for Fun lessons
+
+<img src="/images/Photo%206.jpeg" 
+     style="width:65%">
+
+
+##### Micro:bit coding lessons
+
+<img src="/images/Photo%207.jpeg" 
+     style="width:65%">
+
+<img src="/images/Photo%208.jpeg" 
+     style="width:65%">
