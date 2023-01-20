@@ -23,6 +23,7 @@ third_nav_title: CCE
 <p><strong>Parental Engagement</strong></p>
 <p>We enagage the parents through bi-monthly newsletter sent out through Parent&rsquo;s Gateway. We also conduct Cyber wellness related workshop to better equip parents in building relations with their children.</p>
 <p>Here are some photos of the events held in school.</p>
+			<p>image<br><br><h5>Pupils reciting the Cyber Wellness pledge led by P5 pupils during Learning Technology Week.</h5><br>image<h5>Pupils making a commitment to be a better online citizen by signing off in their Pupils’ Diary.</h5><br>image<br>image<br><h5>Some of the class winners for poster and pledge card design competition. Well done to all participants!</h5><br>slides<br><br>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">here</a> for more information on MOE Cyber Wellness education.</p>
     </div>
 	</li>
 	<li>
