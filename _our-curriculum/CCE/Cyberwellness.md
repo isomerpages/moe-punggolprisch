@@ -9,7 +9,7 @@ third_nav_title: CCE
     <input id="accordion1" type="checkbox">
 		<label for="accordion1"><h3>Cyberwellness</h3></label>
     <div>
-      <p><img style="width:85%" src="/images/CyberWell.png"></p>
+      <p><img style="width:45%" src="/images/CyberWell.png"></p>
 			<p>Our Cyber Wellness Programme @ PPS takes a holistic approach through pupils and parents engagement to develop pupils to become safe, responsible and ethical users of Information and Communication Technology (ICT).</p>
 <h5><strong>School Wide Programme</strong></h5>
 <p>The Cyber Wellness School wide programme is conducted through the following channels.</p>
