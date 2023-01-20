@@ -12,13 +12,15 @@ Designed with students’ daily experiences as context, CCE lessons help student
 
 ##### Racial Harmony Day
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStkdFamT9Cs5fMdiMCyF7X8XXAAe9IoiBmUJLcxhszplCEGSu63C9dM_8uhksFB3iX5A1hz0IxI_U5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStkdFamT9Cs5fMdiMCyF7X8XXAAe9IoiBmUJLcxhszplCEGSu63C9dM_8uhksFB3iX5A1hz0IxI_U5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
 
 ##### Total Defence Day 
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuG3jK5FxjZ25x4wey8SXv9QGOB52f6yKdD_mlnY0ewF8tZcPCehJo6U6yX8nJ9xJ7KVzNNuiiwAxR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
 ##### P4 Egg Baby
 
 
 
-##### P2 Rcube Activities 
+##### P2 Rcube Activities
