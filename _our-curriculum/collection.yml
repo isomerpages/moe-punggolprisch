@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Maths/PPS key Math Programmes and Activities.md
       - Maths/Financial Literacy Programme.md
       - Maths/.keep
       - Mother Tongue Language/Mother Tongue Language.md
