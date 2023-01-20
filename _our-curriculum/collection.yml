@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/.keep
       - English/English.md
       - English/EL@PPS.md
       - English/EL Programmes Promoting Joy of Learning.md
