@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Pre–Morning Assembly (Out–of–the–Box) Programme.md
       - CCE/Termly Pupil Recognition Award.md
       - CCE/Contemporary Issues Discussions (CID).md
       - CCE/NE Core Events.md
