@@ -14,4 +14,4 @@ To develop values, learning dispositions and skills to listen actively to multip
 *   To nurture creativity and critical thinking.
 
 <img src="/images/photo1.jpeg" 
-     style="width:65%">
+     style="width:85%">
