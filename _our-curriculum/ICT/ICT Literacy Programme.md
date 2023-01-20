@@ -4,3 +4,5 @@ permalink: /our-curriculum/ICT/ict-literacy-programme/
 description: ""
 third_nav_title: ICT
 ---
+<img src="/images/ICT%20Literacy.png" 
+     style="width:65%">
