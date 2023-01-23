@@ -4,3 +4,6 @@ permalink: /achievements-and-affirmations/School-Awards/eenp/
 description: ""
 third_nav_title: School Awards
 ---
+![](/images/Energy%20Efficiency%20National%20Partnership%20(EENP).png)
+
+The school has been conferred with the EENP Award. The EENP Awards recognises companies/schools that aims to foster a culture of sustained energy efficiency improvement. The EENP Awards also encourage companies/schools to adopt a proactive approach towards energy management by identifying and sharing best practices for companies to emulate.
