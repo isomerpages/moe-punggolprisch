@@ -2,6 +2,7 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Distinctive programme.md
       - Learning for Life Programme/Learning for Life Programme (LLP).md
       - Learning for Life Programme/P1 – P4 Sports Education and Exposure
         Programme.md
