@@ -2,6 +2,8 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Learning for Life Programme/P1 – P4 Sports Education and Exposure
+        Programme.md
       - Learning for Life Programme/P3 – P6 Level Camps.md
       - Learning for Life Programme/Create And Play & Inter–Class Games.md
       - Learning for Life Programme/Unstructured Recess Play (URP).md
