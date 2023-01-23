@@ -35,7 +35,7 @@ To enhance organisational capacity, in line with the school Strategic Thrust 3 â
 PPS believes that when staffâ€™s needs are met and are happy, they will be willing to do great work for the pupils. To look into our staff well-being, PPS adopts a Staff Health and Satisfaction Framework that aligns staff well-being processes with factors that have direct impact on staff satisfaction at the work place. These factors are in the outer circle of the framework shown below:
 
 <img src="/images/staff-wellb-framework.jpeg" 
-     style="width:65%">
+     style="width:75%">
 
 
 In PPS, we make a conscious effort to build a better workforce and promote a caring culture. We make every staff member feel valued by looking into their Physical, Intellectual, Emotional and Social (PIES) needs.
