@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Form Teacher Guidance Period.md
       - CCE/CCE (Mother Tongue & English Language) Lessons.md
       - CCE/Cyberwellness.md
       - CCE/Pre–Morning Assembly (Out–of–the–Box) Programme.md
