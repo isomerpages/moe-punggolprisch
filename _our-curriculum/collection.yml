@@ -2,6 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCA/.keep
+      - CCA/CCAs.md
+      - CCA/CCA Recruitment Drive.md
+      - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Form Teacher Guidance Period.md
       - CCE/CCE (Mother Tongue & English Language) Lessons.md
@@ -14,37 +18,33 @@ collections:
       - CCE/Mindset Matters.md
       - CCE/P3 Virtual LJ on SLS.md
       - CCE/What’s Up Punggolites x CID.md
-      - CCE/.keep
+      - English/.keep
       - English/English.md
       - English/EL@PPS.md
       - English/EL Programmes Promoting Joy of Learning.md
-      - English/.keep
+      - ICT/.keep
       - ICT/ICT.md
       - ICT/ICT Literacy Programme.md
       - ICT/ICT Student Leader Programme.md
-      - ICT/.keep
+      - Maths/.keep
       - Maths/Maths.md
       - Maths/PPS key Math Programmes and Activities.md
       - Maths/Financial Literacy Programme.md
-      - Maths/.keep
+      - Mother Tongue Language/.keep
       - Mother Tongue Language/Mother Tongue Language.md
       - Mother Tongue Language/Programmes and Activities.md
-      - Mother Tongue Language/.keep
+      - Science/.keep
       - Science/Science.md
       - Science/Science Curriculum.md
       - Science/Science Co–Curriculum Programmes.md
       - Science/Science Talent Development Programme.md
-      - Science/.keep
+      - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/PE Programme.md
-      - Physical Education/.keep
+      - Growing Years Programme/.keep
       - Growing Years Programme/MOE Sexuality Education in Schools.md
       - Growing Years Programme/Overview of PPS’s Sexuality Education Programme
         for 2023.md
       - Growing Years Programme/Information For Parents.md
-      - Growing Years Programme/.keep
       - Authentic Problem Based Learning.md
       - Home Based Learning.md
-      - CCA/.keep
-      - CCA/CCAs.md
-      - CCA/CCA Recruitment Drive.md
