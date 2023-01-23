@@ -33,3 +33,25 @@ Every school context is different, and the needs, interests, and abilities of st
   
 
 We start the year off with our #becomingaSTAR Orientation Programme and engage our students through purposeful reflection in MY PPS STORY Reflection Journal.
+
+(embed video here)
+
+CCE(FTGP) lessons are supported by our MindsetMatters@PPS lessons to develop a growth mindset in our students and bolster student motivation in becoming lifelong learners.
+
+picure
+
+Student leaders engage students in a termly What’s Up Punggolites! News segment and students’ voice is heard during the accompanying Contemporary Issues Discussion (CID) lessons with Form Teachers. 
+
+  
+
+As all students are ambassadors to the school and play a pivotal role in displaying our STAR values, students are engaged in specific behaviours/actions to make values a lived experience for all.
+
+dour images
+
+To build Teacher-Student Relationships and Student-Student Relationships, Punggolites enjoy time spent as a cohort with specially curated activities to develop Social-Emotional Competencies during our Level Bonding.
+
+image
+
+<u><i>Social Studies</i></u>
+
+Social Studies include content knowledge that provides opportunities for exploration into national identity, contemporary issues, as well as Singapore’s constraints and vulnerabilities. As students interact with one another through group activities, project work, and learning journeys, they learn the skills of working together harmoniously, appreciating diversity, and active listening. They also learn how to demonstrate STAR values as they are encouraged to do their best in various learning tasks and relate to their teachers and fellow classmates.
