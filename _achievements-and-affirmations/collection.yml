@@ -1,4 +1,5 @@
 collections:
   achievements-and-affirmations:
     output: true
-    order: []
+    order:
+      - Competitions/.keep
