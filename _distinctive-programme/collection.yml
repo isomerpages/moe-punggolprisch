@@ -2,6 +2,7 @@ collections:
   distinctive-programme:
     output: true
     order:
+      - Learning for Life Programme/Create And Play & Inter–Class Games.md
       - Learning for Life Programme/Unstructured Recess Play (URP).md
       - Learning for Life Programme/.keep
       - Applied Learning Programme (ALP).md
