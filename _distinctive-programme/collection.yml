@@ -1,4 +1,5 @@
 collections:
   distinctive-programme:
     output: true
-    order: []
+    order:
+      - Applied Learning Programme (ALP).md
