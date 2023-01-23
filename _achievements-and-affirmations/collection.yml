@@ -2,6 +2,7 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - School Awards/People Developer Standard.md
       - School Awards/School Green Award (Vanda Miss Joaquim Sustained
         Achievement Award).md
       - School Awards/Singapore Quality Class.md
