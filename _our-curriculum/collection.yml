@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics/Collaboration with NAFA.md
       - Aesthetics/Music Curriculum.md
       - Aesthetics/Out of the Box.md
       - Aesthetics/P3 Dragon Kiln Visit.md
