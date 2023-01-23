@@ -2,5 +2,6 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - Competitions/2020.md
       - Competitions/2019.md
       - Competitions/.keep
