@@ -15,5 +15,9 @@ links:
   - title: Our MK@Punggol
     url: /our-mk-at-punggol
   - title: Our Pride
-    url: /our-pride/distinctive-programme/distinctive-programme
-    sublinks: []
+    url: /distinctive-programme/distinctive-programme/
+    sublinks:
+      - title: Distinctive Programme
+        url: /distinctive-programme/distinctive-programme/
+      - title: Achievements and Affirmations
+        url: /permalink
