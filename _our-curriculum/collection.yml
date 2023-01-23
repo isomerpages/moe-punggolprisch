@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics/Music Curriculum.md
       - Aesthetics/Out of the Box.md
       - Aesthetics/P3 Dragon Kiln Visit.md
       - Aesthetics/P4 Museum–based Learning.md
