@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Awards
 ---
 <img src="/images/Community%20in%20Bloom.png" 
-     style="width:55%">
+     style="width:45%">
 
 
 The school has been recognised by NParks for its efforts to create a gardening community in the school. This award, presented at the Singapore Garden Festival, aim to motivate and encourage community gardeners to improve the standards of their gardens and to continue enjoying gardening as a fun and healthy activity.
