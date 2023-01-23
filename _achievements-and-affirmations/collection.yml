@@ -2,6 +2,8 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - School Awards/School Green Award (Vanda Miss Joaquim Sustained
+        Achievement Award).md
       - School Awards/Singapore Quality Class.md
       - School Awards/Community in Bloom.md
       - School Awards/Energy Efficiency National Partnership (EENP).md
