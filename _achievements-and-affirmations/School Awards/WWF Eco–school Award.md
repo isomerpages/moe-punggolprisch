@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Awards
 ---
 <img src="/images/Heading.jpeg" 
-     style="width:65%">
+     style="width:55%">
 
 
 
@@ -41,4 +41,4 @@ third_nav_title: School Awards
 </tbody>
 </table>
 
-The school is awarded the WWF Eco-school award for its emphasis on continuous school improvement and culture of environmental awareness that upholds student initiated process and participation in internal/external activities to promote Singapore's sustainability.   
+The school is awarded the WWF Eco-school award for its emphasis on continuous school improvement and culture of environmental awareness that upholds student initiated process and participation in internal/external activities to promote Singapore's sustainability.
