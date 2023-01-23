@@ -4,8 +4,8 @@ permalink: /distinctive-programme/Learning-for-Life-Programme/llp/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-![](/images/Learningforlife.png)
-
+<img src="/images/Learningforlife.png" 
+     style="width:65%">
 
 Guided by the school’s broad philosophy “Every Individual Matters” and the firm belief that “Every child has interests and talents’, the school has realigned its niche, PSE Hockey to Social-emotional learning and character development Through Active paRticipation in Sports & outdoor education (S.T.A.R.S.) programme. The programme is aligned to the school’s Strategic Thrust 1- Holistic Development of Students with the Strategic Objective of providing a student-centric and all rounded education that is infused with values. Hence, the S.T.A.R.S. programme infuses the school’s STAR values of Self-discipline, Teamwork, Affection and Responsibility as well as PPS Student Outcomes and 21CC.
 
