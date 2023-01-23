@@ -15,7 +15,9 @@ third_nav_title: Aesthetics
 
 **Aesthetics Goal: <u>Gracious Citizens, Practising Talents</u>**
 
-![](/images/Aesthetics%20BEST%20Framework.jpeg)
+<img src="/images/Aesthetics%20BEST%20Framework.jpeg" 
+     style="width:35%">
+
 
 ### Aesthetics B.E.S.T. Framework
 
