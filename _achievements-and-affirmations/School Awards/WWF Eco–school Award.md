@@ -4,6 +4,11 @@ permalink: /achievements-and-affirmations/School-Awards/wwf-eco-school-award/
 description: ""
 third_nav_title: School Awards
 ---
+<img src="/images/Heading.jpeg" 
+     style="width:65%">
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -35,3 +40,5 @@ third_nav_title: School Awards
   </tr>
 </tbody>
 </table>
+
+The school is awarded the WWF Eco-school award for its emphasis on continuous school improvement and culture of environmental awareness that upholds student initiated process and participation in internal/external activities to promote Singapore's sustainability.   
