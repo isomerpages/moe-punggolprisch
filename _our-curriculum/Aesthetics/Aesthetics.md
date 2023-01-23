@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 <img src="/images/Aesthetics.png" 
-     style="width:65%">
+     style="width:25%">
 
 **AESTHETICS ASPIRATIONS**
 
