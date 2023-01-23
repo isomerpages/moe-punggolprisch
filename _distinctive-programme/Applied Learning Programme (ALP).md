@@ -3,7 +3,9 @@ title: Applied Learning Programme (ALP)
 permalink: /distinctive-programme/alp/
 description: ""
 ---
-![](/images/ALP.png)
+<img src="/images/ALP.png" 
+     style="width:65%">
+
 
 **GreeNovation @ PPS**
 
