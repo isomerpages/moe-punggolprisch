@@ -38,10 +38,10 @@ third_nav_title: CCE
 <p>Our ambassadors are appointed and trained from P3 level to assume their roles through P6 level. Due to COVID-19, the students have gained more ICT knowledge but are continuously susceptible to online threats and dangers. Thus the training are conducted online to equip the ambassadors with sensitively and alertness in dealing with these dangers.</p>
 <p>Guided by the Cyber Wellness Principles of Sense &ndash; Think &ndash; Act, the students are constantly reminded to exemplify their actions online and offline. The training has been shifted online conducted by our teachers via Zoom and SLS.</p>
 			<p><img src="/images/training%201.jpeg" 
-     style="width:65%"><br><img src="/images/training%202.jpeg" 
-     style="width:65%">
+     style="width:85%"><br><img src="/images/training%202.jpeg" 
+     style="width:85%">
 			<h5>Reflections and contributions by the ambassadors during online training.</h5><img src="/images/training%203.jpeg" 
-				 style="width:65%"></p>
+				 style="width:95%"></p>
     </div>
 	</li>
 	<li>
@@ -51,7 +51,7 @@ third_nav_title: CCE
     <div>
       <p>We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!&nbsp;</p>
 <h4>Kindly refer to MOE Parent Kits for Home-based Learning</h4>
-<p><a href="https://punggolpri.moe.edu.sg/home-based-learning">https://punggolpri.moe.edu.sg/home-based-learning</a></p>
+<p><a href="/our-curriculum/home-based-learning/">https://punggolpri.moe.edu.sg/home-based-learning</a></p>
 <h4>Punggol Cyber News_May_June</h4>
 <p><a href="/files/Punggol%20Cyber%20News_May_June.pdf">Punggol Cyber News_May_June.pdf</a></p>
 <h4>Punggol Cyber News_Mar_Apr</h4>
