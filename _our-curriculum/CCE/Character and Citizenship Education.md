@@ -38,7 +38,9 @@ We start the year off with our #becomingaSTAR Orientation Programme and engage o
 
 CCE(FTGP) lessons are supported by our MindsetMatters@PPS lessons to develop a growth mindset in our students and bolster student motivation in becoming lifelong learners.
 
-picure
+<img src="/images/FTGP%203.jpeg" 
+     style="width:65%">
+
 
 Student leaders engage students in a termly What’s Up Punggolites! News segment and students’ voice is heard during the accompanying Contemporary Issues Discussion (CID) lessons with Form Teachers. 
 
@@ -46,11 +48,15 @@ Student leaders engage students in a termly What’s Up Punggolites! News segmen
 
 As all students are ambassadors to the school and play a pivotal role in displaying our STAR values, students are engaged in specific behaviours/actions to make values a lived experience for all.
 
-dour images
+<img src="/images/ftgp4.png" 
+     style="width:65%">
+<img src="/images/ftgp5.png" 
+     style="width:65%">
 
 To build Teacher-Student Relationships and Student-Student Relationships, Punggolites enjoy time spent as a cohort with specially curated activities to develop Social-Emotional Competencies during our Level Bonding.
 
-image
+<img src="/images/Art%20Bonding%20P4%20Success.jpeg" 
+     style="width:65%">
 
 <u><i>Social Studies</i></u>
 
