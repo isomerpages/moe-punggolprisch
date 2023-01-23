@@ -2,6 +2,7 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - CCA Achievements/2019.md
       - CCA Achievements/.keep
       - Competitions/2020.md
       - Competitions/2019.md
