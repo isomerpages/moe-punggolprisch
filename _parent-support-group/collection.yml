@@ -2,6 +2,7 @@ collections:
   parent-support-group:
     output: true
     order:
+      - Activities/Corporate Social Responsibilities.md
       - Activities/English Reading Program.md
       - Activities/Maths Recess Activities.md
       - Activities/Mother and Father's Day Recess Activities.md
