@@ -3,7 +3,9 @@ title: Welcome to PSG
 permalink: /parent-support-group/welcome-to-psg/
 description: ""
 ---
-![](/images/psg.jpeg)
+<img src="/images/psg.jpeg" 
+     style="width:65%">
+
 
 Dear Fellow PPS Parents,  
  Welcome to Punggol Primary School’s Parent Support Group website!  
@@ -24,4 +26,3 @@ Let’s all enjoy our wonderful parenting and volunteering in 2023!
 Yours faithfully,   
 Lilian Song   
 PPS PSG Chairperson 2023
-
