@@ -4,7 +4,6 @@ permalink: /parent-support-group/Activities/psg-hi-tea/
 description: ""
 third_nav_title: Activities
 ---
-
 <img src="/images/PSG%20HI-TEA.png" 
      style="width:25%">
 
@@ -16,4 +15,3 @@ third_nav_title: Activities
 		 
 <img src="/images/pht3.jpeg" 
      style="width:65%">
-
