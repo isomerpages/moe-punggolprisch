@@ -15,3 +15,13 @@ Dear Fellow PPS Parents,
 <center><em>“At the end of the day, the most overwhelming key to a child’s success<br>is the positive involvement of parents.”</em></center>
 
 Let’s all enjoy our wonderful parenting and volunteering in 2023!
+
+<img src="/images/PSG%20Chairperson.jpeg" 
+     style="width:35%">
+
+
+
+Yours faithfully,   
+Lilian Song   
+PPS PSG Chairperson 2023
+
