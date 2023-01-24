@@ -7,9 +7,12 @@ third_nav_title: Activities
 <img src="/images/TotDefence.png" 
      style="width:65%">
 
+<img src="/images/tdd1.jpeg" 
+     style="width:65%">
 
-![](/images/tdd1.jpeg)
+<img src="/images/tdd2.jpeg" 
+     style="width:65%">
 
-![](/images/tdd2.jpeg)
+<img src="/images/tdd3.jpeg" 
+     style="width:65%">
 
-![](/images/tdd3.jpeg)
