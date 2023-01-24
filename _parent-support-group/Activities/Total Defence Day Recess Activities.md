@@ -8,11 +8,10 @@ third_nav_title: Activities
      style="width:65%">
 
 <img src="/images/tdd1.jpeg" 
-     style="width:65%">
+     style="width:75%">
 
 <img src="/images/tdd2.jpeg" 
-     style="width:65%">
+     style="width:75%">
 
 <img src="/images/tdd3.jpeg" 
-     style="width:65%">
-
+     style="width:75%">
