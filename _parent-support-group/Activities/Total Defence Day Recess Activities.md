@@ -11,6 +11,8 @@ third_nav_title: Activities
 
 ![/images/tdd1.jpeg](/images/tdd1.jpeg)
 
+[/images/tdd1.jpeg](/images/tdd1.jpeg)
+
 ![](/images/tdd2.jpeg)
 
 ![](/images/tdd3.jpeg)
