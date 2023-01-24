@@ -13,6 +13,13 @@ links:
         url: /distinctive-programme/distinctive-programme/
       - title: Achievements and Affirmations
         url: /achievements-and-affirmations/School-Awards/best-practice-teaching-and-learning/
+  - title: Our Partners
+    url: /parent-support-group/welcome-to-psg/
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /parent-support-group/welcome-to-psg/
+      - title: Submenu Title
+        url: /permalink
   - title: Our Contacts
     collection: our-contacts
   - title: Our MK@Punggol
