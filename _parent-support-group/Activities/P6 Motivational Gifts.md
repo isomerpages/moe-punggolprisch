@@ -18,4 +18,3 @@ third_nav_title: Activities
 
 <img src="/images/P6%20Motivational%20Gifts4.jpeg" 
      style="width:65%">
-
