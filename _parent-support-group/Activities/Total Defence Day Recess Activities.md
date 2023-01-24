@@ -8,7 +8,6 @@ third_nav_title: Activities
      style="width:65%">
 
 
-
 ![](/images/tdd1.jpeg)
 
 ![](/images/tdd2.jpeg)
