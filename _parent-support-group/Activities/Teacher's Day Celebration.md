@@ -20,16 +20,16 @@ third_nav_title: Activities
      style="width:65%">
 
 <img src="/images/tdc6.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 <img src="/images/tdc7.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 <img src="/images/tdc8.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 <img src="/images/tdc9.jpeg" 
-     style="width:55%">
+     style="width:45%">
 
 <img src="/images/tdc10.jpeg" 
-     style="width:55%">
+     style="width:45%">
