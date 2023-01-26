@@ -1,5 +1,4 @@
 collections:
   our-identity:
     output: true
-    order:
-      - Our Staff/.keep
+    order: []
