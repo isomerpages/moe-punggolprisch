@@ -46,3 +46,5 @@ third_nav_title: Parents
   </tr>
 </tbody>
 </table>
+
+[Attachment 2 - Supporting Your Child Through Their Vaccination.pdf](/files/Attachment%202%20-%20Supporting%20Your%20Child%20Through%20Their%20Vaccination.pdf)
