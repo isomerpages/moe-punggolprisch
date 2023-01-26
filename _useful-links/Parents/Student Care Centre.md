@@ -4,9 +4,8 @@ permalink: /useful-links/Parents/student-care-centre/
 description: ""
 third_nav_title: Parents
 ---
-![](/images/StudentCare%20Ctr.png)
-<img src="/images/principal.jpg" 
-     style="width:65%">
+<img src="/images/StudentCare%20Ctr.png" 
+     style="width:75%">
 
 
 Name of Vendor: Raffles Student Care Centre    
