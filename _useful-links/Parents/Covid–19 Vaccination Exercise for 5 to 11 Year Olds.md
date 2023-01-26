@@ -41,7 +41,8 @@ third_nav_title: Parents
   </tr>
   <tr>
     <td class="tg-ujx6"><span style="font-weight:normal;color:#333">Registration link for Parents/ Legal Guardians who did not receive SMS booking invitation</span></td>
-    <td class="tg-fi90"><a href="https://child.vaccine.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">https://child.vaccine.gov.sg</span></a><br><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2021/vaccineRegLink.png" alt="vaccineRegLink.png" width="126" height="116"><br></td>
+    <td class="tg-fi90"><a href="https://child.vaccine.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">https://child.vaccine.gov.sg</span></a><br><img src="/images/vaccineRegLink.png" 
+     style="width:25%"></td>
   </tr>
 </tbody>
 </table>
