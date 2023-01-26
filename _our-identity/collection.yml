@@ -1,5 +1,5 @@
 collections:
-  our-commitment:
+  our-identity:
     output: true
     order:
       - Our School Song.md
