@@ -53,24 +53,24 @@ description: ""
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://rbs.avero-tech.com/" target = "_self"> 
           <img src="/images/RBS.jpg" 
      style="width:80%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://punggolpri.padlet.org/auth/login" target = "_self"> 
           <img src="/images/Padlet.png" 
      style="width:70%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://pg.moe.edu.sg/" target = "_self"> 
           <img src="/images/PG.png" 
      style="width:40%"></a><br><span style="font-weight:bold">Parents Gateway</span></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://icon.moe.edu.sg/" target = "_self"> 
           <img src="/images/Icon.jpg" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "http://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa%2f%23authRedirect%3dtrue" target = "_self"> 
           <img src="/images/Outlook.jpg" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://member.koobits.com/" target = "_self"> 
           <img src="/images/Koobitz.jpg" 
      style="width:80%"></a></td>
   </tr>
@@ -80,13 +80,13 @@ description: ""
     <td class="tg-5ws4"></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target = "_self"> 
           <img src="/images/Heathy_living_physical_activity.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target = "_self"> 
           <img src="/images/download.png" 
      style="width:60%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target = "_self"> 
           <img src="/images/logistics.jpeg" 
      style="width:100%"></a></td>
   </tr>
@@ -96,10 +96,10 @@ description: ""
     <td class="tg-5ws4"> Logistics Support for Event/Function</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://idp.mims.moe.gov.sg/nidp/saml2/sso" target = "_self"> 
           <img src="/images/MIMS.jpg" 
      style="width:100%"></a><br>Request access to resources</td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://go.gov.sg/stpwiki" target = "_self"> 
           <img src="/images/STP.png" 
      style="width:70%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
