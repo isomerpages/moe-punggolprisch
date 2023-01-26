@@ -9,6 +9,25 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6uje{background-color:#00009b;color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 206px">
+<colgroup>
+<col style="width: 206px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-6uje"><a href="https://form.gov.sg/5efbeadcd65ea300118041a7"><span style="color:#FFF;background-color:#00009B">PS Card Replacement</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
