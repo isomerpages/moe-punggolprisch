@@ -20,13 +20,13 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_self"> 
           <img src="/images/SLS.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target = "_self"> 
           <img src="/images/Scholastic.jpg" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://iexams.seab.gov.sg/sso/login" target = "_self"> 
           <img src="/images/iExams.png" 
      style="width:100%"></a></td>
   </tr>
