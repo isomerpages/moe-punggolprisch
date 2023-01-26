@@ -19,13 +19,7 @@ sections:
           description: Useful Links
           url: /useful-links/staff/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: PPS News
+      subtitle: Our Latest Updates
+      button: View All
 ---
