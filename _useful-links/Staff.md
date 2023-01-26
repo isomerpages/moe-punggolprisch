@@ -55,10 +55,10 @@ description: ""
   <tr>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/RBS.jpg" 
-     style="width:100%"></a></td>
+     style="width:80%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/Padlet.png" 
-     style="width:100%"></a></td>
+     style="width:70%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/PG.png" 
      style="width:40%"></a><br><span style="font-weight:bold">Parents Gateway</span></td>
