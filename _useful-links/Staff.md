@@ -31,24 +31,24 @@ description: ""
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://intranet.moe.gov.sg/Pages/Home.aspx" target = "_self"> 
           <img src="/images/MOE%20Intranet.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><br><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><br><a href = "https://www.hrp.gov.sg/hrp/#/" target = "_self"> 
           <img src="/images/HRP.png" 
      style="width:100%"></a><br><span style="font-weight:bold">HR &amp; Payroll Portal</span></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_self"> 
           <img src="/images/Opal%202.jpg" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://schoolcockpit.moe.gov.sg/" target = "_self"> 
           <img src="/images/SC.gif" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://ssoe2.moe.edu.sg/" target = "_self"> 
           <img src="/images/SSOE2.png" 
      style="width:100%"></a><br><span style="font-weight:bold">SSOE2 Service Portal</span></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://scmobile.moe.edu.sg/home" target = "_self"> 
           <img src="/images/Slide1.jpeg" 
      style="width:100%"></a></td>
   </tr>
