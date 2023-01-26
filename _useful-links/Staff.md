@@ -64,9 +64,15 @@ description: ""
      style="width:40%"></a><br><span style="font-weight:bold">Parents Gateway</span></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/Icon.jpg" alt="Icon.jpg" width="155" height="71"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/.tn.Outlook.jpg.mid.jpg" alt="Outlook.jpg" width="211" height="57"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/Koobitz.jpg" alt="Koobitz.jpg" width="136" height="65"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Icon.jpg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Outlook.jpg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Koobitz.jpg" 
+     style="width:80%"></a></td>
   </tr>
   <tr>
     <td class="tg-5ws4"> ICON Email</td>
@@ -74,9 +80,15 @@ description: ""
     <td class="tg-5ws4"></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/Heathy_living_physical_activity.png" alt="Heathy_living_physical_activity.png" width="158" height="80"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/download.png" alt="download.png" width="70" height="77"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/logistics.jpeg" alt="logistics.jpeg" width="120" height="83"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Heathy_living_physical_activity.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/download.png" 
+     style="width:60%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/logistics.jpeg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-5ws4"> Event / Activities During School Term or Holidays</td>
@@ -84,14 +96,26 @@ description: ""
     <td class="tg-5ws4"> Logistics Support for Event/Function</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/MIMS.jpg" alt="MIMS.jpg" width="201" height="50"><br>Request access to resources</td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/STP.png" alt="STP.png" width="116" height="137"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2022/Skills%20Future.png" alt="Skills Future.png" width="266" height="36"># </td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/MIMS.jpg" 
+     style="width:100%"></a><br>Request access to resources</td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/STP.png" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Skills%20Future.png" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2022/ELSE.png" alt="ELSE.png" width="266" height="45"># </td>
-    <td class="tg-2rp9"> <img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2022/EL%20pri.png" alt="EL pri.png" width="153" height="69"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/Capture.PNG" alt="ICT Microsite" width="230" height="52"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/ELSE.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/EL%20pri.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/ICTmicrositeforstaff.png" 
+     style="width:100%"></a></td>
   </tr>
 </tbody>
 </table>
