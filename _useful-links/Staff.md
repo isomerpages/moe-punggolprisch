@@ -20,24 +20,48 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/SLS.png" alt="SLS.png" width="241" height="38"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/.tn.Scholastic.jpg.mid.jpg" alt="Scholastic.jpg" width="230" height="73"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/iExams.png" alt="iExams.png" width="193" height="67"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SLS.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Scholastic.jpg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/iExams.png" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/MOE%20Intranet.png" alt="MOE Intranet.png" width="256" height="73"></td>
-    <td class="tg-2rp9"><br><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/.tn.HRP.png.2.jpg" alt="HRP.png" width="151" height="59"><br><span style="font-weight:bold">HR &amp; Payroll Portal</span></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/Opal%202.0/Opal%202.0.jpg" alt="Opal 2.0.jpg" width="190" height="58"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/MOE%20Intranet.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><br><a href = "linkhere" target = "_self"> 
+          <img src="/images/HRP.png" 
+     style="width:100%"></a><br><span style="font-weight:bold">HR &amp; Payroll Portal</span></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Opal%202.jpg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/SC.gif" alt="SC.gif" width="150" height="84"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/SSOE2.png" alt="SSOE2.png" width="151" height="68"><br><span style="font-weight:bold">SSOE2 Service Portal</span></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/Slide1.JPG" alt="Slide1.JPG" width="152" height="84"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SC.gif" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SSOE2.png" 
+     style="width:100%"></a><br><span style="font-weight:bold">SSOE2 Service Portal</span></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Slide1.jpeg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/.tn.RBS.png.mid.jpg" alt="RBS.png" width="242" height="48"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/Padlet.png" alt="Padlet.png" width="111" height="75"></td>
-    <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/imgs/2022/PG.png" alt="PG.png" width="55" height="55"><br><span style="font-weight:bold">Parents Gateway</span></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/RBS.jpg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Padlet.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/PG.png" 
+     style="width:40%"></a><br><span style="font-weight:bold">Parents Gateway</span></td>
   </tr>
   <tr>
     <td class="tg-2rp9"><img src="https://punggolpri.moe.edu.sg/qql/slot/u152/2019/Hidden%20Page/Useful%20Links/Staff/Icon.jpg" alt="Icon.jpg" width="155" height="71"></td>
