@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - Our Staff/Steering Committee.md
       - Our Staff/Executive & Administrative Staff.md
       - Our Staff/Primary 1.md
       - Our Staff/Primary 2.md
