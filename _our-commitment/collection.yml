@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our School Song.md
+      - Our Staff/Steering Committee.md
       - Our Staff/.keep
       - Principal's Message.md
       - School Mission, Vision and Motto.md
