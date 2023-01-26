@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our School Song.md
+      - Our Staff/Learning Support Team.md
       - Our Staff/Executive & Administrative Staff.md
       - Our Staff/Steering Committee.md
       - Our Staff/.keep
