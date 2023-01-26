@@ -2,5 +2,4 @@ collections:
   our-identity:
     output: true
     order:
-      - Our Staff/Primary 1.md
       - Our Staff/.keep
