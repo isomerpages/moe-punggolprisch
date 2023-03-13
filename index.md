@@ -4,7 +4,7 @@ title: Punggol Primary School
 description: An Isomer site of the Singapore Government
 image: /images/punggol-primary-school.jpeg
 permalink: /
-notification: Welcome to PPS.
+notification: Welcome to Punggol Primary School.
 sections:
   - hero:
       background: /images/homebannerdemo.gif
