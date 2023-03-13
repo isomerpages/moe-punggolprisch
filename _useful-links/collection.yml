@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Pupils.md
-      - Parents/Punggol Cyber News.md
+      - Parents/.keep
       - Parents/Parents.md
+      - Parents/Punggol Cyber News.md
       - Parents/Book Shop Service.md
       - Parents/Bus Service.md
       - Parents/Dental Service.md
       - Parents/School Uniform Service.md
       - Parents/Student Care Centre.md
       - Parents/Covid–19 Vaccination Exercise for 5 to 11 Year Olds.md
-      - Parents/.keep
       - Staff.md
