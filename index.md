@@ -19,7 +19,7 @@ sections:
           description: Useful Links
           url: /useful-links/staff/
         - title: Our MK@Punggol
-          description: ""
+          description: Useful Links
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
   - resources:
       title: PPS News
