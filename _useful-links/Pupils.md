@@ -35,10 +35,10 @@ iCON
 
 Student Zoom Account
 --------------------
+[Zoom Login Website](https://students-edu-sg.zoom.us/)
 
 [1\. Accessing Zoom with Browser.pdf](/files/1%20Accessing%20Zoom%20with%20Browser.pdf)   
 [2\. Accessing Zoom through the Desktop App.pdf](/files/2%20Accessing%20Zoom%20through%20the%20Desktop%20App.pdf)    
 [3\. Accessing Zoom through the Mobile or Tablet App.pdf](/files/3%20Accessing%20Zoom%20through%20the%20Mobile%20or%20Tablet%20App.pdf)    
 [4\. Annex Troubleshooting Instructions.pdf](/files/4%20Annex%20Troubleshooting%20Instructions.pdf)
-
-*   [Zoom Login Website](https://students-edu-sg.zoom.us/)
+   
