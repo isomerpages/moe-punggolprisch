@@ -3,7 +3,6 @@ title: Pupils
 permalink: /useful-links/pupils/
 description: ""
 ---
-*   [Punggol Cyber News - November 2022.pdf](/files/Punggol%20Cyber%20News%20-%20November%202022.pdf)
 *   [Scholastic Literacy Pro Library](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K)
 *   [Koobits](https://member.koobits.com/)
 *   [MindClickonline](http://www.mindclickonline.com/)
@@ -15,12 +14,9 @@ description: ""
 *   [Nadi](https://nadi.edumall.sg/nadi/slot/u100/arkib/2011/julai/index.htm)
 *   [Tinta](https://tinta.edumall.sg/mekar/slot/u112/PRI/index.html)
 *   [早报校园（大拇指　小拇指）](https://zbschools.sg/)
-*   [Snacks for Break Time](/files/Snacks%20For%20Break%20Time.pdf)
-*   [Young Innovators' Fair 2020](https://go.gov.sg/ivp-fair-2020/)
 *   [Scribo](https://www.literatu.com/#/)
-*   [Singapore Examinations and Assessment Board (PSLE)](https://www.seab.gov.sg/home/examinations/psle)
 *   [P.P.S. O.P.A.C. Library](https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
-*   [P5 Taiwan Trip - 2018](http://s1174.photobucket.com/user/Pearlp20/slideshow/PPS%20Taiwan%202018)
+
 
     
 
