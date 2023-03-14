@@ -4,18 +4,10 @@ permalink: /our-curriculum/Maths/maths/
 description: ""
 third_nav_title: Maths
 ---
-<img src="/images/Maths.png" 
-     style="width:25%">
-
-
-##### Mission
-
+#### Mission
 Igniting the Joy of Problem-Solving, Inspiring All to Care and Share
 
-  
-
-##### Motto
-
+#### Motto
 Pride in Performance
 
 
