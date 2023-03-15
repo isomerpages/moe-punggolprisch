@@ -133,3 +133,48 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 4</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td width=140>Class</td>
+    <td>Form Teachers</td>
+    <td>Co-Form Teachers</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Self-Discipline</td>
+    <td>Mrs Wee Yip Peng</td>
+    <td>Mdm Lena Seah Geok Choo</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Teamwork</td>
+    <td>Mdm Tow Poh Huay Adeline</td>
+    <td>Mdm Lee Bee Hoon</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Affection</td>
+    <td>Mdm Tan Eng Bee Adele Kathleen</td>
+    <td>Mdm Joanna Tan Ming Yi</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Responsibility</td>
+    <td>Mr Kenneth Seah Wei Yuan</td>
+    <td>Mdm Islina Bte Ismail</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Joy</td>
+    <td>Ms Anne Poh Bee Ling</td>
+    <td>Mdm Mak Mei Woon</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">4 Innovation</td>
+    <td>Mdm Satvinder Kaur</td>
+    <td>Ms Koh Shiew Ching</td>
+  </tr>
+</tbody>
+</table>
