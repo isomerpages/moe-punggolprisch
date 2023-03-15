@@ -4,13 +4,10 @@ permalink: /our-identity/Our-Staff/Teaching-Staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
-
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 1</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 1 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -55,7 +52,7 @@ third_nav_title: Our Staff
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 2</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 2 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -100,7 +97,7 @@ third_nav_title: Our Staff
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 3</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 3 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -140,7 +137,7 @@ third_nav_title: Our Staff
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 4</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 4 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -185,7 +182,7 @@ third_nav_title: Our Staff
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 5</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 5 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -230,7 +227,7 @@ third_nav_title: Our Staff
 <table>
 	<thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 6</td>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 6 TEACHERS</td>
             </tr>
          </thead>
 <tbody>
@@ -268,6 +265,73 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">6 Innovation</td>
     <td>Mdm Subhaletchmi</td>
     <td>Ms Afifah Bte Abdullah Yahya Aljaru</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=4>MOTHER TONGUE TEACHERS</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td>Language</td>
+    <td colspan=4>Name of Teachers</td>
+  </tr>
+  <tr>
+    <td rowspan=6 style="font-weight: bold">Chinese</td>
+    <td>Mdm Ng Siam Hong, June</td>
+		<td>Mdm Chang Sok Cheng</td>
+		<td>Mdm Khuan Jiayan</td>		
+	</tr>
+	<tr>
+		<td>Mdm Lao Ngee Pin Joan</td>
+		<td>Mdm Li Yuan</td>
+		<td>Mdm Mak Mei Woon</td>
+  </tr>
+		<tr>
+		<td>Mdm Tjia Hwee King</td>
+		<td>Ms Chan Yoke Peng</td>
+		<td>Mdm Koh Bao Zhi</td>
+  </tr>
+		<tr>
+		<td>Ms Koh Shiew Ching</td>
+		<td>Mdm Koh Wee Lin</td>
+		<td>Mr Tai Yean Hwee</td>
+  </tr>
+		<tr>
+		<td>Ms Nyeo Mui Kia</td>
+		<td>Mr Yeo Wei Hao</td>
+		<td>Mdm Chen Yun</td>
+  </tr>
+	<tr>
+		<td>Mdm Lee Bee Hoon</td>
+		<td></td>
+		<td></td>
+	</tr>
+  <tr>
+     <td rowspan=2 style="font-weight: bold">Malay</td>
+		<td >Ms Hairani Bte Asri</td>
+		<td>Mdm Norsuhana Bte Sahmat</td>
+		<td>Mdm Norwati Bte Sulaiman</td>
+  </tr>
+	<tr>
+		<td>Mdm Mahirah Bte Mohd Thoimi</td>
+		<td></td>
+		<td></td>
+  </tr>
+	<tr>
+	  <td rowspan=2 style="font-weight: bold">Tamil</td>
+		<td >Mdm Shiamala d/o Ramyah</td>
+		<td>Mdm Bawvaney Sommasundaram</td>
+		<td>Ms Geetha do Sathiamurthi</td>
+  </tr>
+	<tr>
+		<td>Ms Sharmeela Begum d/o Jainlavudin</td>
+		<td>Mdm Malini Kumarasamy</td>
+		<td></td>
   </tr>
 </tbody>
 </table>
