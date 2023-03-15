@@ -17,32 +17,32 @@ third_nav_title: Our Staff
     <td>Co-Form Teachers</td>
   </tr>
   <tr>
-    <td>1 Self-Discipline</td>
+    <td style="font-weight: bold">1 Self-Discipline</td>
     <td>Ms Gan Hui Teng</td>
     <td>Ms Khng Su-Lyn Jacqueline</td>
   </tr>
   <tr>
-    <td>1 Teamwork</td>
+    <td style="font-weight: bold">1 Teamwork</td>
     <td>Mdm Chia Ling</td>
     <td>Ms Sharmeela Begum d/o Jainlavudin</td>
   </tr>
   <tr>
-    <td>1 Affection</td>
+    <td style="font-weight: bold">1 Affection</td>
     <td>Mdm Phoon Fei Foong Pearl</td>
     <td>Mdm Kelly Ng</td>
   </tr>
   <tr>
-    <td>1 Responsibility</td>
+    <td style="font-weight: bold">1 Responsibility</td>
     <td>Ms Susan Neo</td>
     <td>Mdm Khuan Jiayan</td>
   </tr>
   <tr>
-    <td>1 Joy</td>
+    <td style="font-weight: bold">1 Joy</td>
     <td>Mdm Tay Lai Hoon Michelle</td>
     <td>Mdm Koh Wee Lin</td>
   </tr>
   <tr>
-    <td>1 Innovation</td>
+    <td style="font-weight: bold">1 Innovation</td>
     <td>Mdm Erwina Bte Affandi</td>
     <td>Mrs Heng-Tan Siow Leng</td>
   </tr>
