@@ -93,3 +93,43 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 3</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td width=140>Class</td>
+    <td>Form Teachers</td>
+    <td>Co-Form Teachers</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">3 Self-Discipline</td>
+    <td>Ms Tan Jing Jie Joey</td>
+    <td>Mrs Lee Mei Chuen</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">3 Teamwork</td>
+    <td>Mdm Oh Ling Fang</td>
+    <td>Mdm Nurul Aqilah Bte Zainuddin</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">3 Affection</td>
+    <td>Ms Lim Ke Xin</td>
+    <td>Mr Quek Lye Huat Cyril</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">3 Responsibility</td>
+    <td>Mdm Kelly Wong Mei Fong</td>
+    <td>Mdm Julaiha Bte Mohd Jamil</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">3 Joy</td>
+    <td>Mr Cheng Guo Wei Derek</td>
+    <td>Mdm Malini Kumarasamy</td>
+  </tr>
+</tbody>
+</table>
