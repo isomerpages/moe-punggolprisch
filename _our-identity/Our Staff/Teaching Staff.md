@@ -342,3 +342,46 @@ third_nav_title: Our Staff
 	<tr></tr>
 </tbody>
 </table>
+
+<table width="100%">
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=4>PE, ART & MUSIC TEACHERS</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td>Subject</td>
+    <td colspan=4>Name of Teachers</td>
+  </tr>
+  <tr>
+    <td rowspan=3 style="font-weight: bold">PE</td>
+    <td>Mr Chan Chin San Alvin</td>
+		<td>Mrs Heng-Tan Siow Leng</td>
+		<td>Mr Kenneth Seah Wei Yuan</td>		
+	</tr>
+	<tr>
+		<td>Mr Cheng Guo Wei, Derek</td>
+		<td>Mr Tan Kia Hwee</td>
+		<td>Ms Lim Ke Xin</td>
+  </tr>
+		<tr>
+		<td>Mr Aylwin Tan</td>
+		<td></td>
+		<td></td>
+	</tr>
+  <tr>
+     <td rowspan=1 style="font-weight: bold">ART</td>
+		<td >Mdm Julaiha Bte Mohd Jamil</td>
+		<td>Mdm Erwina Affandi</td>
+		<td>Ms Naurah Insyirah Bte Muhamad Rafi</td>
+  </tr>
+	<tr>
+	  <td rowspan=1 style="font-weight: bold">MUSIC</td>
+		<td >Mdm Siti Aishah Bte Abdul Aziz</td>
+		<td>Ms Jacqueline Khng</td>
+		<td></td>
+  </tr>
+	<tr></tr>
+</tbody>
+</table>
