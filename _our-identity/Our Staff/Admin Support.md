@@ -4,7 +4,6 @@ permalink: /our-identity/Our-Staff/admin-support/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -42,7 +41,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-emg8">Security Officer </td>
-    <td class="tg-emg8">Mr Derek Lee<br>Mr Hirose Takayuki</td>
+    <td class="tg-emg8">Mr Derek Lee<br>Mr Gary Lai</td>
   </tr>
   <tr>
     <td class="tg-emg8">Contract Cleaners</td>
