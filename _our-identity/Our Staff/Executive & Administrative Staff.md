@@ -4,11 +4,6 @@ permalink: /our-identity/Our-Staff/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
-<img src="/images/Exec%20and%20Admin.png" 
-     style="width:60%">
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
