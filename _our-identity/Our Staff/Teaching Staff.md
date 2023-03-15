@@ -284,7 +284,7 @@ third_nav_title: Our Staff
 <tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
-    <td colspan=4>Name of Teachers</td>
+    <td colspan=4; style="text-align:center">Name of Teachers</td>
   </tr>
   <tr>
     <td rowspan=6 style="font-weight: bold">Chinese</td>
@@ -352,7 +352,7 @@ third_nav_title: Our Staff
 <tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td>Subject</td>
-    <td colspan=4>Name of Teachers</td>
+    <td colspan=4; style="text-align:center">Name of Teachers</td>
   </tr>
   <tr>
     <td rowspan=3 style="font-weight: bold">PE</td>
