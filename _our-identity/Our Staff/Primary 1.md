@@ -223,3 +223,48 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 6</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td width=140>Class</td>
+    <td>Form Teachers</td>
+    <td>Co-Form Teachers</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Self-Discipline</td>
+    <td>Mdm Tan Hui Koon Ivy</td>
+    <td>Mr Tai Yean Hwee</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Teamwork</td>
+    <td>Mdm Yeo Ailing Christine</td>
+    <td>Mdm Lao Ngee Ping Joan</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Affection</td>
+    <td>Ms Lim Gek Wah</td>
+    <td>Mdm Norsuhana Bte Sahmat</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Responsibility</td>
+    <td>Mdm Tan Ai Kiam</td>
+    <td>Ms Chan Yoke Peng</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Joy</td>
+    <td>Ms Renee Yuanna Sulaiman</td>
+    <td>Mdm Shiamala d/o Ramyah</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">6 Innovation</td>
+    <td>Mdm Subhaletchmi</td>
+    <td>Ms Afifah Bte Abdullah Yahya Aljaru</td>
+  </tr>
+</tbody>
+</table>
