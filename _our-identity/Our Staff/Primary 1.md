@@ -178,3 +178,48 @@ third_nav_title: Our Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 5</td>
+            </tr>
+         </thead>
+<tbody>
+  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+    <td width=140>Class</td>
+    <td>Form Teachers</td>
+    <td>Co-Form Teachers</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Self-Discipline</td>
+    <td>Mr Balasubramaniam s/o Raja</td>
+    <td>Mdm Norwati  Bte Sulaiman</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Teamwork</td>
+    <td>Mrs Padmini Prakash</td>
+    <td>Mr Yeo Wei Hao</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Affection</td>
+    <td>Mdm Madinah Bte Ghaus Marican</td>
+    <td>Mdm Siti Aishah Bte Abdul Aziz</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Responsibility</td>
+    <td>Mdm Koh Chee Ting</td>
+    <td>Mdm Li Yuan</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Joy</td>
+    <td>Mdm Heng Ee Hong Janet</td>
+    <td>Mdm Bawvaney Sommasundaram</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold">5 Innovation</td>
+    <td>Mdm Nurulhuda Bte Abdul Samat</td>
+    <td>Mr Tan Kia Hwee</td>
+  </tr>
+</tbody>
+</table>
