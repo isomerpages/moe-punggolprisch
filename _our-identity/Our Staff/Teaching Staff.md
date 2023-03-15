@@ -4,7 +4,7 @@ permalink: /our-identity/Our-Staff/Teaching-Staff/
 description: ""
 third_nav_title: Our Staff
 ---
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 1 TEACHERS</td>
@@ -46,10 +46,11 @@ third_nav_title: Our Staff
     <td>Mdm Erwina Bte Affandi</td>
     <td>Mrs Heng-Tan Siow Leng</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 2 TEACHERS</td>
@@ -91,10 +92,11 @@ third_nav_title: Our Staff
     <td>Mdm Chua Yen Ling Rachel</td>
     <td>Mdm Hairani Bte Asri</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 3 TEACHERS</td>
@@ -131,10 +133,11 @@ third_nav_title: Our Staff
     <td>Mr Cheng Guo Wei Derek</td>
     <td>Mdm Malini Kumarasamy</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 4 TEACHERS</td>
@@ -176,10 +179,11 @@ third_nav_title: Our Staff
     <td>Mdm Satvinder Kaur</td>
     <td>Ms Koh Shiew Ching</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 5 TEACHERS</td>
@@ -221,10 +225,11 @@ third_nav_title: Our Staff
     <td>Mdm Nurulhuda Bte Abdul Samat</td>
     <td>Mr Tan Kia Hwee</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=3>PRIMARY 6 TEACHERS</td>
@@ -266,10 +271,11 @@ third_nav_title: Our Staff
     <td>Mdm Subhaletchmi</td>
     <td>Ms Afifah Bte Abdullah Yahya Aljaru</td>
   </tr>
+		<tr></tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 	<thead>
             <tr>
                <td style="font-family:impact; font-size:25px" colspan=4>MOTHER TONGUE TEACHERS</td>
@@ -333,5 +339,6 @@ third_nav_title: Our Staff
 		<td>Mdm Malini Kumarasamy</td>
 		<td></td>
   </tr>
+	<tr></tr>
 </tbody>
 </table>
