@@ -11,7 +11,7 @@ third_nav_title: Our Staff
     <td style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">Name</td>
   </tr>
   <tr>
-		<td rowspan = 2 style="font-weight:bold">Administration Manager (AM)</td>
+		<td rowspan = 2 style="font-weight:bold" width="280">Administration Manager (AM)</td>
     <td>Mdm Gloria Lau</td>
   </tr>
   <tr>
