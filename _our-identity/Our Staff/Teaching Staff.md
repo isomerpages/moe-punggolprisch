@@ -350,7 +350,7 @@ third_nav_title: Our Staff
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
   <tr>
-    <td rowspan="6" style="font-weight: bold">Chinese</td>
+    <td rowspan="6" style="font-weight: bold">CHINESE</td>
     <td>Mdm Ng Siam Hong, June</td>
 		<td>Mdm Chang Sok Cheng</td>
 		<td>Mdm Khuan Jiayan</td>		
@@ -381,7 +381,7 @@ third_nav_title: Our Staff
 		<td></td>
 	</tr>
   <tr>
-     <td rowspan="2" style="font-weight: bold">Malay</td>
+     <td rowspan="2" style="font-weight: bold">MALAY</td>
 		<td>Ms Hairani Bte Asri</td>
 		<td>Mdm Norsuhana Bte Sahmat</td>
 		<td>Mdm Norwati Bte Sulaiman</td>
@@ -392,7 +392,7 @@ third_nav_title: Our Staff
 		<td></td>
   </tr>
 	<tr>
-	  <td rowspan="2" style="font-weight: bold">Tamil</td>
+	  <td rowspan="2" style="font-weight: bold">TAMIL</td>
 		<td>Mdm Shiamala d/o Ramyah</td>
 		<td>Mdm Bawvaney Sommasundaram</td>
 		<td>Ms Geetha do Sathiamurthi</td>
