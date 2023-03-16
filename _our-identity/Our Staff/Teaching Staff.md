@@ -26,7 +26,7 @@ third_nav_title: Our Staff
          </thead>
 	<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP"> Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -77,7 +77,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-			<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+			<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -129,7 +129,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -176,7 +176,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -228,7 +228,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -280,7 +280,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="3">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -332,7 +332,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="4">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="4">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
@@ -406,7 +406,7 @@ third_nav_title: Our Staff
          </thead>
 		<tfoot>
             <tr>
-							<td style="font-size:13px; text-align:right" colspan="4">↑<a href="#TOP">Back to Top</a></td>
+							<td style="font-size:13px; text-align:right" colspan="4">↑&nbsp;&nbsp;<a href="#TOP">Back to Top</a></td>
             </tr>
          </tfoot>
 <tbody>
