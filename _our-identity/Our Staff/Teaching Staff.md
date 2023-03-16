@@ -4,12 +4,31 @@ permalink: /our-identity/Our-Staff/Teaching-Staff/
 description: ""
 third_nav_title: Our Staff
 ---
+<table style="background-color:lightyellow">
+	<tbody>
+		<tr id="TOP">
+			<td style="border: solid 2px #777; padding:5px">⇩&nbsp;&nbsp;<a href="#P1FT">Primary  1 Form Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P2FT">Primary  2 Form Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P3FT">Primary 3 Form Teachers</a></td>
+		</tr>
+		<tr>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P4FT">Primary 4 Form Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P5FT">Primary 5 Form Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P6FT">Primary 6 Form Teachers</a></td>
+		</tr>
+	</tbody>
+	</table>
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 1 TEACHERS</td>
+               <td id="P1FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 1 TEACHERS</td>
             </tr>
          </thead>
+	<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP"> Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
@@ -53,10 +72,16 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 2 TEACHERS</td>
+               <td id="P2FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 2 TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+			<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -99,10 +124,16 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 3 TEACHERS</td>
+               <td id="P3FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 3 TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -140,10 +171,16 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 4 TEACHERS</td>
+               <td id="P4FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 4 TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -186,10 +223,16 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 5 TEACHERS</td>
+               <td id="P5FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 5 TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -232,10 +275,16 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="3" style="font-family:impact; font-size:25px">PRIMARY 6 TEACHERS</td>
+               <td id="P6FT" style="font-family:impact; font-size:25px" colspan="3">PRIMARY 6 TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="3">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -278,16 +327,22 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="4" style="font-family:impact; font-size:25px">MOTHER TONGUE TEACHERS</td>
+               <td id="MTL" style="font-family:impact; font-size:25px" colspan="4">MOTHER TONGUE TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="4">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
-    <td style="text-align:center" colspan="4;">Name of Teachers</td>
+    <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
   <tr>
-    <td style="font-weight: bold" rowspan="6">Chinese</td>
+    <td rowspan="6" style="font-weight: bold">Chinese</td>
     <td>Mdm Ng Siam Hong, June</td>
 		<td>Mdm Chang Sok Cheng</td>
 		<td>Mdm Khuan Jiayan</td>		
@@ -318,7 +373,7 @@ third_nav_title: Our Staff
 		<td></td>
 	</tr>
   <tr>
-     <td style="font-weight: bold" rowspan="2">Malay</td>
+     <td rowspan="2" style="font-weight: bold">Malay</td>
 		<td>Ms Hairani Bte Asri</td>
 		<td>Mdm Norsuhana Bte Sahmat</td>
 		<td>Mdm Norwati Bte Sulaiman</td>
@@ -329,7 +384,7 @@ third_nav_title: Our Staff
 		<td></td>
   </tr>
 	<tr>
-	  <td style="font-weight: bold" rowspan="2">Tamil</td>
+	  <td rowspan="2" style="font-weight: bold">Tamil</td>
 		<td>Mdm Shiamala d/o Ramyah</td>
 		<td>Mdm Bawvaney Sommasundaram</td>
 		<td>Ms Geetha do Sathiamurthi</td>
@@ -346,16 +401,22 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td colspan="4" style="font-family:impact; font-size:25px">PE, ART &amp; MUSIC TEACHERS</td>
+               <td id="PAM" style="font-family:impact; font-size:25px" colspan="4">PE, ART &amp; MUSIC TEACHERS</td>
             </tr>
          </thead>
+		<tfoot>
+            <tr>
+							<td style="font-size:13px; text-align:right" colspan="4">↑<a href="#TOP">Back to Top</a></td>
+            </tr>
+         </tfoot>
 <tbody>
+</tbody><tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
     <td>Subject</td>
-    <td style="text-align:center" colspan="4;">Name of Teachers</td>
+    <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
   <tr>
-    <td style="font-weight: bold" rowspan="3">PE</td>
+    <td rowspan="3" style="font-weight: bold">PE</td>
     <td>Mr Chan Chin San Alvin</td>
 		<td>Mrs Heng-Tan Siow Leng</td>
 		<td>Mr Kenneth Seah Wei Yuan</td>		
@@ -371,13 +432,13 @@ third_nav_title: Our Staff
 		<td></td>
 	</tr>
   <tr>
-     <td style="font-weight: bold" rowspan="1">ART</td>
+     <td rowspan="1" style="font-weight: bold">ART</td>
 		<td>Mdm Julaiha Bte Mohd Jamil</td>
 		<td>Mdm Erwina Affandi</td>
 		<td>Ms Naurah Insyirah Bte Muhamad Rafi</td>
   </tr>
 	<tr>
-	  <td style="font-weight: bold" rowspan="1">MUSIC</td>
+	  <td rowspan="1" style="font-weight: bold">MUSIC</td>
 		<td>Mdm Siti Aishah Bte Abdul Aziz</td>
 		<td>Ms Jacqueline Khng</td>
 		<td></td>
