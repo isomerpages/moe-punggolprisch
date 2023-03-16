@@ -6,6 +6,11 @@ third_nav_title: Our Staff
 ---
 <table >
 <tbody >
+		<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan="2">EXECUTIVE & ADMINISTRATIVE STAFF</td>
+            </tr>
+         </thead>
   <tr>
 		<td style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">Designation</td>
     <td style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">Name</td>
@@ -57,10 +62,14 @@ third_nav_title: Our Staff
 </table>
 
 <table width="100%">
-	
+	<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan="2">SUPPORT STAFF</td>
+            </tr>
+         </thead>
 <tbody>
   <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
-    <td width="180">Designation</td>
+    <td width="280">Designation</td>
     <td>Name</td>
   </tr>
 		<tr>
