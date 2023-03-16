@@ -3,12 +3,6 @@ title: Principal's Message
 permalink: /our-identity/principals-message/
 description: ""
 ---
-
-<img src="/images/Ps%20Msg.png" 
-     style="width:45%">
-
-
-
 ##### Greetings from Punggol Primary School and a warm welcome to our school website!
 
 
