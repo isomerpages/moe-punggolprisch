@@ -58,5 +58,9 @@ third_nav_title: Our Staff
     <td>Mdm Kalarainee d/o Rajalingam</td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
+	<tr>
+    <td></td>
+    <td colspan=3></td>
+  </tr>
 </tbody>
 </table>
