@@ -4,20 +4,28 @@ permalink: /our-identity/Our-Staff/Teaching-Staff/
 description: ""
 third_nav_title: Our Staff
 ---
-<table style="background-color:lightyellow">
-	<tbody>
-		<tr id="TOP">
-			<td style="border: solid 2px #777; padding:5px">⇩&nbsp;&nbsp;<a href="#P1FT">Primary  1 Form Teachers</a></td>
+<table style="background-color:white">  
+	<tbody> 
+		<tr id="TOP" style="font-weight: bold; font-size:20px"> 
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P1FT">Primary 1 Form Teachers</a></td>
 			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P2FT">Primary  2 Form Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P3FT">Primary 3 Form Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P3FT">Primary 3 Form Teachers</a></td> 
 		</tr>
-		<tr>
+		<tr style="font-weight: bold; font-size:20px">
 			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P4FT">Primary 4 Form Teachers</a></td>
 			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P5FT">Primary 5 Form Teachers</a></td>
 			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P6FT">Primary 6 Form Teachers</a></td>
 		</tr>
+		<tr style="font-weight: bold; font-size:20px">
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#MTL">Mother Tongue Teachers</a></td>
+			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#PAM">PE, Art & Music Teachers</a></td>		
+			<td style="border: solid 0px #777"></td>		
+		</tr>
 	</tbody>
 	</table>
+	<p></p>
+	<p></p>
+	
 <table width="100%">
 	<thead>
             <tr>
