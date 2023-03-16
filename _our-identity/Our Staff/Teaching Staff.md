@@ -28,7 +28,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td style="font-weight: bold">1 Affection</td>
-    <td>Mdm Phoon Fei Foong Pearl</td>
+    <td>Mdm Phoon Fei Foong, Pearl</td>
     <td>Mdm Kelly Ng</td>
   </tr>
   <tr>
