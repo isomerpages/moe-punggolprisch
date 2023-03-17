@@ -7,19 +7,19 @@ third_nav_title: Our Staff
 <table style="background-color:rgba(94,94,207,0.1)">  
 	<tbody style="color:grey; font-size:20px; text-align:center"> 
 		<tr id="TOP" > 
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#P1FT" style="font-family:Impact; font-weight:normal">Primary 1 Form Teachers</a></td>
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#P2FT" style="font-family:Impact; font-weight:normal">Primary  2 Form Teachers</a></td>
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#P3FT" style="font-family:Impact; font-weight:normal">Primary 3 Form Teachers</a></td> 
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P1FT" style="font-family:Impact; font-weight:normal">Primary 1 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P2FT" style="font-family:Impact; font-weight:normal">Primary  2 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P3FT" style="font-family:Impact; font-weight:normal">Primary 3 Form Teachers</a></td> 
 		</tr>
 		<tr>
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#P4FT" style="font-family:Impact; font-weight:normal">Primary 4 Form Teachers</a></td>
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#P5FT" style="font-family:Impact; font-weight:normal">Primary 5 Form Teachers</a></td>
-			<td style="border:solid 5px white; padding:5px">⇩&nbsp;<a href="#P6FT" style="font-family:Impact; font-weight:normal">Primary 6 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P4FT" style="font-family:Impact; font-weight:normal">Primary 4 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P5FT" style="font-family:Impact; font-weight:normal">Primary 5 Form Teachers</a></td>
+			<td style="border:solid 5px white; padding:10px">⇩&nbsp;<a href="#P6FT" style="font-family:Impact; font-weight:normal">Primary 6 Form Teachers</a></td>
 		</tr>
 		<tr>
-			<td style="border:solid 5px white; padding:5px">⇩&nbsp;<a href="#MTL" style="font-family:Impact; font-weight:normal">Mother Tongue Teachers</a></td>
-			<td style="border: solid 5px white; padding:5px">⇩&nbsp;<a href="#PAM" style="font-family:Impact; font-weight:normal">PE, Art & Music Teachers</a></td>		
-			<td style="border: solid 5px white; padding:5px"></td>		
+			<td style="border:solid 5px white; padding:10px">⇩&nbsp;<a href="#MTL" style="font-family:Impact; font-weight:normal">Mother Tongue Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#PAM" style="font-family:Impact; font-weight:normal">PE, Art & Music Teachers</a></td>		
+			<td style="border: solid 5px white; padding:10px"></td>		
 		</tr>
 	</tbody>
 	</table>
