@@ -4,10 +4,7 @@ permalink: /our-curriculum/Aesthetics/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-<img src="/images/Aesthetics.png" 
-     style="width:25%">
-
-**AESTHETICS ASPIRATIONS**
+<h4>AESTHETICS ASPIRATIONS</h4>
 
 **<u>AL!VE @ PPS through B.E.S.T Framework</u>**
 
