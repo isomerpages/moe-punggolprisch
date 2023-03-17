@@ -57,7 +57,7 @@ third_nav_title: Our Staff
   <tr>
     <td>Mdm Kalarainee d/o Rajalingam</td>
   </tr>
-	<tr></tr>
+	<tr><td></td></tr>
 </tbody>
 </table>
 
@@ -109,6 +109,6 @@ third_nav_title: Our Staff
     <td style="font-weight:bold">Contract Cleaners</td>
     <td>(9)</td>
   </tr>
-		<tr></tr>
+		<tr><td></td></tr>
 </tbody>
 </table>
