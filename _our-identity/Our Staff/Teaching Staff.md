@@ -4,27 +4,26 @@ permalink: /our-identity/Our-Staff/Teaching-Staff/
 description: ""
 third_nav_title: Our Staff
 ---
-<table style="background-color:lightyellow">  
-	<tbody> 
-		<tr id="TOP" style="font-weight: bold; font-size:16px"> 
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P1FT">Primary 1 Form Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P2FT">Primary  2 Form Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P3FT">Primary 3 Form Teachers</a></td> 
+<table style="background-color:rgba(94,94,207,0.1)">  
+	<tbody style="color:grey; font-size:20px"> 
+		<tr id="TOP" > 
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P1FT" style="font-family:Impact; font-weight:normal">Primary 1 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P2FT" style="font-family:Impact; font-weight:normal">Primary  2 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P3FT" style="font-family:Impact; font-weight:normal">Primary 3 Form Teachers</a></td> 
 		</tr>
-		<tr style="font-weight: bold; font-size:16px">
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P4FT">Primary 4 Form Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P5FT">Primary 5 Form Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#P6FT">Primary 6 Form Teachers</a></td>
+		<tr>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P4FT" style="font-family:Impact; font-weight:normal">Primary 4 Form Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P5FT" style="font-family:Impact; font-weight:normal">Primary 5 Form Teachers</a></td>
+			<td style="border:solid 5px white; padding:10px">⇩&nbsp;<a href="#P6FT" style="font-family:Impact; font-weight:normal">Primary 6 Form Teachers</a></td>
 		</tr>
-		<tr style="font-weight: bold; font-size:16px">
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#MTL">Mother Tongue Teachers</a></td>
-			<td style="border: solid 0px #777">⇩&nbsp;&nbsp;<a href="#PAM">PE, Art & Music Teachers</a></td>		
-			<td style="border: solid 0px #777"></td>		
+		<tr>
+			<td style="border:solid 5px white; padding:10px">⇩&nbsp;<a href="#MTL" style="font-family:Impact; font-weight:normal">Mother Tongue Teachers</a></td>
+			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#PAM" style="font-family:Impact; font-weight:normal">PE, Art & Music Teachers</a></td>		
+			<td style="border: solid 5px white; padding:10px; background-color:white"></td>		
 		</tr>
 	</tbody>
 	</table>
-	<p></p>
-	<p></p>
+	
 	
 <table width="100%">
 	<thead>
@@ -38,7 +37,7 @@ third_nav_title: Our Staff
             </tr>
          </tfoot>
 <tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -90,7 +89,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -142,7 +141,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -189,7 +188,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -241,7 +240,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -293,7 +292,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -345,7 +344,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
@@ -419,7 +418,7 @@ third_nav_title: Our Staff
          </tfoot>
 <tbody>
 </tbody><tbody>
-  <tr style="background-color:rgb(68,114, 196); font-weight: bold; font-size:18px; color:white">
+  <tr style="background-color:rgb(94,94,207); font-weight: bold; font-size:18px; color:white">
     <td>Subject</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
