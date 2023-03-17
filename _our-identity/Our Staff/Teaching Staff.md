@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 <table style="background-color:rgba(94,94,207,0.1)">  
-	<tbody style="color:grey; font-size:20px"> 
+	<tbody style="color:grey; font-size:20px; text-align:center"> 
 		<tr id="TOP" > 
 			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P1FT" style="font-family:Impact; font-weight:normal">Primary 1 Form Teachers</a></td>
 			<td style="border: solid 5px white; padding:10px">⇩&nbsp;<a href="#P2FT" style="font-family:Impact; font-weight:normal">Primary  2 Form Teachers</a></td>
