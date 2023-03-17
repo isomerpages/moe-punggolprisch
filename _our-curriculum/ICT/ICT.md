@@ -47,11 +47,11 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 <table>
 	<thead>
 		<tr style="font-weight:bold; font-size:25px">
-			<th>Baseline ICT Standards</th>
+			<th colspan=2>Baseline ICT Standards</th>
 		</tr>
 	</thead>
-	<tr style="background-color:rgb(94,94,207); color:white">
-		<td>Level</td>
+	<tr style="background-color:rgb(94,94,207); color:white; font-weight:bold">
+		<td width=100>Level</td>
 		<td>Skillset</td>
 	</tr>
 	<tr>
