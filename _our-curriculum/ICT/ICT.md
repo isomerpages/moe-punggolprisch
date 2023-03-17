@@ -4,16 +4,17 @@ permalink: /our-curriculum/ICT/ict/
 description: ""
 third_nav_title: ICT
 ---
-#### Vision
-* To nurture students who are future-ready digital learners
-*  To develop teachers who are designers and facilitators of meaningful tech-mediated learning experiences
-
-#### Mission
+<h4>Vision</h4>
+<ul style="font-size:18px">
+	<li>To nurture students who are future-ready digital learners</li>
+	<li>To develop teachers who are designers and facilitators of meaningful tech-mediated learning experiences</li>
+</ul>
+<h4>Mission</h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
@@ -41,30 +42,53 @@ The **Baseline ICT Standards** define the basic level of knowledge, skills and v
 
 In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digital Literacy lessons. Our students are taught how to apply digital tools to locate, collect and sort information for present and future use in a principled manner (Curate). They also use digital creation tools to craft, modify and combine different modes of information for personal or group expression (Create). Finally, they learn how to use digital communication tools to participate in the exchange and synthesis of information or ideas online (Connect). Cyber Wellness values are also part and parcel of these lessons.
 
-<img style="width:65%" src="/images/ict1.jpeg">
+<img style="width:100%" src="/images/ict1.jpeg">
 
-##### Baseline ICT Standards
-| Level        |  Skillset | 
-| --------    | -------- | 
-| Primary 1 | Basic Computer Operations, MS Word, SLS, Moo-O | 
-| Primary 2 | Touch Typing, Moo-O, SLS, MS PowerPoint, Google Doc | 
-| Primary 3 | SLS, Google Slides, Padlet, Google Classroom |
-| Primary 4 | Google Classroom, Flipgrid, SLS, Scribo |
-| Primary 5 | Code for Fun, Scratch |
-| Primary 6 | Google Site, Video Creation |
+<table>
+	<thead>
+		<tr style="font-weight:bold; font-size:25px">
+			<th>Baseline ICT Standards</th>
+		</tr>
+	</thead>
+	<tr style="background-color:rgb(94,94,207); color:white">
+		<td>Level</td>
+		<td>Skillset</td>
+	</tr>
+	<tr>
+	<td>Primary 1</td>
+	<td>Basic Computer Operations, MS Word, SLS, Moo-O</td>
+	</tr>
+	<tr>
+	<td>Primary 2</td>
+	<td>Touch Typing, Moo-O, SLS, MS PowerPoint, Google Doc</td>
+	</tr>
+	<tr>
+	<td>Primary 3</td>
+	<td>SLS, Google Slides, Padlet, Google Classroom</td>
+	</tr>
+	<tr>
+	<td>Primary 4</td>
+	<td>Google Classroom, Flipgrid, SLS, Scribo</td>
+	</tr>
+	<tr>
+	<td>Primary 5</td>
+	<td>Code for Fun, Scratch</td>
+	</tr>
+	<tr>
+	<td>Primary 6</td>
+	<td>Google Site, Video Creation</td>
+	</tr>
+</table>
 
 ##### ICT-Enhanced lessons
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQshYRVLVzwla4AHB3bkeYwJo00npeEypOLav9m9wjq1HlFhZXS4s3JgmTBus8zPS8iQvBWE4nu3xK8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
 ##### Primary 5 Code for Fun lessons
-<img src="/images/Photo%206.jpeg" 
-     style="width:65%">
+<img src="/images/Photo%206.jpeg" style="width:100%">
 
 
 ##### Micro:bit coding lessons
-<img src="/images/Photo%207.jpeg" 
-     style="width:65%">
+<img src="/images/Photo%207.jpeg" style="width:100%">
 
-<img src="/images/Photo%208.jpeg" 
-     style="width:65%">
+<img src="/images/Photo%208.jpeg" style="width:100%">
