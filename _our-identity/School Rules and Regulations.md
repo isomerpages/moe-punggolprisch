@@ -4,9 +4,9 @@ permalink: /our-identity/school-rules-and-regulations/
 description: ""
 ---
 <p style="font-size:18px">All students are school ambassadors who play pivotal roles in upholding the tradition of excellence and display S.T.A.R. values in all areas of their school life.</p>
-<table>
+<table style="font-size:16px; ">
 <tbody>
-		<tr style="border: none">
+		<tr style="border: none;">
 	<td rowspan="2" style="font-weight:bold; background-color:lightyellow">(1)</td>
 	<td rowspan="2" style="font-weight:bold; background-color:lightyellow" width=10> ASSEMBLY PROCEDURE</td>
 	<td style="font-weight:bold; text-align:justify; color:darkblue; border:none">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
