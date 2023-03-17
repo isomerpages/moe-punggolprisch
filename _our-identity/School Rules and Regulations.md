@@ -8,7 +8,7 @@ description: ""
 <tbody>
 		<tr style="border: none">
 	<td rowspan="2" style="font-weight:bold; background-color:lightyellow">(1)</td>
-	<td rowspan="2" style="font-weight:bold; background-color:lightyellow"> ASSEMBLY PROCEDURE</td>
+	<td rowspan="2" style="font-weight:bold; background-color:lightyellow" width=10> ASSEMBLY PROCEDURE</td>
 	<td style="font-weight:bold; text-align:justify; color:darkblue; border:none">Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
 		</td>
 	</tr>
@@ -18,7 +18,7 @@ description: ""
 	<tr>
 	<td rowspan="2" style="font-weight:bold; background-color:lightyellow">(2)</td>
 	<td rowspan="2" style="font-weight:bold; background-color:lightyellow"> GENERAL APPEARANCE AND SCHOOL ATTIRE</td>
-	<td style="font-weight:bold; text-align:justify; color:darkblue; border:none">Students are to wear the prescribed school uniform.<br>Any modification to the uniform is not allowed. Refer to Information on School Uniform on Page 18 &amp; 19 of the student handbook.</td>
+	<td style="font-weight:bold; text-align:justify; color:darkblue; border:none">Students are to wear the prescribed school uniform.<br>Any modification to the uniform is not allowed. <div style="color:black; font-weight:normal">Refer to Information on School Uniform on Page 18 &amp; 19 of the student handbook.</div></td>
 	</tr>
 	<tr>
 	<td style="text-align:justify">Students are to be properly and nearly attired at all times.</td>
