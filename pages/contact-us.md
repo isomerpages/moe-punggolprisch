@@ -20,4 +20,10 @@ contacts:
       - email: punggol_ps@moe.edu.sg
       - other: "Fax: \t(65) 6387 7793"
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.facebook.com/punggolprisch?mibextid=LQQJ4d
+          https://www.instagram.com/punggolprisch
+    title: Follow Us
 ---
