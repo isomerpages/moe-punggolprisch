@@ -3,14 +3,34 @@ title: Pupils
 permalink: /useful-links/pupils/
 description: ""
 ---
-*   [Scholastic Literacy Pro Library](https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K)
-*   [Koobits](https://member.koobits.com/)
-*   [MindClickonline](http://www.mindclickonline.com/)
-*   [Moo-O Plus](https://plus.moo-o.com/)
+<table>
+<thead>
+	<tr>Useful Apps</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Literacy Pro Library</a></td>
+			<td><a href="https://member.koobits.com/" target="_blank">Koobits</a></td>
+			<td><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></td>
+			<td><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></td>
+			<td><a href="https://www.literatu.com" target="_blank">Scribo</a></td>
+		</tr>
+				<tr>
+					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
+					<td><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>&#128216;[Installation Guide](/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)</td>	
+					<td><a href="/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)" target="_blank">guide</a>
+				</tr>				
+	</tbody>
+	</table>
+
+
+
+
 *   [Moo-O Installation Guide for Students](/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)
-*   [早报校园（大拇指　小拇指）](https://zbschools.sg/)
-*   [Scribo](https://www.literatu.com/#/)
-*   [P.P.S. O.P.A.C. Library](https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
+
 
 
     
@@ -41,4 +61,3 @@ Student Zoom Account
 [2\. Accessing Zoom through the Desktop App.pdf](/files/2%20Accessing%20Zoom%20through%20the%20Desktop%20App.pdf)    
 [3\. Accessing Zoom through the Mobile or Tablet App.pdf](/files/3%20Accessing%20Zoom%20through%20the%20Mobile%20or%20Tablet%20App.pdf)    
 [4\. Annex Troubleshooting Instructions.pdf](/files/4%20Annex%20Troubleshooting%20Instructions.pdf)
-   
