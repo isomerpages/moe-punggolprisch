@@ -7,7 +7,7 @@ description: ""
 <!--Header #1-------------------------------------------------------------------------------->
 <thead>
 	<tr>
-		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">A - D</td>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">A ... D</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">E - H</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">I - L</td>
 	</tr>
