@@ -5,7 +5,7 @@ description: ""
 ---
 <table >
 <thead>
-	<tr style="height:50px">
+	<tr>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">A - D</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">E - H</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">I - L</td>
@@ -28,6 +28,7 @@ description: ""
 			<li><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target = "_blank">Logistics Support for Event/Function</a></li>
 		</ul>
 		</td>
+</tr>
 <thead>
 	<tr>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">M - P</td>
