@@ -36,7 +36,8 @@ description: ""
 	</tr>
 </thead>
 <tbody>
-	<tr><td><ul style="list-style-type:square">
+	<tr>
+		<td><ul style="list-style-type:square">
 			<li><a href = "https://idp.mims.moe.gov.sg" target = "_blank">MIMS Portal</a></li>
 			<li><a href = "https://intranet.moe.gov.sg/Pages/Home.aspx" target = "_blank">MOE Intranet</a></li>
 			<li><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_blank">OPAL</a></li>
@@ -53,20 +54,12 @@ description: ""
 				<li><a href = "https://go.gov.sg/stpwiki" target = "_blank">Singapore Teaching Practise </a></li>
 				<li><a href = "https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D7f9f409da91aa05df58fd89c3edf38c3bf11cb5d3e1f9796a244538d0736f468" target = "_blank">SkillFuture for Educators</a></li>
 				<li><a href = "https://ssoe2.moe.edu.sg/" target = "_blank">SSOE2 Service Portal</a></li>
-				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li> 
-			</ul>
-		</td>
+				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li></ul></td>
 		<td>-</td>
-	</tr>
-	</tbody>
-<thead>
-	<tr>
+	</tr></tbody>
+<thead><tr>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">Y - Z</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">0 - 9</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">Others</td>
-	</tr>
-</thead>
-<tbody>
-	<tr><td>-</td><td>-</td><td>-</td></tr>
-	</tbody>
-</table>
+	</tr></thead>
+<tbody><tr><td>-</td><td>-</td><td>-</td></tr></tbody></table>
