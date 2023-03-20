@@ -3,4 +3,4 @@ title: PPS Student Outcomes
 permalink: /our-identity/pps-student-outcomes/
 description: ""
 ---
-![](/images/PPS%20Student%20Outcomes.jpeg)
+![PPS Student Outcomes](/images/PPS%20Student%20Outcomes.jpeg)
