@@ -11,10 +11,10 @@ description: ""
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">I - L</td>
 	</tr>
 </thead>
+	
 <tbody>
 	<td>-</td>
-		<td>
-			<ul style="list-style-type:square">
+	<td><ul style="list-style-type:square">
 				<li><a href = "https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target = "_blank">Educational Leadership and School Excellence</a></li>
 				<li><a href = "https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target = "_blank">English Language Syllabus Primary</a></li>
 				<li><a href = "https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target = "_blank">Event / Activities During School Term or Holidays</a></li>
