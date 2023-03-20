@@ -3,10 +3,6 @@ title: Welcome to PSG
 permalink: /parent-support-group/welcome-to-psg/
 description: ""
 ---
-<img src="/images/psg.jpeg" 
-     style="width:65%">
-
-
 Dear Fellow PPS Parents,  
 
  Welcome to Punggol Primary School’s Parent Support Group website!  
