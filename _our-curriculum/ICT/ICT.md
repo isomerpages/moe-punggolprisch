@@ -42,7 +42,7 @@ The **Baseline ICT Standards** define the basic level of knowledge, skills and v
 
 In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digital Literacy lessons. Our students are taught how to apply digital tools to locate, collect and sort information for present and future use in a principled manner (Curate). They also use digital creation tools to craft, modify and combine different modes of information for personal or group expression (Create). Finally, they learn how to use digital communication tools to participate in the exchange and synthesis of information or ideas online (Connect). Cyber Wellness values are also part and parcel of these lessons.
 
-<img style="width:100%" src="/images/ict1.jpeg">
+<img style="width:100%" src="/images/ICT/ict1.jpeg">
 
 <table>
 	<thead>
@@ -85,10 +85,10 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 
 
 ##### Primary 5 Code for Fun lessons
-<img src="/images/Photo%206.jpeg" style="width:100%">
+<img src="/images/ICT/Photo%206.jpeg" style="width:100%">
 
 
 ##### Micro:bit coding lessons
-<img src="/images/Photo%207.jpeg" style="width:100%">
+<img src="/images/ICT/Photo%207.jpeg" style="width:100%">
 
-<img src="/images/Photo%208.jpeg" style="width:100%">
+<img src="/images/ICT/Photo%208.jpeg" style="width:100%">
