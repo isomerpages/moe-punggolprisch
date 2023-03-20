@@ -4,25 +4,63 @@ permalink: /useful-links/staff/
 description: ""
 ---
 <table>
+<thead>
+	<tr><td width=150>A - D</td><td width=150>E - H</td><td width=150>I - L</td></tr>
+</thead>
+<tbody>
+	<td></td>
+		<td>
+			<ul style="list-style-type:square">
+				<li><a href = "https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target = "_blank">Event / Activities During School Term or Holidays</a></li>
+			<li><a href = "https://www.hrp.gov.sg/hrp/#/" target = "_blank">HR &amp; Payroll Portal</li></ul>
+				</td>
+	<td><a href = "https://iexams.seab.gov.sg/sso/login" target = "_blank">iEXAMS</a></td>
+<thead>
+	<tr><td >M - P</td><td>Q - T</td><td width=180>U - X</td></tr>
+</thead>
+<tbody>
+	<tr>
+	<td>
+		<ul style="list-style-type:square">
+			<li><a href = "https://intranet.moe.gov.sg/Pages/Home.aspx" target = "_blank">MOE Intranet</a></li>
+			<li><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_blank">OPAL</a></li>
+		<li><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></li></ul>
+		</td>
+		<td>
+			<ul style="list-style-type:square; line-height:3">
+				<li><a href = "https://rbs.avero-tech.com/" target = "_blank">Resource Booking Service (RBS)</a></li>
+				<li><a href = "https://scmobile.moe.edu.sg/home" target = "_blank">SC Mobile</a></li>
+				<li><a href = "https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target = "_blank">Scholastic Learning Zone</a></li>
+				<li><a href = "https://schoolcockpit.moe.gov.sg/" target = "_blank">School Cockpit</a></li>
+				<li><a href = "https://ssoe2.moe.edu.sg/" target = "_blank">SSOE2 Service Portal</a></li>
+				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li> 
+			</ul>
+		</td>
+	</tr>
+</tbody>	
+</table>
+
+<table>	
+<thead>
+	<tr><td>Y - Z</td><td>0 - 9</td></tr>
+</thead>
+
+</table>
+
+<table>	
 	</tbody>
-  <tr>
-    <td><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></td>
-    <td><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></td>
-    <td><a href = "https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target = "_blank">Scholastic Learning Zone</a></td>
-	  </tr>
 	<tr>
-    <td><a href = "https://iexams.seab.gov.sg/sso/login" target = "_blank">iEXAMS</a></td>
-    <td><a href = "https://intranet.moe.gov.sg/Pages/Home.aspx" target = "_blank">MOE Intranet</a></td>
-    <td><a href = "https://www.hrp.gov.sg/hrp/#/" target = "_blank">HR &amp; Payroll Portal</td>
+    
+   
 	</tr>
 	<tr>
-    <td><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_blank">OPAL</a></td>
-     <td><a href = "https://schoolcockpit.moe.gov.sg/" target = "_blank">School Cockpit</a></td>
-		<td><a href = "https://ssoe2.moe.edu.sg/" target = "_blank">SSOE2 Service Portal</a></td>
+    <td></td>
+     <td></td>
+		<td></td>
 	</tr>
 	<tr>
-    <td><a href = "https://scmobile.moe.edu.sg/home" target = "_blank">SC Mobile</a></td>
-     <td><a href = "https://rbs.avero-tech.com/" target = "_blank">Resource Booking Service (RBS)</a></td>
+    <td></td>
+     <td></td>
     <td><a href = "https://punggolpri.padlet.org/auth/login" target = "_blank">Padlet</a></td>
 	</tr>
 	<tr>
@@ -32,7 +70,7 @@ description: ""
 			</tr>
 			<tr>
     <td><a href = "https://member.koobits.com/" target = "_blank">Koobitz</a></td>
-    <td><a href = "https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target = "_blank">Event / Activities During School Term or Holidays</a></td>
+    
     <td><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target = "_blank">Request for Repair/Maintenance Work</a></td>
     <td><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target = "_blank">Logistics Support for Event/Function</a></td>
   </tr>
