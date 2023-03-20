@@ -12,7 +12,7 @@ description: ""
 	</tr>
 </thead>
 <tbody>
-	<td></td>
+	<td>-</td>
 		<td>
 			<ul style="list-style-type:square">
 				<li><a href = "https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target = "_blank">Educational Leadership and School Excellence</a></li>
@@ -62,7 +62,7 @@ description: ""
 				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li> 
 			</ul>
 		</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	</tbody>
 <thead>
@@ -73,6 +73,6 @@ description: ""
 	</tr>
 </thead>
 <tbody>
-	<tr><td></td><td></td><td></td></tr>
+	<tr><td>-</td><td>-</td><td>-</td></tr>
 	</tbody>
 </table>
