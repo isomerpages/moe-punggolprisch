@@ -38,19 +38,15 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-	<td>
-		<ul style="list-style-type:square">
+	<td><ul style="list-style-type:square">
 			<li><a href = "https://idp.mims.moe.gov.sg/nidp/saml2/sso" target = "_blank">MIMS Portal</a></li>
 			<li><a href = "https://intranet.moe.gov.sg/Pages/Home.aspx" target = "_blank">MOE Intranet</a></li>
 			<li><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_blank">OPAL</a></li>
 			<li><a href = "http://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa%2f%23authRedirect%3dtrue" target = "_blank">Outlook Webmail (within school / VPN)</a></li>
 			<li><a href = "https://punggolpri.padlet.org/auth/login" target = "_blank">Padlet</a></li>
 			<li><a href = "https://pg.moe.edu.sg/" target = "_blank">Parents Gateway</a></li>
-				<li><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></li>
-				</ul>
-		</td>
-		<td>
-			<ul style="list-style-type:square; line-height:3">
+				<li><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></li></ul></td>
+		<td><ul style="list-style-type:square; line-height:3">
 				<li><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target = "_blank">Request for Repair/Maintenance Work</a></li>
 				<li><a href = "https://rbs.avero-tech.com/" target = "_blank">Resource Booking Service (RBS)</a></li>
 				<li><a href = "https://scmobile.moe.edu.sg/home" target = "_blank">SC Mobile</a></li>
