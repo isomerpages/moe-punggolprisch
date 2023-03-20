@@ -4,7 +4,7 @@ permalink: /useful-links/staff/
 description: ""
 ---
 <table >
-<!--Header #1-------------------------------------------------------------------------------->
+<!--Header #1----------------------------------------------------------------------------->
 <thead>
 	<tr>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">A - D</td>
@@ -33,7 +33,7 @@ description: ""
 		</td>
 	</tr>
 	</tbody>
-<!--Header #2-------------------------------------------------------------------------------->
+<!--Header #2----------------------------------------------------------------------------->
 <thead>
 	<tr>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">M - P</td>
@@ -50,7 +50,8 @@ description: ""
 			<li><a href = "http://schools.gov.sg/owa/auth/logon.aspx" target = "_blank">Outlook Webmail (within school / VPN)</a></li>
 		<li><a href = "https://punggolpri.padlet.org/auth/login" target = "_blank">Padlet</a></li>
 		<li><a href = "https://pg.moe.edu.sg/" target = "_blank">Parents Gateway</a></li>
-		<li><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></li></ul></td>
+		<li><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target = "_blank">PS Card Replacement</a></li>
+			</ul></td>
 		<td><ul style="list-style-type:square; line-height:3">
 				<li><a href = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target = "_blank">Request for Repair/Maintenance Work</a></li>
 				<li><a href = "https://rbs.avero-tech.com/" target = "_blank">Resource Booking Service (RBS)</a></li>
@@ -60,7 +61,8 @@ description: ""
 				<li><a href = "https://go.gov.sg/stpwiki" target = "_blank">Singapore Teaching Practise </a></li>
 				<li><a href = "https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D7f9f409da91aa05df58fd89c3edf38c3bf11cb5d3e1f9796a244538d0736f468" target = "_blank">SkillFuture for Educators</a></li>
 				<li><a href = "https://ssoe2.moe.edu.sg/" target = "_blank">SSOE2 Service Portal</a></li>
-				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li></ul></td>
+				<li><a href = "https://www.learning.moe.edu.sg/sls/index.html" target = "_blank">Student Learning Space (SLS)</a></li>
+			</ul></td>
 		<td>-</td>
 	</tr>
 	</tbody>
@@ -75,6 +77,3 @@ description: ""
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-	</tr>
-	</tbody>
-</table>
