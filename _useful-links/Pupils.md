@@ -21,7 +21,6 @@ description: ""
 				<tr>
 					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
 					<td><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>&#128216;[Installation Guide](/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)</td>	
-					<td><a href="/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)" target="_blank">guide</a>
 				</tr>				
 	</tbody>
 	</table>
