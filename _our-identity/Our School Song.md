@@ -3,10 +3,6 @@ title: Our School Song
 permalink: /our-identity/our-school-song/
 description: ""
 ---
-
-<img src="/images/sch%20song.png" 
-     style="width:45%">
-
 Here we are in Punggol Primary   
 Always with a smile  
 We’re bright and happy  
