@@ -8,7 +8,8 @@ description: ""
 	<tr style="height:50px">
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">A - D</td>
 		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">E - H</td>
-		      <td style="color:rgb(94,94,207); font-size:20px; font-family:impact">I - L</td></tr>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">I - L</td>
+	</tr>
 </thead>
 <tbody>
 	<td></td>
@@ -20,7 +21,7 @@ description: ""
 			<li><a href = "https://www.hrp.gov.sg/hrp/#/" target = "_blank">HR &amp; Payroll Portal</li></ul>
 				</td>
 	<td>
-		<ul>
+		<ul style="list-style-type:square">
 			<li><a href = "https://icon.moe.edu.sg/" target = "_blank">iCON Email</a></li>
 			<li><a href = "https://sites.google.com/moe.edu.sg/pps-epedagogy-and-ict-tools-sh/school-cockpit-matters" target = "_blank">ICT Microsite for Staff</a></li>
 			<li><a href = "https://iexams.seab.gov.sg/sso/login" target = "_blank">iEXAMS</a></li>
@@ -28,7 +29,11 @@ description: ""
 		</ul>
 		</td>
 <thead>
-	<tr><td >M - P</td><td>Q - T</td><td width=180>U - X</td></tr>
+	<tr>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">M - P</td>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">Q - T</td>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">U - X</td>
+	</tr>
 </thead>
 <tbody>
 	<tr>
@@ -57,7 +62,11 @@ description: ""
 		</td>
 	</tr>
 <thead>
-	<tr><td>Y - Z</td><td>0 - 9</td><td>Others</td></tr>
+	<tr>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">Y - Z</td>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">0 - 9</td>
+		<td style="color:rgb(94,94,207); font-size:20px; font-family:impact">Others</td>
+	</tr>
 </thead>
 <tbody>
 	<tr><td></td><td></td><td></td></tr>
