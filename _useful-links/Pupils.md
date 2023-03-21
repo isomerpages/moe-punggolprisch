@@ -21,15 +21,10 @@ description: ""
 				<tr>
 					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
 					<td colspan=2><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					<a href="/files/MooOPlus_Installation_guide_for_Student_2020.pdf">Installation Guide</a></td>
+					&#128216;<a href="/files/MooOPlus_Installation_guide_for_Student_2020.pdf">Installation Guide</a></td>
 				</tr>		
 	</tbody>
 	</table>
-
-
-
-
-*   [Installation Guide](/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)
 
 
 <table>
@@ -43,16 +38,15 @@ description: ""
 			<td style="border: solid 0px black"><a href="https://learning.moe.edu.sg/" target="_blank">Click here to login to SLS</a>
 	</tr>
 	<tr>
-		<td><ul><li><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a></li>
-			<li><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a></li>
-				<li><a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a></li>
-			<li></li>
+		<td>
+			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
+			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
+			&#8611;&nbsp;&nbsp;<a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a><br>
+			&#8611;&nbsp;&nbsp;<a href="files/SLS%20Support%20for%20Home-based%20Learning.pdf">SLS Support for Home-based Learning</a>
 			</ul></td>
 		</tr>
 </tbody>
 </table>
-
-[SLS Support for Home-based Learning.pdf](/files/SLS%20Support%20for%20Home-based%20Learning.pdf)
 
 <table>
 <thead>
