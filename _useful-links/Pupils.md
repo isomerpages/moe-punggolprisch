@@ -21,7 +21,7 @@ description: ""
 				<tr>
 					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
 					<td colspan=2><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					&#8611;&nbsp;&nbsp;<a href="/files/MooOPlus_Installation_guide_for_Student_2020.pdf">Installation Guide</a></td>
+					&#8611;&nbsp;&nbsp;<a href="/files/MooO_Student_Installation_Guide2020.pdf">Installation Guide</a></td>
 				</tr>		
 	</tbody>
 	</table>
@@ -34,7 +34,9 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-			<td><a href="https://learning.moe.edu.sg/" target="_blank">Login to SLS</a><br><br>
+			<td style="border: solid 0px black; "><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here  to login to SLS</a></td>
+	</tr>
+	<tr><td>
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a><br>
@@ -46,13 +48,11 @@ description: ""
 
 <table>
 <thead>
-	<tr >
-		<td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student iCON</td>
-	</tr>
+	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student iCON</td></tr>
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black"><a href="https://workspace.google.com/dashboard" target="_blank">Click here to login to iCON</a>
+			<td style="border: solid 0px black; font-weight:bold; font-size:20px"><a href="https://workspace.google.com/dashboard" target="_blank">Login to iCON</a>
 	</tr>
 	<tr>
 		<td><ul><li><a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a></li>
