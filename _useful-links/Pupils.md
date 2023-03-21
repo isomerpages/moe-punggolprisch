@@ -68,7 +68,7 @@ description: ""
 		<td><ul><li><a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a></li>
 			<li><a href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view" target="_blank">Student iCON Onboarding Guide (Using Chromebooks)</a></li>
 				<li><a href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view" target="_blank">Student iCON Onboarding Guide (using a Google browser from any computing devices e.g. iPad, HP Laptop)</a></li>
-			</td>
+			</ul></td>
 		</tr>
 </tbody>
 </table>
@@ -89,7 +89,7 @@ description: ""
 			<li>[Accessing Zoom through Desktop App](/files/2%20Accessing%20Zoom%20through%20the%20Desktop%20App.pdf)</li>
 			<li>[Accessing Zoom through Mobile or Table App](/files/3%20Accessing%20Zoom%20through%20the%20Mobile%20or%20Tablet%20App.pdf)</li>
 			</li>[Troubleshooting Instructions](/files/4%20Annex%20Troubleshooting%20Instructions.pdf)</li>
-			</td>
+			</ul></td>
 		</tr>
 </tbody>
 </table>
