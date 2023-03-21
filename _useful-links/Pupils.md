@@ -28,21 +28,18 @@ description: ""
 
 <table>
 <thead>
-	<tr >
-		<td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td>
+	<tr>
+		<td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td>
 	</tr>
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black"><a href="https://learning.moe.edu.sg/" target="_blank">Click here to login to SLS</a>
-	</tr>
-	<tr>
-		<td>
+			<td><a href="https://learning.moe.edu.sg/" target="_blank">Login to SLS</a><br><br>
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a><br>
-			&#8611;&nbsp;&nbsp;<a href="files/SLS%20Support%20for%20Home-based%20Learning.pdf">SLS Support for Home-based Learning</a>
-			</ul></td>
+			&#8611;&nbsp;&nbsp;<a href="files/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a>
+			</td>
 		</tr>
 </tbody>
 </table>
