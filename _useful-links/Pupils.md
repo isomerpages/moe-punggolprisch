@@ -72,7 +72,7 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<a href="/files/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom from Browser</a><br>
+			<a href="/files/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a><br>
 			<a href="/files/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a><br>
 			<a href="/files/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a><br>
 		<a href="/files/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a>
