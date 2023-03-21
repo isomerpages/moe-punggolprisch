@@ -25,7 +25,6 @@ description: ""
 				</tr>		
 	</tbody>
 	</table>
-
 <table>
 <thead>
 	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td></tr>
