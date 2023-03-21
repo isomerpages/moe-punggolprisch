@@ -34,7 +34,7 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black; "><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here  to login to SLS</a></td>
+			<td style="border: solid 0px black; "><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to SLS</a></td>
 	</tr>
 	<tr><td>
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
@@ -52,14 +52,15 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black; font-weight:bold; font-size:20px"><a href="https://workspace.google.com/dashboard" target="_blank">Login to iCON</a>
+			<td style="border: solid 0px black"><a href="https://workspace.google.com/dashboard" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to iCON</a>
 	</tr>
 	<tr>
-		<td><ul><li><a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a></li>
-			<li><a href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view" target="_blank">Student iCON Onboarding Guide (Using Chromebooks)</a></li>
-				<li><a href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view" target="_blank">Student iCON Onboarding Guide (using a Google browser from any computing devices e.g. iPad, HP Laptop)</a></li>
-			</ul></td>
-		</tr>
+		<td>	
+			&#8611;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a><br>
+			&#8611;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view" target="_blank">Onboarding Guide - using Chromebook</a><br>
+					&#8611;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view" target="_blank">Onboarding Guide - using Google Chrome from any devices e.g. iPad, HP Laptop</a>
+		</td>
+	</tr>
 </tbody>
 </table>
 
@@ -71,15 +72,15 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black"><a href="https://students-edu-sg.zoom.us/" target="_blank">Click here to login to Zoom</a>
+			<td style="border: solid 0px black"><a href="https://students-edu-sg.zoom.us/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to Zoom</a></td>
 	</tr>
 	<tr>
-		<td><ul>
-			<li>[Accessing Zoom with Browser](/files/1%20Accessing%20Zoom%20with%20Browser.pdf)</li>
-			<li>[Accessing Zoom through Desktop App](/files/2%20Accessing%20Zoom%20through%20the%20Desktop%20App.pdf)</li>
-			<li>[Accessing Zoom through Mobile or Table App](/files/3%20Accessing%20Zoom%20through%20the%20Mobile%20or%20Tablet%20App.pdf)</li>
-			</li></li>
-			</ul></td>
+		<td>
+			&#8611;&nbsp;&nbsp;<a href="/files/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a><br>
+			&#8611;&nbsp;&nbsp;<a href="Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a><br>
+			&#8611;&nbsp;&nbsp;<a href="/files/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a><br>
+		&#8611;&nbsp;&nbsp;<a href="/files/Troubleshooting_Instructions.pdf" target="_blank">Troubleshooting Instructions</a>
+	</td>
 		</tr>
 </tbody>
 </table>
