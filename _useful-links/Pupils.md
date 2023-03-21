@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 <thead>
-	<tr>Useful Apps</tr>
+	<tr ><td colspan=3 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Useful Apps</td></tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -21,6 +21,7 @@ description: ""
 				<tr>
 					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
 					<td><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a></td>	
+					<td>[Installation Guide](/files/Installation%20guide%20for%20Student%202020%20(Moo-O%20Plus).pdf)</td>
 				</tr>		
 	</tbody>
 	</table>
