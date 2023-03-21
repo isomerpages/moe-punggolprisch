@@ -35,7 +35,7 @@ description: ""
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a><br>
-			<a href="files/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a>
+			<a href="/files/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a>
 			</td>
 		</tr>
 </tbody>
