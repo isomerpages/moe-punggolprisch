@@ -47,8 +47,8 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-			<td style="border: solid 0px black"><a href="https://workspace.google.com/dashboard" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to iCON</a></td>
-	</tr>
+			<td style="border: solid 0px black"><a href="https://workspace.google.com/dashboard" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to iCON</a>
+			</td></tr>
 	<tr>
 		<td>	
 			&#8611;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a><br>
