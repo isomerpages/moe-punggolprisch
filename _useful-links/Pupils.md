@@ -39,9 +39,9 @@ description: ""
 			</td>
 		</tr>
 </tbody>
-</table>
+<!--</table>-->
 
-<table>
+<!--<table>-->
 <thead>
 	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student iCON</td></tr>
 </thead>
@@ -57,9 +57,9 @@ description: ""
 		</td>
 	</tr>
 </tbody>
-</table>
+<!--</table>-->
 
-<table>
+<!--<table>-->
 <thead>
 	<tr >
 		<td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Zoom Account</td>
