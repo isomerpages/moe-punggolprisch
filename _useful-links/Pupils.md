@@ -21,21 +21,17 @@ description: ""
 				<tr>
 					<td><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
 					<td colspan=2><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					&#8611;&nbsp;&nbsp;<a href="/files/MooO_Student_Installation_Guide2020.pdf">Installation Guide</a></td>
+					<a href="/files/MooO_Student_Installation_Guide2020.pdf">Installation Guide</a></td>
 				</tr>		
 	</tbody>
 	</table>
 
 <table>
 <thead>
-	<tr>
-		<td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td>
-	</tr>
+	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td></tr>
 </thead>
 <tbody>
-		<tr>
-			<td style="border: solid 0px black; "><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to SLS</a></td>
-	</tr>
+		<tr><td style="border: solid 0px black"><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to SLS</a></td></tr>
 	<tr><td>
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
