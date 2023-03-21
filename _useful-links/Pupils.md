@@ -46,8 +46,8 @@ description: ""
 		<td><ul><li><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a></li>
 			<li><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a></li>
 				<li><a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a></li>
-			<li>[SLS Support for Home-based Learning](/files/SLS%20Support%20for%20Home-based%20Learning.pdf)</li>
-			</td>
+			<li></li>
+			</ul></td>
 		</tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ description: ""
 			<li>[Accessing Zoom with Browser](/files/1%20Accessing%20Zoom%20with%20Browser.pdf)</li>
 			<li>[Accessing Zoom through Desktop App](/files/2%20Accessing%20Zoom%20through%20the%20Desktop%20App.pdf)</li>
 			<li>[Accessing Zoom through Mobile or Table App](/files/3%20Accessing%20Zoom%20through%20the%20Mobile%20or%20Tablet%20App.pdf)</li>
-			</li>[Troubleshooting Instructions](/files/4%20Annex%20Troubleshooting%20Instructions.pdf)</li>
+			</li></li>
 			</ul></td>
 		</tr>
 </tbody>
