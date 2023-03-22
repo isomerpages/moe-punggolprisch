@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Book Shop Service.md
-      - School Uniform Service.md
       - Dental Service.md
+      - School Uniform Service.md
       - Student Care Center.md
       - School's Map.md
       - School Contact.md
