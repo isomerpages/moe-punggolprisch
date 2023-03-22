@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/homebannerdemo.gif
       key_highlights:
+        - title: OUR Contacts
+          description: ""
+          url: /our-contacts/school-contact/
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: Useful Links for Parents
-          description: ""
-          url: /useful-links/Parents/parents/
         - title: Useful Links for Staff
           description: ""
           url: /useful-links/staff/
