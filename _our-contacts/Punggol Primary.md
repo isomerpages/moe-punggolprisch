@@ -26,15 +26,13 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a target="_blank" href="https://punggolpri.moe.edu.sg">https://punggolpri.moe.edu.sg</a><br>
+			<td><a target="_blank" href="https://punggolpri.moe.edu.sg">https://punggolpri.moe.edu.sg</a>
 			</td>
 		</tr>
-			<tr>
+		<tr>
 			<td style="font-weight:bold">Follow Us</td>
-			<td><a target="_blank" href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d">Facebook</a>  
-				<a target="_blank" href="https://www.instagram.com/punggolprisch/">Instagram</a>
-				<img src="/images/Icons/FB.jpg" width="10%">
-			</td>
+			<td><a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:10px;height:10px"></a>
+				</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Front Gate Opening Hours</td>
