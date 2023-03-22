@@ -17,7 +17,7 @@ description: ""
 			<td style="border: solid 0px black"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></td>
 			<td style="border: solid 0px black"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></td>
 			<td rowspan=2 style="border: solid 0px black"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					<a href="/files/MooO_Student_Installation_Guide2020.pdf">Installation Guide</a></td>
+					<a href="/files/MooO_Student_Installation_Guide2020.pdf" class="noicon">Installation Guide</a></td>
 		</tr>
 				<tr>
 					<td style="border: solid 0px black"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
