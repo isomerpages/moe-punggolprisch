@@ -29,10 +29,13 @@ third_nav_title: Parents
 		</tr>
 		<tr>
 			<td style="border: solid 0px black">Registration link for Parents/ Legal Guardians who did not receive SMS booking invitation</td>
-			<td>
+			<td style="border: solid 0px black">
 				↣ <a target="_blank" href="https://child.vaccine.gov.sg/">Click here to register</a><br>
 				<img align="left" style="width:45%" src="/images/vaccineRegLink.png"></td>
 		</tr>
+	<tr>
+		<td colspan="2" style="border: solid 0px black"></td>
+	</tr>
 		</tbody><tfoot>
 			<tr>
 				<td colspan="2"><a target="_blank" href="/files/Supporting_Your_Child_Through_Their_Vaccination.pdf">Supporting Your Child Through Their Vaccination</a></td>
