@@ -20,7 +20,7 @@ third_nav_title: Parents
 		</tr>
 		<tr >
 		<td style="border: solid 0px black">2022</td>
-	<td style="border: solid 0px black"><a href="https://drive.google.com/file/d/10doMs45N9eUu5mcIQCBp36HFYrG6LCcL/view" target="_blank">Semester 1</a><br>
+	 <td style="border: solid 0px black"><a href="https://drive.google.com/file/d/10doMs45N9eUu5mcIQCBp36HFYrG6LCcL/view" target="_blank">Semester 1</a><br>
 		<a href="https://drive.google.com/file/d/1f39O-ztz13CnSAUmuf1VGeuITaJ9rwIB/view" target="_blank">Semester 2</a></td>
 		</tr>
 	</tbody>
