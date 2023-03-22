@@ -4,8 +4,6 @@ permalink: /useful-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-<a href="/files/Cyber%20Wellness/CyberWellnessResource.pdf" target="_blank">Cyber Wellness Resources</a>
-
 <table>
 <thead>
 	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
@@ -25,5 +23,13 @@ third_nav_title: Parents
 	<td style="border: solid 0px black"><a href="/files/CN-Nov2022.pdf" target="_blank">November</a></td>
 		</tr>
 		<tr></tr>
+		<tfoot>
+			<tr>
+				<td colspan=3>
+				<a href="/files/Cyber%20Wellness/CyberWellnessResource.pdf" target="_blank">Cyber Wellness Resources</a></td>
+			</tr>
+	</tfoot>
 	</tbody>
 	</table>
+	
+	
