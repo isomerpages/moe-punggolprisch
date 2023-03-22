@@ -18,7 +18,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>6293 5840 or <br>8638 0499 (Whatsapp only)</td>
+			<td>+65 6293 5840 or <br>+65 8638 0499 (Whatsapp only)</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
