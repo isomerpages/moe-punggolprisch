@@ -33,7 +33,7 @@ description: ""
 			<td style="font-weight:bold">Follow Us</td>
 			<td>
 			<table><tr>
-			<td width=1><a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px;height:20px" align="left"></a></td>
+			<td width=1 ><a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px; height:20px; display:block" align="left"></a></td>
 			<td width=200>
 					<a href=https://www.instagram.com/punggolprisch/" target="_blank"><img src="/images/Icons/IG.jpg" style="width:20px;height:20px" align="left"></a></td>
 																																																																										</tr>																																																																			</table>
@@ -47,7 +47,7 @@ description: ""
 		</td></tr>
 		<tr>
 			<td style="font-weight:bold">Location Map</td>
-			<td><center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.332173117261!2d103.894629!3d1.377025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf035ed536166b93!2sPunggol%20Primary%20School!5e0!3m2!1sen!2ssg!4v1674553976552!5m2!1sen!2ssg" width="400" height="350" style="border:1px solid black;" allowfullscreen="" loading="lazy" align="left"></iframe></center></td></tr>
+			<td><center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.332173117261!2d103.894629!3d1.377025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf035ed536166b93!2sPunggol%20Primary%20School!5e0!3m2!1sen!2ssg!4v1674553976552!5m2!1sen!2ssg" width="400" height="350" style="border:1px solid black" allowfullscreen="" loading="lazy" align="left"></iframe></center></td></tr>
 		<tr><td></td></tr>
 	</tbody>
 </table>
