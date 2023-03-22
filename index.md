@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homebannerdemo.gif
       key_highlights:
-        - title: Useful Links for Pupils
+        - title: Useful Links
           description: ""
-          url: /useful-links/pupils/
+          url: /useful-links/
         - title: Useful Links for Parents
           description: ""
           url: /useful-links/Parents/parents/
