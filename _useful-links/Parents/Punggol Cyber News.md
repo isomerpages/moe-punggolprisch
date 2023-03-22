@@ -22,9 +22,8 @@ third_nav_title: Parents
 		</tr>
 		<tr >
 		<td style="border: solid 0px black">2022</td>
-	<td style="border: solid 0px black"><a href="/files/PPSCyberNews/Punggol%20Cyber%20News%20-%20November%202022.pdf" target="_blank">November</a></td>
+	<td style="border: solid 0px black"><a href="/files/CN-Nov2022.pdf" target="_blank">November</a></td>
 		</tr>
 		<tr></tr>
 	</tbody>
 	</table>
-	
