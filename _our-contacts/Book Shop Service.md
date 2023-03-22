@@ -9,23 +9,23 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td width=100>Vendor</td>
+			<td width=100 style="font-weight:bold">Vendor</td>
 			<td>BL Marketing Pte Ltd</td>
 		</tr>
 		<tr>
-			<td>Email</td>
+			<td style="font-weight:bold">Email</td>
 			<td><a target="_blank" href="mailto:sales@blmarketing.sg">Send Email</a></td>
 		</tr>
 		<tr>
-			<td>Contact</td>
+			<td style="font-weight:bold">Contact</td>
 			<td>6518 9611</td>
 		</tr>
 		<tr>
-			<td>Website</td>
+			<td style="font-weight:bold">Website</td>
 			<td>NIL</td>
 		</tr>
 		<tr>
-			<td>Book List</td>
+			<td style="font-weight:bold">Book List</td>
 			<td><a href="/files/General/Booklist/2023_PPS_P1_Booklist.pdf" target="_blank">2023 - Primary 1 </a><br>
 				<a href="/files/General/Booklist/2023_PPS_P2_Booklist.pdf" target="_blank">2023 - Primary 2 </a><br>
 				<a href="/files/General/Booklist/2023_PPS_P3_Booklist.pdf" target="_blank">2023 - Primary 3 </a><br>
