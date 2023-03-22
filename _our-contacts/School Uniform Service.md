@@ -3,7 +3,6 @@ title: School Uniform Service
 permalink: /our-contacts/school-uniform-service/
 description: ""
 ---
-
 <table>
 	<thead>
 		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan="3">Order of School Uniform</td></tr>
@@ -23,7 +22,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</td>
+			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Outlet</td>
