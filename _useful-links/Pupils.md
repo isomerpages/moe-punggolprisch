@@ -17,7 +17,7 @@ description: ""
 			<td style="border: solid 0px black"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></td>
 			<td style="border: solid 0px black"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></td>
 			<td rowspan=2 style="border: solid 0px black"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					<a href="/files/MooO_Student_Installation_Guide2020.pdf" target="_blank" class="noicon">Installation Guide</a></td>
+					<a href="/files/Student/Moo_O/MooO_Student_Installation_Guide2020.pdf" target="_blank">Installation Guide</a></td>
 		</tr>
 				<tr>
 					<td style="border: solid 0px black"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
@@ -35,7 +35,7 @@ description: ""
 			&#8611;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a><br>
 			&#8611;&nbsp;&nbsp;<a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a><br>
-			<a href="/files/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a>
+			<a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a>
 			</td>
 		</tr>
 </tbody>
@@ -71,10 +71,10 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<a href="/files/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a><br>
-			<a href="/files/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a><br>
-			<a href="/files/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a><br>
-		<a href="/files/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a>
+			<a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a><br>
+			<a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a><br>
+			<a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a><br>
+		<a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a>
 	</td>
 		</tr>
 </tbody>
