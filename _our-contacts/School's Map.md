@@ -3,4 +3,38 @@ title: School's Map
 permalink: /our-contacts/schools-map/
 description: ""
 ---
-<center><iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.332173117261!2d103.894629!3d1.377025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf035ed536166b93!2sPunggol%20Primary%20School!5e0!3m2!1sen!2ssg!4v1674553976552!5m2!1sen!2ssg"></iframe></center>
+<table>
+	<thead>
+		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan="3">Bookshop Supplier</td></tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td width=100 style="font-weight:bold">Vendor</td>
+			<td>BL Marketing Pte Ltd</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Email</td>
+			<td><a target="_blank" href="mailto:sales@blmarketing.sg">Send Email</a></td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Contact</td>
+			<td>+65 6518 9611</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Website</td>
+			<td>NIL</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Book List</td>
+			<td><a href="/files/General/Booklist/2023_PPS_P1_Booklist.pdf" target="_blank">2023 - Primary 1 </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P2_Booklist.pdf" target="_blank">2023 - Primary 2 </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P3_Booklist.pdf" target="_blank">2023 - Primary 3 </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P4_Booklist.pdf" target="_blank">2023 - Primary 4 </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P5Foundation_Booklist.pdf" target="_blank">2023 - Primary 5 Foundation </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P5HigherStdMT_Booklist.pdf" target="_blank">2023 - Primary 5 Higher & Standard MT </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P6Foundation_Booklist.pdf" target="_blank">2023 - Primary 6 Foundation </a><br>
+				<a href="/files/General/Booklist/2023_PPS_P6HigherStdMT_Booklist.pdf" target="_blank">2023 - Primary 6 Higher & Standard MT </a><br>
+			</td>
+		<tr><td></td></tr>
+	</tbody>
+</table>
