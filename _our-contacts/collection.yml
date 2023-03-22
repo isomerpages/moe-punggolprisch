@@ -2,8 +2,8 @@ collections:
   our-contacts:
     output: true
     order:
-      - Bus Service.md
       - Book Shop Service.md
+      - Bus Service.md
       - Dental Service.md
       - School Uniform Service.md
       - Student Care Center.md
