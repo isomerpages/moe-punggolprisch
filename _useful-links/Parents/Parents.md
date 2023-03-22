@@ -14,33 +14,7 @@ third_nav_title: Parents
 *   [Mental Health and Hygiene Resources](https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy)
 *   [Common Childhood Eye Conditions](/files/Childhood%20Eye%20Condition.pdf)
 *   [Cyber Wellness Resources](/files/CyberWellnessResource.pdf)
-
-**P6 Matters**
-
-*   [Approved Mother Tongue dictionary for PSLE](/files/list_of_dictionaries_for_examination.pdf)
-*   [Singapore Examinations and Assessment Board (PSLE)](https://www.seab.gov.sg/home/examinations/psle)  
-    
-*   [PSLE-FSBB Microsite](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)  
-    
-*   [MOE SchoolFinder Tool](https://www.moe.gov.sg/schoolfinder)  
-    
-*   [MOE's DSA-Sec Website](https://www.moe.gov.sg/secondary/dsa)  
-    
-
   
-
-**Transfer and Admission Matters**
-
-*   [Primary School Transfer Service](https://www.moe.gov.sg/primary/transfers)
-*   [Admission for International Students](https://www.moe.gov.sg/international-students)  
-    
-*   [Admission for Returning Singaporeans](https://www.moe.gov.sg/returning-singaporeans)  
-    
-*   [Waitlist for Transfer to Punggol Pri Sch](https://form.gov.sg/5eec65a8296d630011a351b2)  
-    
-
-  
-
 **Forms**
 
 *   [Application Form for Leave of  Absence](https://form.gov.sg/#!/60bdb67379dded0011f083dd)
