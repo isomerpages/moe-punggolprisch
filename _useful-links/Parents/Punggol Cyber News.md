@@ -26,3 +26,6 @@ third_nav_title: Parents
 		</tr>
 	</tbody>
 	</table>
+	[jul-aug](/files/PPSCyberNews/Punggol%20Cyber%20News_Jul%20-August.pdf)
+	[nov-dec](/files/PPSCyberNews/Punggol%20Cyber%20News_November_December.pdf)
+	[sept-oct](/files/PPSCyberNews/Punggol%20Cyber%20News_September_October.pdf)
