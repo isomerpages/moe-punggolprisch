@@ -3,10 +3,9 @@ title: Dental Service
 permalink: /our-contacts/dental-service/
 description: ""
 ---
-
 <table>
 	<thead>
-		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan="3">Dental Therapist</td></tr>
+		<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)" colspan="3">Dental Therapist</td></tr>
 	</thead>
 	<tbody>
 		<tr>
