@@ -8,31 +8,23 @@ third_nav_title: Parents
 
 <table>
 <thead>
-	<tr><td colspan=3 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
+	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
 	</tr>
 </thead>
 	<tbody>
 		<tr>
 			<td width=50>Year</td>
-			<td width=50>Month</td>
 			<td>Volume</td>
 		</tr>
 		<tr>
-			<td>2023</td>
-			<td></>
+			<td style="border: solid 0px black">2023</td>
 			<td style="border: solid 0px black"><a href="https://go.gov.sg/punggolcyberwellness" target="_blank">Volume 1</a></td>
 		</tr>
-		<tr>
-		<td>2022</td>
-		<td></td>
-	<td></td>
+		<tr >
+		<td style="border: solid 0px black">2022</td>
+	<td style="border: solid 0px black"><a href="/files/PPSCyberNews/Punggol%20Cyber%20News%20-%20November%202022.pdf" target="_blank">November</a></td>
 		</tr>
 		<tr></tr>
 	</tbody>
 	</table>
-	[jul-aug](/files/PPSCyberNews/Punggol%20Cyber%20News_Jul%20-August.pdf)
-	[nov-dec](/files/PPSCyberNews/Punggol%20Cyber%20News_November_December.pdf)
-	[sept-oct](/files/PPSCyberNews/Punggol%20Cyber%20News_September_October.pdf)
-	[may-june](/files/PPSCyberNews/Punggol%20Cyber%20News_May_June.pdf)
-	[mar-apr](/files/PPSCyberNews/Punggol%20Cyber%20News_Mar_Apr.pdf)
-	[jan feb](/files/PPSCyberNews/Punggol%20Cyber%20News_Jan_Feb.pdf)
+	
