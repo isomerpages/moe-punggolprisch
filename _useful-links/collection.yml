@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Pupils.md
+      - Parents/P6 Matters.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Punggol Cyber News.md
