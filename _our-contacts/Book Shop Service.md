@@ -3,7 +3,6 @@ title: Book Shop Service
 permalink: /our-contacts/bookshop-service/
 description: ""
 ---
-
 <table>
 	<thead>
 		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan="3">Bookshop Supplier</td></tr>
@@ -36,6 +35,7 @@ description: ""
 				<a href="/files/General/Booklist/2023_PPS_P6Foundation_Booklist.pdf" target="_blank">2023 - Primary 6 Foundation </a><br>
 				<a href="/files/General/Booklist/2023_PPS_P6HigherStdMT_Booklist.pdf" target="_blank">2023 - Primary 6 Higher & Standard MT </a><br>
 			</td>
+		</tr>
 		<tr><td></td></tr>
 	</tbody>
 </table>
