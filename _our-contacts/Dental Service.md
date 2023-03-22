@@ -14,7 +14,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>8909 1753</td>
+			<td>+65 8909 1753</td>
 		</tr>
 		<tr>
 			<td colspan=2 style="font-style:italic">In case of emergency, please contact HPB School Dental Clinic at <b>6435 3782</b> for assistance.</td>
