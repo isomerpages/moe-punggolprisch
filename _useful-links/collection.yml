@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Pupils.md
+      - Parents/Transfer & Admission Matters.md
       - Parents/P6 Matters.md
       - Parents/.keep
       - Parents/Parents.md
