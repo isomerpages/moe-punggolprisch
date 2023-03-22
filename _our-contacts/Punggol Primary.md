@@ -33,7 +33,7 @@ description: ""
 			<td style="font-weight:bold">Follow Us</td>
 			<td><a target="_blank" href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d">Facebook</a>  
 				<a target="_blank" href="https://www.instagram.com/punggolprisch/">Instagram</a>
-				<img width="1" height="1" src="/images/Icons/FB.jpg">
+				<img src="/images/Icons/FB.jpg" width="10%">
 			</td>
 		</tr>
 		<tr>
