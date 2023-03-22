@@ -13,7 +13,6 @@ third_nav_title: Parents
 *   [Parent Kit - Transitioning Back to School.pdf](/files/Parent%20Kit%20-%20Transitioning%20Back%20to%20School.pdf)
 *   [Mental Health and Hygiene Resources](https://www.healthhub.sg/programmes/170/StayWell#families-stay-healthy)
 *   [Common Childhood Eye Conditions](/files/Childhood%20Eye%20Condition.pdf)
-*   [Cyber Wellness Resources](/files/CyberWellnessResource.pdf)
   
 **Forms**
 
