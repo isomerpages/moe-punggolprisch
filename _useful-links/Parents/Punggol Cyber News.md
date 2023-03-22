@@ -8,12 +8,12 @@ third_nav_title: Parents
 <thead>
 	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
 	</tr>
-</thead>
-	<tbody>
-		<tr>
+	<tr style="font-weight:bold">
 			<td width=50>Year</td>
 			<td>Volume</td>
 		</tr>
+</thead>
+	<tbody>	
 		<tr>
 			<td style="border: solid 0px black">2023</td>
 			<td style="border: solid 0px black"><a href="https://go.gov.sg/punggolcyberwellness" target="_blank">Volume 1</a></td>
@@ -22,7 +22,7 @@ third_nav_title: Parents
 		<td style="border: solid 0px black">2022</td>
 	<td style="border: solid 0px black"><a href="/files/CN-Nov2022.pdf" target="_blank">November</a></td>
 		</tr>
-		<tr></tr>
+		<tr><td></td></tr>
 		<tfoot>
 			<tr>
 				<td colspan=3>
@@ -31,5 +31,3 @@ third_nav_title: Parents
 	</tfoot>
 	</tbody>
 	</table>
-	
-	
