@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Pupils.md
-      - Parents/Transfer & Admission Matters.md
-      - Parents/P6 Matters.md
       - Parents/.keep
       - Parents/Parents.md
-      - Parents/Punggol Cyber News.md
       - Parents/Covid–19 Vaccination Exercise for 5 to 11 Year Olds.md
+      - Parents/P6 Matters.md
+      - Parents/Punggol Cyber News.md
+      - Parents/Transfer & Admission Matters.md
       - Staff.md
