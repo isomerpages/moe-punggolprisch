@@ -38,5 +38,4 @@ third_nav_title: Parents
 				<td colspan="2"><a target="_blank" href="/files/Supporting_Your_Child_Through_Their_Vaccination.pdf">Supporting Your Child Through Their Vaccination</a></td>
 			</tr>
 	</tfoot>
-	
-	</table>
+</table>
