@@ -17,7 +17,7 @@ description: ""
 			<td>8909 1753</td>
 		</tr>
 		<tr>
-			<td colspan=2>In case of emergency, please contact HPB School Dental Clinic at <b>6435 3782</b> for assistance.</td>
+			<td colspan=2 style="font-style:italic">In case of emergency, please contact HPB School Dental Clinic at <b>6435 3782</b> for assistance.</td>
 		</tr>
 	</tbody>
 </table>
