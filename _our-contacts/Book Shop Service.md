@@ -21,10 +21,6 @@ description: ""
 			<td>+65 6518 9611</td>
 		</tr>
 		<tr>
-			<td style="font-weight:bold">Website</td>
-			<td>NIL</td>
-		</tr>
-		<tr>
 			<td style="font-weight:bold">Book List</td>
 			<td><a href="/files/General/Booklist/2023_PPS_P1_Booklist.pdf" target="_blank">2023 - Primary 1 </a><br>
 				<a href="/files/General/Booklist/2023_PPS_P2_Booklist.pdf" target="_blank">2023 - Primary 2 </a><br>
