@@ -20,13 +20,13 @@ third_nav_title: Parents
 		</tr>
 		<tr >
 		<td style="border: solid 0px black">2022</td>
-	<td style="border: solid 0px black"><a href="/files/CN-Nov2022.pdf" target="_blank">November</a></td>
+	<td style="border: solid 0px black"><a href="/files/PPSCyberNews/CN-Nov2022.pdf" target="_blank">November</a></td>
 		</tr>
 		<tr><td></td></tr>
 		<tfoot>
 			<tr>
 				<td colspan=3>
-				<a href="/files/Cyber%20Wellness/CyberWellnessResource.pdf" target="_blank">Cyber Wellness Resources</a></td>
+				<a href="/files/CyberWellness/CyberWellnessResource.pdf" target="_blank">Cyber Wellness Resources</a></td>
 			</tr>
 	</tfoot>
 	</tbody>
