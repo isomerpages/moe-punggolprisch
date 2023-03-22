@@ -3,7 +3,6 @@ title: Student Care Center
 permalink: /our-contacts/student-care-centre/
 description: ""
 ---
-
 <table>
 	<thead>
 		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan=2>Student Care Centre</td></tr>
@@ -34,7 +33,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Registration</td>
-			<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9GtLocLHJA2UgbVqsWVca9sMf6yutzOvJTlXHDw7o6u2-DA/viewform" target="_blank">Fill in the form here</a></td>
+			<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9GtLocLHJA2UgbVqsWVca9sMf6yutzOvJTlXHDw7o6u2-DA/viewform" target="_blank">Fill in the form here</a></td></tr>
 		<tr><td></td></tr>
 	</tbody>
 </table>
