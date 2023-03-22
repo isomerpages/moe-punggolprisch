@@ -31,7 +31,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Follow Us</td>
-			<td><a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:10px;height:10px"></a>
+			<td><a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px;height:20px"></a>
 				</td>
 		</tr>
 		<tr>
