@@ -18,7 +18,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>6518 9611</td>
+			<td>+65 6518 9611</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
