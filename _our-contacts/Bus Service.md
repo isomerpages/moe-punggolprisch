@@ -9,19 +9,19 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td width=100>Vendor</td>
+			<td width=100 style="font-weight:bold">Vendor</td>
 			<td>SFX Transport Pte Ltd</td>
 		</tr>
 		<tr>
-			<td>Email</td>
+			<td style="font-weight:bold">Email</td>
 			<td><a target="_blank" href="mailto:enquiry@sfxtransport.com.sg">Send Email</a></td>
 		</tr>
 		<tr>
-			<td>Contact</td>
+			<td style="font-weight:bold">Contact</td>
 			<td>6282 0262</td>
 		</tr>
 		<tr>
-			<td>Website</td>
+			<td style="font-weight:bold">Website</td>
 			<td><a target="_blank" href="https://pps.sfxtransport.com.sg">SFX Transport</a></td>
 		</tr>
 		<tr><td></td></tr>
