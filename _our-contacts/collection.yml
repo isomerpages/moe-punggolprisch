@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Dental Service.md
-      - Student Care Centre.md
+      - Student Care Center.md
       - School's Map.md
       - School Contact.md
