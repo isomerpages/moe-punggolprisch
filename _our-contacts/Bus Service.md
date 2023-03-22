@@ -18,7 +18,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>6282 0262</td>
+			<td>+65 6282 0262</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
