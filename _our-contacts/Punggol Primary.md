@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<thead>
-		<tr><td colspan="2" style="font-family:impact; font-size:20px; color:rgb(94,94,207)">Contact Information</td></tr>
+		<tr><td colspan="2" style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Contact Information</td></tr>
 	</thead>
 	<tbody>
 		<tr>
