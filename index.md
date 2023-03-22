@@ -14,7 +14,7 @@ sections:
           url: /our-contacts/school-contact/
         - title: Useful Links
           description: ""
-          url: /useful-links/
+          url: /useful-links/pupils
         - title: Useful Links for Staff
           description: ""
           url: /useful-links/staff/
