@@ -37,8 +37,9 @@ description: ""
 				<a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px; height:20px; " align="left"></a></td>
 			<td width=200>
 					<a href="https://www.instagram.com/punggolprisch/" target="_blank"><img src="/images/Icons/IG.jpg" style="width:20px; height:20px" align="left"></a></td>
-																																																																										</tr>																																																																			</table>
-				</td>
+				</tr>
+				</table>
+			</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Front Gate Opening Hours</td>
