@@ -3,7 +3,6 @@ title: School Uniform Service
 permalink: /our-contacts/school-uniform-service/
 description: ""
 ---
-
 <table>
 	<thead>
 		<tr><td style="font-family:impact; font-size:20px; color:rgb(94,94,207)" colspan="3">Order of School Uniform</td></tr>
@@ -28,6 +27,7 @@ description: ""
 		<tr>
 			<td style="font-weight:bold">Outlet</td>
 			<td>5000 Ang Mo Kio Ave 5, #05-09, Techplace II, Singapore 569870</td>
+		</tr>
 		<tr><td></td></tr>
 	</tbody>
 </table>
