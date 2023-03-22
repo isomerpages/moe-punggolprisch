@@ -4,7 +4,6 @@ permalink: /useful-links/parents/covid-19/
 description: ""
 third_nav_title: Parents
 ---
-
 <table>
 <thead>
 	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)" colspan="2">COVID-19 Vaccination Exercise (for 5 - 11 year olds)</td></tr>
@@ -39,7 +38,7 @@ third_nav_title: Parents
 	</tr>
 		</tbody><tfoot>
 			<tr>
-				<td colspan="2"><a target="_blank" href="/files/Supporting_Your_Child_Through_Their_Vaccination.pdf">Supporting Your Child Through Their Vaccination</a></td>
+				<td colspan="2"><a target="_blank" href="/files/General/Covid-19/Supporting_Your_Child_Through_Their_Vaccination.pdf">Supporting Your Child Through Their Vaccination</a></td>
 			</tr>
 	</tfoot>
 </table>
