@@ -15,9 +15,6 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/pupils
-        - title: Useful Links for Staff
-          description: ""
-          url: /useful-links/staff/
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
