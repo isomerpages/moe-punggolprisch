@@ -2,5 +2,4 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Activities/Total Defence Day Recess Activities.md
       - Activities/.keep
