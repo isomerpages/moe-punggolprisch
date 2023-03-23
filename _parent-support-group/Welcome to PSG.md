@@ -12,10 +12,7 @@ description: ""
 
 <p style="text-align:justify">Let’s all enjoy our wonderful parenting and volunteering in 2023!</p>
 
-<img src="/images/PSG%20Chairperson.jpeg" 
-     style="width:35%">
-
-
+<img src="/images/PSG%20Chairperson.jpeg" style="float:left; width:15%">
 
 Yours faithfully,   
 Lilian Song   
