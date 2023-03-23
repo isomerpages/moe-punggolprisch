@@ -33,7 +33,6 @@ description: ""
   <tr><td>Ms Eileen Lim Gek Kwan</td></tr>
 	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
 	<tr><td>Mr Stanley Mark Tay Guan Seng</td></tr>
-  </tr>
 	<tr><td></td></tr>
 </tbody>
 </table>
