@@ -4,9 +4,6 @@ permalink: /parent-support-group/Activities/teachers-day-celebration/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/TeacherDay%20Celebratn.png" 
-     style="width:55%">
-
 <img src="/images/tdc1.jpeg" 
      style="width:65%">
 
