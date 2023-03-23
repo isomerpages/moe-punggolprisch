@@ -3,46 +3,37 @@ title: School Advisory Committee (SAC)
 permalink: /sac/
 description: ""
 ---
-
-
-
-<img src="/images/School%20Advisory%20Committee%20(SAC).png" 
-     style="width:65%">
-
-
-<img src="/images/SAC%20members.jpeg" 
-     style="width:65%">
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-1wig">Chairman</td>
-    <td class="tg-0lax">Mr Phillip Wee </td>
-    <td class="tg-1wig">Vice-Chairman</td>
-    <td class="tg-0lax">Ms Joy Toh Swee Wah<br></td>
+<table >
+<tbody >
+		<thead>
+            <tr>
+               <td style="font-family:impact; font-size:25px" colspan="2"><img src="/images/SAC%20members.jpeg" style="border:5px solid lightgrey; width:65%"></td>
+            </tr>
+         </thead>
+  <tr style="background-color:rgb(94,94, 207); font-weight: bold; font-size:18px; color:white">
+		<td>Designation</td>
+    <td>Name</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Hon Secretary</td>
-    <td class="tg-0lax">Mdm Norliza A Rahim</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-0lax">      </td>
+		<td style="font-weight:bold" width="150">Chairman</td>
+    <td>Mr Phillip Wee</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Members<br><br></td>
-    <td class="tg-0lax">Mr Lai Poh Koon<br>Ms Eileen Lim Gek Kwan<br>Mdm Ashirdahwani Binte Asmawi<br>Mr Stanley Mark Tay Guan Seng</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+		<td style="font-weight:bold">Vice-Chairman</td>
+    <td>Ms Joy Toh Swee Wah</td>
   </tr>
+  <tr>
+		<td style="font-weight:bold">Hon Secretary</td>
+    <td>Mdm Norliza A Rahim</td>
+  </tr>
+  <tr>
+		<td rowspan=4  style="font-weight:bold">Members</td>
+    <td>Mr Lai Poh Koon</td>
+  </tr>
+  <tr><td>Ms Eileen Lim Gek Kwan</td></tr>
+	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
+	<tr><td>Mr Stanley Mark Tay Guan Seng</td></tr>
+  </tr>
+	<tr><td></td></tr>
 </tbody>
 </table>
