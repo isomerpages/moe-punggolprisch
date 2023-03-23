@@ -4,9 +4,6 @@ permalink: /parent-support-group/Activities/total-defence-day-recess-activities/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/TotDefence.png" 
-     style="width:65%">
-
 <img src="/images/tdd1.jpeg" 
      style="width:75%">
 
