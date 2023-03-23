@@ -13,7 +13,7 @@ third_nav_title: Learning for Life Programme
   <tr style="font-weight:bold">
     <td>Programme/Activity</td>
     <td>Brief Description</td>
-    <td>Level</td>
+    <td width=100>Level</td>
   </tr>
   <tr>
     <td>Create And Play (CAP)</td>
