@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Activities/.keep
       - Parent Support Group/.keep
       - Parent Support Group/Welcome to PSG.md
       - Parent Support Group/PSG Logo.md
