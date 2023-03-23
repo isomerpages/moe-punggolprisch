@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Activities/Total Defence Day Recess Activities.md
       - Activities/Teacher's Day Celebration.md
       - Activities/PSG HI–TEA.md
       - Activities/P6 Motivational Gifts.md
