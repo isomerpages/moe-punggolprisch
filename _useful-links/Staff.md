@@ -3,7 +3,7 @@ title: Staff
 permalink: /useful-links/staff/
 description: ""
 ---
-<table >
+<table style="font-size:16px">
 <!--Header #1--->
 <thead>
 	<tr>
