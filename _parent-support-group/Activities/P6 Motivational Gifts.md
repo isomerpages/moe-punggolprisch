@@ -4,9 +4,6 @@ permalink: /parent-support-group/Activities/p6-motivational-gifts/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/P6%20Motivational%20Gifts.png" 
-     style="width:45%">
-
 <img src="/images/P6%20Motivational%20Gifts1.jpeg" 
      style="width:65%">
 
