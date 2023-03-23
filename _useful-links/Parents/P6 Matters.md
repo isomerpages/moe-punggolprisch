@@ -11,11 +11,11 @@ third_nav_title: Parents
 	<tbody>
 		<tr>
 			<td style="border: solid 0px black"><ul>
-				<li style="line-height:0.5"><a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank">Approved Mother Tongue dictionary for PSLE</a></li>
-		<li style="line-height:0.5"><a href="https://www.seab.gov.sg/home/examinations/psle" target="_blank">Singapore Examinations and Assessment Board (PSLE)</a></li>
-		<li style="line-height:0.5"><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">PSLE-FSBB Microsite</a></li>		
-					<li style="line-height:0.5"><a href="https://www.moe.gov.sg/schoolfinder" target="_blank">MOE SchoolFinder Tool</a></li>		
-					<li style="line-height:0.5"><a href="https://www.moe.gov.sg/schoolfinder" target="_blank">MOE's DSA-Sec Website</a></li></ul>
+				<li style="line-height:2"><a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank">Approved Mother Tongue dictionary for PSLE</a></li>
+		<li style="line-height:2"><a href="https://www.seab.gov.sg/home/examinations/psle" target="_blank">Singapore Examinations and Assessment Board (PSLE)</a></li>
+		<li style="line-height:2"><a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">PSLE-FSBB Microsite</a></li>		
+					<li style="line-height:2"><a href="https://www.moe.gov.sg/schoolfinder" target="_blank">MOE SchoolFinder Tool</a></li>		
+					<li style="line-height:2"><a href="https://www.moe.gov.sg/schoolfinder" target="_blank">MOE's DSA-Sec Website</a></li></ul>
 				</td>		
 					</tr>	
 	</tbody>
