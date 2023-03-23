@@ -11,4 +11,4 @@ description: ""
 <p style="text-align:justify">We are appreciative of our team of skilled teaching and non-teaching staff who are dedicated and committed to the care and learning of our students. We are also thankful for the strong support from all our stakeholders with whom we continue to maintain a sustainable, purposeful and collaborative partnership all these years, in particular, our SAC, PSG, parents and community partners. The PPS family will continue to strive synergistically and harmoniously together towards nurturing our students to be happy and positive as gracious, confident and life-long learners, contributing actively to their families, the school, the community and the nation as a whole.</p>
 
 <p>Thank you and best regards.</p>
-<p><b>Mdm Norliza A. Rahim <br>Principal</p>
+<p><b>Mdm Norliza A. Rahim<br>Principal</b></p>
