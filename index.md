@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homebannerdemo.gif
       key_highlights:
-        - title: OUR Contacts
+        - title: Our Contacts
           description: ""
           url: /our-contacts/school-contact/
         - title: Useful Links
