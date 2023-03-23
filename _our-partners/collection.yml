@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - Parent Support Group/.keep
       - Parent Support Group/Welcome to PSG.md
       - Parent Support Group/PSG Logo.md
@@ -18,4 +19,3 @@ collections:
       - Activities/Children's Day Celebration.md
       - Activities/P1 Orientation Day.md
       - Activities/PSG Activities.md
-      - School Advisory Committee (SAC).md
