@@ -3,7 +3,7 @@ title: Pupils
 permalink: /useful-links/pupils/
 description: ""
 ---
-<table>
+<table style="font-size:16px">
 <thead>
 	<tr ><td colspan=3 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Apps</td></tr>
 	</thead>
@@ -33,7 +33,7 @@ description: ""
 		</tr>
 	</tbody>
 	</table>
-<table>
+<table style="font-size:16px">
 <thead>
 	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td></tr>
 </thead>
