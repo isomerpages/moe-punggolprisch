@@ -37,7 +37,7 @@ description: ""
 				<li style="line-height:0.5;"><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a></li>
 				<li style="line-height:0.5;"><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a></li>
 				<li style="line-height:0.5;"><a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a></li>
-				<li style="line-height:0.5;"><a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a></li>
+				<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a></li>
 				</ul>
 			</td>
 		</tr>
@@ -68,9 +68,7 @@ description: ""
 				<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a></li>
 			<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a></li>
 			<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a></li>
-		<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li>
-				</ul>
-	</td>
+		<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li></ul></td>
 		</tr>
 </tbody>
 </table>
