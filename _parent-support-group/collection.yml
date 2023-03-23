@@ -2,7 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Welcome to PSG.md
       - PSG Logo.md
       - Exco Team.md
       - Activities/PSG Activities.md
