@@ -9,20 +9,28 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td style="border: solid 0px black"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Literacy Pro Library</a></td>
-			<td style="border: solid 0px black"><a href="https://member.koobits.com/" target="_blank">Koobits</a></td>
-			<td style="border: solid 0px black"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></td>
+			<td style="border: solid 0px black">
+				<ul>
+					<li style="line-height:0.5;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Literacy Pro Library</a></li>
+					<li style="line-height:0.5;"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></li>
+					<li style="line-height:0.5;"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></li>
+				</ul>
+			</td>
+			<td style="border: solid 0px black">
+				<ul>
+					<li style="line-height:0.5;"><a href="https://member.koobits.com/" target="_blank">Koobits</a></li>
+					<li style="line-height:0.5;"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></li>
+					<li style="line-height:0.5;"><a href="https://www.literatu.com" target="_blank">Scribo</a></li>
+				</ul>
+		</td>
+		<td style="border: solid 0px black">
+			<ul>
+				<li style="line-height:0.5;"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></li>
+			<li style="line-height:0.5;"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
+					<a href="/files/Student/Moo_O/MooO_Student_Installation_Guide2020.pdf" target="_blank">Installation Guide</a></li>
+			</ul>
+				</td>
 		</tr>
-		<tr style="border: solid 0px black">
-			<td style="border: solid 0px black"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></td>
-			<td style="border: solid 0px black"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></td>
-			<td rowspan=2 style="border: solid 0px black"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					<a href="/files/Student/Moo_O/MooO_Student_Installation_Guide2020.pdf" target="_blank">Installation Guide</a></td>
-		</tr>
-				<tr>
-					<td style="border: solid 0px black"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></td>		
-					<td style="border: solid 0px black"><a href="https://www.literatu.com" target="_blank">Scribo</a></td>
-					</tr>		
 	</tbody>
 	</table>
 <table>
