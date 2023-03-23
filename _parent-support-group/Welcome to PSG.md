@@ -13,7 +13,7 @@ description: ""
 
 <p style="text-align:justify">A sincere <strong>‘Thank You’</strong> to everyone who have volunteered selflessly, still volunteering and planning to volunteer. I hope not just the children but all of you do benefit from being a PSG.</p>
 
-<p style="text-align:justify">Ending off with a heartwarming quote from Jane D. Hull, <blockquote style="color:darkblue"><em>“At the end of the day, the most overwhelming key to a child’s success is the positive involvement of parents.”</em></blockquote></p>
+<p style="text-align:justify">Ending off with a heartwarming quote from Jane D. Hull, <blockquote style="font-size:20px; color:darkblue"><em>“At the end of the day, the most overwhelming key to a child’s success is the positive involvement of parents.”</em></blockquote></p>
 
 <p style="text-align:justify">Let’s all enjoy our wonderful parenting and volunteering in 2023!</p>
 
