@@ -4,9 +4,6 @@ permalink: /parent-support-group/Activities/p1-orientation-day/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/P1%20ORday.png" 
-     style="width:35%">
-
 <img src="/images/P1%20Orientation%20Day1.jpeg" 
      style="width:65%">
 
@@ -27,5 +24,3 @@ third_nav_title: Activities
 
 <img src="/images/P1%20Orientation%20Day8.jpeg" 
      style="width:65%">
-
-
