@@ -10,7 +10,7 @@ third_nav_title: Learning for Life Programme
 
 <table>
 <tbody>
-  <tr>
+  <tr style="font-weight:bold">
     <td>Programme/Activity</td>
     <td>Brief Description</td>
     <td>Level</td>
