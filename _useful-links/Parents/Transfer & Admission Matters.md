@@ -4,11 +4,11 @@ permalink: /useful-links/parents/transfer-admission-matters/
 description: ""
 third_nav_title: Parents
 ---
-<table>
+<table style="font-size:16px">
 <thead>
 	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Transfer and Admission Matters</td></tr>
 	</thead>
-	<tbody style="font-size:18px">
+	<tbody>
 		<tr>
 			<td style="border: solid 0px black"><ul>
 				<li style="line-height:2"><a href="https://www.moe.gov.sg/primary/transfers" target="_blank">Primary School Transfer Service</a></li>
