@@ -4,7 +4,7 @@ permalink: /useful-links/Parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-<table>
+<table style="font-size:16px">
 <thead>
 	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
 	</tr>
