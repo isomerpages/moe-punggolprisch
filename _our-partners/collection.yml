@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Activities/Teacher's Day Celebration.md
       - Activities/PSG HI–TEA.md
       - Activities/P6 Motivational Gifts.md
       - Activities/Mother and Father's Day Recess Activities.md
