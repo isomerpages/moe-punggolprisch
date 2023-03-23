@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Activities/Mother and Father's Day Recess Activities.md
       - Activities/Maths Recess Activities.md
       - Activities/English Reading Program.md
       - Activities/Corporate Social Responsibilities.md
