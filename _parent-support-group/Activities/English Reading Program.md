@@ -4,10 +4,6 @@ permalink: /parent-support-group/Activities/english-reading-programme/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/English%20Reading%20Program.png" 
-     style="width:45%">
-
-
 <img src="/images/English%20Reading%20Program1.jpeg" 
      style="width:75%">
 
@@ -34,4 +30,3 @@ third_nav_title: Activities
 
 <img src="/images/English%20Reading%20Program9.jpeg" 
      style="width:75%">
-
