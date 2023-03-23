@@ -3,7 +3,7 @@ title: Book Shop Service
 permalink: /our-contacts/bookshop-service/
 description: ""
 ---
-<table>
+<table style="font-size:16px">
 	<thead>
 		<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)" colspan="3">Bookshop Supplier</td></tr>
 	</thead>
