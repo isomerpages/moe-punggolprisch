@@ -11,22 +11,22 @@ description: ""
 		<tr>
 			<td style="border: solid 0px black">
 				<ul>
-					<li style="line-height:0.5;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Literacy Pro Library</a></li>
-					<li style="line-height:0.5;"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></li>
-					<li style="line-height:0.5;"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Literacy Pro Library</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="https://zbschools.sg/" target="_blank">早报校园（大拇指 小拇指）</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="https://www.ezhishi.net/Contents/" target="_blank">知识网 eZhishi</a></li>
 				</ul>
 			</td>
 			<td style="border: solid 0px black">
 				<ul>
-					<li style="line-height:0.5;"><a href="https://member.koobits.com/" target="_blank">Koobits</a></li>
-					<li style="line-height:0.5;"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></li>
-					<li style="line-height:0.5;"><a href="https://www.literatu.com" target="_blank">Scribo</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="https://member.koobits.com/" target="_blank">Koobits</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></li>
+					<li style="line-height:0.5; list-style-type: square"><a href="https://www.literatu.com" target="_blank">Scribo</a></li>
 				</ul>
 		</td>
 		<td style="border: solid 0px black">
 			<ul>
-				<li style="line-height:0.5;"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></li>
-			<li style="line-height:0.5;"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
+				<li style="line-height:0.5; list-style-type: square"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></li>
+			<li style="line-height:0.5; list-style-type: square"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
 					<a href="/files/Student/Moo_O/MooO_Student_Installation_Guide2020.pdf" target="_blank">Installation Guide</a></li>
 			</ul>
 				</td>
@@ -45,7 +45,7 @@ description: ""
 				<li style="line-height:0.5;"><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a></li>
 				<li style="line-height:0.5;"><a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" target="_blank">SLS Login Troubleshooting Guide?</a></li>
 				<li style="line-height:0.5;"><a href="http://shorturl.at/kuPV4" target="_blank">SLS Account Management - Guide for Students</a></li>
-				<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a></li>
+				<li style="line-height:0.5;"><a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a></li>
 				</ul>
 			</td>
 		</tr>
@@ -73,10 +73,10 @@ description: ""
 		<tr>
 			<td style="border: solid 0px black"><a href="https://students-edu-sg.zoom.us/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click &#8675;here to login to Zoom</a>
 			<ul>
-				<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a></li>
-			<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a></li>
-			<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a></li>
-		<li style="list-style-type: none; line-height:0.5;"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li></ul></td>
+				<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a></li>
+			<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a></li>
+			<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a></li>
+		<li style="line-height:0.5;"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li></ul></td>
 		</tr>
 </tbody>
 </table>
