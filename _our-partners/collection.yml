@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Support Group/Welcome to PSG.md
       - Parent Support Group/.keep
       - School Advisory Committee (SAC).md
