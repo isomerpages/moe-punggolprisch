@@ -2,7 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Activities/PSG HI–TEA.md
       - Activities/Teacher's Day Celebration.md
       - Activities/Total Defence Day Recess Activities.md
       - Activities/.keep
