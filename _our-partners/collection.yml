@@ -2,6 +2,11 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Support Group/.keep
+      - Parent Support Group/Welcome to PSG.md
+      - Parent Support Group/PSG Logo.md
+      - Parent Support Group/Exco Team.md
+      - Activities/.keep
       - Activities/Total Defence Day Recess Activities.md
       - Activities/Teacher's Day Celebration.md
       - Activities/PSG HI–TEA.md
@@ -13,9 +18,4 @@ collections:
       - Activities/Children's Day Celebration.md
       - Activities/P1 Orientation Day.md
       - Activities/PSG Activities.md
-      - Activities/.keep
-      - Parent Support Group/.keep
-      - Parent Support Group/Welcome to PSG.md
-      - Parent Support Group/PSG Logo.md
-      - Parent Support Group/Exco Team.md
       - School Advisory Committee (SAC).md
