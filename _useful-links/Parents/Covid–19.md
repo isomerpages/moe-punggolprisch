@@ -14,23 +14,23 @@ third_nav_title: Parents
 <tbody>
 		<tr>
 			<td>Vaccine Safety and Efficacy</td>
-			<td>
-				↣ <a target="_blank" href="https://youtube.com/playlist?list=PLgBw4fHUtzK2hnCEMXpKE54AI6nQqYIDV">Recorded Webinar MOE YouTube channel</a><br>
-				↣ <a target="_blank" href="https://www.hsa.gov.sg/announcements/press-release/pfizercomirnaty_children">Pfizer-BioNTech</a><br>
-				↣ <a target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs: COVID-19 related matters</a>
+			<td><ul>
+				<li style="line-height:0.5"><a target="_blank" href="https://youtube.com/playlist?list=PLgBw4fHUtzK2hnCEMXpKE54AI6nQqYIDV">Recorded Webinar MOE YouTube channel</a></li>
+				<li style="line-height:0.5"><a target="_blank" href="https://www.hsa.gov.sg/announcements/press-release/pfizercomirnaty_children">Pfizer-BioNTech</a></li>
+				<li style="line-height:0.5"><a target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs: COVID-19 related matters</a></li></ul>
 				</td>
 		</tr>
 	<tr>
 		<td>Vaccination and Registration</td>
-			<td>
-					↣ <a target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs: COVID-19 related matters</a><br>
-					↣ <a target="_blank" href="https://www.vaccine.gov.sg/locations-vcs">Vaccination Centres</a>
+			<td><ul>
+				<li style="line-height:0.5"><a target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs: COVID-19 related matters</a></li>
+					<li style="line-height:0.5"><a target="_blank" href="https://www.vaccine.gov.sg/locations-vcs">Vaccination Centres</a></li></ul>
 		</td>
 		</tr>
 		<tr>
 			<td style="border: solid 0px black">Registration link for Parents/ Legal Guardians who did not receive SMS booking invitation</td>
 			<td style="border: solid 0px black">
-				↣ <a target="_blank" href="https://child.vaccine.gov.sg/">Click here to register</a><br>
+				<a target="_blank" href="https://child.vaccine.gov.sg/">Click here to register</a><br>
 				<img align="left" style="width:45%" src="/images/vaccineRegLink.png"></td>
 		</tr>
 	<tr>
