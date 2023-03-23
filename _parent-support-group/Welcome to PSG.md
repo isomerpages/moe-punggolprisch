@@ -3,7 +3,7 @@ title: Welcome to PSG
 permalink: /parent-support-group/welcome-to-psg/
 description: ""
 ---
-<p style="font-size:16px">Dear Fellow PPS Parents,</p>
+<p>Dear Fellow PPS Parents,</p>
 
 <p><strong>Welcome to Punggol Primary School’s Parent Support Group website!</strong></p>
 
