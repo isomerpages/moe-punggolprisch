@@ -14,7 +14,8 @@ third_nav_title: Parents
 <tbody>
 		<tr>
 			<td>Vaccine Safety and Efficacy</td>
-			<td><ul>
+			<td>
+				<ul>
 				<li style="line-height:0.5"><a target="_blank" href="https://youtube.com/playlist?list=PLgBw4fHUtzK2hnCEMXpKE54AI6nQqYIDV">Recorded Webinar MOE YouTube channel</a></li>
 				<li style="line-height:0.5"><a target="_blank" href="https://www.hsa.gov.sg/announcements/press-release/pfizercomirnaty_children">Pfizer-BioNTech</a></li>
 				<li style="line-height:0.5"><a target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs: COVID-19 related matters</a></li></ul>
