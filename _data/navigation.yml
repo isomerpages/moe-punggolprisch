@@ -12,11 +12,6 @@ links:
       - title: Achievements and Affirmations
         url: /achievements-and-affirmations/School-Awards/best-practice-teaching-and-learning/
   - title: Our Partners
-    url: our partners
-    sublinks:
-      - title: Parent Support Group (PSG)
-        url: /parent-support-group/welcome-to-psg/
-      - title: School Advisory Committee
-        url: /sac/
+    collection: our-partners
   - title: Our MK@Punggol
     url: /our-mk-at-punggol
