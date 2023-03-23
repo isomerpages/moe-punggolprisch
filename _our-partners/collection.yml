@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Activities/Children's Day Celebration.md
       - Activities/P1 Orientation Day.md
       - Activities/PSG Activities.md
       - Activities/.keep
