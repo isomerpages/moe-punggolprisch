@@ -4,10 +4,6 @@ permalink: /parent-support-group/Activities/childrens-day-celebration/
 description: ""
 third_nav_title: Activities
 ---
-<img src="/images/Ch%20DayCeleb.png" 
-     style="width:55%">
-
-
 <img src="/images/Children's%20Day%20Celebration1.jpeg" 
      style="width:65%">
 
@@ -31,4 +27,3 @@ third_nav_title: Activities
 
 <img src="/images/Children's%20Day%20Celebration8.jpeg" 
      style="width:65%">
-
