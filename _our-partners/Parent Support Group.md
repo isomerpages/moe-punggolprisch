@@ -36,7 +36,7 @@ description: ""
 	</li>
   <li>
     <input id="accordion3" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion3"><h4>PSG Framework</h4></label>
+		<label for="accordion3"><h5>PSG Framework</h5></label>
     <div>
 			<p><img src="/images/PSG/PSG%20Framework.jpeg" style="width:100%"></p>
     </div>
