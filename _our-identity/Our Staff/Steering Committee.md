@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 <table>
 <tbody>
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px">
+  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
