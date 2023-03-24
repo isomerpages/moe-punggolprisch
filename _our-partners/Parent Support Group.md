@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 	 <li>
     <input id="accordion1" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion1"><h3>Welcome to PSG!</h3></label>
+		<label for="accordion1"><h4>Welcome to PSG!</h4></label>
     <div>
 			<p>Dear Fellow PPS Parents,</p><p><strong>Welcome to Punggol Primary School’s Parent Support Group website!</strong></p>
 
@@ -29,28 +29,28 @@ description: ""
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-	<label for="accordion2"><h3>PSG Logo</h3></label>
+	<label for="accordion2"><h4>PSG Logo</h4></label>
     <div>
       <p><img src="/images/PSG/psg_content.jpeg" style="width:100%"></p>
     </div>
 	</li>
   <li>
     <input id="accordion3" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion3"><h3>PSG Framework</h3></label>
+		<label for="accordion3"><h4>PSG Framework</h4></label>
     <div>
 			<p><img src="/images/PSG/PSG%20Framework.jpeg" style="width:100%"></p>
     </div>
 	</li>
 	<li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4"><h3>PSG Organisational Chart - 2023</h3></label>
+    <label for="accordion4"><h4>PSG Organisational Chart</h4></label>
     <div>
       <p><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
     </div>
 	</li>
 	<li>
     <input id="accordion5" type="checkbox">
-	<label for="accordion5"><h3>Ethos of PSG Members</h3></label>
+	<label for="accordion5"><h4>Ethos of PSG Members</h4></label>
     <div>
 				<table >
 <tbody >		
