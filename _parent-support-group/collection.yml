@@ -2,7 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
-      - Total Defence Day Recess Activities.md
       - Activities/PSG Activities.md
       - Activities/P1 Orientation Day.md
       - Activities/Children's Day Celebration.md
