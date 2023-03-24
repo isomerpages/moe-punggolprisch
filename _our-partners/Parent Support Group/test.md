@@ -30,7 +30,7 @@ third_nav_title: Parent Support Group
     <input id="accordion4" type="checkbox">
 	<label for="accordion4"><h3>Ethos of PSG Members</h3></label>
     <div>
-      <p style="text-align:justify">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
+      <p style="text-align:justify"><img src="/images/PSG/Ethos.jpeg" style="width:100%"></p>
     </div>
 	</li>
 		<li>
