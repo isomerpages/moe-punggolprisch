@@ -7,7 +7,7 @@ third_nav_title: Our Staff
 <ul class="jekyllcodex_accordion">
 		 <li>
     <input id="accordion1" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion1"><h5>PRIMARY 1 TEACHERS</h5></label>
+		<label for="accordion1"><h5 style="line-height:1px">PRIMARY 1 TEACHERS</h5></label>
     <div>
 			<table>
 <tbody style="font-size:18px">
