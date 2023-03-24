@@ -1,4 +1,5 @@
 collections:
   unwanted-pages:
     output: true
-    order: []
+    order:
+      - Teaching Staff.md
