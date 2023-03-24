@@ -74,7 +74,6 @@ third_nav_title: CCE
 		<tr><td></td></tr>
 	</tbody>
 	</table>
-			</p>
     </div>
 	</li>
 </ul>
