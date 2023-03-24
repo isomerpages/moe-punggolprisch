@@ -9,7 +9,7 @@ description: ""
 		<label for="accordion1"><h5>2022</h5></label>
     <div>
 			<table>
-				<tbody style="font-size:18px">
+				<tbody style="font-size:17px">
 					<tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 				<td>MOE Service Excellence Award (Silver)</td>
 				<td>National Day Awards: <br>The Long Service Medal</td>
@@ -41,7 +41,7 @@ description: ""
 		<label for="accordion2"><h5>2021</h5></label>
     <div>
 			<table>
-	<tbody style="font-size:18px">
+	<tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td>MOE Service Excellence Award (Silver)</td>
     <td>National Day Awards: <br>The Long Service Medal</td>
@@ -71,7 +71,7 @@ description: ""
 		<label for="accordion3"><h5>2020</h5></label>
     <div>
 			<table>
-<tbody style="font-size:18px">
+<tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td>MOE Service Excellence Award (Silver)</td>
     <td>National Day Awards: <br>The Long Service Medal</td>
