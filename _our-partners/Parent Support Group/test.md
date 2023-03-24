@@ -23,7 +23,7 @@ third_nav_title: Parent Support Group
     <input id="accordion3" type="checkbox">
     <label for="accordion3"><h3>PSG Organisational Chart - 2023</h3></label>
     <div>
-      <p dir="ltr">The roles of the Cyber Wellness Ambassadors include:</p>
+      <p style="text-align:justify"><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
     </div>
 	</li>
 	<li>
