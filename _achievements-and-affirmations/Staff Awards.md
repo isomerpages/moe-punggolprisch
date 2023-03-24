@@ -9,12 +9,12 @@ description: ""
 		<label for="accordion1"><h5>2022</h5></label>
     <div>
 			<table>
-<tbody style="font-size:18px">
-  <tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td>MOE Service Excellence Award (Silver)</td>
-    <td>National Day Awards: <br>The Long Service Medal</td>
+				<tbody style="font-size:18px">
+					<tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+				<td>MOE Service Excellence Award (Silver)</td>
+				<td>National Day Awards: <br>The Long Service Medal</td>
 		    <td>National Day Awards: <br>The Commedation Medal</td>
-  </tr>
+				</tr>
   <tr>
     <td><ol>
 			<li>Mdm Loh Gek Noi</li>
@@ -25,10 +25,10 @@ description: ""
     <td><ol>
 			<li>Mrs Padmini Prakash</li>
 			<li>Mr Khamilnullah B Abd Hamid</li>
-			<li>Mr Chan Chin San Alvin</li><ol>
+			<li>Mr Chan Chin San Alvin</li></ol>
 		</td>
 		<td><ol>
-			<li>Mr Chan Chin San Alvin</li><ol>
+			<li>Mr Chan Chin San Alvin</li></ol>
 		</td>
   </tr>
 		<tr></tr>
@@ -56,7 +56,7 @@ description: ""
     <td><ol>
 			<li>Ms Karen Yaw Li Ling</li>
 			<li>Mr Goh Chang Chuen</li>
-			<li>Mdm Nor Hidayah Bte Taib</li><ol>
+			<li>Mdm Nor Hidayah Bte Taib</li></ol>
 		</td>
 		<td>
 		</td>
@@ -81,10 +81,10 @@ description: ""
     <td>
 		</td>
     <td><ol>
-			<li>Mdm Loh Kah Yee</li><ol>
+			<li>Mdm Loh Kah Yee</li></ol>
 		</td>
 		<td><ol>
-			<li>Mdm Lim Bee Tin</li><ol>
+			<li>Mdm Lim Bee Tin</li></ol>
 		</td>
   </tr>
 		<tr></tr>
