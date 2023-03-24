@@ -35,7 +35,7 @@ third_nav_title: Parent Support Group
 	</li>
 		<li>
     <input id="accordion5" type="checkbox">
-	<label for="accordion6"><h3>PSG Logo</h3></label>
+	<label for="accordion5"><h3>PSG Logo</h3></label>
     <div>
       <p style="text-align:justify">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
     </div>
