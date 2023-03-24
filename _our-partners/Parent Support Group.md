@@ -52,7 +52,32 @@ description: ""
     <input id="accordion5" type="checkbox">
 	<label for="accordion5"><h3>Ethos of PSG Members</h3></label>
     <div>
-      <p><img src="/images/PSG/Ethos.jpeg" style="width:100%"></p>
+				<table >
+<tbody >		
+  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:20px">
+		<td>Do's</td>
+    <td>Don'ts</td>
+  </tr>
+  <tr>
+		<td><ul style="margin:10px">
+			<li style="line-height:20px; text-align:justify">Follow the school’s rules and respect the authority of the school.</li>
+			<li style="line-height:20px; text-align:justify">Promote and participate actively in the school’s programmes for the benefit of all children. Communicate with the school on specific needs of the child, if any.</li>
+			<li style="line-height:20px; text-align:justify">Provide constructive feedback to the school through official channels (e.g. dialogue sessions, PSG meetings).</li>
+			<li style="line-height:20px; text-align:justify">Respect the views and comments of fellow members. Project a positive image of the school when volunteering at school or PSG events.</li>
+			<li style="line-height:20px; text-align:justify">Dress modestly when volunteering at school events. Seek members’ permission before adding members to any chat or social media group, and keep their personal contact details confidential.</li></ul>
+		</td>
+    <td><ul style="margin:10px">
+			<li style="line-height:20px; text-align:justify">Overrule school policies for personal benefit or convenience.</li>
+			<li style="line-height:20px; text-align:justify">Engage in political games or favouritism within the PSG.</li>
+			<li style="line-height:20px; text-align:justify">Dictate teaching practices in the school. This may undermine the professionalism of teachers. Interfere with the administration of the school (e.g. attempt to discipline a school staff or vendor of the school). Criticise the school or PSG publicly. Any grievances should be brought to the attention of the Principal or PSG Chairperson.</li>
+			<li style="line-height:20px; text-align:justify">Represent the school at any external party, unless specifically authorised by the school leaders (e.g. speaking to the media).</li>
+			<li style="line-height:20px; text-align:justify">Wear revealing clothes.</li>
+			<li style="line-height:20px; text-align:justify">Use the PSG WhatsApp group chat to seek support for specific problems that your child is facing in school. Such feedback should be given to the school. Send messages that are irrelevant to the PSG’s work through the PSG’s communication channels.</li>
+			</ul>
+		</td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>
 </ul>
