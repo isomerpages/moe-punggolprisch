@@ -4,19 +4,28 @@ permalink: /our-partners/parent-support-group/permalink/
 description: ""
 third_nav_title: Parent Support Group
 ---
-<style>
-ul.jekyllcodex\_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
-ul.jekyllcodex\_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
-ul.jekyllcodex\_accordion li input {display: none;}
-ul.jekyllcodex\_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
-ul.jekyllcodex\_accordion li div {display: none; padding-bottom: 1.2rem;}
-ul.jekyllcodex\_accordion li input:checked + label {font-weight: bold;}
-ul.jekyllcodex\_accordion li input:checked + label + div {display: block;}
-ul.jekyllcodex\_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
-ul.jekyllcodex\_accordion li input:checked + label::before {transform: rotate(-45deg);}
-</style>
-<ul class="jekyllcodex\_accordion">
-    {% for item in page.accordion %}
-        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{ Welcome to Parent Support Group }}</label><div>{{ item.content | markdownify }}</div></li>
-    {% endfor %}
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion1" type="checkbox">
+		<label for="accordion1"><h3>Cyberwellness</h3></label>
+    <div>
+			<p>Our Cyber Wellness Programme @ PPS </p>
+    </div>
+	</li>
+	<li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2"><h3>Cyber Wellness Ambassadors
+			</h3></label>
+    <div>
+      <p dir="ltr">The roles of the Cyber Wellness Ambassadors include:</p>
+    </div>
+	</li>
+	<li>
+    <input id="accordion3" type="checkbox">
+	<label for="accordion3"><h3>Cyber Wellness Information for Parents
+</h3></label>
+    <div>
+      <p style="text-align:justify">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
+    </div>
+	</li>
 </ul>
