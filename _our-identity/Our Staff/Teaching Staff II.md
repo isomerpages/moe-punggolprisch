@@ -10,13 +10,13 @@ third_nav_title: Our Staff
 		<label for="accordion1"><h5>PRIMARY 1 TEACHERS</h5></label>
     <div>
 			<table>
-<tbody>
+<tbody style="font-size:15px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
-  <tr>
+  <tr >
     <td style="font-weight: bold">1 Self-Discipline</td>
     <td>Ms Gan Hui Teng</td>
     <td>Ms Khng Su-Lyn Jacqueline</td>
@@ -388,8 +388,3 @@ third_nav_title: Our Staff
     </div>
 	</li>
 </ul>
-
-
-
-
-
