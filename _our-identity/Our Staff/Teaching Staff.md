@@ -4,7 +4,6 @@ permalink: /our-identity/our-staff/teaching-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <ul class="jekyllcodex_accordion">
 		 <li>
     <input id="accordion1" type="checkbox" style="background-color: #ccc;">
@@ -13,7 +12,7 @@ third_nav_title: Our Staff
 			<table>
 <tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -59,7 +58,7 @@ third_nav_title: Our Staff
 			<table>
 	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -105,7 +104,7 @@ third_nav_title: Our Staff
 			<table>
 	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -146,7 +145,7 @@ third_nav_title: Our Staff
 			<table>
 				<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -192,7 +191,7 @@ third_nav_title: Our Staff
       <table>
 	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -236,9 +235,9 @@ third_nav_title: Our Staff
 		<label for="accordion6"><h5>PRIMARY 6 TEACHERS</h5></label>
     <div>
 			<table>
-<tbody style="font-size:18px">
+<tbody style="font-size:17px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td width="140">Class</td>
+    <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
   </tr>
@@ -282,7 +281,7 @@ third_nav_title: Our Staff
     <label for="accordion7"><h5>MOTHER TONGUE TEACHERS</h5></label>
     <div>
       <table>
-<tbody style="font-size:18px">
+<tbody style="font-size:17px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
