@@ -3,9 +3,9 @@ title: Parent Support Group
 permalink: /our-partners/parent-support-group/psg/
 description: ""
 ---
-<ul class="jekyllcodex_accordion" style="background-color:lightblue">
+<ul class="jekyllcodex_accordion" style="background-color:lightyellow">
 	 <li>
-    <input id="accordion1" type="checkbox" style="background-color: lightblue;">
+    <input id="accordion1" type="checkbox" style="background-color: #ccc;">
 		<label for="accordion1"><h3>Welcome to PSG!</h3></label>
     <div>
 			<p>Dear Fellow PPS Parents,</p><p><strong>Welcome to Punggol Primary School’s Parent Support Group website!</strong></p>
