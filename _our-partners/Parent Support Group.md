@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 	 <li>
     <input id="accordion1" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion1"><h4>Welcome to PSG!</h4></label>
+		<label for="accordion1"><h5>Welcome to PSG!</h5></label>
     <div>
 			<p>Dear Fellow PPS Parents,</p><p><strong>Welcome to Punggol Primary School’s Parent Support Group website!</strong></p>
 
@@ -29,7 +29,7 @@ description: ""
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-	<label for="accordion2"><h4>PSG Logo</h4></label>
+	<label for="accordion2"><h5>PSG Logo</h5></label>
     <div>
       <p><img src="/images/PSG/psg_content.jpeg" style="width:100%"></p>
     </div>
@@ -43,14 +43,14 @@ description: ""
 	</li>
 	<li>
     <input id="accordion4" type="checkbox">
-    <label for="accordion4"><h4>PSG Organisational Chart</h4></label>
+    <label for="accordion4"><h5>PSG Organisational Chart</h5></label>
     <div>
       <p><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
     </div>
 	</li>
 	<li>
     <input id="accordion5" type="checkbox">
-	<label for="accordion5"><h4>Ethos of PSG Members</h4></label>
+	<label for="accordion5"><h5>Ethos of PSG Members</h5></label>
     <div>
 				<table >
 <tbody >		
