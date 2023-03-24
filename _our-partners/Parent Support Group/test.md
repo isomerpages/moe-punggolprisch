@@ -4,7 +4,7 @@ permalink: /our-partners/parent-support-group/permalink/
 description: ""
 third_nav_title: Parent Support Group
 ---
-<ul class="accordion">
+<ul class="jekyllcodex_accordion">
 	 <li>
     <input id="accordion1" type="checkbox" style="background-color: #ccc;">
 		<label for="accordion1"><h3>Welcome to PSG!</h3></label>
