@@ -27,9 +27,7 @@ description: ""
 			<li>Mr Khamilnullah B Abd Hamid</li>
 			<li>Mr Chan Chin San Alvin</li></ol>
 		</td>
-		<td><ol>
-			<li>Mr Chan Chin San Alvin</li></ol>
-		</td>
+		<td><ol><li>Mr Chan Chin San Alvin</li></ol></td>
   </tr>
 		<tr></tr>
 </tbody>
@@ -58,8 +56,7 @@ description: ""
 			<li>Mr Goh Chang Chuen</li>
 			<li>Mdm Nor Hidayah Bte Taib</li></ol>
 		</td>
-		<td>
-		</td>
+		<td></td>
   </tr>
 		<tr></tr>
 </tbody>
@@ -78,16 +75,11 @@ description: ""
 		    <td>National Day Awards: <br>The Commedation Medal</td>
   </tr>
   <tr>
-    <td>
-		</td>
-    <td><ol>
-			<li>Mdm Loh Kah Yee</li></ol>
-		</td>
-		<td><ol>
-			<li>Mdm Lim Bee Tin</li></ol>
-		</td>
+    <td></td>
+    <td><ol><li>Mdm Loh Kah Yee</li></ol></td>
+		<td><ol><li>Mdm Lim Bee Tin</li></ol></td>
   </tr>
-		<tr></tr>
+	<tr></tr>
 </tbody>
 </table>
     </div>
