@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 		<label for="accordion1"><h5>PRIMARY 1 TEACHERS</h5></label>
     <div>
 			<table>
-<tbody style="font-size:15px">
+<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -56,7 +56,7 @@ third_nav_title: Our Staff
 		<label for="accordion2"><h5>PRIMARY 2 TEACHERS</h5></label>
     <div>
 			<table>
-	<tbody>
+	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -102,7 +102,7 @@ third_nav_title: Our Staff
 		<label for="accordion3"><h5>PRIMARY 3 TEACHERS</h5></label>
     <div>
 			<table>
-	<tbody>
+	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -143,7 +143,7 @@ third_nav_title: Our Staff
 		<label for="accordion4"><h5>PRIMARY 4 TEACHERS</h5></label>
     <div>
 			<table>
-				<tbody>
+				<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -189,7 +189,7 @@ third_nav_title: Our Staff
 	<label for="accordion5"><h5>PRIMARY 5 TEACHERS</h5></label>
     <div>
       <table>
-	<tbody>
+	<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -235,7 +235,7 @@ third_nav_title: Our Staff
 		<label for="accordion6"><h5>PRIMARY 6 TEACHERS</h5></label>
     <div>
 			<table>
-<tbody>
+<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td width="140">Class</td>
     <td>Form Teachers</td>
@@ -281,7 +281,7 @@ third_nav_title: Our Staff
     <label for="accordion7"><h5>MOTHER TONGUE TEACHERS</h5></label>
     <div>
       <table>
-<tbody>
+<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
@@ -349,7 +349,7 @@ third_nav_title: Our Staff
 	<label for="accordion8"><h5>PE, ART &amp; MUSIC TEACHERS</h5></label>
     <div>
 			<table>
-				<tbody>
+				<tbody style="font-size:18px">
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
     <td>Subject</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
