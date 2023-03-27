@@ -7,14 +7,14 @@ Home-based learning (HBL) is an important extension of our students’ learning.
   
 Using the Active Learning Framework, our teachers design both Asynchronous and Synchronous lessons that are engaging for students and allow them to continue interacting with teachers and peers. We leverage on the Student Learning Space (SLS) as a main platform for our e-learning and complement it with various other web-based tools affordances to ensure that learning objectives are met.  We employ quizzes with social learning elements to evaluate students learning in an interesting manner, host video conferencing for virtual classes and design interactive activities where students can construct knowledge with their peers.
 
-![](/images/hbl1.png)
-![](/images/hbl2.png)
+![](/images/HBL/hbl1.png)
+![](/images/HBL/hbl2.png)
 
 
 As the provision of computing device is an integral part of Home-based learning, our students who have no access to computing devices will be provided support with either coming to school to complete their HBL or with a loaned device to be used at home. PPS ICT Helpdesk, both through a helpline and online form, is also available to enable students to have timely technical support when needed.
 
 
-![](/images/hbl3.png)
+![](/images/HBL/hbl3.png)
 
 
 ##### PPS ICT Helpdesk
