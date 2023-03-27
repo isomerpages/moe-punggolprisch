@@ -39,4 +39,4 @@ third_nav_title: Physical Sports
 	<tr><td></td></tr>
 </table>
 
-![](/images/MultiSportsCCA.jpeg)
+![](/images/cca/MultiSportsCCA.jpeg)
