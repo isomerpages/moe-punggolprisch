@@ -15,8 +15,8 @@ third_nav_title: Visual and Performing Arts
 <p>
 	<table>
 		<tbody>
-			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
-			<tr><td></td><td></td><td>Music Room 2</td></tr>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td></td><td></td><td>Music Room 2</td><td></td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
