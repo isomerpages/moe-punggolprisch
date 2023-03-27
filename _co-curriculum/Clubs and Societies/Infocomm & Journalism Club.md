@@ -25,7 +25,7 @@ third_nav_title: Clubs and Societies
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>3J</td><td>Mdm Khuan Jiayan<br>Mdm Koh Wee Lin</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>3J</td><td>Mdm Khuan Jiayan<br>Mdm Koh Wee Lin</td></tr>
 		</tbody>
 	</table>
 		</td>
