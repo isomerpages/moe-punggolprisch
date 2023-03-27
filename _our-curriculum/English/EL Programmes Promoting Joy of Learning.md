@@ -4,7 +4,7 @@ permalink: /our-curriculum/English/el-programmes-promoting-joy-of-learning/
 description: ""
 third_nav_title: English
 ---
-![](/images/photo2.jpeg)
+![](/images/English/photo2.jpeg)
 
 ##### Our School Library where Knowledge and Adventure Await
 *   Newly-renovated in 2019  
@@ -25,5 +25,4 @@ As part of EL department efforts to build a reading culture in our school, a wid
 
 **(embed video here)**
 
-<img src="/images/Picture14.png" 
-     style="width:85%">
+<img src="/images/English/Picture14.png" style="width:85%">
