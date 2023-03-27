@@ -39,5 +39,5 @@ third_nav_title: Visual and Performing Arts
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3HYIzKoxMr8nT8Mhq2XGNhO-JpUiDQEyJf97sBzbOemOjERZWeAXv-TdRm-rPB3ILG1Ytg__dFn4S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
-<img src="/images/Choir2.jpeg" style="width:65%"><br>
-<img src="/images/Choir1.jpeg" style="width:65%">
+<img src="/images/CCA/Choir2.jpeg" style="width:65%"><br>
+<img src="/images/CCA/Choir1.jpeg" style="width:65%">
