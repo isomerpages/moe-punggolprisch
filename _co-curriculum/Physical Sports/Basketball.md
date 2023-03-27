@@ -18,8 +18,15 @@ third_nav_title: Physical Sports
 <p style="text-align:justify">The Basketball CCA strives to nurture all pupils in acquisition of personal skills, while providing the platform for working with other like-minded individuals in deriving joy of learning in a sport.</p>
 <h4>Brief Description of CCA</h4>
 <p style="text-align:justify">In addition to building up each child in his/her own physical capacity and competence in skills (dribbling, shooting, passing) and abilities, opportunities to learn to work with others (playing as a team in competitions) to develop social awareness, relationship management skills are key fundamentals in laying a bright foundation for the future.</p>
-<h4>Venue</h4>
-<p style="text-align:justify">ISH Arena</p>
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td>Monday & Tuesday</td><td>2:00 pm - 4:00 pm</td><td>ISH & Basketball Court/Arena</td><td>Mrs Heng-Tan Siow Leng, Ms Koh Shiew Ching, Ms Hairani, Mr Tai Yean Hwee</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 <h4>Achievements</h4>
 <p style="text-align:justify">South Zone championships 2019<br>Senior Boys - Preliminary rounds</p>
 <p style="text-align:justify">National championships 2019 <br>Junior Boys - Tiered rounds 2nd runner -up</p>
