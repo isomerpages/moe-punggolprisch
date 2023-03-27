@@ -4,21 +4,21 @@ permalink: /cca/Clubs-and-Societies/design-and-innovation-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<h4>Vision</h4>
+<h3 style="color:mediumseagreen">Vision</h3>
 <p style="text-align:justify">Every member <b>design and innovation</b> professional.</p>
-<h4>Mission</h4>
+<h3 style="color:mediumseagreen">Mission</h3>
 <p style="text-align:justify">To create an interactive environment that provides opportunities to motivate and encourage our members to be lifelong learners.</p>
-<h4>Objective</h4>
+<h3 style="color:mediumseagreen">Objective</h3>
 <p style="text-align:justify">With interactive activities that stimulate curiosity, critical thinking, cooperation and collaboration, members will be ready to be Design and Innovation professionals.</p>
-<h4>Brief Description of CCA</h4>
+<h3 style="color:mediumseagreen">Brief Description of CCA</h3>
 <p style="text-align:justify">In Design and Innovation, our activities are interdisciplinary and we have to apply knowledge in the area of Science, Technology, Engineering and Mathematics in order to complete our project.</p>
 <p style="text-align:justify">We make use of different types of resources in our activities. The following are the different types of resources that we have used or will be using: recyclables, strawbees, Sphero.</p>
-<h4>Schedule</h4>
+<h3 style="color:mediumseagreen">Schedule</h3>
 <p>
-	<table>
+	<table style="border:1px solid black">
 		<tbody>
-			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Science Rooms & Maker’s Space Room</td><td>Mdm Christine Yeo<br>Ms Anne Poh<br>Mdm Cloud Lee<br>Ms Joey Tan</td></tr>
+			<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr style="background-color:ivory"><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Science Rooms & Maker’s Space Room</td><td>Mdm Christine Yeo<br>Ms Anne Poh<br>Mdm Cloud Lee<br>Ms Joey Tan</td></tr>
 			<tr></tr>
 		</tbody>
 		</table> 
