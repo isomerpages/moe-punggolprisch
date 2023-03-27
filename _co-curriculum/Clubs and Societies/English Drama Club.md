@@ -55,6 +55,4 @@ third_nav_title: Clubs and Societies
 
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSA5l7Zeed6Vx90oOPWJWZClkyfdco5lpKOoXiUm-KV4LiZYtYT_uxjryQQyM0RgopTQ_HBD3BoWLPV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
-##### Year-end Celebration
-
-![](/images/Year%20End%20Celebration.jpeg)
+<p><div style="font-weight:bold; font-size:20px; color:rgb(94,94,207)">Year-end Celebration</div><img src="/images/Year%20End%20Celebration.jpeg" style="border:10px solid forestgreen"></p>
