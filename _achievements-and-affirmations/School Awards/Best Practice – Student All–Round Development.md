@@ -4,8 +4,6 @@ permalink: /achievements-and-affirmations/School-Awards/best-practice-student-al
 description: ""
 third_nav_title: School Awards
 ---
-![](/images/Best%20Practice%20Student%20AllRound%20Development.png)
-
 The school designs a Co Curriculum framework to complement the T&L framework for a seamless curriculum. Guided by the school’s belief that that “Every Child has Interests and Talents” the school adopts age-appropriate strategies and programmes that develop the pupils holistically.
 
 PPS seeks to develop every Punngolite to be a Gracious Citizen, A Confident Leader, An Innovative Teamplayer and a Life-long Learner. To achieve this, it leverages on its strong teacher-student relationships through structures such as the school’s consortium. The school’s value ‘Affection’ and its expected behaviour such as ‘Not put others down’ help to create a safe psycho-social environment and serve as a proactive measure to discipline with dignity. The cohort-tracking system also enables teachers to better understand students’ needs as they develop.
