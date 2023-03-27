@@ -30,7 +30,7 @@ third_nav_title: Our Staff
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
-	<table><tbody>
+<table><tbody>
   <tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
   </tr>
