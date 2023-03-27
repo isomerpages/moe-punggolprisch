@@ -16,8 +16,15 @@ To nurture budding musicians and provide platforms for the members to grow aesth
 ##### Brief Description of CCA
 Punggol Primary School Concert Band was first founded in 2005. Guided by our belief that ‘Every Child has Interests and Talents’, PPS Concert Band has been nurturing budding musicians since 2005. Band plays a big part in school events like CNY celebration, National Day celebration and Punggol’s Pride Day. The band provides platform for the pupils to grow aesthetically and holistically. We continue to seek for opportunities to widen our repertoire to improve our musicality.
 
-##### Venue
-Angklung room
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>Angklung Room</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 
 ##### Achievement
 2018 SYF Accomplishment
