@@ -18,8 +18,8 @@ To develop and nurture leaders with habits of obedience, reverence, discipline a
 <p>
 	<table>
 		<tbody>
-			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
-			<tr><td>Friday</td><td>2pm - 4pm</td><td>Auditorium and iLab2</td></tr>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td>Thursday</td><td>3:00pm - 5:00pm</td><td>Arena & Auditorium</td><td>Mrs Kelly Lye<br>Mr Yeo Wei Hao<br>Ms Gan Hui Teng</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
