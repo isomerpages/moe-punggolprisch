@@ -29,9 +29,15 @@ Pupils learn basic painting techniques in their weekly lessons. When they become
 
  
 
-##### Venue
-
-Art Studio 1
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>Art Studio 1</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 
 
 
