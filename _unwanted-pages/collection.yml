@@ -2,4 +2,5 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - CCA Recruitment Drive.md
       - Teaching Staff.md
