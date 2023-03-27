@@ -14,10 +14,10 @@ third_nav_title: Clubs and Societies
 <p style="text-align:justify">Pupils will learn the basics of EV3 LEGO mindstorm robots. They will be tasked to build and programme the robots to complete missions design by our trainers. Through the mission, they will learn to work effectively as a team and apply what they learned to solve the problems creatively.</p>
 <h3 style="color:mediumseagreen">Schedule</h3>
 <p>
-	<table>
+	<table style="border: 1px solid black">
 		<tbody>
 			<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>4R & 4J</td><td>Mdm Bawvaney<br>Mdm Mahirah</td></tr>
+			<tr style="background-color:ivory"><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>4R & 4J</td><td>Mdm Bawvaney<br>Mdm Mahirah</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
