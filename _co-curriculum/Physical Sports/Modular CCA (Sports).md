@@ -30,7 +30,7 @@ third_nav_title: Physical Sports
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement &#8677;</td>
 			<td style="text-align:justify"><b>2019</b><br>
 				<b>Friendly Games:</b><br>
-				<ol style="font-size:15px">
+				<ol style="font-size:12px">
 					<li style="line-height:15px">Admiralty Primary School & Holy Innocent’s Primary School - Frisbee</li>
 					<li style="line-height:15px">Admiralty Primary School - Touckball</li></ol>
 				<b>Enrichment:</b><br>Forest Adventure (at Bedok)
