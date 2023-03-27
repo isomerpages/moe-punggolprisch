@@ -4,49 +4,40 @@ permalink: /cca/Clubs-and-Societies/english-drama-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-##### Vision
-
-To nurture every English Debate &amp; Drama Club member into a confident and creative member, who is able to express himself/herself articulately in the realm of oratory and dramatisation via the use of the English Language.  
-  
-
-##### Mission
-
-To expose members to different forms of dramatisation and oratorical skills and ignite a passion and love for theatre arts, argumentation and public speaking.
-
-  
-
-##### Objective
-The goal of the English Debate &amp; Drama Club is to nurture and develop pupils’ talents and skills in the area of public speaking through drama and debate activities.
-
-  
-
-##### Brief Description of CCA
-In Debate, all members go through training on how to formulate and present arguments in response to assigned motions. Members will have opportunities to research for information and craft their speeches in a structured and persuasive manner. Debate practice sessions and competitions help our members to hone their skills.
-
-  
-In Drama, members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. Members get the opportunity to display what they have learnt through various school-based performances and competitions. Members are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes.
-
-  
-
-##### Venue
-
-Library
-
-  
-
-##### Achievements
-**Debate:**  
-**1) Wits &amp; Words competition**  
-\-Best speaker for Preliminary Round 2  
-\-Winner of Preliminary Round 3  
-\-Top 5 schools in the South Zone  
-  
-**2) Primary School Debate Opens (PSDO) 2019**  
-\-Best speaker for Preliminary Round 1  
-\-Winner of Preliminary Round 1  
-  
-**Drama:**  
-**3) Public Performance at Our Tampines Hub for SYF 2019 Celebrations Play!**
+<h4>Vision</h4>
+<p style="text-align:justify">To nurture every English Debate &amp; Drama Club member into a confident and creative member, who is able to express himself/herself articulately in the realm of oratory and dramatisation via the use of the English Language.</p>
+<h4>Mission</h4>
+<p style="text-align:justify">To expose members to different forms of dramatisation and oratorical skills and ignite a passion and love for theatre arts, argumentation and public speaking.</p>
+<h4>Objective</h4>
+<p style="text-align:justify">The goal of the English Debate &amp; Drama Club is to nurture and develop pupils’ talents and skills in the area of public speaking through drama and debate activities.</p>
+<h4>Brief Description of CCA</h4>
+<p style="text-align:justify">In Debate, all members go through training on how to formulate and present arguments in response to assigned motions. Members will have opportunities to research for information and craft their speeches in a structured and persuasive manner. Debate practice sessions and competitions help our members to hone their skills.</p>
+<p style="text-align:justify">In Drama, members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. Members get the opportunity to display what they have learnt through various school-based performances and competitions. Members are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes.</p>
+<h4>Venue</h4>
+<p style="text-align:justify">Library</p>
+<h4>Achievements</h4>
+<p>
+<table>
+	<thead style="line-height:1; font-weight:bold"><tr><td>DEBATE</td><td>DRAMA</td></tr></thead>
+	<tbody style="font-size:26px" >
+		<tr>
+			<td><ol>
+				<li style="line-height:1">Wits &amp; Words competition  
+					<ul><li style="line-height:1">Best speaker for Preliminary Round 2</li>
+						<li style="line-height:1">Winner of Preliminary Round 3</li>
+						<li style="line-height:1">Top 5 schools in the South Zone</li></ul>
+				</li>
+				<li style="line-height:1">Primary School Debate Opens (PSDO) 2019
+					<ul><li style="line-height:1">Best speaker for Preliminary Round 1</li>
+						<li style="line-height:1">Winner of Preliminary Round 1</li></ul>
+				</li>
+				</ol></td>
+			<td><ol>	
+				<li style="line-height:1">Public Performance at Our Tampines Hub for SYF 2019 Celebrations Play!</li>
+				</ol>
+			</td>
+	</tbody>
+	</table>
 
 ##### Debate
 
