@@ -7,9 +7,9 @@ description: ""
 <!--Header #1--->
 <thead>
 	<tr>
-		<td style="color:rgb(94,94,207);font-size:25px;font-family:impact">A - D</td>
-		<td style="color:rgb(94,94,207);font-size:25px;font-family:impact">E - H</td>
-		<td style="color:rgb(94,94,207);font-size:25px;font-family:impact">I - L</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">A - D</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">E - H</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">I - L</td>
 	</tr>
 </thead>
 <tbody>
@@ -36,9 +36,9 @@ description: ""
 <!--Header #2--->
 <thead>
 	<tr>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">M - P</td>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">Q - T</td>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">U - X</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">M - P</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">Q - T</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">U - X</td>
 	</tr>
 </thead>
 <tbody>
@@ -68,9 +68,9 @@ description: ""
 	</tbody>
 <!--Header #3--->
 <thead><tr>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">Y - Z</td>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">0 - 9</td>
-		<td style="color:rgb(94,94,207); font-size:25px; font-family:impact">Others</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">Y - Z</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">0 - 9</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">Others</td>
 	</tr></thead>
 <tbody>
 	<tr>
