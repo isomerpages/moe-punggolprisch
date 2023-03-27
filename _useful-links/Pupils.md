@@ -5,7 +5,7 @@ description: ""
 ---
 <table style="font-size:16px">
 <thead>
-	<tr ><td colspan=3 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Apps</td></tr>
+	<tr ><td colspan=3 style="font-family:impact; font-size:25px">Apps</td></tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -35,7 +35,7 @@ description: ""
 	</table>
 <table style="font-size:16px">
 <thead>
-	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Learning Space (SLS)</td></tr>
+	<tr><td style="font-family:impact; font-size:25px">Student Learning Space (SLS)</td></tr>
 </thead>
 <!--SLS-->
 <tbody>
@@ -53,7 +53,7 @@ description: ""
 </tbody>
 <!--Student iCON-->
 <thead>
-	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student iCON</td></tr>
+	<tr><td style="font-family:impact; font-size:25px">Student iCON</td></tr>
 </thead>
 <tbody>
 		<tr>
@@ -68,7 +68,7 @@ description: ""
 </tbody>
 <!--Student Zoom-->
 <thead>
-	<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Student Zoom Account</td></tr>
+	<tr><td style="font-family:impact; font-size:25px">Student Zoom Account</td></tr>
 </thead>
 <tbody>
 		<tr>
