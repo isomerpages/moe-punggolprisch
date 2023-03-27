@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Co Curricular Activities (CCA) Programme.md
       - Visual and Performing Arts/Art & Crafts Club.md
       - Visual and Performing Arts/Chinese Calligraphy & Brush Painting.md
       - Visual and Performing Arts/Choir.md
