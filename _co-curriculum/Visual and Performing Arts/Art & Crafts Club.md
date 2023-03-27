@@ -4,44 +4,29 @@ permalink: /cca/Visual-and-Performing-Arts/arts-n-craft-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-##### Vision
-
-Creative Individuals with good habits of mind and character.  
-  
-
-##### Mission
-
-To provide Art &amp; Crafts Club members with an opportunity to enrich and foster their individuality through the creation of artworks. To develop members to be a gracious representative of the visual arts of the school and community.
-
-  
-
-##### Objective
-
-The Art &amp; Crafts Club aims to imbue in pupils the love for the visual art and nurture artistic growth through meaningful and joyful artmaking activities.
-
-  
-
-##### Brief Description of CCA
-
-Members of the Art &amp; Crafts Club maintains a sense of camaraderie for fellow members and supports each other through fun and enjoyable activities which are conducted on Tuesdays from 2 to 4 pm. Members can look forward to exciting learning journeys, teambonding session and art jamming sessions with their peers and teachers in the Art Studios.
-
-  
-
-##### Venue
-
-Art Studio 2
-
-  
-
-##### Achievement
+<h4>Vision</h4>
+<p style="text-align:justify">Creative Individuals with good habits of mind and character.</p>
+ <h4>Mission</h4>
+<p style="text-align:justify">
+To provide Art &amp; Crafts Club members with an opportunity to enrich and foster their individuality through the creation of artworks. To develop members to be a gracious representative of the visual arts of the school and community.</p>
+<h4>Objective</h4>
+<p style="text-align:justify">The Art &amp; Crafts Club aims to imbue in pupils the love for the visual art and nurture artistic growth through meaningful and joyful artmaking activities.</p>
+<h4>Brief Description of CCA</h4>
+<p style="text-align:justify">Members of the Art &amp; Crafts Club maintains a sense of camaraderie for fellow members and supports each other through fun and enjoyable activities which are conducted on Tuesdays from 2 to 4 pm. Members can look forward to exciting learning journeys, teambonding session and art jamming sessions with their peers and teachers in the Art Studios.</p>
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>Art Studio 2</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
+<h4>Achievement</h4>
 
 **SYF Art and Craft Exhibition 2019**&nbsp;
 * Certificate of Participation
 
-  
-
-**SYF Art and Craft Exhibition 2017**&nbsp;
-* 2 Certificates of Recognition
 
   
 
