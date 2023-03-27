@@ -4,29 +4,14 @@ permalink: /cca/Visual-and-Performing-Arts/angklung-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-##### Vision  
-
-To be confident performers and responsible team players  
-  
-
-##### Mission
-
-Build on each others’ strengths and weaknesses. Work harmoniously as a team to create beautiful music; mirroring the nature of Angklung.
-
-  
-
-##### Objective
-
-To nurture team spirit among members and that performance is a display of self discipline.
-
-  
-
-##### Brief Description of CCA
-
-Understanding and appreciating the communal nature of Malay/Indonesian music. Angklung instruments require harmony for beautiful music to be produced. It builds their character.
-
-  
-
+<h4>Vision</h4>
+<p style="text-align:justify">To be confident performers and responsible team players</p>
+<h4>Mission</h4>
+<p style="text-align:justify">Build on each others’ strengths and weaknesses. Work harmoniously as a team to create beautiful music; mirroring the nature of Angklung.</p>
+<h4>Objective</h4>
+<p style="text-align:justify">To nurture team spirit among members and that performance is a display of self discipline.</p>
+<h4>Brief Description of CCA</h4>
+<p style="text-align:justify">Understanding and appreciating the communal nature of Malay/Indonesian music. Angklung instruments require harmony for beautiful music to be produced. It builds their character.</p>
 <h4>Schedule</h4>
 <p>
 	<table>
@@ -36,10 +21,7 @@ Understanding and appreciating the communal nature of Malay/Indonesian music. An
 			<tr></tr>
 		</tbody>
 		</table>
-
-  
-
-##### Achievement
+<h4>Achievement</h4>
 
 **2018 SYF Accomplishment**
 
