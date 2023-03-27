@@ -28,8 +28,10 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Vice Principal – Administration</td>
     <td>Ms Usha Rani Henry</td>
   </tr>
+	</tbody></table>
+	<table><tbody>
   <tr>
-    <td colspan=2 style="font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
   </tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
@@ -72,8 +74,11 @@ third_nav_title: Our Staff
 		</td>
 		<td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
+	</tbody></table>
+<table>
+	<tbody>
   <tr>
-    <td colspan=2 style="font-size:22px; font-family:impact">YEAR HEADS</td>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">YEAR HEADS</td>
   </tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
@@ -91,8 +96,10 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Lower Primary (LP)</td>
 		<td>Mdm Loh Ka Yee Sandra</td>
   </tr>
+	</tbody></table>
+<table><tbody>
   <tr>
-    <td colspan=2 style="font-size:22px; font-family:impact">SUBJECT HEADS</td>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">SUBJECT HEADS</td>
   </tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
@@ -110,8 +117,10 @@ third_nav_title: Our Staff
 		<td style="font-weight: bold">Student Well-Being</td>
     <td>Ms Chua Yen Ling Rachel</td>
   </tr>
+	</tbody></table>
+<table><tbody>
 	<tr>
-    <td colspan=2 style="font-size:22px; font-family:impact">LEVEL HEADS</td>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">LEVEL HEADS</td>
   </tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
@@ -137,8 +146,10 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Science (SC)</td>
 		<td>Mdm Joanna Tan</td> 
   </tr>
+	</tbody></table>
+<table><tbody>
   <tr>
-    <td colspan=2 style="font-size:22px; font-family:impact">ADMINSTRATIVE & OPERATIONS</td>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">ADMINSTRATIVE & OPERATIONS</td>
   </tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
