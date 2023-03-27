@@ -19,9 +19,15 @@ We aim to develop students’ potential in singing and performing skills as well
 
 Choir plays a major role in various school events, frequently staging performances in school’s celebrations such as yearly prize-giving ceremony. Our pupils also participate in external competitions and performance events. Besides weekly practices, our pupils attend workshops and exchange programmes to constantly improve and better equip themselves in their singing and vocal techniques.
 
-##### Venue:
-
-Music Room 2
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>Music Room 2</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 
 ##### Achievements:
 
