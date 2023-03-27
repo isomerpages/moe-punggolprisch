@@ -4,6 +4,8 @@ links:
     collection: our-identity
   - title: Our Curriculum
     collection: our-curriculum
+  - title: Our Co Curriculum
+    collection: co-curriculum
   - title: Our Pride
     url: /distinctive-programme/distinctive-programme/
     sublinks:
@@ -15,10 +17,3 @@ links:
     collection: our-partners
   - title: Our MK@Punggol
     url: /our-mk-at-punggol
-  - title: Our Curriculum
-    url: /permalink
-    sublinks:
-      - title: Curriculum
-        url: our-curriculum/Aesthetics/aesthetics/
-      - title: Co Curriculum Activities (CCA)
-        url: /co-curriculum/cca/
