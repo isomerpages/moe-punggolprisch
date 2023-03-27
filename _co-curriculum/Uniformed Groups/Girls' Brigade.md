@@ -31,11 +31,11 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 <p>
 	<table>
 		<tbody>
-			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
-			<tr><td></td><td></td><td>Primary 1 Innovation classroom and Art Rooms</td></tr>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td>Thursday</td><td>3:00pm - 5:00pm</td><td>Arena & Library</td><td>Mrs Michelle Tan<br>Ms Susan Neo<br>Mrs Ivy Mak</td></tr>
 			<tr></tr>
 		</tbody>
-		</table> 
+		</table>
 
 <h4>Achievement</h4>
 
