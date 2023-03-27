@@ -12,8 +12,15 @@ third_nav_title: Clubs and Societies
 <p style="text-align:justify">Infocomm and Journalism Club aims to empower Punggolites to integrate media and ICT tools in a fun and meaningful way.</p>
 <h4>Brief Description of CCA</h4>
 <p style="text-align:justify">Members of the Infocomm and Journalism Club are exposed to techniques of photography, filming, video journalism, programming skills and games development platforms such as Makey Makey, Mbot, Scratch and Drone.</p>
-<h4>Venue</h4>
-<p style="text-align:justify">To be advised</p>
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>To be confirmed</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 <h4>Achievement</h4>
 <p style="text-align:justify">
 <ol>
