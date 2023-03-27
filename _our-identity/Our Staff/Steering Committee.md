@@ -171,9 +171,6 @@ third_nav_title: Our Staff
 		<td style="font-weight: bold">Operations Manager</td>
     <td>Mr Heng Chai Boon Eddie</td>
   </tr>
-	<tr>
-    <td></td>
-    <td colspan=2></td>
-  </tr>
+	<tr><td></td></tr>
 </tbody>
 </table>
