@@ -46,7 +46,6 @@ third_nav_title: Our Staff
     <td>Mdm Erwina Bte Affandi</td>
     <td>Mrs Heng-Tan Siow Leng</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -92,7 +91,6 @@ third_nav_title: Our Staff
     <td>Mdm Chua Yen Ling Rachel</td>
     <td>Mdm Hairani Bte Asri</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -133,7 +131,6 @@ third_nav_title: Our Staff
     <td>Mr Cheng Guo Wei Derek</td>
     <td>Mdm Malini Kumarasamy</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -179,7 +176,6 @@ third_nav_title: Our Staff
     <td>Mdm Satvinder Kaur</td>
     <td>Ms Koh Shiew Ching</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -225,7 +221,6 @@ third_nav_title: Our Staff
     <td>Mdm Nurulhuda Bte Abdul Samat</td>
     <td>Mr Tan Kia Hwee</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -271,7 +266,6 @@ third_nav_title: Our Staff
     <td>Mdm Subhaletchmi</td>
     <td>Ms Afifah Bte Abdullah Yahya Aljaru</td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
