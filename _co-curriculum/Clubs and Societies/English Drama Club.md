@@ -31,11 +31,13 @@ third_nav_title: Clubs and Societies
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement &#8677;</td>
 			<td style="text-align:justify"><b>Debate</b><br>		
 				1. Wits &amp; Words competition  
-					<ul><li style="line-height:1">Best speaker for Preliminary Round 2</li>
+					<ul style="font-size:12px">
+						<li style="line-height:1">Best speaker for Preliminary Round 2</li>
 						<li style="line-height:1">Winner of Preliminary Round 3</li>
 						<li style="line-height:1">Top 5 schools in the South Zone</li></ul>
 				2. Primary School Debate Opens (PSDO) 2019
-					<ul><li style="line-height:1">Best speaker for Preliminary Round 1</li>
+					<ul style="font-size:12px">
+						<li style="line-height:1">Best speaker for Preliminary Round 1</li>
 						<li style="line-height:1">Winner of Preliminary Round 1</li></ul>				
 				<b>Drama</b><br>
 			3. Public Performance at Our Tampines Hub for SYF 2019 Celebrations Play!
