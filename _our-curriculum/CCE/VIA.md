@@ -4,4 +4,4 @@ permalink: /our-curriculum/CCE/via/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/CCE-VIA.png)
+![](/images/CCE/CCE-VIA.png)
