@@ -28,6 +28,7 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Vice Principal – Administration</td>
     <td>Ms Usha Rani Henry</td>
   </tr>
+	<tr><td></td></tr>
 	</tbody></table>
 	<table><tbody>
   <tr>
@@ -74,6 +75,7 @@ third_nav_title: Our Staff
 		</td>
 		<td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
+	<tr><td></td></tr>
 	</tbody></table>
 <table>
 	<tbody>
@@ -96,6 +98,7 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Lower Primary (LP)</td>
 		<td>Mdm Loh Ka Yee Sandra</td>
   </tr>
+	<tr><td></td></tr>
 	</tbody></table>
 <table><tbody>
   <tr>
@@ -117,6 +120,7 @@ third_nav_title: Our Staff
 		<td style="font-weight: bold">Student Well-Being</td>
     <td>Ms Chua Yen Ling Rachel</td>
   </tr>
+	<tr><td></td></tr>
 	</tbody></table>
 <table><tbody>
 	<tr>
@@ -146,6 +150,7 @@ third_nav_title: Our Staff
     <td style="font-weight: bold">Science (SC)</td>
 		<td>Mdm Joanna Tan</td> 
   </tr>
+	<tr><td></td></tr>
 	</tbody></table>
 <table><tbody>
   <tr>
