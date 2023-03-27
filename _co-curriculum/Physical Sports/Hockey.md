@@ -17,7 +17,7 @@ third_nav_title: Physical Sports
 	<table>
 		<tbody>
 			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday (P3&P4) Tue & Thur (P5 & P6)</td><td width=200>2-4 pm (P3 Boys&Girls) <br>2-4pm (Girls) <br>2.30-4.30pm (P4 Boys) <br>2-3.30pm (P5&P6 Girls) <br>3-4.30pm (P5&P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha, Mdm Chang Sok Cheng, Ms Geetha, Mdm Madinah, Mdm Tjia Hwee King Mdm Mak Mei Woon, Mdm Koh Chee Ting, Ms Nurul Aqilah</td></tr>
+			<tr><td width=180>Monday (P3&P4) <br>Tue & Thur (P5 & P6)</td><td width=200>2-4 pm (P3 Boys&Girls) <br>2-4pm (Girls) <br>2.30-4.30pm (P4 Boys) <br>2-3.30pm (P5&P6 Girls) <br>3-4.30pm (P5&P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
