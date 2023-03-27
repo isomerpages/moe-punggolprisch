@@ -27,9 +27,15 @@ Understanding and appreciating the communal nature of Malay/Indonesian music. An
 
   
 
-##### Venue
-
-Angklung room
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td></td><td></td><td>Angklung Room</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 
   
 
