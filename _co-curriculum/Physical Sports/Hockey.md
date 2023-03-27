@@ -28,8 +28,9 @@ third_nav_title: Physical Sports
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement &#8677;</td>
-			<td style="text-align:justify"><b>National Hockey Championships</b>
-				<br><b>&emsp;2019</b></br>    
+			<td style="text-align:justify">
+				<b>National Hockey Championships</b>
+				<br><b>&emsp;2019</b><br>    
 							Senior Boys&emsp;&emsp;Champion   <br>
 							Senior Girls&emsp;&emsp;Champion<br>   
 							Junior Girls&emsp;&emsp;Champion<br>
