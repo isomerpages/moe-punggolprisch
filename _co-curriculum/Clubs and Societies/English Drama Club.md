@@ -18,7 +18,7 @@ third_nav_title: Clubs and Societies
 	<table>
 		<tbody>
 			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Library</td><td>Mrs Prakash, Ms Renee</td></tr>
+			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Library</td><td>Mrs Prakash<br>Ms Renee</td></tr>
 			<tr></tr>
 		</tbody>
 		</table> 
