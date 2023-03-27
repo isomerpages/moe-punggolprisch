@@ -18,10 +18,11 @@ To provide Art &amp; Crafts Club members with an opportunity to enrich and foste
 	<table>
 		<tbody>
 			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td></td><td></td><td>Art Studio 2</td><td></td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Room 1</td><td>Mdm Julaiha<br>Ms Erwina<br>Ms Naurah Insyirah</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
+
 <h4>Achievement</h4>
 
 **SYF Art and Craft Exhibition 2019**&nbsp;
