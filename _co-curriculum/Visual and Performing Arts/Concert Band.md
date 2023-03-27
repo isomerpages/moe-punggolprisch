@@ -21,7 +21,7 @@ third_nav_title: Visual and Performing Arts
 	<table>
 		<tbody>
 			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td></td><td></td><td>Angklung Room</td><td></td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 5:00pm</td><td>Auditorium</td><td>Mdm Oh Ling Fang<br>Mdm Shiamala<br>Mdm Norwati</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
