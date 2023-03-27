@@ -10,4 +10,4 @@ third_nav_title: English
 	<li>To nurture confident communicators who use the EL effectively and sensitively while working towards shared goals.  </li>
 	<li>To nurture creativity and critical thinking.</li>
 	</ul>
-<img src="/images/photo1.jpeg" style="width:100%">
+<img src="/images/English/photo1.jpeg" style="width:100%">
