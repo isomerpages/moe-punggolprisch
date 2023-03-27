@@ -4,7 +4,7 @@ permalink: /our-curriculum/CCE/ne-core-events/
 description: ""
 third_nav_title: CCE
 ---
-<img style="width:45%" src="/images/ntledn.png">
+<h4>National Education</h4>
 
 The NE Team strives to deliver innovative and engaging activities that emphasise the objectives of the four NE Core Days; Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. We encourage Student Voice and seek to develop the citizenship dispositions – a sense of belonging, a sense of reality, a sense of hope and the will to action - amongst students by creating opportunities for student-led activities and sharing. We also focus on Strengthening the Singapore Story and nurturing Confident Speakers by giving pupils opportunities to reflect and share their views with the school.
 
