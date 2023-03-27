@@ -34,11 +34,10 @@ third_nav_title: Physical Sports
 							Senior Boys&emsp;&emsp;Champion   <br>
 							Senior Girls&emsp;&emsp;Champion<br>   
 							Junior Girls&emsp;&emsp;Champion<br>
-							Junior Boys&emsp;&emsp;3rd<br>
-
-<b>National School Games Hockey</b><br>
-Champions for both Senior Division Girls and Senior Division Boys</td>
-	</tr>
+							Junior Boys&emsp;&emsp;3rd<br><br>
+						<b>National School Games Hockey</b><br>
+						Champions for both Senior Division Girls and Senior Division Boys</td>
+				</tr>
 	<tr><td></td></tr>
 </table>
 
