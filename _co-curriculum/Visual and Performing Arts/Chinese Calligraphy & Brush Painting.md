@@ -17,7 +17,7 @@ third_nav_title: Visual and Performing Arts
 	<table>
 		<tbody>
 			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td></td><td></td><td>Art Studio 1</td><td></td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Room 2</td><td>Ms Nyeo Mui Kia<br>Ms Koh Bao Zhi</td></tr>
 			<tr></tr>
 		</tbody>
 		</table>
