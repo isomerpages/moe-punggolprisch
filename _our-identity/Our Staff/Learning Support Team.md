@@ -30,6 +30,6 @@ third_nav_title: Our Staff
     <td style="font-weight:bold">Teaching &amp; Learning </td>
     <td>Mr Hafez Bin Haroon Aljunied</td>
   </tr>
-		<tr></tr>
+	<tr><td></td></tr>
 </tbody>
 </table>
