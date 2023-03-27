@@ -3,10 +3,6 @@ title: Co Curricular Activities (CCA) Programme
 permalink: /co-curriculum/cca/
 description: ""
 ---
-
-
-
-
 <p style="text-align:justify">CCAs are an integral part of our students’ holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. </p>
 <p style="text-align:justify">CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
 
@@ -26,4 +22,4 @@ At the primary level, it is not compulsory for students to participate in school
 
 <h5>CCA Schedule</h5>
 
-[CCA Schedule 2023](/files/CCA%20Schedule%202023.pdf)
+[CCA Schedule 2023](/files/CCA/CCA%20Schedule%202023.pdf)
