@@ -31,7 +31,7 @@ third_nav_title: Clubs and Societies
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement &#8677;</td>
-		<td style="text-align:justify"><ol style="font-size:16px">
+		<td style="text-align:justify"><ol style="font-size:15px">
 	<li style="line-height:1">Our School, Our Stories Competition 2019 (2 teams) - Participation</li>
 	<li style="line-height:1">Our School, Our Stories Competition 2018 (3 teams) - Participation</li>
 </ol></td>
