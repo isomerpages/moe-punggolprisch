@@ -22,7 +22,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td width=100>Day</td><td>Time</td><td width=80>Venue</td><td>Teacher in charge</td></tr>
-				<tr><td>Monday<br>(P3&P4) <br><br>Tue & Thur<br>(P5 & P6)</td><td width=200>2-4 pm (P3 Boys&Girls) <br>2-4pm (Girls) <br>2.30-4.30pm (P4 Boys) <br>2-3.30pm (P5&P6 Girls) <br>3-4.30pm (P5&P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td></tr>
+				<tr><td>Monday<br>(P3&P4) <br><br>Tue & Thur<br>(P5 & P6)</td><td width=200>2:00pm - 4:00pm (P3 Boys&Girls) <br>2:00pm - 4:00pm (Girls) <br>2:30pm - 4:30pm (P4 Boys) <br>2:00pm -3:30pm (P5&P6 Girls) <br>3:00pm - 4:30pm (P5&P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td></tr>
 		</tbody>
 	</table>
 		</td>
