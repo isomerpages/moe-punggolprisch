@@ -4,8 +4,8 @@ permalink: /our-curriculum/Aesthetics/p4-museum-based-learning/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/museum(1).jpeg)
+![](/images/Aesthetics/museum(1).jpeg)
 
-![](/images/museum(2).jpeg)
+![](/images/Aesthetics/museum(2).jpeg)
 
-![](/images/museum(3).jpeg)
+![](/images/Aesthetics/museum(3).jpeg)
