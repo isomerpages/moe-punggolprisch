@@ -4,7 +4,7 @@ permalink: /our-curriculum/Science/science-talent-development-programme/
 description: ""
 third_nav_title: Science
 ---
-![](/images/school%20website%20Science3.jpeg)
+![](/images/Science/school%20website%20Science3.jpeg)
 
 **Innovation Programme (IvP)**
 
