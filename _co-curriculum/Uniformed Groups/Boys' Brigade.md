@@ -14,8 +14,6 @@ To develop and nurture leaders with habits of obedience, reverence, discipline a
 <h4>Brief Description of CCA</h4>
 <p style="text-align:justify">75th BB Company, sponsored by Paya Lebar Methodist Church started in 2000. This CCA is jointly run by BB Officers and teachers. Values are inculcated through a myriad of activities comprising Character Studies, Parade Drills, Singspiration, Adventure/Character Quest, VIAs and BB Camps.</p>
 
-  
-
 <h4>Schedule</h4>
 <p style="text-align:justify">
 	<table>
