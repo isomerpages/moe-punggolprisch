@@ -18,5 +18,7 @@ links:
   - title: Our Curriculum
     url: /our-curriculum/
     sublinks:
+      - title: Curriculum
+        url: /our-curriculum/
       - title: Co Curriculum Activities (CCA)
         url: /cca
