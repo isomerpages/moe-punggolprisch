@@ -7,7 +7,7 @@ third_nav_title: Physical Sports
 <table>
 	<tr><td width=70 style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision &#8677;</td>
 		<td><div style="font-size:25px">TEAM</div>
-			<div style="font-size:20px"><b>T</b>ogether&emsp;<b>E</b>veryone&emsp;<b>A</b>chieves&emsp;<b>M</b>ore!</td>
+			<div style="font-size:20px"><b>T</b>ogether&emsp;<b>E</b>veryone&emsp;<b>A</b>chieves&emsp;<b>M</b>ore!</div></td>
 	</tr>
 	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Mission &#8677;</td>
 		<td style="text-align:justify">With the school motto ‘Pride in Performance’ as a key anchor, being a part of the Basketball CCA is a journey of igniting the joy in each student athlete, and encouraging them to be the best player they can possibly be.</td>
