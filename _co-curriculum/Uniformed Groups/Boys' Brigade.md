@@ -17,10 +17,12 @@ To develop and nurture leaders with habits of obedience, reverence, discipline a
 <h4>Schedule</h4>
 <p>
 	<table>
-		<thead style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><tr><td>Day</td><td>Time</td><td>Venue</td></tr></thead>
-		<tbody><tr><td>Friday</td><td>2pm - 4pm</td><td>Auditorium and iLab2</td></tr></tbody>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td></tr>
+			<tr><td>Friday</td><td>2pm - 4pm</td><td>Auditorium and iLab2</td></tr>
+			<tr></tr>
+		</tbody>
 		</table>
-
 
 <h4>Achievement</h4>
 
