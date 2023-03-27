@@ -12,8 +12,15 @@ third_nav_title: Physical Sports
 <p style="text-align:justify">The Hockey CCA strives to equip players with the skills and experience required for recreational and competitive hockey. We achieve this through regular training sessions, participation in external competitions and annual camps.</p>
 <h4>Brief Description of CCA</h4>
 <p style="text-align:justify">Hockey is our school’s niche sport based on its success in the National Senior and Junior Championships. We have consistently developed athletes who display strong values in sports i.e. sportsmanship and possess strong physical skills. Many of our hockey players continue to pursue hockey beyond their primary school years. Here in hockey, we share sweat and tears, but most importantly, we share memories that last a lifetime.</p>
-<h4>Venue</h4>
-<p style="text-align:justify">Parade ground</p>
+<h4>Schedule</h4>
+<p>
+	<table>
+		<tbody>
+			<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td>Monday (P3&P4) Tue & Thur (P5 & P6)</td><td width=200>2-4 pm (P3 Boys&Girls) <br>2-4pm (Girls) <br>2.30-4.30pm (P4 Boys) <br>2-3.30pm (P5&P6 Girls) <br>3-4.30pm (P5&P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha, Mdm Chang Sok Cheng, Ms Geetha, Mdm Madinah, Mdm Tjia Hwee King Mdm Mak Mei Woon, Mdm Koh Chee Ting, Ms Nurul Aqilah</td></tr>
+			<tr></tr>
+		</tbody>
+		</table>
 <h4>Achievement</h4>
 
 **National Hockey Championships**
@@ -24,13 +31,6 @@ Senior Girls&nbsp; &nbsp;Champion
 Junior Girls&nbsp; &nbsp;Champion   
 Junior Boys&nbsp; &nbsp; 3rd
 
-  
-
-**2018**   
-Junior Boys&nbsp; &nbsp;Champion   
-Junior Girls&nbsp; &nbsp; 2nd   
-Senior Girls&nbsp; &nbsp; 2nd   
-Senior Boys&nbsp; &nbsp;Quarter-Finalists
 
 **National School Games Hockey**   
 Champions for both Senior Division Girls and Senior Division Boys
