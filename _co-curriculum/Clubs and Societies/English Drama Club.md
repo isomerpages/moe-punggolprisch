@@ -15,10 +15,10 @@ third_nav_title: Clubs and Societies
 <p style="text-align:justify">In Drama, members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. Members get the opportunity to display what they have learnt through various school-based performances and competitions. Members are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes.</p>
 <h3 style="color:mediumseagreen">Schedule</h3>
 <p>
-	<table>
+	<table style="border: 1px solid black">
 		<tbody>
 			<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Library</td><td>Mrs Prakash<br>Ms Renee</td></tr>
+			<tr style="background-color:ivory"><td>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>Library</td><td>Mrs Prakash<br>Ms Renee</td></tr>
 			<tr></tr>
 		</tbody>
 		</table> 
