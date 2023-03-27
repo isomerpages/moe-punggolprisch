@@ -32,8 +32,8 @@ third_nav_title: Our Staff
 	</tbody></table>
 <table><tbody>
   <tr>
-    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
-  </tr>
+		<td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
+	</tr>
 	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
