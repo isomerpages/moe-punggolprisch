@@ -4,10 +4,10 @@ permalink: /our-curriculum/Physical-Education/pe-programme/
 description: ""
 third_nav_title: Physical Education
 ---
-<img src="/images/pe2.jpeg" 
+<img src="/images/PE/pe2.jpeg" 
      style="width:95%">
 
-<img src="/images/pe3.jpeg" 
+<img src="/images/PE/pe3.jpeg" 
      style="width:95%">
 
 Physical education provides an authentic setting for young children and adolescents to develop and practise 21st Century Competencies (21CC), values and ideals, which support the development of character. Therefore, the physical education programme in Punggol Primary School provides: 
@@ -16,17 +16,17 @@ Physical education provides an authentic setting for young children and adolesce
 
 **Opportunities** to establish emotional and social connections as students collaborate on common goals and overcome challenging activities. Students can experience a sense of strong communal bonding with others and also a connectedness with the environment as they interlink attitude and value formation with behavioural change.
 
-<img src="/images/pe4.jpeg" 
+<img src="/images/PE/pe4.jpeg" 
      style="width:95%">
 
 **Experiences** that encourage resilience and perseverance as students learn to take responsibility for their own learning towards improved performance. Successful movement experiences contribute to increased self-confidence and a positive self-concept which is important to whole-person development
 
-<img src="/images/pe5.jpeg" 
+<img src="/images/PE/pe5.jpeg" 
      style="width:95%">
 
 **Competitive and collaborative** activities for students to develop respect of self and others and also a sense of responsibility towards their own well-being and their peers. The process of winning and losing provides a platform for them to make moral decisions and take actions that demonstrate values of integrity, fair play and sportsmanship. Furthermore, working with individuals from different backgrounds, ethnicity and religions help students to foster cooperation and encourages respect and harmony between them.
 
-<img src="/images/pe6.jpeg" 
+<img src="/images/PE/pe6.jpeg" 
      style="width:95%">
 
 <center><b>The seven learning areas that facilitate the organisation of these learning experiences in Punggol Primary School are:</b></center>
@@ -141,7 +141,7 @@ Physical education provides an authentic setting for young children and adolesce
 </tbody>
 </table>
 
-<img src="/images/pe8.jpeg" 
+<img src="/images/PE/pe8.jpeg" 
      style="width:95%">
-<img src="/images/pe9.jpeg" 
+<img src="/images/PE/pe9.jpeg" 
      style="width:95%">
