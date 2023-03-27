@@ -23,7 +23,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td width=100>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday & <br>Tuesday</td><td>2:00 pm - 4:00 pm</td><td>ISH & Basketball Court / Arena</td><td>Mrs Heng-Tan Siow Leng<br>Ms Koh Shiew Ching<br>Ms Hairani<br>Mr Tai Yean Hwee</td></tr>
+			<tr><td>Monday & <br>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH & Basketball Court / Arena</td><td>Mrs Heng-Tan Siow Leng<br>Ms Koh Shiew Ching<br>Ms Hairani<br>Mr Tai Yean Hwee</td></tr>
 		</tbody>
 	</table>
 		</td>
