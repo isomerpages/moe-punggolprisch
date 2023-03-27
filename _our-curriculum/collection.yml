@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curriculum/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Aesthetic Week.md
       - Aesthetics/Art Curriculum.md
