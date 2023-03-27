@@ -15,7 +15,7 @@ third_nav_title: Clubs and Societies
 		<td style="text-align:justify">With interactive activities that stimulate curiosity, critical thinking, cooperation and collaboration, members will be ready to be Design and Innovation professionals.</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Brief Description of CCA &#8677;</td>
-		<td style="text-align:justify">In Design and Innovation, our activities are interdisciplinary and we have to apply knowledge in the area of Science, Technology, Engineering and Mathematics in order to complete our project.</div><br><br>
+		<td style="text-align:justify"><div>In Design and Innovation, our activities are interdisciplinary and we have to apply knowledge in the area of Science, Technology, Engineering and Mathematics in order to complete our project.</div><br>
 <div style="text-align:justify">We make use of different types of resources in our activities. The following are the different types of resources that we have used or will be using: recyclables, strawbees, Sphero.</div></td>
 	</tr>
 	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Schedule &#8677;</td>
