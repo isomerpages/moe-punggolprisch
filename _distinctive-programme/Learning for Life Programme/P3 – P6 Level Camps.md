@@ -4,9 +4,6 @@ permalink: /distinctive-programme/Learning-for-Life-Programme/p3-to-p6-level-cam
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-(embed video here)
-
-
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrUxsu9umeT_cPSMkZfq_1VZYWEITp0uLTPXXqAn0nQJq5nUtQb8AZ4vbMcm5f3eHQWky_eJ5sbi8Z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
