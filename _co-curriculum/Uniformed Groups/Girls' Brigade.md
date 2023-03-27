@@ -44,6 +44,6 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 	<tr><td></td></tr>
 </table>
 
-![](/images/Latest%20Photo_1.jpeg)
-![](/images/Lates%20Photo-2.jpeg)
-![](/images/Lates%20Photo-3.jpeg)
+![](/images/CCA/Latest%20Photo_1.jpeg)
+![](/images/CCA/Lates%20Photo-2.jpeg)
+![](/images/CCA/Lates%20Photo-3.jpeg)
