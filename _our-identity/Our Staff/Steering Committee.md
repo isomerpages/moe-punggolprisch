@@ -6,6 +6,9 @@ third_nav_title: Our Staff
 ---
 <table>
 <tbody>
+	<tr>
+    <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">SCHOOL LEADERS</td>
+  </tr>
   <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
@@ -27,6 +30,10 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td colspan=2 style="font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
+  </tr>
+	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+		<td width=300>Designation</td>
+    <td>Name</td>
   </tr>
   <tr>
     <td style="font-weight: bold">School Staff Developer</td>
@@ -68,6 +75,10 @@ third_nav_title: Our Staff
   <tr>
     <td colspan=2 style="font-size:22px; font-family:impact">YEAR HEADS</td>
   </tr>
+	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+		<td width=300>Designation</td>
+    <td>Name</td>
+  </tr>
   <tr>
 		<td style="font-weight: bold">Upper Primary (UP)</td>
     <td>Mdm Linda Toh Siok Hui</td>
@@ -83,6 +94,10 @@ third_nav_title: Our Staff
   <tr>
     <td colspan=2 style="font-size:22px; font-family:impact">SUBJECT HEADS</td>
   </tr>
+	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+		<td width=300>Designation</td>
+    <td>Name</td>
+  </tr>
   <tr>
 		<td style="font-weight: bold">Aesthetics</td>
     <td>Mdm Siti Aishah Bte Abdul Aziz</td>   
@@ -97,6 +112,10 @@ third_nav_title: Our Staff
   </tr>
 	<tr>
     <td colspan=2 style="font-size:22px; font-family:impact">LEVEL HEADS</td>
+  </tr>
+	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+		<td width=300>Designation</td>
+    <td>Name</td>
   </tr>
   <tr>
 		<td style="font-weight: bold">English (EL)</td>
@@ -120,6 +139,10 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td colspan=2 style="font-size:22px; font-family:impact">ADMINSTRATIVE & OPERATIONS</td>
+  </tr>
+	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+		<td width=300>Designation</td>
+    <td>Name</td>
   </tr>
   <tr>
 		<td rowspan=2 style="font-weight: bold">Administration Manager</td>
