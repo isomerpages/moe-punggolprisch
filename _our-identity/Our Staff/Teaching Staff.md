@@ -376,7 +376,6 @@ third_nav_title: Our Staff
 		<td>Ms Jacqueline Khng</td>
 		<td></td>
   </tr>
-	<tr></tr>
 </tbody>
 </table>
     </div>
