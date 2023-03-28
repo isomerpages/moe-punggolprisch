@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 	<tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">SCHOOL LEADERS</td>
   </tr>
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
@@ -34,7 +34,7 @@ third_nav_title: Our Staff
   <tr>
 		<td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">HEADS OF DEPARTMENT</td>
 	</tr>
-	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
@@ -82,7 +82,7 @@ third_nav_title: Our Staff
   <tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">YEAR HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
@@ -104,7 +104,7 @@ third_nav_title: Our Staff
   <tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">SUBJECT HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
@@ -126,7 +126,7 @@ third_nav_title: Our Staff
 	<tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">LEVEL HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
@@ -156,7 +156,7 @@ third_nav_title: Our Staff
   <tr>
     <td colspan=2 style="line-height:0.5; font-size:22px; font-family:impact">ADMINSTRATIVE & OPERATIONS</td>
   </tr>
-	<tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td width=300>Designation</td>
     <td>Name</td>
   </tr>
