@@ -11,7 +11,7 @@ third_nav_title: Our Staff
                <td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">EXECUTIVE & ADMINISTRATIVE STAFF</td>
             </tr>
          </thead>
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td>Designation</td>
     <td>Name</td>
   </tr>
@@ -68,7 +68,7 @@ third_nav_title: Our Staff
             </tr>
          </thead>
 <tbody>
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="280">Designation</td>
     <td>Name</td>
   </tr>
