@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 <table style="font-size:16px">
 <thead>
-	<tr><td colspan=2 style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Newsletter</td>
+	<tr><td colspan=2 style="line-height:15px; font-family:impact; font-size:25px">Punggol Newsletter</td>
 	</tr>
 	<tr style="font-weight:bold">
 			<td width=50>Year</td>
