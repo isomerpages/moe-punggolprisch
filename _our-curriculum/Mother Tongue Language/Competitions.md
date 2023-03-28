@@ -16,3 +16,5 @@ third_nav_title: Mother Tongue Language
 |Creative Story Writing Competition| 4th Prize, Consolation Prize|
 
 
+<img style="width:100%" src="/images/MTL/Collage.jpg">
+
