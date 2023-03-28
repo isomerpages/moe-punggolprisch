@@ -1,0 +1,39 @@
+---
+title: Chinese Calligraphy & Brush Painting
+permalink: /cca/Visual-and-Performing-Arts/chinese-calligraphy-n-brush-painting/
+description: ""
+third_nav_title: Visual and Performing Arts
+---
+<table>
+	<tr><td width=70 style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision &#8677;</td>
+		<td>Gracious individuals who appreciate the arts.</td>
+	</tr>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Mission &#8677;</td>
+		<td style="text-align:justify">To provide pupils with an opportunity to cultivate greater appreciation of arts and culture.</td>
+	</tr>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Objective &#8677;</td>
+		<td style="text-align:justify">Pupils can appreciate beauty and paint independently.</td>
+	</tr>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Brief Description of CCA &#8677;</td>
+		<td style="text-align:justify">Pupils learn basic painting techniques in their weekly lessons. When they become more skillful, they would be invited to work together to create larger paintings to showcase what they have learnt. In 2019, one of their paintings received a Certificate of Recognition (Special Mention) in SYF. The painting, Harmony, was exhibited at National Museum Singapore and Academy of Singapore Teachers. It was also featured on SYF’s online platform and catalogue.</td>
+	</tr>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Schedule &#8677;</td>
+		<td>
+			<table style="border:1px solid black">
+		<tbody>
+			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td width=100>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Room 2</td><td>Ms Nyeo Mui Kia<br>Ms Koh Bao Zhi</td></tr>
+		</tbody>
+	</table>
+		</td>
+	</tr>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement &#8677;</td>
+			<td style="text-align:justify"><b>SYF Art and Craft Exhibition 2021</b><br>
+				Certificate of Participation</td>
+	</tr>
+	<tr><td></td></tr>
+</table>
+
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfvdPaxgu15wltBqrc8R9iQpHS1lEw2DsQ-P1rJSk3uBOms48WR0HpvNbhxmjsCvewxENuvHpdDM1s/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsBv-RxCxXL9wLzpwAjibWPiK8-ZvJGDSIEzHtZKn9Ud1dS7tcneT6xQ--TRRZ4U8RbK28DjOtpieo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>

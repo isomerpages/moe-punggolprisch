@@ -1,0 +1,16 @@
+collections:
+  parent-support-group:
+    output: true
+    order:
+      - Activities/Total Defence Day Recess Activities.md
+      - Activities/PSG Activities.md
+      - Activities/P1 Orientation Day.md
+      - Activities/Children's Day Celebration.md
+      - Activities/Corporate Social Responsibilities.md
+      - Activities/English Reading Program.md
+      - Activities/Maths Recess Activities.md
+      - Activities/Mother and Father's Day Recess Activities.md
+      - Activities/P6 Motivational Gifts.md
+      - Activities/PSG HI–TEA.md
+      - Activities/Teacher's Day Celebration.md
+      - Activities/.keep

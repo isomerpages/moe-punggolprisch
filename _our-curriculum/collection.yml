@@ -1,0 +1,63 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Aesthetic Week.md
+      - Aesthetics/Art Curriculum.md
+      - Aesthetics/Art Fiesta.md
+      - Aesthetics/Busking.md
+      - Aesthetics/Collaboration with NAFA.md
+      - Aesthetics/Music Curriculum.md
+      - Aesthetics/Out of the Box.md
+      - Aesthetics/P3 Dragon Kiln Visit.md
+      - Aesthetics/P4 Museum–based Learning.md
+      - Aesthetics/PPS Art Exhibition at Cheng San Library @Hougang Mall.md
+      - Aesthetics/Diary Design on Growth Mindset.md
+      - Aesthetics/SYF.md
+      - Aesthetics/NAFA Zoom.md
+      - Aesthetics/.keep
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Form Teacher Guidance Period.md
+      - CCE/CCE (Mother Tongue & English Language) Lessons.md
+      - CCE/Cyberwellness.md
+      - CCE/Pre–Morning Assembly (Out–of–the–Box) Programme.md
+      - CCE/Termly Pupil Recognition Award.md
+      - CCE/Contemporary Issues Discussions (CID).md
+      - CCE/NE Core Events.md
+      - CCE/VIA.md
+      - CCE/Mindset Matters.md
+      - CCE/P3 Virtual LJ on SLS.md
+      - CCE/What’s Up Punggolites x CID.md
+      - English/.keep
+      - English/English.md
+      - English/EL@PPS.md
+      - English/EL Programmes Promoting Joy of Learning.md
+      - ICT/.keep
+      - ICT/ICT.md
+      - ICT/ICT Literacy Programme.md
+      - ICT/ICT Student Leader Programme.md
+      - Maths/.keep
+      - Maths/Maths.md
+      - Maths/PPS key Math Programmes and Activities.md
+      - Maths/Financial Literacy Programme.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Mother Tongue Language.md
+      - Mother Tongue Language/Programmes and Activities.md
+      - Mother Tongue Language/Competitions.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Science Curriculum.md
+      - Science/Science Co–Curriculum Programmes.md
+      - Science/Science Talent Development Programme.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/PE Programme.md
+      - Growing Years Programme/.keep
+      - Growing Years Programme/MOE Sexuality Education in Schools.md
+      - Growing Years Programme/Overview of PPS’s Sexuality Education Programme
+        for 2023.md
+      - Growing Years Programme/Information For Parents.md
+      - Authentic Problem Based Learning.md
+      - Home Based Learning.md
