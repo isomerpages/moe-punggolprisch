@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 <table style="font-size:16px">
 <thead>
-	<tr><td style="font-family:impact; font-size:25px" colspan="2">COVID-19 Vaccination Exercise (for 5 - 11 year olds)</td></tr>
+	<tr><td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">COVID-19 Vaccination Exercise (for 5 - 11 year olds)</td></tr>
 	<tr style="font-weight:bold">
 		<td width="250">For Queries Relating to</td>
 		<td>Resources</td></tr>
