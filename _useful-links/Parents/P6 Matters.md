@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 <table style="font-size:16px">
 <thead>
-	<tr ><td colspan=2 style="line-height:10px; font-family:impact; font-size:25px">P6 Matters</td></tr>
+	<tr ><td colspan=2 style="line-height:15px; font-family:impact; font-size:25px">P6 Matters</td></tr>
 	</thead>
 	<tbody>
 		<tr>
