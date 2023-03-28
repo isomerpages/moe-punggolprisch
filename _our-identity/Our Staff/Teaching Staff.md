@@ -11,7 +11,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 <tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -56,7 +56,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -101,7 +101,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -141,7 +141,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 				<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -186,7 +186,7 @@ third_nav_title: Our Staff
     <div>
       <table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -231,7 +231,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 <tbody style="font-size:17px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
     <td>Co-Form Teachers</td>
@@ -276,7 +276,7 @@ third_nav_title: Our Staff
     <div>
       <table>
 <tbody style="font-size:17px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td>Language</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
@@ -344,7 +344,7 @@ third_nav_title: Our Staff
     <div>
 			<table>
 				<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
     <td>Subject</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
