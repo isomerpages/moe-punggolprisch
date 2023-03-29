@@ -3,7 +3,7 @@ title: School Advisory Committee (SAC)
 permalink: /sac/
 description: ""
 ---
-<table >
+<table>
 <tbody >
 		<thead>
             <tr>
