@@ -10,7 +10,7 @@ description: ""
                <td style="font-family:impact; font-size:25px" colspan="2"><img src="/images/SAC%20members.jpeg" style="border:5px solid lightgrey; width:65%"></td>
             </tr>
          </thead>
-  <tr style="line-height:10px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td>Designation</td>
     <td>Name</td>
   </tr>
