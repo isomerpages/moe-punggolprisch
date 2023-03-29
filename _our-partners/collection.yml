@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Example Title.md
       - Parent Support Group.md
       - School Advisory Committee (SAC).md
