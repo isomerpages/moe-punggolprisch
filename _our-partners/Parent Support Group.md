@@ -55,8 +55,8 @@ description: ""
 				<table>
 <tbody >		
   <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:20px; color:white">
-		<td width=50%>Do's</td>
-    <td width=50%>Don'ts</td>
+		<td style="width:50%">Do's</td>
+    <td style="width:50%">Don'ts</td>
   </tr>
   <tr>
 		<td><ul style="list-style-type: none; margin:0; padding:0">
