@@ -5,7 +5,7 @@ description: ""
 ---
 <table style="font-size:16px">
 	<thead>
-		<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)" colspan="3">Registration of School's Transport</td></tr>
+		<tr><td style="font-family:impact; font-size:25px" colspan="2">Registration of School's Transport</td></tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -14,7 +14,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Email</td>
-			<td><a target="_blank" href="mailto:enquiry@sfxtransport.com.sg">Send Email</a></td>
+			<td><a target="_blank" href="mailto:enquiry@sfxtransport.com.sg">enquiry@sfxtransport.com.sg</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>

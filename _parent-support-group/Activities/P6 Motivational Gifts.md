@@ -4,16 +4,14 @@ permalink: /parent-support-group/Activities/p6-motivational-gifts/
 description: ""
 third_nav_title: Activities
 ---
-
-
-<img src="/images/P6%20Motivational%20Gifts1.jpeg" 
+<img src="/images/PSG/Activities/P6_Motivational_Gift/P6%20Motivational%20Gifts1.jpeg" 
      style="width:65%">
 
-<img src="/images/P6%20Motivational%20Gifts-2.jpeg" 
+<img src="/images/PSG/Activities/P6_Motivational_Gift/P6%20Motivational%20Gifts-2.jpeg" 
      style="width:65%">
 
-<img src="/images/P6%20Motivational%20Gifts3.jpeg" 
+<img src="/images/PSG/Activities/P6_Motivational_Gift/P6%20Motivational%20Gifts3.jpeg" 
      style="width:65%">
 
-<img src="/images/P6%20Motivational%20Gifts4.jpeg" 
+<img src="/images/PSG/Activities/P6_Motivational_Gift/P6%20Motivational%20Gifts4.jpeg" 
      style="width:65%">
