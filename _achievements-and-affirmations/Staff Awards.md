@@ -11,9 +11,9 @@ description: ""
 			<table>
 				<tbody style="font-size:17px">
 					<tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-				<td width="30%">MOE Service Excellence Award (Silver)</td>
+				<td width="35%">MOE Service Excellence Award (Silver)</td>
 				<td width="35%">National Day Awards: <br>The Long Service Medal</td>
-		    <td width="35%">National Day Awards: <br>The Commendation Medal</td>
+		    <td width="30%">National Day Awards: <br>The Commendation Medal</td>
 				</tr>
   <tr>
     <td><ol>
@@ -29,7 +29,6 @@ description: ""
 		</td>
 		<td><ol><li style="line-height:1">Mr Chan Chin San Alvin</li></ol></td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -41,9 +40,9 @@ description: ""
 			<table>
 	<tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-    <td width="30%">MOE Service Excellence Award (Silver)</td>
+    <td width="35%">MOE Service Excellence Award (Silver)</td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
-		<td width="35%">National Day Awards: <br>The Commendation Medal</td>
+		<td width="30%">National Day Awards: <br>The Commendation Medal</td>
   </tr>
   <tr>
     <td><ol>
@@ -69,9 +68,9 @@ description: ""
 			<table>
 <tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-    <td width="30%">MOE Service Excellence Award (Silver)</td>
+    <td width="35%">MOE Service Excellence Award (Silver)</td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
-		    <td style="line-height:1" width="35%">National Day Awards: <br>The Commendation Medal</td>
+		<td width="30%">National Day Awards: <br>The Commendation Medal</td>
   </tr>
   <tr>
 		<td style="line-height:1">-</td>
