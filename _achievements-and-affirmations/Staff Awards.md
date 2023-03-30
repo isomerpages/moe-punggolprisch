@@ -10,24 +10,24 @@ description: ""
     <div>
 			<table>
 				<tbody style="font-size:17px">
-					<tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-				<td>MOE Service Excellence Award (Silver)</td>
-				<td>National Day Awards: <br>The Long Service Medal</td>
-		    <td>National Day Awards: <br>The Commedation Medal</td>
+					<tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+				<td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
+				<td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
+		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
 				</tr>
   <tr>
     <td><ol>
-			<li>Mdm Loh Gek Noi</li>
-			<li>Mdm Rohina Bte Idris</li>
-			<li>Mdm Lim Kwee Ying</li>
-			<li>Miss Koh Xiao Pei</li></ol>
+			<li style="line-height:1">Mdm Loh Gek Noi</li>
+			<li style="line-height:1">Mdm Rohina Bte Idris</li>
+			<li style="line-height:1">Mdm Lim Kwee Ying</li>
+			<li style="line-height:1">Miss Koh Xiao Pei</li></ol>
 		</td>
     <td><ol>
-			<li>Mrs Padmini Prakash</li>
-			<li>Mr Khamilnullah B Abd Hamid</li>
-			<li>Mr Chan Chin San Alvin</li></ol>
+			<li style="line-height:1">Mrs Padmini Prakash</li>
+			<li style="line-height:1">Mr Khamilnullah B Abd Hamid</li>
+			<li style="line-height:1">Mr Chan Chin San Alvin</li></ol>
 		</td>
-		<td><ol><li>Mr Chan Chin San Alvin</li></ol></td>
+		<td><ol><li style="line-height:1">Mr Chan Chin San Alvin</li></ol></td>
   </tr>
 		<tr></tr>
 </tbody>
@@ -40,25 +40,24 @@ description: ""
     <div>
 			<table>
 	<tbody style="font-size:17px">
-  <tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td>MOE Service Excellence Award (Silver)</td>
-    <td>National Day Awards: <br>The Long Service Medal</td>
-		    <td>National Day Awards: <br>The Commedation Medal</td>
+  <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+    <td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
+    <td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
+		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
   </tr>
   <tr>
     <td><ol>
-			<li>Mdm Aw Hwee Lian Celia</li>
-			<li>Mdm Siti Masura Bte Hatnen</li>
-			<li>Mdm Chua Yen Ling Rachel</li></ol>
+			<li style="line-height:1">Mdm Aw Hwee Lian Celia</li>
+			<li style="line-height:1">Mdm Siti Masura Bte Hatnen</li>
+			<li style="line-height:1">Mdm Chua Yen Ling Rachel</li></ol>
 		</td>
     <td><ol>
-			<li>Ms Karen Yaw Li Ling</li>
-			<li>Mr Goh Chang Chuen</li>
-			<li>Mdm Nor Hidayah Bte Taib</li></ol>
+			<li style="line-height:1">Ms Karen Yaw Li Ling</li>
+			<li style="line-height:1">Mr Goh Chang Chuen</li>
+			<li style="line-height:1">Mdm Nor Hidayah Bte Taib</li></ol>
 		</td>
 		<td></td>
   </tr>
-		<tr></tr>
 </tbody>
 </table>
     </div>
@@ -69,17 +68,16 @@ description: ""
     <div>
 			<table>
 <tbody style="font-size:17px">
-  <tr style="line-height:20px; background-color:rgb(147,196,125); font-weight: bold; font-size:18px; color:white">
-    <td>MOE Service Excellence Award (Silver)</td>
-    <td>National Day Awards: <br>The Long Service Medal</td>
-		    <td>National Day Awards: <br>The Commedation Medal</td>
+  <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+    <td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
+    <td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
+		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
   </tr>
   <tr>
-    <td></td>
-    <td><ol><li>Mdm Loh Kah Yee</li></ol></td>
-		<td><ol><li>Mdm Lim Bee Tin</li></ol></td>
+		<td style="line-height:1" width=30%>-</td>
+    <td style="line-height:1" width=35%><ol><li style="line-height:1">Mdm Loh Kah Yee</li></ol></td>
+		<td style="line-height:1" width=35%><ol><li style="line-height:1">Mdm Lim Bee Tin</li></ol></td>
   </tr>
-	<tr></tr>
 </tbody>
 </table>
     </div>
