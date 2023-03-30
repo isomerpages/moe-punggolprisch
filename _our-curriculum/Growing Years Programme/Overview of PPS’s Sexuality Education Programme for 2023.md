@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Growing Years Programme
 ---
 <ol>
-	<li style="line-height:1.5; text-align:justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on the scope of Sexuality Education in the school curriculum.</li>
+	<li style="line-height:1.5; text-align:justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
  <li style="line-height:1.5; text-align:justify">The subjects that incorporate topics on sexuality include: 
 	 <ul>
 		 <li style="line-height:1.5">Science</li>
