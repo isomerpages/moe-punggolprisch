@@ -11,9 +11,9 @@ description: ""
 			<table>
 				<tbody style="font-size:17px">
 					<tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-				<td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
-				<td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
-		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
+				<td width="30%">MOE Service Excellence Award (Silver)</td>
+				<td width="35%">National Day Awards: <br>The Long Service Medal</td>
+		    <td width="35%">National Day Awards: <br>The Commendation Medal</td>
 				</tr>
   <tr>
     <td><ol>
@@ -41,9 +41,9 @@ description: ""
 			<table>
 	<tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-    <td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
-    <td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
-		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
+    <td width="30%">MOE Service Excellence Award (Silver)</td>
+    <td width="35%">National Day Awards: <br>The Long Service Medal</td>
+		<td width="35%">National Day Awards: <br>The Commendation Medal</td>
   </tr>
   <tr>
     <td><ol>
@@ -69,14 +69,14 @@ description: ""
 			<table>
 <tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-    <td style="line-height:1" width=30%>MOE Service Excellence Award (Silver)</td>
-    <td style="line-height:1" width=35%>National Day Awards: <br>The Long Service Medal</td>
-		    <td style="line-height:1" width=35%>National Day Awards: <br>The Commedation Medal</td>
+    <td width="30%">MOE Service Excellence Award (Silver)</td>
+    <td width="35%">National Day Awards: <br>The Long Service Medal</td>
+		    <td style="line-height:1" width="35%">National Day Awards: <br>The Commendation Medal</td>
   </tr>
   <tr>
-		<td style="line-height:1" width=30%>-</td>
-    <td style="line-height:1" width=35%><ol><li style="line-height:1">Mdm Loh Kah Yee</li></ol></td>
-		<td style="line-height:1" width=35%><ol><li style="line-height:1">Mdm Lim Bee Tin</li></ol></td>
+		<td style="line-height:1">-</td>
+    <td style="line-height:1"><ol><li style="line-height:1">Mdm Loh Kah Yee</li></ol></td>
+		<td style="line-height:1"><ol><li style="line-height:1">Mdm Lim Bee Tin</li></ol></td>
   </tr>
 </tbody>
 </table>
