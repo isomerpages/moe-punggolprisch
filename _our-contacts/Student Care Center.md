@@ -5,7 +5,7 @@ description: ""
 ---
 <table style="font-size:16px">
 	<thead>
-		<tr><td style="font-family:impact; font-size:25px; color:rgb(94,94,207)" colspan=2>Student Care Centre</td></tr>
+		<tr><td style="font-family:impact; font-size:25px" colspan=2>Student Care Centre</td></tr>
 	</thead>
 	<tbody>
 		<tr>
