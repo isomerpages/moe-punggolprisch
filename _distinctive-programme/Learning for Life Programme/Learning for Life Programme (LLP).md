@@ -17,27 +17,27 @@ third_nav_title: Learning for Life Programme
   </tr>
   <tr>
     <td>Create And Play (CAP)</td>
-    <td>A celebration of innovative, creative &amp; fun games created by PE teachers and students. Students take ownership in creating their own games and participate in them as a culminating event to savour their success.</td>
+    <td style="text-align:justify">A celebration of innovative, creative &amp; fun games created by PE teachers and students. Students take ownership in creating their own games and participate in them as a culminating event to savour their success.</td>
     <td>P1-P6 </td>
   </tr>
   <tr>
     <td>Inter-Class Games (ICG)</td>
-    <td>Modified Inter-class relay/games afford students valuable opportunities to demonstrate skills acquired during PE lessons and to display the PPS STAR values such as teamwork and responsibility. All students will also be able to experience competitive play. </td>
+    <td style="text-align:justify">Modified Inter-class relay/games afford students valuable opportunities to demonstrate skills acquired during PE lessons and to display the PPS STAR values such as teamwork and responsibility. All students will also be able to experience competitive play. </td>
     <td>P1-P6</td>
   </tr>
   <tr>
     <td>Unstructured Recess Play (URP)</td>
-    <td>Students get additional time (15 min) after their recess(P1-P3) for 1 day a week to explore, have fun and play with different equipment and resources at different assigned venues in the school. Spaces are freed up for students to play, imagine and create during URP.</td>
+    <td style="text-align:justify">Students get additional time (15 min) after their recess(P1-P3) for 1 day a week to explore, have fun and play with different equipment and resources at different assigned venues in the school. Spaces are freed up for students to play, imagine and create during URP.</td>
     <td>P1-P3</td>
   </tr>
   <tr>
     <td> Sports Education/Exposure Programme (SEP)</td>
-    <td>To ignite Joy of Learning and spark interest in students through a short introduction / exposure of a new recreational sports / game. Some sports / games which have been introduced to students before were: mini-bowling, cycling, in-line skating and archery</td>
+    <td style="text-align:justify">To ignite Joy of Learning and spark interest in students through a short introduction / exposure of a new recreational sports / game. Some sports / games which have been introduced to students before were: mini-bowling, cycling, in-line skating and archery</td>
     <td>P1-P4</td>
   </tr>
   <tr>
     <td>Level Cohort Camp</td>
-    <td>Level cohort camps are extended platform of the Outdoor Education (OE) in the PE syllabus. Students apply knowledge, skills, attitude, social skills and values in authentic outdoor adventure context.</td>
+    <td style="text-align:justify">Level cohort camps are extended platform of the Outdoor Education (OE) in the PE syllabus. Students apply knowledge, skills, attitude, social skills and values in authentic outdoor adventure context.</td>
     <td>P3-P6</td>
   </tr>
 	<tr></tr>
