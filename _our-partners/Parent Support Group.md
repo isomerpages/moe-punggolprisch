@@ -57,14 +57,7 @@ description: ""
 	</li>
 	<li>
     <input id="accordion6" type="checkbox">
-    <label for="accordion6"><h5>PSG Organisational Chart</h5></label>
-    <div>
-      <p><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion7" type="checkbox">
-	<label for="accordion7"><h5>Ethos of PSG Members</h5></label>
+	<label for="accordion6"><h5>Ethos of PSG Members</h5></label>
     <div>
 				<table>
 <tbody>		
