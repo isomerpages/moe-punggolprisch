@@ -4,28 +4,26 @@ permalink: /parent-support-group/Activities/childrens-day-celebration/
 description: ""
 third_nav_title: Activities
 ---
-
-
-<img src="/images/Children's%20Day%20Celebration1.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration1.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration2.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration2.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration3.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration3.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration4.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration4.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration5.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration5.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration6.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration6.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration7.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration7.jpeg" 
      style="width:65%">
 
-<img src="/images/Children's%20Day%20Celebration8.jpeg" 
+<img src="/images/PSG/Activities/Children_Day/Children's%20Day%20Celebration8.jpeg" 
      style="width:65%">
