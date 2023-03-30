@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 <ul class="jekyllcodex_accordion">
 		 <li>
-    <input id="accordion1" type="checkbox" style="background-color: blue;">
-		<label for="accordion1" style="background-color:lightyellow"><div style="font-family:impact; font-size:25px">PRIMARY 1 TEACHERS</div></label>
+    <input id="accordion1" type="checkbox" style="background-color: #ccc;">
+		<label for="accordion1"><div style="font-family:impact; font-size:25px">PRIMARY 1 TEACHERS</div></label>
     <div>
 			<table>
 <tbody style="font-size:18px">
@@ -52,7 +52,7 @@ third_nav_title: Our Staff
 	</li>
 		 <li>
     <input id="accordion2" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion2"><h5>PRIMARY 2 TEACHERS</h5></label>
+		<label for="accordion2"><div style="font-family:impact; font-size:25px">PRIMARY 2 TEACHERS</div></label>
     <div>
 			<table>
 	<tbody style="font-size:18px">
@@ -97,7 +97,7 @@ third_nav_title: Our Staff
 	</li>
 	 <li>
     <input id="accordion3" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion3"><h5>PRIMARY 3 TEACHERS</h5></label>
+		<label for="accordion3"><div style="font-family:impact; font-size:25px">PRIMARY 3 TEACHERS</div></label>
     <div>
 			<table>
 	<tbody style="font-size:18px">
@@ -137,7 +137,7 @@ third_nav_title: Our Staff
 	</li>
 	 <li>
     <input id="accordion4" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion4"><h5>PRIMARY 4 TEACHERS</h5></label>
+		<label for="accordion4"><div style="font-family:impact; font-size:25px">PRIMARY 4 TEACHERS</div></label>
     <div>
 			<table>
 				<tbody style="font-size:18px">
@@ -182,7 +182,7 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion5" type="checkbox">
-	<label for="accordion5"><h5>PRIMARY 5 TEACHERS</h5></label>
+	<label for="accordion5"><div style="font-family:impact; font-size:25px">PRIMARY 5 TEACHERS</div></label>
     <div>
       <table>
 	<tbody style="font-size:18px">
@@ -227,7 +227,7 @@ third_nav_title: Our Staff
 	</li>
   <li>
     <input id="accordion6" type="checkbox" style="background-color: #ccc;">
-		<label for="accordion6"><h5>PRIMARY 6 TEACHERS</h5></label>
+		<label for="accordion6"><div style="font-family:impact; font-size:25px">PRIMARY 6 TEACHERS</div></label>
     <div>
 			<table>
 <tbody style="font-size:17px">
@@ -272,7 +272,7 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion7" type="checkbox">
-    <label for="accordion7"><h5>MOTHER TONGUE TEACHERS</h5></label>
+    <label for="accordion7"><div style="font-family:impact; font-size:25px">MOTHER TONGUE TEACHERS</div></label>
     <div>
       <table>
 <tbody style="font-size:17px">
@@ -340,7 +340,7 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion8" type="checkbox">
-	<label for="accordion8"><h5>PE, ART &amp; MUSIC TEACHERS</h5></label>
+	<label for="accordion8"><div style="font-family:impact; font-size:25px">PE, ART &amp; MUSIC TEACHERS</div></label>
     <div>
 			<table>
 				<tbody style="font-size:18px">
