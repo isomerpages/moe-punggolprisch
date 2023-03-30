@@ -4,34 +4,22 @@ permalink: /parent-support-group/Activities/teachers-day-celebration/
 description: ""
 third_nav_title: Activities
 ---
+<img style="width:65%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc1.jpeg">
 
+<img style="width:65%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc2.jpeg">
 
-<img src="/images/tdc1.jpeg" 
-     style="width:65%">
+<img style="width:65%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc3.jpeg">
 
-<img src="/images/tdc2.jpeg" 
-     style="width:65%">
+<img style="width:65%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc4.jpeg">
 
-<img src="/images/tdc3.jpeg" 
-     style="width:65%">
+<img style="width:65%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc5.jpeg">
 
-<img src="/images/tdc4.jpeg" 
-     style="width:65%">
+<img style="width:45%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc6.jpeg">
 
-<img src="/images/tdc5.jpeg" 
-     style="width:65%">
+<img style="width:45%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc7.jpeg">
 
-<img src="/images/tdc6.jpeg" 
-     style="width:45%">
+<img style="width:45%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc8.jpeg">
 
-<img src="/images/tdc7.jpeg" 
-     style="width:45%">
+<img style="width:45%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc9.jpeg">
 
-<img src="/images/tdc8.jpeg" 
-     style="width:45%">
-
-<img src="/images/tdc9.jpeg" 
-     style="width:45%">
-
-<img src="/images/tdc10.jpeg" 
-     style="width:45%">
+<img style="width:45%" src="/images/PSG/Activities/Teacher_Day_Celebration/tdc10.jpeg">
