@@ -3,6 +3,8 @@ title: Our School Song
 permalink: /our-identity/our-school-song/
 description: ""
 ---
+<blockquote>
+	
 Here we are in Punggol Primary   
 Always with a smile  
 We’re bright and happy  
@@ -38,7 +40,4 @@ Every waking hour
 Punggol Primary    
 Let the people see   
 We’ll be the very best that we can be   
-We’ll be the very best that we can be
-
-
-(embed song here)
+We’ll be the very best that we can be</blockquote>
