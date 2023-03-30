@@ -7,14 +7,14 @@ third_nav_title: School Awards
 <table style="width:40%">
 	<thead>
 		 <tr style="font-weight:bold">
-    <td width=80>Year</td>
-    <td width=>Award</td>
+    <td>Year</td>
+    <td>Award</td>
   </tr>
 	</thead>
 <tbody>
 <tr>
     <td>2022</td>
-    <td>Gold</span></td>
+    <td>Gold</td>
   </tr>
   <tr>
     <td>2021</td>
