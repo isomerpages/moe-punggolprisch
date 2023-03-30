@@ -49,6 +49,20 @@ description: ""
     </div>
 	</li>
 	<li>
+    <input id="accordion3" type="checkbox" style="background-color: #ccc;">
+		<label for="accordion3"><h5>PSG Activities</h5></label>
+    <div>
+			<p>The activities that we plan aim to:<br><img src="/images/PSG/PSG_Activities.jpg" style="width:80%"></p>
+    </div>
+	</li>
+	<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4"><h5>PSG Organisational Chart</h5></label>
+    <div>
+      <p><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
+    </div>
+	</li>
+	<li>
     <input id="accordion5" type="checkbox">
 	<label for="accordion5"><h5>Ethos of PSG Members</h5></label>
     <div>
