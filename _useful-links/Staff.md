@@ -52,7 +52,7 @@ description: ""
 			</ul></td>
 		<td><ul style="margin:0px; list-style-type:square; line-height:3">
 				<li style="line-height:2;"><a href="https://rbs.avero-tech.com/" target="_blank"><img src="/images/Icons/rbslogo.JPG" style="border:3px solid white; float:left;width:35px;height:35px">Resource Booking Service (RBS)</a></li>
-				<li style="line-height:2;"><a href="https://scmobile.moe.edu.sg/home" target="_blank"><img src="/images/Icons/Slide1.jpeg" style="border:3px solid white; float:left;width:35px;height:35px">SC Mobile</a></li>
+				<li style="line-height:2;"><a href="https://scmobile.moe.edu.sg/home" target="_blank"><img src="/images/Icons/scmobile.jpeg" style="border:3px solid white; float:left;width:35px;height:35px">SC Mobile</a></li>
 				<li style="line-height:2;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank"><img src="/images/Icons/scholastic.jpg" style="border:3px solid white; float:left;width:35px;height:35px"></a><a href="https://pg.moe.edu.sg/" target="_blank">Scholastic Learning Zone</a></li>
 				<li style="line-height:2;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a></li>
 				<li style="line-height:2;"><a href="https://go.gov.sg/stpwiki" target="_blank"><img src="/images/Icons/stp_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Singapore Teaching Practise </a></li>
