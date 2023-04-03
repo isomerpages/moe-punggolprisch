@@ -53,7 +53,7 @@ description: ""
 		<td><ul style="list-style-type:square; line-height:3">
 				<li style="line-height:0.5;"><a href="https://rbs.avero-tech.com/" target="_blank"><img src="/images/Icons/rbslogo.JPG" style="border:3px solid white; float:left;width:35px;height:35px">Resource Booking Service (RBS)</a></li>
 				<li style="line-height:0.5;"><a href="https://scmobile.moe.edu.sg/home" target="_blank">SC Mobile</a></li>
-				<li style="line-height:0.5;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank"><img src="/images/Icons/scholastic.jpeg" style="border:3px solid white; float:left;width:35px;height:35px">Scholastic Learning Zone</a></li>
+				<li style="line-height:0.5;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank"><img src="/images/Icons/scholastic.jpg" style="border:3px solid white; float:left;width:35px;height:35px">Scholastic Learning Zone</a></li>
 				<li style="line-height:0.5;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a></li>
 				<li style="line-height:0.5;"><a href="https://go.gov.sg/stpwiki" target="_blank">Singapore Teaching Practise </a></li>
 				<li style="line-height:0.5;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D7f9f409da91aa05df58fd89c3edf38c3bf11cb5d3e1f9796a244538d0736f468" target="_blank">SkillFuture for Educators</a></li>
