@@ -7,8 +7,8 @@ description: ""
 <!--Header #1--->
 <thead>
 	<tr>
-		<td style="line-height:0.5; font-size:25px;font-family:impact" width="300">A - B - C - D</td>
-		<td style="line-height:0.5; font-size:25px;font-family:impact" width="300">E - F - G - H</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact" width="250">A - B - C - D</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact" width="350">E - F - G - H</td>
 		<td style="line-height:0.5; font-size:25px;font-family:impact">I - J - K - L</td>
 	</tr>
 </thead>
@@ -18,7 +18,7 @@ description: ""
 		<td>
 			<ul style="margin:0px; list-style-type:none;">
 						<li style="line-height:1"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Educational Leadership and School Excellence</a></li>
-					<li style="line-height:1;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">English Language Syllabus Primary</a></li>
+					<li style="line-height:2;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">English Language Syllabus Primary</a></li>
 				<li style="line-height:2;"><a href="https://www.hrp.gov.sg" target="_blank"><img src="/images/Icons/hrp_logo.png" style="border:3px solid white; float:left;width:65px;height:35px;">Portal</a></li>
 			</ul>
 		</td>
