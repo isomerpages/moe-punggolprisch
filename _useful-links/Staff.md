@@ -43,7 +43,7 @@ description: ""
 <tbody>
 	<tr>
 		<td><ul style="margin:0px; list-style-type:square">
-			<li style="line-height:2;"><a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a></li>
+			<li style="line-height:2;"><a href="https://idp.mims.moe.gov.sg" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MIMS Portal</a></li>
 			<li style="line-height:2;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
 			<li style="line-height:2;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">OPAL</a></li>
 			<li style="line-height:2;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
