@@ -14,7 +14,9 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-		<td>-</td>
+		<td><ul style="margin:0px; list-style-type:none;">
+			<li style="line-height:2;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
+			</ul></td>
 		<td>
 			<ul style="margin:0px; list-style-type:none;">
 						<li style="line-height:2"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Educational Leadership &amp; School Excellence</a></li>
@@ -46,7 +48,6 @@ description: ""
 			<li style="line-height:2;"><a href="https://idp.mims.moe.gov.sg" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MIMS Portal</a></li>
 			<li style="line-height:2;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
 			<li style="line-height:2;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">OPAL</a></li>
-			<li style="line-height:2;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
 		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
 		<li style="line-height:2;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="border:3px solid white; float:left;width:35px;height:35px">Parents Gateway</a></li>
 			</ul></td>
