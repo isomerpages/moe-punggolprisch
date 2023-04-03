@@ -7,7 +7,7 @@ description: ""
 <!--Header #1--->
 <thead>
 	<tr>
-		<td style="line-height:0.5; font-size:25px;font-family:impact" width="200">A - B - C - D</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact" width="300">A - B - C - D</td>
 		<td style="line-height:0.5; font-size:25px;font-family:impact" width="300">E - F - G - H</td>
 		<td style="line-height:0.5; font-size:25px;font-family:impact">I - J - K - L</td>
 	</tr>
