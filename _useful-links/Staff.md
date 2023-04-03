@@ -35,9 +35,9 @@ description: ""
 <!--Header #2--->
 <thead>
 	<tr>
-		<td style="line-height:0.5; font-size:25px; font-family:impact">M - P</td>
-		<td style="line-height:0.5; font-size:25px; font-family:impact">Q - T</td>
-		<td style="line-height:0.5; font-size:25px; font-family:impact">U - X</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">M - N - O - P</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">Q - R - S - T</td>
+		<td style="line-height:0.5; font-size:25px; font-family:impact">U - V - W - X</td>
 	</tr>
 </thead>
 <tbody>
