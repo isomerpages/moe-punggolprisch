@@ -46,7 +46,7 @@ description: ""
 			<li style="line-height:0.5;"><a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a></li>
 			<li style="line-height:2;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
 			<li style="line-height:0.5;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank">OPAL</a></li>
-			<li style="line-height:0.5;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">Outlook Webmail (within school / VPN)</a></li>
+			<li style="line-height:0.5;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
 		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
 		<li style="line-height:0.5;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="border:3px solid white; float:left;width:35px;height:35px">Parents Gateway</a></li>
 			</ul></td>
