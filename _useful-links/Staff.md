@@ -17,8 +17,8 @@ description: ""
 		<td>-</td>
 		<td>
 			<ul style="list-style-type:square;">
-						<li style="line-height:0.5;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank">Educational Leadership and School Excellence</a></li>
-					<li style="line-height:0.5;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank">English Language Syllabus Primary</a></li>
+						<li style="line-height:1;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank">Educational Leadership and School Excellence</a></li>
+					<li style="line-height:1;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank">English Language Syllabus Primary</a></li>
 				<li style="line-height:2.5;"><a href="https://www.hrp.gov.sg" target="_blank"><img src="/images/Icons/hrp_logo.png" style="border:3px solid white; float:left;width:65px;height:35px;">Portal</a></li>
 			</ul>
 		</td>
@@ -44,7 +44,7 @@ description: ""
 	<tr>
 		<td><ul style="list-style-type:square">
 			<li style="line-height:0.5;"><a href="https://idp.mims.moe.gov.sg" target="_blank">MIMS Portal</a></li>
-			<li style="line-height:2;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
+			<li style="line-height:1.5;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
 			<li style="line-height:0.5;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank">OPAL</a></li>
 			<li style="line-height:0.5;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
 		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
