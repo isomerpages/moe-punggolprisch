@@ -26,7 +26,7 @@ description: ""
 			<ul style="margin:0px;  list-style-type:square">
 				<li style="line-height:2"><a href="https://icon.moe.edu.sg/" target="_blank"><img src="/images/Icons/icon_2.png" style="border:3px solid white; float:left;width:65px;height:35px">Email</a></li>
 				<li style="line-height:2;"><a href="https://sites.google.com/moe.edu.sg/pps-epedagogy-and-ict-tools-sh/school-cockpit-matters" target="_blank">ICT Microsite for Staff</a></li>
-				<li style="line-height:2;"><a href="https://iexams.seab.gov.sg" target="_blank">iEXAMS</a></li>
+				<li style="line-height:2;"><a href="https://iexams.seab.gov.sg" target="_blank"><img src="/images/Icons/seab_logo.png" style="border:3px solid white; float:left;width:35px;height:35px;">iEXAMS</a></li>
 				<li style="line-height:2;"><a href="https://member.koobits.com/" target="_blank"><img src="/images/Icons/koobits_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">Koobits</a></li>
 			</ul>
 		</td>
