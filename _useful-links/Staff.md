@@ -27,7 +27,7 @@ description: ""
 				<li style="line-height:0.5;"><a href="https://icon.moe.edu.sg/" target="_blank">iCON Email</a></li>
 				<li style="line-height:0.5;"><a href="https://sites.google.com/moe.edu.sg/pps-epedagogy-and-ict-tools-sh/school-cockpit-matters" target="_blank">ICT Microsite for Staff</a></li>
 				<li style="line-height:0.5;"><a href="https://iexams.seab.gov.sg" target="_blank">iEXAMS</a></li>
-				<li style="line-height:2;"><a href="https://member.koobits.com/" target="_blank"><img src="/images/Icons/KooBits_Logo.jpg" style="float:left;width:35px;height:35px">Koobits</a></li>
+				<li style="line-height:2;"><a href="https://member.koobits.com/" target="_blank"><img src="/images/Icons/koobits_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">Koobits</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -48,10 +48,10 @@ description: ""
 			<li style="line-height:0.5;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank">OPAL</a></li>
 			<li style="line-height:0.5;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank">Outlook Webmail (within school / VPN)</a></li>
 		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
-		<li style="line-height:0.5;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="float:left;width:35px;height:35px">Parents Gateway</a></li>
+		<li style="line-height:0.5;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="border:3px solid white; float:left;width:35px;height:35px">Parents Gateway</a></li>
 			</ul></td>
 		<td><ul style="list-style-type:square; line-height:3">
-				<li style="line-height:0.5;"><a href="https://rbs.avero-tech.com/" target="_blank"><img src="/images/Icons/rbslogo.JPG" style="float:left;width:35px;height:35px">Resource Booking Service (RBS)</a></li>
+				<li style="line-height:0.5;"><a href="https://rbs.avero-tech.com/" target="_blank"><img src="/images/Icons/rbslogo.JPG" style="border:3px solid white; float:left;width:35px;height:35px">Resource Booking Service (RBS)</a></li>
 				<li style="line-height:0.5;"><a href="https://scmobile.moe.edu.sg/home" target="_blank">SC Mobile</a></li>
 				<li style="line-height:0.5;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank">Scholastic Learning Zone</a></li>
 				<li style="line-height:0.5;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a></li>
