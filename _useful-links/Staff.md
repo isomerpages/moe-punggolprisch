@@ -3,7 +3,7 @@ title: Staff
 permalink: /useful-links/staff/
 description: ""
 ---
-<table style="font-size:16px">
+<table>
 <!--Header #1--->
 <thead>
 	<tr>
@@ -17,7 +17,7 @@ description: ""
 		<td>-</td>
 		<td>
 			<ul style="margin:0px; list-style-type:none;">
-						<li style="line-height:1;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Educational Leadership and School Excellence</a></li>
+						<li style="line-height:1"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Educational Leadership and School Excellence</a></li>
 					<li style="line-height:1;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">English Language Syllabus Primary</a></li>
 				<li style="line-height:2;"><a href="https://www.hrp.gov.sg" target="_blank"><img src="/images/Icons/hrp_logo.png" style="border:3px solid white; float:left;width:65px;height:35px;">Portal</a></li>
 			</ul>
@@ -74,11 +74,11 @@ description: ""
 		<td>-</td>
 		<td>-</td>
 	<td>
-			<ul style="margin:0px; list-style-type:square;">
-				<li style="line-height:1;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target="_blank">Event or Activities During School Term or Holidays</a></li>
-				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target="_blank">Logistics Support for Event/Function</a></li>
-				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target="_blank">Request for Repair/Maintenance Work</a></li>
-				<li style="line-height:1;"><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target="_blank">PS Card Replacement</a></li>
+			<ul style="margin:0px; list-style-type:none;">
+				<li style="line-height:1;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Event or Activities During School Term or Holidays</a></li>
+				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Logistics Support for Event/Function</a></li>
+				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Request for Repair/Maintenance Work</a></li>
+				<li style="line-height:1;"><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">PS Card Replacement</a></li>
 		</ul>
 		</td>
 	</tr></tbody></table>
