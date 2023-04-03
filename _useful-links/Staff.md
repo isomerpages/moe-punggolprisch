@@ -47,7 +47,7 @@ description: ""
 			<li style="line-height:0.5;"><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">MOE Intranet</a></li>
 			<li style="line-height:0.5;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank">OPAL</a></li>
 			<li style="line-height:0.5;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank">Outlook Webmail (within school / VPN)</a></li>
-		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/Padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
+		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
 		<li style="line-height:0.5;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="float:left;width:35px;height:35px">Parents Gateway</a></li>
 			</ul></td>
 		<td><ul style="list-style-type:square; line-height:3">
