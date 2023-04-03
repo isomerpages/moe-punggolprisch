@@ -7,9 +7,9 @@ description: ""
 <!--Header #1--->
 <thead>
 	<tr>
-		<td style="line-height:0.5; font-size:25px;font-family:impact">A - D</td>
-		<td style="line-height:0.5; font-size:25px;font-family:impact">E - H</td>
-		<td style="line-height:0.5; font-size:25px;font-family:impact">I - L</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">A - B - C - D</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">E - F - G - H</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact">I - J - K - L</td>
 	</tr>
 </thead>
 <tbody>
@@ -27,6 +27,7 @@ description: ""
 				<li style="line-height:0.5;"><a href="https://icon.moe.edu.sg/" target="_blank">iCON Email</a></li>
 				<li style="line-height:0.5;"><a href="https://sites.google.com/moe.edu.sg/pps-epedagogy-and-ict-tools-sh/school-cockpit-matters" target="_blank">ICT Microsite for Staff</a></li>
 				<li style="line-height:0.5;"><a href="https://iexams.seab.gov.sg" target="_blank">iEXAMS</a></li>
+				<li style="line-height:0.5;"><a href="https://member.koobits.com/" target="_blank">Koobits</a></li>
 			</ul>
 		</td>
 	</tr>
