@@ -4,7 +4,6 @@ permalink: /cca/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQU7KpXnMaFe0eabjjxEb9oEgJ4uNvGx_5WkrJvo0vEwvgCTD29mJ8x5M1jPddG8C52iaPdsOgXeXM1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>To be the youth organisation of choice</td>
@@ -35,3 +34,4 @@ third_nav_title: Uniformed Groups
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQU7KpXnMaFe0eabjjxEb9oEgJ4uNvGx_5WkrJvo0vEwvgCTD29mJ8x5M1jPddG8C52iaPdsOgXeXM1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
