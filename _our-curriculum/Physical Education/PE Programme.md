@@ -19,15 +19,15 @@ third_nav_title: Physical Education
 <p style="text-align:justify"><span style="color:mediumseagreen"><b>Competitive and collaborative</b></span> activities for students to develop respect of self and others and also a sense of responsibility towards their own well-being and their peers. The process of winning and losing provides a platform for them to make moral decisions and take actions that demonstrate values of integrity, fair play and sportsmanship. Furthermore, working with individuals from different backgrounds, ethnicity and religions help students to foster cooperation and encourages respect and harmony between them.
 <img src="/images/PE/pe6.jpeg" style="width:95%"></p>
 
-<table style="undefined;table-layout: fixed; width: 665px">
-	<thead><tr style="font-size:18px; font-weight:bold; text-align:left"><td colspan="3">The seven learning areas that facilitate the organisation of these learning experiences in Punggol Primary School are:</td></tr></thead>
+<table style="margin-left:auto;margin-right:auto; border:1px solid black; table-layout: fixed; width: 550px">
+		<thead><tr style="font-size:18px; font-weight:bold; text-align:left"><td colspan="3">The seven learning areas that facilitate the organisation of these learning experiences in Punggol Primary School are:</td></tr></thead>
 	<colgroup>
-		<col style="width: 25px">
-		<col style="width: 345px">
-		<col style="width: 235px">
+		<col style="width: 15px">
+		<col style="width: 125px">
+		<col style="width: 45px">
 	</colgroup>
 <tbody>
-  <tr>
+  <tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white">
     <td></td>
     <td>Learning Areas</td>
     <td>Levels</td>
@@ -72,15 +72,15 @@ third_nav_title: Physical Education
 
 <img src="/images/PE/pe7.jpeg" style="width:95%"><br>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 701px">
+<table style="margin-left:auto;margin-right:auto; border:1px solid black; table-layout: fixed; width: 550px">
 	<thead><tr style="font-size:18px; font-weight:bold; text-align:center"><td colspan="3">Punggol Primary Outdoor Education Programme</td></tr></thead>
 <colgroup>
-<col style="width: 70px">
+<col style="width: 80px">
 <col style="width: 235px">
 <col style="width: 257px">
 </colgroup>
 <tbody>
-  <tr>
+  <tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white">
     <td>Levels</td>
     <td>Duration</td>
     <td>Objectives</td>
