@@ -3,9 +3,11 @@ title: Our School Song
 permalink: /our-identity/our-school-song/
 description: ""
 ---
-<blockquote>
-	
-Here we are in Punggol Primary   
+<p style="font-size:30px; color:mediumseagreen">	
+♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬</p>	
+
+<pre><div style="font-family:Times; font-size:20px; font-style:italic; font-style:bold; margin: 0px 0px 0px 80px">\
+<span style="font-family:Times; font-style:bold;  font-size:30px">H</span>ere we are in Punggol Primary   
 Always with a smile  
 We’re bright and happy  
 Kind and helpful  
@@ -16,7 +18,7 @@ In whatever we do
 With courage and grace   
 Bound by truth and love   
 We strive for pride and glory   
-Every waking hour   
+Every waking hour
 
 Punggol Primary   
 Let the people see   
@@ -40,4 +42,8 @@ Every waking hour
 Punggol Primary    
 Let the people see   
 We’ll be the very best that we can be   
-We’ll be the very best that we can be</blockquote>
+We’ll be the very best that we can be
+</div>
+</pre>
+<div style="font-size:30px; color:mediumseagreen">	
+♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬</div>	
