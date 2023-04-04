@@ -4,8 +4,6 @@ permalink: /cca/Clubs-and-Societies/design-and-innovation-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCD7dH0ElbbiPV79L1TeIR7RCjSLCwVUMLQ8rfIs0kw6BTDw6YavaAilCM8lNLKcgvYx6ePGs5rsMM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td style="text-align:justify">Every member <b>design and innovation</b> professional.</td>
@@ -35,3 +33,4 @@ third_nav_title: Clubs and Societies
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCD7dH0ElbbiPV79L1TeIR7RCjSLCwVUMLQ8rfIs0kw6BTDw6YavaAilCM8lNLKcgvYx6ePGs5rsMM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
