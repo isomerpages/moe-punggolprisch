@@ -18,7 +18,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>+65 6358 0762</td>
+			<td>+65 6385 0762</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Fax</td>
@@ -32,13 +32,13 @@ description: ""
 		<tr>
 			<td style="font-weight:bold">Follow Us</td>
 			<td>
-			<table><tr>
-			<td width=1 >
-				<a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px; height:20px; " align="left"></a></td>
-			<td width=200>
+			<table><tbody><tr>
+			<td width="1">
+				<a href="https://www.facebook.com/punggolprisch?mibextid=LQQJ4d" target="_blank"><img src="/images/Icons/FB.jpg" style="width:20px; height:20px;" align="left"></a></td>
+			<td width="200">
 					<a href="https://www.instagram.com/punggolprisch/" target="_blank"><img src="/images/Icons/IG.jpg" style="width:20px; height:20px" align="left"></a></td>
 				</tr>
-				</table>
+				</tbody></table>
 			</td>
 		</tr>
 		<tr>

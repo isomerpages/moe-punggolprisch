@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 <ul class="jekyllcodex_accordion">
 		 <li>
-    <input id="accordion1" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion1" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion1"><div style="font-family:impact; font-size:25px">PRIMARY 1 TEACHERS</div></label>
     <div>
 			<table>
@@ -17,14 +17,14 @@ third_nav_title: Our Staff
     <td>Co-Form Teachers</td>
   </tr>
   <tr style="line-height:1">
-    <td style="font-weight: bold ">1 Self-Discipline</td>
+    <td style="font-weight: bold">1 Self-Discipline</td>
     <td>Ms Gan Hui Teng</td>
     <td>Ms Khng Su-Lyn Jacqueline</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">1 Teamwork</td>
     <td>Mdm Chia Ling</td>
-    <td >Ms Sharmeela Begum d/o Jainlavudin</td>
+    <td>Ms Sharmeela Begum d/o Jainlavudin</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">1 Affection</td>
@@ -51,7 +51,7 @@ third_nav_title: Our Staff
     </div>
 	</li>
 		 <li>
-    <input id="accordion2" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion2" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion2"><div style="font-family:impact; font-size:25px">PRIMARY 2 TEACHERS</div></label>
     <div>
 			<table>
@@ -96,7 +96,7 @@ third_nav_title: Our Staff
     </div>
 	</li>
 	 <li>
-    <input id="accordion3" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion3" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion3"><div style="font-family:impact; font-size:25px">PRIMARY 3 TEACHERS</div></label>
     <div>
 			<table>
@@ -136,7 +136,7 @@ third_nav_title: Our Staff
     </div>
 	</li>
 	 <li>
-    <input id="accordion4" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion4" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion4"><div style="font-family:impact; font-size:25px">PRIMARY 4 TEACHERS</div></label>
     <div>
 			<table>
@@ -226,7 +226,7 @@ third_nav_title: Our Staff
     </div>
 	</li>
   <li>
-    <input id="accordion6" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion6" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion6"><div style="font-family:impact; font-size:25px">PRIMARY 6 TEACHERS</div></label>
     <div>
 			<table>
@@ -323,7 +323,7 @@ third_nav_title: Our Staff
 		<td></td>
   </tr>
 	<tr style="line-height:1">
-	  <td rowspan="2" style="font-weight: bold">TAMIL</td>
+	  <td rowspan="2" style="border:0px; font-weight: bold">TAMIL</td>
 		<td>Mdm Shiamala d/o Ramyah</td>
 		<td>Mdm Bawvaney Sommasundaram</td>
 		<td>Ms Geetha do Sathiamurthi</td>
@@ -333,7 +333,6 @@ third_nav_title: Our Staff
 		<td>Mdm Malini Kumarasamy</td>
 		<td></td>
   </tr>
-	<tr></tr>
 </tbody>
 </table>
     </div>
