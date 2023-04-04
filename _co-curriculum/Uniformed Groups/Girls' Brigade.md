@@ -5,17 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <table>
-	<tbody><tr>
-		<td style="margin:0px; padding:1px">
-			<img src="/images/CCA/Latest%20Photo_1.jpeg" style="border:5px solid lightgrey; width:100%;"></td>
-			<td style="margin:0px; padding:1px">
-				<img src="/images/CCA/Lates%20Photo-3.jpeg" style="border:5px solid lightgrey; width:100%"></td>
-			<td style="margin:0px; padding:1px">
-				<img src="/images/CCA/Lates%20Photo-2.jpeg" style="border:5px solid lightgrey; width:100%"></td>
-	</tr>
-</tbody></table>
-
-<table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>To establish a GB company in every Singapore school with girls and a GB presence in every country in Asia by 2027</td>
 	</tr>
@@ -54,6 +43,18 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
+
+<table>
+	<tbody><tr>
+		<td style="margin:0px; padding:1px">
+			<img src="/images/CCA/Latest%20Photo_1.jpeg" style="border:5px solid lightgrey; width:100%;"></td>
+			<td style="margin:0px; padding:1px">
+				<img src="/images/CCA/Lates%20Photo-3.jpeg" style="border:5px solid lightgrey; width:100%"></td>
+			<td style="margin:0px; padding:1px">
+				<img src="/images/CCA/Lates%20Photo-2.jpeg" style="border:5px solid lightgrey; width:100%"></td>
+	</tr>
+</tbody></table>
+
 <!--
 ![](/images/CCA/Latest%20Photo_1.jpeg)
 ![](/images/CCA/Lates%20Photo-2.jpeg)
