@@ -8,7 +8,7 @@ description: ""
 
 ------
 
-<p style="font-weight:bold"><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca">Co-Curricular Activities</a></p>
+<p style="font-weight:bold; font-size:20px"><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca">Co-Curricular Activities</a></p>
 
 
 <p style="text-align:justify">In PPS, we offer students CCAs from the following options:
@@ -20,4 +20,4 @@ description: ""
 
 <p style="text-align:justify">At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all pupils to participate in at least 1 school-based CCA during their course of study in PPS.</p>
 
-<h5><a target="_blank" href="/files/CCA/CCA%20Schedule%202023.pdf">CCA Schedule 2023</a></h5>
+<p style="font-size:20px; font-weight:bold"><a target="_blank" href="/files/CCA/CCA%20Schedule%202023.pdf">CCA Schedule 2023</a></p>
