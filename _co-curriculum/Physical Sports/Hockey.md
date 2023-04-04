@@ -19,10 +19,19 @@ third_nav_title: Physical Sports
 	</tr>
 	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Schedule ⇥</td>
 		<td>
-			<table style="border:1px solid black">
+			<table style="border:1.2px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td width="100">Day</td><td width="180">Time</td><td width="80">Venue</td><td>Teacher in charge</td></tr>
-				<tr><td>Monday<br>(P3&amp;P4) <br><br>Tue &amp; Thur<br>(P5 &amp; P6)</td><td width="200">2:00pm - 4:00pm (P3 Boys&amp;Girls) <br>2:00pm - 4:00pm (Girls) <br>2:30pm - 4:30pm (P4 Boys) <br>2:00pm -3:30pm (P5&amp;P6 Girls) <br>3:00pm - 4:30pm (P5&amp;P6 Boys)</td><td>Parade Ground / Hall</td><td>Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td></tr>
+			<tr>
+				<td style="border:0px solid black">Monday<br>(P3&amp;P4)</td>
+				<td width="200" style="border:0px solid black">2:00pm - 4:00pm<br>(P3 Boys&amp;Girls)<br>2:00pm - 4:00pm<br>(Girls)<br>2:30pm - 4:30pm<br>(P4 Boys) </td>
+				<td rowspan="2">Parade Ground / Hall</td>
+				<td rowspan="2">Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td>
+			</tr>
+			<tr>
+				<td>Tue&amp;Thur<br>(P5 &amp; P6)</td>
+				<td width="200">2:00pm -3:30pm<br>(P5&amp;P6 Girls)<br>3:00pm - 4:30pm<br> (P5&amp;P6 Boys)</td>
+			</tr>
 		</tbody>
 	</table>
 		</td>
