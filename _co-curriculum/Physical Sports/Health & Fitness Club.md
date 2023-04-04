@@ -4,7 +4,6 @@ permalink: /cca/Physical-Sports/health-and-fitness-club/
 description: ""
 third_nav_title: Physical Sports
 ---
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqn9fJZpQQBAZ9-zWZOUjE2Y14ic3kvw3CAYSQ--KkpT1WhZCj35Sw8zrxvQNDbexhNIu4FAMsJjzL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>A community of health-minded individuals who eat well and participate in regular physical activities.</td>
@@ -33,3 +32,4 @@ third_nav_title: Physical Sports
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqn9fJZpQQBAZ9-zWZOUjE2Y14ic3kvw3CAYSQ--KkpT1WhZCj35Sw8zrxvQNDbexhNIu4FAMsJjzL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
