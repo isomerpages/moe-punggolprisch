@@ -3,9 +3,6 @@ title: Our School Song
 permalink: /our-identity/our-school-song/
 description: ""
 ---
-<p style="font-size:30px; color:mediumseagreen; margin: 0px 0px 0px 80px">	
-♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬</p>	
-
 <pre><div style="font-family:Times; font-size:20px; font-style:italic; font-style:bold; margin: 0px 0px 0px 80px">\
 <span style="font-family:Times; font-style:bold;  font-size:30px">H</span>ere we are in Punggol Primary   
 Always with a smile  
@@ -45,5 +42,3 @@ We’ll be the very best that we can be
 We’ll be the very best that we can be
 </div>
 </pre>
-<div style="font-size:30px; color:mediumseagreen; margin: 0px 0px 0px 80px">	
-♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬♩♬</div>
