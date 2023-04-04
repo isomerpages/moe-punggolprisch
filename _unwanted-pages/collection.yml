@@ -2,4 +2,5 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - Unstructured Recess Play (URP).md
       - CCA Recruitment Drive.md
