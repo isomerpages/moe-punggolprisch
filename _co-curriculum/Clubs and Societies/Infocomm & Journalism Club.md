@@ -4,8 +4,6 @@ permalink: /cca/Clubs-and-Societies/infocomm-n-journalism-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpJhrmW79aYVYsYDjPsosiBVzURZqDRVL5P9K9e1XerhSOLhcmC3QIgqJbxo8ulmvtmbCdu8QGmXVp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td style="text-align:justify">Ignite the joy in learning meaningful ICT tools and
@@ -40,4 +38,4 @@ third_nav_title: Clubs and Societies
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
-
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpJhrmW79aYVYsYDjPsosiBVzURZqDRVL5P9K9e1XerhSOLhcmC3QIgqJbxo8ulmvtmbCdu8QGmXVp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
