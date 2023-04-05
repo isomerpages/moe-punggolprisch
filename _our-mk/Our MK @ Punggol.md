@@ -17,15 +17,3 @@ KCare: 7am – 7pm
 Programmes to be offered:   
 From 2024: K1, KCare   
 From 2025: K1, K2, KCare
-<!--
-<u>MK Open House</u>
-
-Parents who are interested in knowing more about MK@Punggol can visit the Open House at MK@North Vista to find out general information about MKs such as the programme, curriculum, fees and financial assistance and resources available.
-
-Date/ Day: 11 Feb 2023/ Saturday   
-Time:&nbsp;9am – 1pm   
-Venue: MK@North Vista,&nbsp;[20 Compassvale Link (S544974](https://www.google.com/maps/place/20%20Compassvale%20Link))
-
-You can&nbsp;[contact us](https://www.moe.gov.sg/contact-us)&nbsp;if you have any feedback or enquiry.   
-Phone: 6872 2220
--->
