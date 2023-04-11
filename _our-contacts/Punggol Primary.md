@@ -53,8 +53,8 @@ description: ""
 			</tr>
 		<tr>
 			<td style="font-weight:bold">Direction to Punggol Pri Sch</td>
-			<td><b>🚌 Nearest Bus Stop (Near Blk 436)</b><br> &nbsp;&nbsp;&nbsp;Bus services no.: 62, 74, 88, 113, 147, 325<br><br>
-				<b>🚊 Nearest MRT Station</b><br> &nbsp;&nbsp;&nbsp;Hougang MRT (NE14)<br> &nbsp;&nbsp;&nbsp;Buangkok MRT (NE15)
+			<td><b>Nearest Bus Stop (Near Blk 436)</b><br>Bus services no.: 62, 74, 88, 113, 147, 325<br><br>
+				<b>Nearest MRT Station</b><br>Hougang MRT (NE14)<br>Buangkok MRT (NE15)
 		</td></tr>
 		<tr><td></td></tr>
 	</tbody>
