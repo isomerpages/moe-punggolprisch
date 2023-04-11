@@ -18,7 +18,7 @@ Mother Tongue Fortnight Program - Promoting the use of Mother Tongue Language an
 
 **Reading Programme** - a series of activities such as books sharing, quizzes and author’s talk are organized to promote reading.
 
-**National Tamil Debate Competition** - Tamil pupils took part in the National Tamil debate competition (Sorpor) to hone their public speaking skill
+**National Tamil Debate Competition** - Tamil students took part in the National Tamil debate competition (Sorpor) to hone their public speaking skill
 
 
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQTZQECcTIJO5QIcuZ70vvlO3pwPeMXmwQ23-ND9BA9lGd4idac0mQ4XTl0OdeIsnboHbktap3kcXh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>

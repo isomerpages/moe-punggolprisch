@@ -12,8 +12,6 @@ Pride in Performance
 
 
 <center><b>PPS Distinctive Maths Curriculum</b></center>
-
-<img src="/images/Maths/MATHS1.jpeg" style="width:65%">
-
-
-![](/images/Maths/Maths_New%20Info.jpeg)
+<img src="/images/Maths/MATHS1.jpeg" style="width:85%">
+<br>
+<img src="/images/Maths/Maths_New%20Info.jpeg" style="width:85%">

@@ -4,7 +4,7 @@ permalink: /our-curriculum/Maths/financial-literacy-programme/
 description: ""
 third_nav_title: Maths
 ---
-To equip our pupils with financial literacy skills to develop literacy and global awareness and make informed decisions.
+To equip our students with financial literacy skills to develop literacy and global awareness and make informed decisions.
 
 <img style="width:65%" src="/images/Maths/maths4.jpeg">
 

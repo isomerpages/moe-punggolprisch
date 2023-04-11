@@ -12,7 +12,7 @@ third_nav_title: Clubs and Societies
 		<td style="text-align:justify">To expose members to different forms of dramatisation and oratorical skills and ignite a passion and love for theatre arts, argumentation and public speaking.</td>
 	</tr>
 	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Objective ⇥</td>
-		<td style="text-align:justify">The goal of the English Debate &amp; Drama Club is to nurture and develop pupils’ talents and skills in the area of public speaking through drama and debate activities.</td>
+		<td style="text-align:justify">The goal of the English Debate &amp; Drama Club is to nurture and develop students’ talents and skills in the area of public speaking through drama and debate activities.</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
 		<td style="text-align:justify"><div>In Debate, all members go through training on how to formulate and present arguments in response to assigned motions. Members will have opportunities to research for information and craft their speeches in a structured and persuasive manner. Debate practice sessions and competitions help our members to hone their skills.</div><br>

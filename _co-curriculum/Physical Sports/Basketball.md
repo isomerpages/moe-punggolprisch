@@ -13,7 +13,7 @@ third_nav_title: Physical Sports
 		<td style="text-align:justify">With the school motto ‘Pride in Performance’ as a key anchor, being a part of the Basketball CCA is a journey of igniting the joy in each student athlete, and encouraging them to be the best player they can possibly be.</td>
 	</tr>
 	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Objective ⇥</td>
-		<td style="text-align:justify">The Basketball CCA strives to nurture all pupils in acquisition of personal skills, while providing the platform for working with other like-minded individuals in deriving joy of learning in a sport.</td>
+		<td style="text-align:justify">The Basketball CCA strives to nurture all students in acquisition of personal skills, while providing the platform for working with other like-minded individuals in deriving joy of learning in a sport.</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
 		<td style="text-align:justify">In addition to building up each child in his/her own physical capacity and competence in skills (dribbling, shooting, passing) and abilities, opportunities to learn to work with others (playing as a team in competitions) to develop social awareness, relationship management skills are key fundamentals in laying a bright foundation for the future.</td>

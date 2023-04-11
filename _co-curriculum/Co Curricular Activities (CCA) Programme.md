@@ -18,6 +18,6 @@ description: ""
 	<li><a href="/cca/Uniformed-Groups/boys-brigade/">Uniformed Groups</a></li>
 <li><a href="/cca/Visual-and-Performing-Arts/arts-n-craft-club/">Visual and Performing Arts Group</a></li></ul><p></p>
 
-<p style="text-align:justify">At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all pupils to participate in at least 1 school-based CCA during their course of study in PPS.</p>
+<p style="text-align:justify">At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all students to participate in at least 1 school-based CCA during their course of study in PPS.</p>
 
 <p style="font-size:20px; font-weight:bold"><a target="_blank" href="/files/CCA/CCA%20Schedule%202023.pdf">CCA Schedule 2023</a></p>

@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Pupils.md
+      - Students.md
       - Parents/.keep
       - Parents/General.md
       - Parents/Covid–19.md
