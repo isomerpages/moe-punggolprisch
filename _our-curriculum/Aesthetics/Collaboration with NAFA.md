@@ -4,7 +4,7 @@ permalink: /our-curriculum/Aesthetics/collaboration-with-nafa/
 description: ""
 third_nav_title: Aesthetics
 ---
-P3 and P4 pupils were treated to performances on various musical instruments by students from Nanyang Academy of Fine Arts. They also learnt about the instruments and learnt songs about Mathematics concepts.
+P3 and P4 students were treated to performances on various musical instruments by students from Nanyang Academy of Fine Arts. They also learnt about the instruments and learnt songs about Mathematics concepts.
 
 ![](/images/Aesthetics/Nafa8.jpeg)
 
