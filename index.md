@@ -14,7 +14,7 @@ sections:
           url: /our-contacts/school-contact/
         - title: Useful Links
           description: ""
-          url: /useful-links/pupils
+          url: /useful-links/students
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
