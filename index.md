@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Punggol Primary School.
 sections:
   - hero:
-      background: /images/Photos/cnd73-30_2.jpg
+      background: /images/Photos/cnd73-30_1920x720.gif
       key_highlights:
         - title: Our Contacts
           description: ""
