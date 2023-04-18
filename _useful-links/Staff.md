@@ -7,8 +7,8 @@ description: ""
 <!--Header #1--->
 <thead>
 	<tr>
-		<td style="line-height:0.5; font-size:25px;font-family:impact" width="250">A - B - C - D</td>
-		<td style="line-height:0.5; font-size:25px;font-family:impact" width="300">E - F - G - H</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact" width="200">A - B - C - D</td>
+		<td style="line-height:0.5; font-size:25px;font-family:impact" width="350">E - F - G - H</td>
 		<td style="line-height:0.5; font-size:25px;font-family:impact">I - J - K - L</td>
 	</tr>
 </thead>
@@ -21,6 +21,7 @@ description: ""
 			<ul style="margin:0px; list-style-type:none;">
 						<li style="line-height:2"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3De3c97ca0443a65b9e6029fdc06b5949de82cc69bd2deed5070427f30d98b11d8" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Educational Leadership &amp; School Excellence</a></li>
 					<li style="line-height:2;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D3726dc35705b06ad97120d97e218a20480b09c15265164b9ea46578cb963a15f" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">English Language Syllabus Primary</a></li>
+				<li style="line-height:2;"><a href="https://esms.stsynthesis.com/MOE/Default.aspx" target="_blank"><img src="/images/Icons/essms_logo.png" style="border:3px solid white; float:left;width:35px;height:35px;">Enhanced Sch Stores Mgmt Service</a></li>
 				<li style="line-height:2;"><a href="https://www.hrp.gov.sg" target="_blank"><img src="/images/Icons/hrp_logo.png" style="border:3px solid white; float:left;width:65px;height:35px;">Portal</a></li>
 			</ul>
 		</td>
@@ -55,9 +56,9 @@ description: ""
 				<li style="line-height:2;"><a href="https://rbs.avero-tech.com/" target="_blank"><img src="/images/Icons/rbslogo.JPG" style="border:3px solid white; float:left;width:35px;height:35px">Resource Booking</a></li>
 				<li style="line-height:2;"><a href="https://scmobile.moe.edu.sg/home" target="_blank"><img src="/images/Icons/scmobile.jpeg" style="border:3px solid white; float:left;width:35px;height:35px">SC Mobile</a></li>
 				<li style="line-height:2;"><a href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" target="_blank"><img src="/images/Icons/scholastic.jpg" style="border:3px solid white; float:left;width:35px;height:35px">Scholastic</a></li>
-				<li style="line-height:2;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank"><img src="/images/Icons/SC.gif" style="border:3px solid white; float:left;width:65px;height:35px">School Cockpit</a></li>
 				<li style="line-height:2;"><a href="https://go.gov.sg/stpwiki" target="_blank"><img src="/images/Icons/stp_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">SG Teaching Practise </a></li>
 				<li style="line-height:2;"><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D7f9f409da91aa05df58fd89c3edf38c3bf11cb5d3e1f9796a244538d0736f468" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">SkillFuture for Educators</a></li>
+			<li style="line-height:2;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank"><img src="/images/Icons/SC.gif" style="border:3px solid white; float:left;width:65px;height:35px">School Cockpit</a></li>
 				<li style="line-height:2;"><a href="https://ssoe2.moe.edu.sg/" target="_blank"><img src="/images/Icons/SSOE2.png" style="border:3px solid white; float:left;width:65px;height:35px;">SSOE2 Service Portal</a></li>
 				<li style="line-height:2;"><a href="https://www.learning.moe.edu.sg/sls/index.html" target="_blank"><img src="/images/Icons/sls_icon.png" style="border:3px solid white; float:left;width:65px;height:35px">SLS</a></li>
 			</ul></td>

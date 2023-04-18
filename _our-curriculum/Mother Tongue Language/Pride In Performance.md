@@ -1,6 +1,6 @@
 ---
-title: Competitions
-permalink: /our-curriculum/Mother-Tongue-Language/permalink/
+title: Pride In Performance
+permalink: /our-curriculum/mother-tongue-language/pride-in-performance/
 description: ""
 third_nav_title: Mother Tongue Language
 ---
@@ -19,7 +19,7 @@ third_nav_title: Mother Tongue Language
 			<td>Most Promising Award</td>
 		</tr>
 		<tr>
-			<td>Chinese Text Recital Competition 2022 Individual & Group Winners</td>
+			<td>Chinese Text Recital Competition 2022 Individual &amp; Group Winners</td>
 			<td>Silver</td>
 		</tr>
 		<tr>
