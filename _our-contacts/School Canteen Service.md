@@ -4,7 +4,7 @@ permalink: /our-contacts/school-canteen-service/
 description: ""
 ---
 <h4>Vacancy for Canteen Stall – Halal Noodle/Rice/ Fusion Western – eg, Spaghetti, Mac&amp;Cheese, pasta etc</h4>
-<p>We invite applications from interested parties to operate the above-mentioned stall.</p>
+We invite applications from interested parties to operate the above-mentioned stall.
 <h5>Requirements of Applicants</h5>
 Applicants must be:<br>
 ■ A Singapore Citizen or Singapore Permanent Resident.<br>
