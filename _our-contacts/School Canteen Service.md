@@ -28,7 +28,7 @@ Applicants may refer to MOE Internet webpage (<a target="_blank" href="http://ww
 ) to download application form or approach our school's Security Counter for hardcopy
 
 Applicants are to submit the following documents to the school:<br>
-■ Application Form<br>
+■ <a href="/files/General/canteen%20application%20form.pdf" target="_blank">Application Form</a><br>
 ■ Proposed Menu with Price List (processed food is not accepted)<br>
 ■ Photocopies of certificates of relevant courses attended, such as Basic Food Hygiene Course and previous NEA licenses, etc<br>
 
