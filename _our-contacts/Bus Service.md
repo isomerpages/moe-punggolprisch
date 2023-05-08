@@ -27,4 +27,5 @@ description: ""
 		<tr><td></td></tr>
 	</tbody>
 </table>
-[School Bus Operator and Bus Fare](/files/General/school%20bus%20operator%20and%20bus%20fare.pdf)
+<br>
+<a href="/files/General/school%20bus%20operator%20and%20bus%20fare.pdf" target="_blank">School Bus Operator and Bus Fare</a>
