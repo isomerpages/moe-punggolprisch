@@ -22,11 +22,12 @@ Other factors for consideration may include catering experience, physical fitnes
 
 <h5>Health and Hygiene Requirements:</h5>
 <li>Stallholder and assistant(s) must have completed and passed the Basic Food Hygiene Course (BFHC) conducted by any of the accredited training providers appointed by SkillsFuture Singapore (SSG).</li>
-<li>Stallholder must comply with the Healthy Eating in Schools Programme Guidelines ([https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)</li>
+<li>Stallholder must comply with the Healthy Eating in Schools Programme Guidelines (<a target="_blank" href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>)</li>
 <li>Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).</li>
 
 <h5>Submission of Application</h5>
-Applicants may refer to MOE Internet webpage (&nbsp;[http://www.moe.gov.sg/schools/canteens](http://www.moe.gov.sg/schools/canteens)) to download application form or approach our school's Security Counter for hardcopy
+Applicants may refer to MOE Internet webpage (<a target="_blank" href="http://www.moe.gov.sg/schools/canteens">http://www.moe.gov.sg/schools/canteens</a>
+) to download application form or approach our school's Security Counter for hardcopy
 
 Applicants are to submit the following documents to the school:
 <li>Application Form</li>
