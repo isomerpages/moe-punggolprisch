@@ -9,7 +9,7 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td width=100 style="font-weight:bold">Vendor</td>
+			<td width="100" style="font-weight:bold">Vendor</td>
 			<td>SFX Transport Pte Ltd</td>
 		</tr>
 		<tr>
@@ -27,3 +27,5 @@ description: ""
 		<tr><td></td></tr>
 	</tbody>
 </table>
+<br>
+<a href="/files/General/school%20bus%20operator%20and%20bus%20fare.pdf" target="_blank">School Bus Operator and Bus Fare</a>
