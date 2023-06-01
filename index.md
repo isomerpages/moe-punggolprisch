@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Punggol Primary School
-description: An Isomer site of the Singapore Government
+description: Igniting the Joy of Learning, Inspiring all to Care and Share.
 image: /images/punggol-primary-school.jpeg
 permalink: /
 notification: Welcome to Punggol Primary School.

@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: pps-news
+google_analytics_ga4: ""
