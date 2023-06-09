@@ -17,6 +17,7 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
+      background: /images/hero-banner2.jpg
   - resources:
       title: PPS News
       subtitle: Our Latest Updates
