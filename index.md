@@ -4,7 +4,7 @@ title: Punggol Primary School
 description: Igniting the Joy of Learning, Inspiring all to Care and Share.
 image: /images/punggol-primary-school.jpeg
 permalink: /
-notification: Welcome to Punggol Primary School.
+notification: ""
 sections:
   - hero:
       key_highlights:
