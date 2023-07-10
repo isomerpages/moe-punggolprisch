@@ -17,7 +17,7 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
-      background: /images/herobanner2.png
+      background: /images/herobanner3.png
   - infopic:
       title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
