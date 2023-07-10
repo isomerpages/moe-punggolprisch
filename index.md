@@ -26,12 +26,13 @@ sections:
       button: CLICK HERE
       url: https://drive.google.com/file/d/1JEN98j6p3YAvZ8mzwxMQWpJY2k7zSibJ/view
       image: /images/eopen_house2.JPG
+      alt: E-Open House
   - infopic:
       title: PPS Growth Mindset
       subtitle: PUNGGOL PRIMARY SCHOOL
       description: Join us on our growth mindset journey in PPS.
       button: CLICK HERE
-      alt: Image alt text
+      alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
   - resources:
