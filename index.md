@@ -32,7 +32,7 @@ sections:
       image: /images/eopen_house.JPG
   - infopic:
       title: PPS Growth Mindset
-      subtitle: Infopic Subtitle
+      subtitle: PUNGGOL PRIMARY SCHOOL
       description: Join us on our growth mindset journey in PPS.
       button: Button Text
       alt: Image alt text
