@@ -17,7 +17,7 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
-      background: /images/herobanner3.png
+      background: /images/herobanner.png
   - infopic:
       title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
@@ -25,7 +25,7 @@ sections:
         house.
       button: CLICK HERE
       url: https://drive.google.com/file/d/1JEN98j6p3YAvZ8mzwxMQWpJY2k7zSibJ/view
-      image: /images/PPS Student Outcomes.jpeg
+      image: /images/eopen_house.JPG
   - infopic:
       title: PPS Growth Mindset
       subtitle: PUNGGOL PRIMARY SCHOOL
