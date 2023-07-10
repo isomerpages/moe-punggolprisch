@@ -23,10 +23,17 @@ sections:
       subtitle: Our Latest Updates
       button: View All
   - infopic:
-      title: "Join us on our growth mindset journey in PPS. "
+      title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
       description: Come and experience our joy of learning as you embark on our e-open
         house.
       button: CLICK HERE
       url: https://drive.google.com/file/d/1JEN98j6p3YAvZ8mzwxMQWpJY2k7zSibJ/view
+      image: /images/eopen_house.JPG
+  - infopic:
+      title: PPS Growth Mindset
+      subtitle: Infopic Subtitle
+      description: Join us on our growth mindset journey in PPS.
+      button: Button Text
+      alt: Image alt text
 ---
