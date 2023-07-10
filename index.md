@@ -33,6 +33,7 @@ sections:
       button: CLICK HERE
       alt: Image alt text
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
+      image: /images/growth_mindset.JPG
   - resources:
       title: PPS News
       subtitle: Our Latest Updates
