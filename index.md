@@ -25,7 +25,7 @@ sections:
         house.
       button: CLICK HERE
       url: https://drive.google.com/file/d/1JEN98j6p3YAvZ8mzwxMQWpJY2k7zSibJ/view
-      image: /images/eopen_house.JPG
+      image: /images/eopen_house2.JPG
   - infopic:
       title: PPS Growth Mindset
       subtitle: PUNGGOL PRIMARY SCHOOL
