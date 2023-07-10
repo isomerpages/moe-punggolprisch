@@ -34,6 +34,7 @@ sections:
       title: PPS Growth Mindset
       subtitle: PUNGGOL PRIMARY SCHOOL
       description: Join us on our growth mindset journey in PPS.
-      button: Button Text
+      button: CLICK HERE
       alt: Image alt text
+      url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
 ---
