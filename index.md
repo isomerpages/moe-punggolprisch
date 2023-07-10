@@ -18,10 +18,6 @@ sections:
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
       background: /images/herobanner2.png
-  - resources:
-      title: PPS News
-      subtitle: Our Latest Updates
-      button: View All
   - infopic:
       title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
@@ -37,4 +33,8 @@ sections:
       button: CLICK HERE
       alt: Image alt text
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
+  - resources:
+      title: PPS News
+      subtitle: Our Latest Updates
+      button: View All
 ---
