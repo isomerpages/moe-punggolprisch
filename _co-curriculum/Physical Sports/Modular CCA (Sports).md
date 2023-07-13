@@ -22,7 +22,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday &amp; <br>Tuesday (P5 &amp; P6)<br>Thursday (P3 &amp; P4)</td><td>2:00pm - 4:00pm</td><td>Arena (Tues)<br>ISH (Thurs)</td><td>Mr Kenneth Seah<br>Mr Bala<br>Mr Tan Kia Hwee<br> Ms Sharmeela</td></tr>
+			<tr><td>Monday &amp; <br>Tuesday (P5 &amp; P6)<br>Thursday (P3 &amp; P4)</td><td>2:00pm - 4:00pm</td><td>Arena (Tues)<br>ISH (Thurs)</td><td>Mr Tan G-Sern Aylwin<br>Mr Bala<br>Mr Tan Kia Hwee<br> Ms Sharmeela</td></tr>
 		</tbody>
 	</table>
 		</td>
