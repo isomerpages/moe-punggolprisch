@@ -118,7 +118,7 @@ third_nav_title: Our Staff
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">3 Affection</td>
-    <td>Ms Lim Ke Xin</td>
+    <td>Mr Tan G-Sern Aylwin</td>
     <td>Mr Quek Lye Huat Cyril</td>
   </tr>
   <tr style="line-height:1">
@@ -356,12 +356,9 @@ third_nav_title: Our Staff
 	<tr style="line-height:1">
 		<td>Mr Cheng Guo Wei, Derek</td>
 		<td>Mr Tan Kia Hwee</td>
-		<td>Ms Lim Ke Xin</td>
+		<td></td>
   </tr>
 		<tr style="line-height:1">
-		<td>Mr Aylwin Tan</td>
-		<td></td>
-		<td></td>
 	</tr>
   <tr style="line-height:1">
      <td rowspan="1" style="font-weight: bold">ART</td>

@@ -22,7 +22,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Dance Studio &amp; Teaching Lab, <br>Basketball Court</td><td>Mr Derek Cheng</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Dance Studio &amp; Teaching Lab, <br>Basketball Court</td><td>Mr Derek Cheng<br>Mr Tan G-Sern Aylwin</td></tr>
 		</tbody>
 	</table>
 		</td>
