@@ -351,7 +351,7 @@ third_nav_title: Our Staff
     <td rowspan="3" style="font-weight: bold">PE</td>
     <td>Mr Chan Chin San Alvin</td>
 		<td>Mrs Heng-Tan Siow Leng</td>
-		<td>Ms Manisah Mohd Yacob</td>		
+		<td>Mr Tan G-Sern Aylwin</td>		
 	</tr>
 	<tr style="line-height:1">
 		<td>Mr Cheng Guo Wei, Derek</td>
