@@ -163,7 +163,7 @@ third_nav_title: Our Staff
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Responsibility</td>
-    <td>Mr Kenneth Seah Wei Yuan</td>
+    <td>Ms Manisah Mohd Yacob</td>
     <td>Mdm Islina Bte Ismail</td>
   </tr>
   <tr style="line-height:1">
@@ -351,7 +351,7 @@ third_nav_title: Our Staff
     <td rowspan="3" style="font-weight: bold">PE</td>
     <td>Mr Chan Chin San Alvin</td>
 		<td>Mrs Heng-Tan Siow Leng</td>
-		<td>Mr Kenneth Seah Wei Yuan</td>		
+		<td>Mr Tan G-Sern Aylwin</td>		
 	</tr>
 	<tr style="line-height:1">
 		<td>Mr Cheng Guo Wei, Derek</td>
