@@ -20,4 +20,4 @@ description: ""
 
 <p style="text-align:justify">At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all students to participate in at least 1 school-based CCA during their course of study in PPS.</p>
 
-<p style="font-size:20px; font-weight:bold"><a target="_blank" href="/files/CCA/CCA%20Schedule%202023.pdf">CCA Schedule 2023</a></p>
+<!--<p style="font-size:20px; font-weight:bold"><a href="/files/CCA/CCA%20Schedule%202023.pdf" target="_blank">CCA Schedule 2023</a></p>-->
