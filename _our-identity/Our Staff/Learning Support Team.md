@@ -12,15 +12,18 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
 	<tr>
-    <td style="font-weight:bold">School Counsellor</td>
+    <td rowspan="2" style="font-weight:bold">School Counsellor</td>
     <td>Mr Lee Ying Chiat</td>
   </tr>
+	<tr>
+		<td>Ms Lim Shi Hui Canice</td>
+	</tr>
 	<tr>
     <td style="font-weight:bold">Senior SEN Officer</td>
     <td>Mr Ahmad Najib Bin Muslim</td>
   </tr>
   <tr>
-    <td rowspan=2 style="font-weight:bold">SEN Officer</td>
+    <td rowspan="2" style="font-weight:bold">SEN Officer</td>
 		<td>Ms Koh Xiao Pei</td>
 		</tr>
 	<tr>

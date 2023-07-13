@@ -74,7 +74,7 @@ third_nav_title: Our Staff
   <tr style="line-height:1">
     <td style="font-weight: bold">2 Affection</td>
     <td>Ms Annisa Bte Mohamed Maideen</td>
-    <td>Ms Nyeo Mui Kia</td>
+    <td>Mr Lin Ruixian</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">2 Responsibility</td>
@@ -118,8 +118,8 @@ third_nav_title: Our Staff
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">3 Affection</td>
+    <td>Mdm Islina Bte Ismail</td>
     <td>Mr Tan G-Sern Aylwin</td>
-    <td>Mr Quek Lye Huat Cyril</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">3 Responsibility</td>
@@ -148,8 +148,8 @@ third_nav_title: Our Staff
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Self-Discipline</td>
-    <td>Mrs Wee Yip Peng</td>
     <td>Mdm Lena Seah Geok Choo</td>
+    <td>Ms Nyeo Mui Kia</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Teamwork</td>
@@ -159,12 +159,12 @@ third_nav_title: Our Staff
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Affection</td>
     <td>Mdm Tan Eng Bee Adele Kathleen</td>
-    <td>Mdm Joanna Tan Ming Yi</td>
+    <td>Mdm Nur Izyan Fart Horrahman</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Responsibility</td>
-    <td>Ms Manisah Mohd Yacob</td>
-    <td>Mdm Islina Bte Ismail</td>
+    <td>Mdm Ng Siam Hong June</td>
+    <td>Ms Geetha d/o Sathiamurthi</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Joy</td>
@@ -209,7 +209,7 @@ third_nav_title: Our Staff
   <tr style="line-height:1">
     <td style="font-weight: bold">5 Responsibility</td>
     <td>Mdm Koh Chee Ting</td>
-    <td>Mdm Li Yuan</td>
+    <td>Mdm Chang Sok Cheng</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">5 Joy</td>

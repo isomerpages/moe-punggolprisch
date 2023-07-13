@@ -4,19 +4,19 @@ permalink: /our-identity/Our-Staff/SAT/
 description: ""
 third_nav_title: Our Staff
 ---
-<table >
-<tbody >
-		<thead>
+<table>
+<tbody>
+		</tbody><thead>
             <tr>
-               <td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">EXECUTIVE & ADMINISTRATIVE STAFF</td>
+               <td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">EXECUTIVE &amp; ADMINISTRATIVE STAFF</td>
             </tr>
          </thead>
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tbody><tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
 		<td>Designation</td>
     <td>Name</td>
   </tr>
   <tr>
-		<td rowspan = 2 style="font-weight:bold" width="280">Administration Manager (AM)</td>
+		<td rowspan="2" style="font-weight:bold" width="280">Administration Manager (AM)</td>
     <td>Mdm Gloria Lau</td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ third_nav_title: Our Staff
     <td>Ms Norashikin Bte Ishak</td>
   </tr>
   <tr>
-		<td rowspan = 3 style="font-weight:bold">Corporate Support Officer (CSO)</td>
+		<td rowspan="3" style="font-weight:bold">Corporate Support Officer (CSO)</td>
     <td>Mdm Loh Gek Noi (Julie)</td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@ third_nav_title: Our Staff
 	<tr>
 		<td>Mdm Aw Hwee Lian (Celia)</td>
 	</tr>
-  <tr >
-		<td rowspan=4 style="font-weight:bold">Operations Support Officer (CSO)</td>
+  <tr>
+		<td rowspan="4" style="font-weight:bold">Operations Support Officer (CSO)</td>
     <td>Mdm Lim Kwee Ying</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
 		<tr>
-    <td rowspan=2 style="font-weight:bold">Desktop Engineer</td>
+    <td rowspan="2" style="font-weight:bold">Desktop Engineer</td>
 		<td>Mr Jason Ho</td>
 		</tr>
 	<tr>
@@ -92,18 +92,18 @@ third_nav_title: Our Staff
     <td>Mdm Goh Kim Kee (Nancy)</td>
   </tr>
 	<tr>
-    <td rowspan=2 style="font-weight:bold">Teacher Aide</td>
+    <td rowspan="2" style="font-weight:bold">Teacher Aide</td>
 		<td>Mdm Haputntriga Kusumawothi (Kusu)</td>
 		</tr>
 	<tr>
 		<td>Mdm Ammaniammal d/o Adimulam</td>
 	</tr>
   <tr>
-    <td rowspan=2 style="font-weight:bold">Security Officer</td>
+    <td rowspan="2" style="font-weight:bold">Security Officer</td>
 		<td>Mr Derek Lee</td>
 		</tr>
 	<tr>
-		<td>Mr Gary Lai</td>
+		<td>Mr Michael Chua</td>
 	</tr>
   <tr>
     <td style="font-weight:bold">Contract Cleaners</td>
