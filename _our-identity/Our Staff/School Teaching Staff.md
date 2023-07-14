@@ -1,6 +1,6 @@
 ---
-title: Teaching Staff
-permalink: /our-identity/our-staff/teaching-staff/
+title: School Teaching Staff
+permalink: /our-identity/our-staff/school-teaching-staff/
 description: ""
 third_nav_title: Our Staff
 ---
