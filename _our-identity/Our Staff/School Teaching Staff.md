@@ -7,14 +7,14 @@ third_nav_title: Our Staff
 <ul class="jekyllcodex_accordion">
 		 <li>
     <input id="accordion1" type="checkbox" style="background-color:&nbsp;#ccc;">
-		<label for="accordion1"><div style="font-family:impact; font-size:25px">PRIMARY 1 TEACHERS</div></label>
+		<label for="accordion1"><div style="font-size:20px">PRIMARY 1 TEACHERS</div></label>
     <div>
 			<table>
 <tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">1 Self-Discipline</td>
@@ -52,14 +52,14 @@ third_nav_title: Our Staff
 	</li>
 		 <li>
     <input id="accordion2" type="checkbox" style="background-color:&nbsp;#ccc;">
-		<label for="accordion2"><div style="font-family:impact; font-size:25px">PRIMARY 2 TEACHERS</div></label>
+		<label for="accordion2"><div style="font-size:20px">PRIMARY 2 TEACHERS</div></label>
     <div>
 			<table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">2 Self-Discipline</td>
@@ -97,14 +97,14 @@ third_nav_title: Our Staff
 	</li>
 	 <li>
     <input id="accordion3" type="checkbox" style="background-color:&nbsp;#ccc;">
-		<label for="accordion3"><div style="font-family:impact; font-size:25px">PRIMARY 3 TEACHERS</div></label>
+		<label for="accordion3"><div style="font-size:20px">PRIMARY 3 TEACHERS</div></label>
     <div>
 			<table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">3 Self-Discipline</td>
@@ -137,14 +137,14 @@ third_nav_title: Our Staff
 	</li>
 	 <li>
     <input id="accordion4" type="checkbox" style="background-color:&nbsp;#ccc;">
-		<label for="accordion4"><div style="font-family:impact; font-size:25px">PRIMARY 4 TEACHERS</div></label>
+		<label for="accordion4"><div style="font-size:20px">PRIMARY 4 TEACHERS</div></label>
     <div>
 			<table>
 				<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">4 Self-Discipline</td>
@@ -182,14 +182,14 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion5" type="checkbox">
-	<label for="accordion5"><div style="font-family:impact; font-size:25px">PRIMARY 5 TEACHERS</div></label>
+	<label for="accordion5"><div style="font-size:20px">PRIMARY 5 TEACHERS</div></label>
     <div>
       <table>
 	<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">5 Self-Discipline</td>
@@ -227,14 +227,14 @@ third_nav_title: Our Staff
 	</li>
   <li>
     <input id="accordion6" type="checkbox" style="background-color:&nbsp;#ccc;">
-		<label for="accordion6"><div style="font-family:impact; font-size:25px">PRIMARY 6 TEACHERS</div></label>
+		<label for="accordion6"><div style="font-size:20px">PRIMARY 6 TEACHERS</div></label>
     <div>
 			<table>
 <tbody style="font-size:17px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="160">Class</td>
     <td>Form Teachers</td>
-    <td>Co-Form Teachers</td>
+    <td>Form Teachers</td>
   </tr>
   <tr style="line-height:1">
     <td style="font-weight: bold">6 Self-Discipline</td>
@@ -272,11 +272,11 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion7" type="checkbox">
-    <label for="accordion7"><div style="font-family:impact; font-size:25px">MOTHER TONGUE TEACHERS</div></label>
+    <label for="accordion7"><div style="font-size:20px">MOTHER TONGUE TEACHERS</div></label>
     <div>
       <table>
 <tbody style="font-size:17px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td>Language</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
@@ -339,11 +339,11 @@ third_nav_title: Our Staff
 	</li>
 	<li>
     <input id="accordion8" type="checkbox">
-	<label for="accordion8"><div style="font-family:impact; font-size:25px">PE, ART &amp; MUSIC TEACHERS</div></label>
+	<label for="accordion8"><div style="font-size:20px">PE, ART &amp; MUSIC TEACHERS</div></label>
     <div>
 			<table>
 				<tbody style="font-size:18px">
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td>Subject</td>
     <td colspan="4;" style="text-align:center">Name of Teachers</td>
   </tr>
