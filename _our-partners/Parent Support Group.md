@@ -61,7 +61,7 @@ description: ""
     <div>
 				<table>
 <tbody>		
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:20px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-weight: bold; font-size:20px; color:white">
 		<td style="width:50%">Do's</td>
     <td style="width:50%">Don'ts</td>
   </tr>
