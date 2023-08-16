@@ -1,41 +1,17 @@
 ---
-title: Steering Committee
-permalink: /our-identity/Our-Staff/sterring-committee/
+title: Key Personnel
+permalink: /our-identity/our-staff/key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
 <table>
 <tbody>
-	<tr>
-    <td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">SCHOOL LEADERS</td>
-  </tr>
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
-    <td>Name</td>
-  </tr>
+	</tbody></table><table><tbody>
   <tr>
-    <td style="font-weight: bold">Principal</td>
-    <td>Mdm Norliza A Rahim</td>
-  </tr>
-  <tr>
-    <td rowspan=2 style="font-weight: bold">Vice Principal - Academic</td>
-    <td>Ms Yaw Li Ling Karen</td>
-  </tr>
-  <tr>
-    <td>Mr Goh Chang Chuen</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold">Vice Principal – Administration</td>
-    <td>Ms Usha Rani Henry</td>
-  </tr>
-	<tr><td></td></tr>
-	</tbody></table>
-<table><tbody>
-  <tr>
-		<td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">HEADS OF DEPARTMENT</td>
+		<td colspan="2" style="line-height:0.5; font-size:20px">HEADS OF DEPARTMENT</td>
 	</tr>
-	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
+	<tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
+		<td width="260">Designation</td>
     <td>Name</td>
   </tr>
   <tr>
@@ -55,7 +31,7 @@ third_nav_title: Our Staff
     <td>Mdm June Ng</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Information & Communications Technology (ICT)</td>
+		<td style="font-weight: bold">Information &amp; Communications Technology (ICT)</td>
     <td>Ms Manisah Mohd Yacob</td>
   </tr>
   <tr>
@@ -80,10 +56,10 @@ third_nav_title: Our Staff
 <table>
 	<tbody>
   <tr>
-    <td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">YEAR HEADS</td>
+    <td colspan="2" style="line-height:0.5; font-size:20px">YEAR HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
+	<tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
+		<td width="260">Designation</td>
     <td>Name</td>
   </tr>
   <tr>
@@ -102,10 +78,10 @@ third_nav_title: Our Staff
 	</tbody></table>
 <table><tbody>
   <tr>
-    <td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">SUBJECT HEADS</td>
+    <td colspan="2" style="line-height:0.5; font-size:20px">SUBJECT HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
+	<tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
+		<td width="260">Designation</td>
     <td>Name</td>
   </tr>
   <tr>
@@ -113,21 +89,25 @@ third_nav_title: Our Staff
     <td>Mdm Siti Aishah Bte Abdul Aziz</td>   
   </tr>
   <tr>
-		<td style="font-weight: bold">Information & Communications Technology (ICT)</td>
+		<td style="font-weight: bold">Information &amp; Communications Technology (ICT)</td>
     <td>Mdm Tan Ai Kiam</td>
   </tr>
   <tr>
 		<td style="font-weight: bold">Student Well-Being</td>
     <td>Ms Chua Yen Ling Rachel</td>
   </tr>
+	 <tr>
+		<td style="font-weight: bold">Character and Citizenship Education (CCE)</td>
+    <td>Mdm Khng Su- Lyn Jacqueline</td>
+  </tr>
 	<tr><td></td></tr>
 	</tbody></table>
 <table><tbody>
 	<tr>
-    <td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">LEVEL HEADS</td>
+    <td colspan="2" style="line-height:0.5; font-size:20px">LEVEL HEADS</td>
   </tr>
-	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
+	<tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
+		<td width="260">Designation</td>
     <td>Name</td>
   </tr>
   <tr>
@@ -154,22 +134,31 @@ third_nav_title: Our Staff
 	</tbody></table>
 <table><tbody>
   <tr>
-    <td colspan=2 style="line-height:0.5; font-size:25px; font-family:impact">ADMINSTRATIVE & OPERATIONS</td>
+    <td colspan="2" style="line-height:0.5; font-size:20px">TEACHER LEADERS</td>
   </tr>
-	<tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
-		<td width=250>Designation</td>
+	<tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
+		<td width="260">Designation</td>
     <td>Name</td>
   </tr>
   <tr>
-		<td rowspan=2 style="font-weight: bold">Administration Manager</td>
-    <td>Mdm Gloria Lau</td>
+		<td style="font-weight: bold">Lead Teacher (Malay Language)</td>
+    <td>Mdm Norwati Bte Sulaiman</td>
   </tr>
-  <tr>
-    <td>Mdm Siti Masura Binte Hatnen</td>
+ <tr>
+		<td style="font-weight: bold">Senior Teacher (Chinese Language)</td>
+    <td>Mdm Li Yuan</td>
   </tr>
-  <tr>
-		<td style="font-weight: bold">Operations Manager</td>
-    <td>Mr Heng Chai Boon Eddie</td>
+	 <tr>
+		<td style="font-weight: bold">Senior Teacher (English Language)</td>
+    <td>Mdm Renee Yuanna Sulaiman</td>
+  </tr>
+	 <tr>
+		<td style="font-weight: bold">Senior Teacher (Lower Primary Learners)</td>
+    <td>Ms Susan Neo</td>
+  </tr>
+	 <tr>
+		<td style="font-weight: bold">Senior Teacher (Mathematics)</td>
+    <td>Ms Lim Gek Wah</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>

@@ -2,7 +2,6 @@
 title: Best Practice – Student All–Round Development
 permalink: /achievements-and-affirmations/School-Awards/best-practice-student-all-round-development/
 description: ""
-third_nav_title: School Awards
 ---
 <p style="text-align:justify">The school designs a Co Curriculum framework to complement the T&amp;L framework for a seamless curriculum. Guided by the school’s belief that that “Every Child has Interests and Talents” the school adopts age-appropriate strategies and programmes that develop the students holistically.</p><p>
 

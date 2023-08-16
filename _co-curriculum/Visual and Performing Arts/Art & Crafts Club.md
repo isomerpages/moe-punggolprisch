@@ -1,33 +1,33 @@
 ---
-title: Art &amp; Crafts Club
+title: Art & Crafts Club
 permalink: /cca/Visual-and-Performing-Arts/arts-n-craft-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <table>
-	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Vision ⇥</td>
+	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>Creative Individuals with good habits of mind and character.</td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Mission ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
 		<td style="text-align:justify">To provide Art &amp; Crafts Club members with an opportunity to enrich and foster their individuality through the creation of artworks. To develop members to be a gracious representative of the visual arts of the school and community.</td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Objective ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
 		<td style="text-align:justify">The Art &amp; Crafts Club aims to imbue in students the love for the visual art and nurture artistic growth through meaningful and joyful artmaking activities.</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
 		<td style="text-align:justify">Members of the Art &amp; Crafts Club maintains a sense of camaraderie for fellow members and supports each other through fun and enjoyable activities which are conducted on Tuesdays from 2 to 4 pm. Members can look forward to exciting learning journeys, teambonding session and art jamming sessions with their peers and teachers in the Art Studios.</td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Schedule ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
 		<td>
 			<table style="border:1px solid black">
 		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:mediumseagreen; font-size:18px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:18px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
 			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Room 1</td><td>Mdm Julaiha<br>Ms Erwina<br>Ms Naurah Insyirah</td></tr>
 		</tbody>
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:mediumseagreen; border:0px solid black; text-align:right">Achievement ⇥</td>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
 			<td style="text-align:justify"><b>SYF Art and Craft Exhibition 2019</b><br>
 				Certificate of Participation</td>
 	</tr>

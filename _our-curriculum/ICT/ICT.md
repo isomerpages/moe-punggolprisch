@@ -17,12 +17,12 @@ third_nav_title: ICT
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xn89{background-color:royalblue;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td colspan="2" class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">ICT Department Students Outcomes:</span></td>
+    <td colspan="2" class="tg-xn89"><span style="color:#FBFFFA;background-color:royalblue">ICT Department Students Outcomes:</span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:bold">A Gracious Citizen</span><br><span style="color:#222">⇒ ICT Student Leaders Programme</span></td>
@@ -47,11 +47,11 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 <table>
 	<thead>
 		<tr style="font-weight:bold; font-size:25px">
-			<th colspan=2>Baseline ICT Standards</th>
+			<th colspan="2">Baseline ICT Standards</th>
 		</tr>
 	</thead>
-	<tr style="background-color:rgb(94,94,207); color:white; font-weight:bold">
-		<td width=100>Level</td>
+	<tbody><tr style="background-color:royalblue; color:white; font-weight:bold">
+		<td width="100">Level</td>
 		<td>Skillset</td>
 	</tr>
 	<tr>
@@ -78,7 +78,7 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 	<td>Primary 6</td>
 	<td>Google Site, Video Creation</td>
 	</tr>
-</table>
+</tbody></table>
 
 ##### ICT-Enhanced lessons
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQshYRVLVzwla4AHB3bkeYwJo00npeEypOLav9m9wjq1HlFhZXS4s3JgmTBus8zPS8iQvBWE4nu3xK8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>

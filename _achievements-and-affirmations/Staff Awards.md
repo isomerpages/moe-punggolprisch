@@ -5,12 +5,12 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">
 		 <li>
-    <input id="accordion1" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion1" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion1"><h5>2022</h5></label>
     <div>
 			<table>
 				<tbody style="font-size:17px">
-					<tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+					<tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
 				<td width="35%">MOE Service Excellence Award (Silver)</td>
 				<td width="35%">National Day Awards: <br>The Long Service Medal</td>
 		    <td width="30%">National Day Awards: <br>The Commendation Medal</td>
@@ -34,12 +34,12 @@ description: ""
     </div>
 	</li>
 		 <li>
-    <input id="accordion2" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion2" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion2"><h5>2021</h5></label>
     <div>
 			<table>
 	<tbody style="font-size:17px">
-  <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
     <td width="35%">MOE Service Excellence Award (Silver)</td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
 		<td width="30%">National Day Awards: <br>The Commendation Medal</td>
@@ -62,12 +62,12 @@ description: ""
     </div>
 	</li>
 	 <li>
-    <input id="accordion3" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion3" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion3"><h5>2020</h5></label>
     <div>
 			<table>
 <tbody style="font-size:17px">
-  <tr style="line-height:20px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
     <td width="35%">MOE Service Excellence Award (Silver)</td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
 		<td width="30%">National Day Awards: <br>The Commendation Medal</td>

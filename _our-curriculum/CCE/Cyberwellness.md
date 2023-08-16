@@ -52,7 +52,7 @@ third_nav_title: CCE
 
 <table style="font-size:16px">
 <thead>
-	<tr><td colspan="2" style="font-family:impact; font-size:25px; color:rgb(94,94,207)">Punggol Cyber News</td>
+	<tr><td colspan="2" style="font-size:20px; color:rgb(94,94,207)">Punggol Cyber News</td>
 	</tr>
 	<tr style="font-weight:bold">
 			<td width="50">Year</td>

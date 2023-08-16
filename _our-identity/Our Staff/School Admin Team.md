@@ -8,10 +8,10 @@ third_nav_title: Our Staff
 <tbody>
 		</tbody><thead>
             <tr>
-               <td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">EXECUTIVE &amp; ADMINISTRATIVE STAFF</td>
+               <td style="line-height:10px; font-size:20px" colspan="2">EXECUTIVE &amp; ADMINISTRATIVE STAFF</td>
             </tr>
          </thead>
-  <tbody><tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tbody><tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
 		<td>Designation</td>
     <td>Name</td>
   </tr>
@@ -64,11 +64,11 @@ third_nav_title: Our Staff
 <table width="100%">
 	<thead>
             <tr>
-               <td style="line-height:10px; font-family:impact; font-size:25px" colspan="2">SUPPORT STAFF</td>
+               <td style="line-height:10px; font-size:20px" colspan="2">SUPPORT STAFF</td>
             </tr>
          </thead>
 <tbody>
-  <tr style="line-height:10px; background-color:mediumseagreen; font-weight: bold; font-size:18px; color:white">
+  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
     <td width="280">Designation</td>
     <td>Name</td>
   </tr>

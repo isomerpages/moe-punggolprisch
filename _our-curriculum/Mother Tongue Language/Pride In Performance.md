@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 <table>
 	<tbody>
-		<tr style="background-color:mediumseagreen; color:white; font-weight:bold; font-size:18px; line-height:20px">
+		<tr style="background-color:royalblue; color:white; font-weight:bold; font-size:18px; line-height:20px">
 			<td>Name of Competitions/Events</td>
 			<td>Our Pride</td>
 		</tr>

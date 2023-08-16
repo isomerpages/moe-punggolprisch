@@ -2,7 +2,6 @@
 title: Best Practice – Staff Wellbeing
 permalink: /achievements-and-affirmations/School-Awards/best-practice-staff-wellbeing/
 description: ""
-third_nav_title: School Awards
 ---
 <p style="text-align:justify">Staff Well-Being and Development in Punggol Primary School (PPS) is guided by our philosophy: “Every Individual Matters” and the Ethos of the Teaching Profession. The Ethos shapes the beliefs and practices of our staff.</p>
 
