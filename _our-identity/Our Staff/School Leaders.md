@@ -7,7 +7,6 @@ third_nav_title: Our Staff
 <table>
 <tbody>
 	<tr>
-    <td colspan="2" style="line-height:0.5; font-size:20px">SCHOOL LEADERS</td>
   </tr>
   <tr style="line-height:10px; background-color:RoyalBlue; font-size:18px; color:white">
 		<td width="260">Designation</td>
