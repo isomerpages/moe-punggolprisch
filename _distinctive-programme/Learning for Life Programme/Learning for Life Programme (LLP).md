@@ -10,7 +10,7 @@ third_nav_title: Learning for Life Programme
 
 <table>
 <tbody>
-  <tr style="line-height:10px; background-color:mediumseagreen; color:white; font-weight:bold">
+  <tr style="line-height:10px; background-color:royalblue; color:white; font-weight:bold">
     <td>Programme/Activity</td>
     <td>Brief Description</td>
     <td width="100">Level</td>
