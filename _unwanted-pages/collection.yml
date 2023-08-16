@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - People Developer Standard.md
       - Best Practice – Student All–Round Development.md
       - Best Practice – Staff Wellbeing.md
       - Unstructured Recess Play (URP).md
