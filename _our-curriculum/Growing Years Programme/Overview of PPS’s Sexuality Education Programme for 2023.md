@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Growing Years Programme
 ---
 <ol>
-	<li style="line-height:1.5; text-align:justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
+	<li style="line-height:1.5; text-align:justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
  <li style="line-height:1.5; text-align:justify">The subjects that incorporate topics on sexuality include: 
 	 <ul>
 		 <li style="line-height:1.5">Science</li>
@@ -21,7 +21,7 @@ third_nav_title: Growing Years Programme
 <p style="font-weight:bold; font-size:18px; color:royalblue">At Punggol Primary School, the following Sexuality Education lessons will be taught in 2023:</p>
 <ul class="jekyllcodex_accordion">
 		 <li>
-    <input id="accordion1" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion1" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion1"><h5>PRIMARY 5</h5></label>
     <div>
 			<table style="border:0px solid lightgrey">
@@ -32,7 +32,7 @@ third_nav_title: Growing Years Programme
 <col style="width: 159px">
 </colgroup>
 <tbody>
-  <tr style="font-weight:bold; background-color:mediumseagreen; color:white">
+  <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
     <td>LESSON OVERVIEW</td>
@@ -59,7 +59,7 @@ third_nav_title: Growing Years Programme
     </div>
 	</li>
 		 <li>
-    <input id="accordion2" type="checkbox" style="background-color: #ccc;">
+    <input id="accordion2" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion2"><h5>PRIMARY 6</h5></label>
     <div>
 			<table style="border:0px solid lightgrey">
@@ -70,7 +70,7 @@ third_nav_title: Growing Years Programme
 <col style="width: 159px">
 </colgroup>
 <tbody>
-  <tr style="font-weight:bold; background-color:mediumseagreen; color:white">
+  <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
     <td>LESSON OVERVIEW</td>
@@ -80,10 +80,10 @@ third_nav_title: Growing Years Programme
     <td rowspan="3" style="border:0px; background-color:mintcream">Growing Years</td>
     <td>Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
     <td style="text-align:justify; line-height:1.5">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td >Term 1 Week 9</td>
+    <td>Term 1 Week 9</td>
   </tr>
   <tr>
-    <td >Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+    <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
     <td style="text-align:justify; line-height:1.5">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
     <td>Term 1 Week 10</td>
   </tr>
