@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - Best Practice – Student All–Round Development.md
       - Best Practice – Staff Wellbeing.md
       - Unstructured Recess Play (URP).md
       - CCA Recruitment Drive.md
