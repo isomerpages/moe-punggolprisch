@@ -2,7 +2,6 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
-      - School Awards/Best Practice – Teaching and Learning.md
       - School Awards/Best Practice – Staff Wellbeing.md
       - School Awards/Best Practice – Student All–Round Development.md
       - School Awards/People Developer Standard.md
