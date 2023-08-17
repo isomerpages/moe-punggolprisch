@@ -4,7 +4,7 @@ permalink: /our-curriculum/CCE/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
-<h3 style="font-family:Arial; color:royalblue;">Our Approach</h3>
+<h4 style="font-family:Arial; color:royalblue;">Our Approach</h4>
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">The CCE Department aims to develop our Punggolites to be students of good character, have a balanced sense of self, form healthy relationships and be resilient when faced with challenges. Our students will be future-ready and be active citizens.</p> 
 
 <p>
