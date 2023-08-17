@@ -15,39 +15,39 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">School Staff Developer</td>
+    <td style="background-color:ghostwhite">School Staff Developer</td>
     <td>Mrs Lee Mei Chuen</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">English (EL)</td>
+    <td style="background-color:ghostwhite">English (EL)</td>
     <td>Ms Noraini Bte Yosorh</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Mathematics (MA)</td>
+    <td style="background-color:ghostwhite">Mathematics (MA)</td>
     <td>Mr Vincent Koh</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Mother Tongue Language (MTL)</td>
+		<td style="background-color:ghostwhite">Mother Tongue Language (MTL)</td>
     <td>Mdm June Ng</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Information &amp; Communications Technology (ICT)</td>
+		<td style="background-color:ghostwhite">Information &amp; Communications Technology (ICT)</td>
     <td>Ms Manisah Mohd Yacob</td>
   </tr>
   <tr>
-     <td style="font-weight: bold">HOD Science (SC)</td>
+     <td style="background-color:ghostwhite">HOD Science (SC)</td>
 		<td>Mdm Teou Lay Yen</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Physical Education &amp; Co-Curricular Activities (PE &amp; CCA)</td>
+    <td style="background-color:ghostwhite">Physical Education &amp; Co-Curricular Activities (PE &amp; CCA)</td>
 		<td>Mr Alvin Chan Chin San</td>    
   </tr>
   <tr>
-    <td style="font-weight: bold">Student Management (SM)</td>
+    <td style="background-color:ghostwhite">Student Management (SM)</td>
 		<td>Mr Khamilnullah Bin Abd Hamid</td>
   </tr>
   <tr>    
-    <td style="font-weight: bold">Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)
+    <td style="background-color:ghostwhite">Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)
 		</td>
 		<td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
@@ -63,15 +63,15 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Upper Primary (UP)</td>
+		<td style="background-color:ghostwhite">Upper Primary (UP)</td>
     <td>Mdm Linda Toh Siok Hui</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Middle Primary (MP)</td>
+		<td style="background-color:ghostwhite">Middle Primary (MP)</td>
     <td>Mdm Lena Seah Geok Choo</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Lower Primary (LP)</td>
+    <td style="background-color:ghostwhite">Lower Primary (LP)</td>
 		<td>Mdm Loh Ka Yee Sandra</td>
   </tr>
 	<tr><td></td></tr>
@@ -85,19 +85,19 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Aesthetics</td>
+		<td style="background-color:ghostwhite">Aesthetics</td>
     <td>Mdm Siti Aishah Bte Abdul Aziz</td>   
   </tr>
   <tr>
-		<td style="font-weight: bold">Information &amp; Communications Technology (ICT)</td>
+		<td style="background-color:ghostwhite">Information &amp; Communications Technology (ICT)</td>
     <td>Mdm Tan Ai Kiam</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Student Well-Being</td>
+		<td style="background-color:ghostwhite">Student Well-Being</td>
     <td>Ms Chua Yen Ling Rachel</td>
   </tr>
 	 <tr>
-		<td style="font-weight: bold">Character and Citizenship Education (CCE)</td>
+		<td style="background-color:ghostwhite">Character and Citizenship Education (CCE)</td>
     <td>Mdm Khng Su- Lyn Jacqueline</td>
   </tr>
 	<tr><td></td></tr>
@@ -111,23 +111,23 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">English (EL)</td>
+		<td style="background-color:ghostwhite">English (EL)</td>
     <td>Mrs Padmini Prakash</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Mother Tongue Language (MTL)</td>
+		<td style="background-color:ghostwhite">Mother Tongue Language (MTL)</td>
     <td>Mdm Chang Sok Cheng</td> 
   </tr>
   <tr>
-		<td style="font-weight: bold">Mathematics (MA)</td>
+		<td style="background-color:ghostwhite">Mathematics (MA)</td>
     <td>Ms Janet Heng </td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Physical Education (PE)</td>
+		<td style="background-color:ghostwhite">Physical Education (PE)</td>
     <td>Mrs Heng-Tan Siow Leng</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Science (SC)</td>
+    <td style="background-color:ghostwhite">Science (SC)</td>
 		<td>Mdm Joanna Tan</td> 
   </tr>
 	<tr><td></td></tr>
@@ -141,27 +141,27 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-		<td style="font-weight: bold">Lead Teacher (Malay Language)</td>
+		<td style="background-color:ghostwhite">Lead Teacher (Malay Language)</td>
     <td>Mdm Norwati Bte Sulaiman</td>
   </tr>
  <tr>
-		<td style="font-weight: bold">Senior Teacher (Chinese Language)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (Chinese Language)</td>
     <td>Mdm Li Yuan</td>
   </tr>
 	 <tr>
-		<td style="font-weight: bold">Senior Teacher (English Language)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (English Language)</td>
     <td>Mdm Renee Yuanna Sulaiman</td>
   </tr>
 	 <tr>
-		<td style="font-weight: bold">Senior Teacher (Lower Primary Learners)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (Lower Primary Learners)</td>
     <td>Ms Susan Neo</td>
   </tr>
 	 <tr>
-		<td style="font-weight: bold">Senior Teacher (Mathematics)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (Mathematics)</td>
     <td>Ms Lim Gek Wah<br>Mdm Islina Bte Ismail</td>
   </tr>
 	 <tr>
-		<td style="font-weight: bold">Senior Teacher (Tamil Language)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (Tamil Language)</td>
     <td>Mdm Malini d/o Kumarasamy</td>
   </tr>
 	<tr><td></td></tr>
