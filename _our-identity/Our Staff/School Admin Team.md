@@ -16,26 +16,26 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-		<td rowspan="2" style="font-weight:bold" width="280">Administration Manager (AM)</td>
+		<td style="background-color:ghostwhite" rowspan="2" width="280">Administration Manager (AM)</td>
     <td>Mdm Gloria Lau</td>
   </tr>
   <tr>
     <td>Mdm Siti Masura Binte Hatnen</td>
   </tr>
   <tr>
-		<td style="font-weight:bold">Operations Manager (OM)</td>
+		<td style="background-color:ghostwhite">Operations Manager (OM)</td>
     <td>Mr Heng Chai Boon Eddie</td>
   </tr>
   <tr>
-		<td style="font-weight:bold">ICT Manager </td>
+		<td style="background-color:ghostwhite">ICT Manager </td>
     <td>Mdm Tan Oon Bee</td>
   </tr>
   <tr>
-		<td style="font-weight:bold">Administrative Executive (AE)</td>
+		<td style="background-color:ghostwhite">Administrative Executive (AE)</td>
     <td>Ms Norashikin Bte Ishak</td>
   </tr>
   <tr>
-		<td rowspan="3" style="font-weight:bold">Corporate Support Officer (CSO)</td>
+		<td rowspan="3" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
     <td>Mdm Loh Gek Noi (Julie)</td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ third_nav_title: Our Staff
 		<td>Mdm Aw Hwee Lian (Celia)</td>
 	</tr>
   <tr>
-		<td rowspan="4" style="font-weight:bold">Operations Support Officer (CSO)</td>
+		<td rowspan="4" style="background-color:ghostwhite">Operations Support Officer (CSO)</td>
     <td>Mdm Lim Kwee Ying</td>
   </tr>
   <tr>
@@ -73,40 +73,40 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
 		<tr>
-    <td rowspan="2" style="font-weight:bold">Desktop Engineer</td>
+    <td rowspan="2" style="background-color:ghostwhite">Desktop Engineer</td>
 		<td>Mr Jason Ho</td>
 		</tr>
 	<tr>
 		<td>Mdm Akkayasamy Nagalakshmi</td>
 	</tr>
 	<tr>
-    <td style="font-weight:bold">ICT Trainer</td>
+    <td style="background-color:ghostwhite">ICT Trainer</td>
     <td>Mdm Karuppiah Nanthini</td>
   </tr>
 	<tr>
-    <td style="font-weight:bold">Library Assistant</td>
+    <td style="background-color:ghostwhite">Library Assistant</td>
     <td>Mdm Tan Kim Heok (Peggy)</td>
   </tr>
 	<tr>
-    <td style="font-weight:bold">Science Lab Assistant</td>
+    <td style="background-color:ghostwhite">Science Lab Assistant</td>
     <td>Mdm Goh Kim Kee (Nancy)</td>
   </tr>
 	<tr>
-    <td rowspan="2" style="font-weight:bold">Teacher Aide</td>
+    <td rowspan="2" style="background-color:ghostwhite">Teacher Aide</td>
 		<td>Mdm Haputntriga Kusumawothi (Kusu)</td>
 		</tr>
 	<tr>
 		<td>Mdm Ammaniammal d/o Adimulam</td>
 	</tr>
   <tr>
-    <td rowspan="2" style="font-weight:bold">Security Officer</td>
+    <td rowspan="2" style="background-color:ghostwhite">Security Officer</td>
 		<td>Mr Derek Lee</td>
 		</tr>
 	<tr>
 		<td>Mr Michael Chua</td>
 	</tr>
   <tr>
-    <td style="font-weight:bold">Contract Cleaners</td>
+    <td style="background-color:ghostwhite">Contract Cleaners</td>
     <td>(9)</td>
   </tr>
 		<tr><td></td></tr>
