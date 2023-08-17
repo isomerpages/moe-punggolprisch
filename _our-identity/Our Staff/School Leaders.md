@@ -13,18 +13,18 @@ third_nav_title: Our Staff
     <td>Name</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Principal</td>
+    <td>Principal</td>
     <td>Mdm Norliza A Rahim</td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-weight: bold">Vice Principal - Academic</td>
+    <td rowspan="2">Vice Principal - Academic</td>
     <td>Ms Yaw Li Ling Karen</td>
   </tr>
   <tr>
     <td>Mr Goh Chang Chuen</td>
   </tr>
   <tr>
-    <td style="font-weight: bold">Vice Principal – Administration</td>
+    <td>Vice Principal – Administration</td>
     <td>Ms Usha Rani Henry</td>
   </tr>
 	<tr><td></td></tr>
