@@ -5,52 +5,38 @@ description: ""
 third_nav_title: ICT
 ---
 <h4>Vision</h4>
-<ul style="font-size:18px">
+<ul style="font-size:16px">
 	<li>To nurture students who are future-ready digital learners</li>
 	<li>To develop teachers who are designers and facilitators of meaningful tech-mediated learning experiences</li>
 </ul>
 <h4>Mission</h4>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:royalblue;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<table>
 <tbody>
   <tr>
-    <td colspan="2" class="tg-xn89"><span style="color:#FBFFFA;background-color:royalblue">ICT Department Students Outcomes:</span></td>
+    <td style="color:white;background-color:royalblue; font-weight:bold; line-height:1.0" colspan="2">ICT Department Students Outcomes:</td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:bold">A Gracious Citizen</span><br><span style="color:#222">⇒ ICT Student Leaders Programme</span></td>
-    <td class="tg-pk3b"><span style="font-weight:bold">A Confident Learner</span><br><span style="color:#222">⇒ ICT Student Leaders Programme</span></td>
+    <td><span style="font-weight:bold">A Gracious Citizen</span><br><span style="color:#222">⇒ ICT Student Leaders Programme</span></td>
+    <td><span style="font-weight:bold">A Confident Learner</span><br><span style="color:#222">⇒ ICT Student Leaders Programme</span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:bold">An Innovative Teamplayer</span><br><span style="color:#222">⇒ ICT Digital Literacy Skills Programme</span></td>
+    <td><span style="font-weight:bold">An Innovative Teamplayer</span><br><span style="color:#222">⇒ ICT Digital Literacy Skills Programme</span></td>
     <td class="tg-pk3b"><span style="font-weight:bold">A Life-long Learner</span><br><span style="color:#222">⇒ ICT Integration into Curriculum across all subjects</span><br><span style="color:#222">⇒ ICT Digital Literacy Skills Programme</span></td>
   </tr>
+	<tr></tr>
 </tbody>
 </table>
 
-**PROGRAMMES**  
-The Baseline ICT Standards and New Media Literacies (NML) is a set of ICT and literacy skills that our students will learn over their 6 years in Punggol Primary School.
-
-The **Baseline ICT Standards** define the basic level of knowledge, skills and values that our students need in order to fully benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society, while **New Media Literacies (NML)** in Singapore schools' context are defined as 'the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing technologies for learning'. 
-
-In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digital Literacy lessons. Our students are taught how to apply digital tools to locate, collect and sort information for present and future use in a principled manner (Curate). They also use digital creation tools to craft, modify and combine different modes of information for personal or group expression (Create). Finally, they learn how to use digital communication tools to participate in the exchange and synthesis of information or ideas online (Connect). Cyber Wellness values are also part and parcel of these lessons.
+<p style="text-align:justify; line-height:1.8"><span style="font-weight:bold; font-size:20px">Programmes</span><br>
+The Baseline ICT Standards and New Media Literacies (NML) is a set of ICT and literacy skills that our students will learn over their 6 years in Punggol Primary School.<br><br>
+The <b>Baseline ICT Standards</b> define the basic level of knowledge, skills and values that our students need in order to fully benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society, while <b>New Media Literacies (NML)</b> in Singapore schools' context are defined as 'the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing technologies for learning'. <br><br>
+In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digital Literacy lessons. Our students are taught how to apply digital tools to locate, collect and sort information for present and future use in a principled manner (Curate). They also use digital creation tools to craft, modify and combine different modes of information for personal or group expression (Create). Finally, they learn how to use digital communication tools to participate in the exchange and synthesis of information or ideas online (Connect). Cyber Wellness values are also part and parcel of these lessons.</p>
 
 <img style="width:100%" src="/images/ICT/ict1.jpeg">
 
+<p style="font-weight:bold; font-size:20px">Baseline ICT Standards</p>
 <table>
-	<thead>
-		<tr style="font-weight:bold; font-size:25px">
-			<th colspan="2">Baseline ICT Standards</th>
-		</tr>
-	</thead>
-	<tbody><tr style="background-color:royalblue; color:white; font-weight:bold">
+	<tbody style="line-height:0.5"><tr style="background-color:royalblue; color:white; font-weight:bold">
 		<td width="100">Level</td>
 		<td>Skillset</td>
 	</tr>
@@ -78,6 +64,7 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 	<td>Primary 6</td>
 	<td>Google Site, Video Creation</td>
 	</tr>
+		<tr></tr>
 </tbody></table>
 
 ##### ICT-Enhanced lessons
