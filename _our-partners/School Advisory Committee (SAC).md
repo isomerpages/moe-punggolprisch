@@ -15,19 +15,19 @@ description: ""
     <td>Name</td>
   </tr>
   <tr>
-		<td style="font-weight:bold" width="150">Chairman</td>
+		<td style="background-color:ghostwhite" width="150">Chairman</td>
     <td>Mr Phillip Wee</td>
   </tr>
   <tr>
-		<td style="font-weight:bold">Vice-Chairman</td>
+		<td style="background-color:ghostwhite">Vice-Chairman</td>
     <td>Ms Joy Toh Swee Wah</td>
   </tr>
   <tr>
-		<td style="font-weight:bold">Hon Secretary</td>
+		<td style="background-color:ghostwhite">Hon Secretary</td>
     <td>Mdm Norliza A Rahim</td>
   </tr>
   <tr>
-		<td rowspan="4" style="font-weight:bold">Members</td>
+		<td rowspan="4" style="background-color:ghostwhite">Members</td>
     <td>Mr Lai Poh Koon</td>
   </tr>
   <tr><td>Ms Eileen Lim Gek Kwan</td></tr>
