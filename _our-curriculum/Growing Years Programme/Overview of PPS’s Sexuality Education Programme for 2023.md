@@ -5,18 +5,18 @@ description: ""
 third_nav_title: Growing Years Programme
 ---
 <ol>
-	<li style="line-height:1.5; text-align:justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
- <li style="line-height:1.5; text-align:justify">The subjects that incorporate topics on sexuality include: 
+	<li style="line-height:1.5; text-align:justify; font-size:16px">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
+ <li style="line-height:1.5; text-align:justify; font-size:16px">The subjects that incorporate topics on sexuality include: 
 	 <ul>
-		 <li style="line-height:1.5">Science</li>
+		 <li style="line-height:0.1">Science</li>
 		 <li style="line-height:1.5">Character and Citizenship Education (CCE)</li>
 	 </ul>
 	</li>
 </ol>
 <p style="font-weight:bold; font-size:18px"><u>Sexuality Education Lessons:</u></p>
 <ol start="4">
- <li style="line-height:1.5; text-align:justify">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>  
-<li style="line-height:1.5; text-align:justify">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li></ol>  
+ <li style="line-height:1.6; text-align:justify; font-size:16px">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>  
+<li style="line-height:1.6; text-align:justify; font-size:16px">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li></ol>  
 
 <p style="font-weight:bold; font-size:18px; color:royalblue">At Punggol Primary School, the following Sexuality Education lessons will be taught in 2023:</p>
 <ul class="jekyllcodex_accordion">
@@ -26,12 +26,12 @@ third_nav_title: Growing Years Programme
     <div>
 			<table style="border:0px solid lightgrey">
 <colgroup>
-<col style="width: 125px">
-<col style="width: 169px">
-<col style="width: 343px">
-<col style="width: 159px">
+<col style="width: 10px">
+<col style="width: 10px">
+<col style="width: 400px">
+<col style="width: 120px">
 </colgroup>
-<tbody>
+<tbody style="line-height:1.2">
   <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
@@ -39,7 +39,7 @@ third_nav_title: Growing Years Programme
     <td>TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
   </tr>
   <tr>
-    <td rowspan="3" style="border:0px; background-color:mintcream">Growing Years</td>
+    <td rowspan="3" style="border:0px; background-color:ghostwhite">Growing Years</td>
     <td>The Changes in Me<br>(60 min)</td>
     <td style="text-align:justify; line-height:1.5">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td>Term 1 Week 9</td>
@@ -64,12 +64,12 @@ third_nav_title: Growing Years Programme
     <div>
 			<table style="border:0px solid lightgrey">
 <colgroup>
-<col style="width: 125px">
-<col style="width: 169px">
-<col style="width: 343px">
-<col style="width: 159px">
+<col style="width: 10px">
+<col style="width: 10px">
+<col style="width: 400px">
+<col style="width: 120px">
 </colgroup>
-<tbody>
+<tbody style="line-height:1.2">
   <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
@@ -77,7 +77,7 @@ third_nav_title: Growing Years Programme
     <td>TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
   </tr>
   <tr>
-    <td rowspan="3" style="border:0px; background-color:mintcream">Growing Years</td>
+    <td rowspan="3" style="border:0px; background-color:ghostwhite">Growing Years</td>
     <td>Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
     <td style="text-align:justify; line-height:1.5">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
     <td>Term 1 Week 9</td>
