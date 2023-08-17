@@ -5,18 +5,18 @@ description: ""
 third_nav_title: Growing Years Programme
 ---
 <ol>
-	<li style="line-height:1.5; text-align:justify; font-size:16px">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
+	<li style="line-height:1.8; text-align:justify; font-size:16px">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</li>
  <li style="line-height:1.5; text-align:justify; font-size:16px">The subjects that incorporate topics on sexuality include: 
 	 <ul>
 		 <li style="line-height:0.1">Science</li>
-		 <li style="line-height:1.5">Character and Citizenship Education (CCE)</li>
+		 <li style="line-height:1.8">Character and Citizenship Education (CCE)</li>
 	 </ul>
 	</li>
 </ol>
 <p style="font-weight:bold; font-size:18px"><u>Sexuality Education Lessons:</u></p>
 <ol start="4">
- <li style="line-height:1.6; text-align:justify; font-size:16px">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>  
-<li style="line-height:1.6; text-align:justify; font-size:16px">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li></ol>  
+ <li style="line-height:1.8; text-align:justify; font-size:16px">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</li>  
+<li style="line-height:1.8; text-align:justify; font-size:16px">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li></ol>  
 
 <p style="font-weight:bold; font-size:18px; color:royalblue">At Punggol Primary School, the following Sexuality Education lessons will be taught in 2023:</p>
 <ul class="jekyllcodex_accordion">
@@ -31,7 +31,7 @@ third_nav_title: Growing Years Programme
 <col style="width: 400px">
 <col style="width: 120px">
 </colgroup>
-<tbody style="line-height:1.2">
+<tbody style="line-height:1.5">
   <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
@@ -69,7 +69,7 @@ third_nav_title: Growing Years Programme
 <col style="width: 400px">
 <col style="width: 120px">
 </colgroup>
-<tbody style="line-height:1.2">
+<tbody style="line-height:1.5">
   <tr style="font-weight:bold; background-color:royalblue; color:white">
     <td>CCE(FTGP) THEME</td>
     <td>LESSON TITLE / DURATION</td>
