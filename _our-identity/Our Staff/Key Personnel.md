@@ -158,7 +158,11 @@ third_nav_title: Our Staff
   </tr>
 	 <tr>
 		<td style="font-weight: bold">Senior Teacher (Mathematics)</td>
-    <td>Ms Lim Gek Wah</td>
+    <td>Ms Lim Gek Wah<br>Mdm Islina Bte Ismail</td>
+  </tr>
+	 <tr>
+		<td style="font-weight: bold">Senior Teacher (Tamil Language)</td>
+    <td>Mdm Malini d/o Kumarasamy</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>
