@@ -17,14 +17,14 @@ Student Development Experiences (SDEs) are programmes and activities that contri
 <li style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-size:20px; color:royalblue; font-weight:bold">School-based Initiatives</span><br>
 Every school context is different, and the needs, interests, and abilities of students vary within each context. Punggol Primary Schools designs and implement programmes and activities for CCE that cater to our Punggolites.&nbsp;<br><br>We start the year off with our #becomingaSTAR Orientation Programme and engage our students through purposeful reflection in MY PPS STORY Reflection Journal.<br><br>CCE(FTGP) lessons are supported by our MindsetMatters@PPS lessons to develop a growth mindset in our students and bolster student motivation in becoming lifelong learners.<br><br>
 
-<img style="width:45%" src="/images/CCE/FTGP%203.jpeg">
+<img src="/images/CCE/FTGP%203.jpeg" style="width:45%; border:2px solid black; padding:5px">
 
 <span style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Student leaders engage students in a termly What’s Up Punggolites! News segment and students’ voice is heard during the accompanying Contemporary Issues Discussion (CID) lessons with Form Teachers.&nbsp;<br><br>
 As all students are ambassadors to the school and play a pivotal role in displaying our STAR values, students are engaged in specific behaviours/actions to make values a lived experience for all.
-<img style="width:85%" src="/images/CCE/ftgp4.png">
-<img style="width:85%" src="/images/CCE/ftgp5.png">
+<img src="/images/CCE/ftgp4.png" style="width:85%">
+<img src="/images/CCE/ftgp5.png" style="width:85%">
 To build Teacher-Student Relationships and Student-Student Relationships, Punggolites enjoy time spent as a cohort with specially curated activities to develop Social-Emotional Competencies during our Level Bonding.</span>
-	<img style="width:65%" src="/images/CCE/Art%20Bonding%20P4%20Success.jpeg">
+	<img src="/images/CCE/Art%20Bonding%20P4%20Success.jpeg" style="width:65%; border:2px solid black; padding:5px">
 	</li>
 	
 <li style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-size:20px; color:royalblue; font-weight:bold">Social Studies</span><br>
