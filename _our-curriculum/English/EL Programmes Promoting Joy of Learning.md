@@ -15,22 +15,32 @@ third_nav_title: English
 		<td style="width:30%; text-align:center; font-family:arial; font-weight:bold; background-color:royalblue;color:white">P3-P4<br>Exploratory</td>
 		<td style="width:35%; text-align:center; font-family:arial; font-weight:bold; background-color:royalblue;color:white">P5-P6<br>Mastery</td>
 	</tr>
-	<tr><td style="font-family:arial; font-weight:bold">Support</td>
+	<tr><td style="font-family:arial; font-weight:bold; vertical-align: middle;">Support</td>
 		<td><ul><li style="line-height:1.2; font-family:arial">LSP</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">RRP</li><li style="line-height:1.2">SDR</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">Small group coaching</li><li style="line-height:1.2; font-family:arial">Consultations</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">RRP</li>
+			              <li style="line-height:1.2; font-family:arial">SDR</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">Small group coaching</li>
+			              <li style="line-height:1.2; font-family:arial">Consultations</li></ul></td>
 	</tr>
-	<tr><td style="font-family:arial; font-weight:bold">Strengthen</td>
-		<td><ul><li style="line-height:1.2; font-family:arial">My Journal</li><li style="line-height:1.2; font-family:arial">Writers in the House</li><li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">My Journal</li><li style="line-height:1; font-family:arial">Writers in the House (Scribo)</li><li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">My Journal</li><li style="line-height:1.2; font-family:arial">Writers in the House (Scribo)</li><li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
+	<tr><td style="font-family:arial; font-weight:bold; vertical-align: middle">Strengthen</td>
+		<td style="margin:20"><ul><li style="line-height:1.2; font-family:arial">My Journal</li>
+			             <li style="line-height:1.2; font-family:arial">Writers in the House</li>
+			             <li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">My Journal</li>
+			              <li style="line-height:1; font-family:arial">Writers in the House (Scribo)</li>
+			              <li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">My Journal</li>
+			             <li style="line-height:1.2; font-family:arial">Writers in the House (Scribo)</li>
+			             <li style="line-height:1.2; font-family:arial">Reading Fiesta - NLB/Library activities</li></ul></td>
 	</tr>
-	<tr><td style="font-family:arial; font-weight:bold">Stretch</td>
+	<tr><td style="font-family:arial; font-weight:bold; vertical-align: middle">Stretch</td>
 		<td><ul><li style="line-height:1.2; font-family:arial">Extensive Reading Programmes eg: Moo-O, Scholastic Lit Pro</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">Reading Circles</li><li style="line-height:1.2; font-family:arial">Extensive Reading Programmes eg: Scholastic Lit Pro, Trending News</li></ul></td>
-		<td><ul><li style="line-height:1.2; font-family:arial">Reading Circles</li><li style="line-height:1.2; font-family:arial">Extensive Reading Programmes eg: Trending News</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">Reading Circles</li>
+			              <li style="line-height:1.2; font-family:arial">Extensive Reading Programmes eg: Scholastic Lit Pro, Trending News</li></ul></td>
+		<td><ul><li style="line-height:1.2; font-family:arial">Reading Circles</li>
+			              <li style="line-height:1.2; font-family:arial">Extensive Reading Programmes eg: Trending News</li></ul></td>
 	</tr>
-	<tr><td style="font-family:arial; font-weight:bold">Platforms to shine</td>
+	<tr><td style="font-family:arial; font-weight:bold; vertical-align: middle">Platforms to shine</td>
 		<td><ul><li style="line-height:1.2; font-family:arial">Competitons - PESA/Moo-O</li></ul></td>
 		<td><ul><li style="line-height:1.2; font-family:arial">Competitons - PESA/Moo-O</li></ul></td>
 		<td><ul><li style="line-height:1.2; font-family:arial">Competitons - Wits&amp;Words/PESA/Moo-O</li></ul></td>
