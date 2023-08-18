@@ -6,16 +6,14 @@ third_nav_title: Aesthetics
 ---
 <p style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue">AESTHETICS ASPIRATIONS</p>
 
-**<u>AL!VE @ PPS through B.E.S.T Framework</u>**
-
-(Arts Live in Various Expressions @ PPS)
-
-**Aesthetics Goal:&nbsp;<u>Gracious Citizens, Practising Talents</u>**
+<p style="font-family:arial; font-size:16px; font-weight:bold"><u>AL!VE @ PPS through B.E.S.T Framework</u></p>
+<div style="font-family:arial; font-size:16px">(Arts Live in Various Expressions @ PPS)</div><p></p>
+<div style="font-family:arial; font-size:16px; font-weight:bold">Aesthetics Goal:&nbsp;<u>Gracious Citizens, Practising Talents</u></div>
 
 <img src="/images/Aesthetics/Aesthetics%20BEST%20Framework.jpeg" style="width:35%">
 
-<br>
-<div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue; line-height:1.8">Aesthetics B.E.S.T. Framework</div>
+<p>
+</p><div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue; line-height:1.8">Aesthetics B.E.S.T. Framework</div>
 <div style="font-family:arial; font-size:18px"><b>B</b>roadbased&nbsp;<b>E</b>xposure for all,&nbsp;<b>S</b>pecial Development for the&nbsp;<b>T</b>alented
   
 We want the students to be able to<br>
