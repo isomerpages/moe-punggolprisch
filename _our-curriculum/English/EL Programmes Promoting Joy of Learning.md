@@ -8,7 +8,7 @@ third_nav_title: English
 ![](/images/English/photo2.jpeg)
 -->
 
-<table style="font-size:16px; width:100%; border:2px solid royalblue">
+<table style="font-size:14px; width:100%; border:2px solid royalblue">
 	<tbody><tr>
 		<td style="width:10%; background-color:royalblue;"></td>
 		<td style="width:25%; text-align:center; font-family:arial; font-weight:bold; background-color:royalblue;color:white">P1-P2<br>Orientation</td>
