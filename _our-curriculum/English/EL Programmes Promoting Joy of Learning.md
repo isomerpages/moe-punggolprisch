@@ -49,8 +49,7 @@ third_nav_title: English
 </tbody></table>
 
 <h5>Our School Library where Knowledge and Adventure Await</h5>
-<p>
-</p><ul><li style="font-family:arial; font-size:16px; line-height:1.6">Newly-renovated in 2019</li>
+<ul><li style="font-family:arial; font-size:16px; line-height:1.6">Newly-renovated in 2019</li>
 	<li style="font-family:arial; font-size:16px; line-height:1.6">We had an official opening in 2019 in conjunction with Our Reading Fiesta. Our students dressed up as their favourite storybook characters.</li></ul>
 <p></p>
 
@@ -62,7 +61,7 @@ third_nav_title: English
 <center><iframe width="766" height="430" src="https://www.youtube.com/embed/S6JPSmwWUz8" title="PPS Inaugural Reading Fiesta 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
 
 <h5>Reading Fiesta &amp; EL Week</h5>
-<p style="font-family:arial; font-size:16px; line-height:1.6; text-align:justify"><span style="font-weight:bold; line-height:3">Promoting Joy of Learning in English Language</span><br>As part of EL department efforts to build a reading culture in our school, a wide array of reading activities were organised. Reading Fiesta is a week filled&nbsp;&nbsp;with fun reading activities to encourage all of our students to partake in reading!</p>
+<div style="font-family:arial; font-size:16px; line-height:1.6; text-align:justify"><span style="font-weight:bold; line-height:3">Promoting Joy of Learning in English Language</span><br>As part of EL department efforts to build a reading culture in our school, a wide array of reading activities were organised. Reading Fiesta is a week filled&nbsp;&nbsp;with fun reading activities to encourage all of our students to partake in reading!</div>
 
 **(embed video here)**
 
