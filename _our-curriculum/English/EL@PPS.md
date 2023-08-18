@@ -8,6 +8,6 @@ third_nav_title: English
 
 ![](/images/English/el8.png)
 
-##### In PPS, a typical EL Lesson looks like this …
+<h5>In PPS, a typical EL Lesson looks like this …</h5>
 
 ![](/images/English/el9.png)
