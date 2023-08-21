@@ -11,8 +11,7 @@ third_nav_title: Mother Tongue Language
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Igniting the Joy of Learning for Mother Tongue Language.</div>
 <p></p>
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:black; line-height:1.8">Promote Learning for Life by Igniting the Joy of learning</div>
-	<ul>
-<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students develop communication skills and become confident speakers through collaborative learning with a range of authentic and challenging classroom activities.</li>
+<ul><li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students develop communication skills and become confident speakers through collaborative learning with a range of authentic and challenging classroom activities.</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students are engaged through various ICT resources and language games.</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students learning is well supported by the various Formative Assessment Tools that allows timely feedback for teachers to adjust to their learning needs.</li></ul>
 
