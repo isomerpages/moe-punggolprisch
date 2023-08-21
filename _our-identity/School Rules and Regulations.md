@@ -4,7 +4,7 @@ permalink: /our-identity/school-rules-and-regulations/
 description: ""
 ---
 <p style="font-family:Arial">All students are school ambassadors who play pivotal roles in upholding the tradition of excellence and display S.T.A.R. values in all areas of their school life.</p>
-<table style="font-size:16px">
+<table style="font-size:16px; border:1px solid royalblue">
 <tbody>
 		<tr style="border: none">
 	<td rowspan="2" style="font-weight:bold; background-color:royalblue; color:white">(1)</td>
