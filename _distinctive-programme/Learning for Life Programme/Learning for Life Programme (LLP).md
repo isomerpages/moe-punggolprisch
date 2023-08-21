@@ -4,13 +4,13 @@ permalink: /distinctive-programme/Learning-for-Life-Programme/llp/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
-<p style="text-align:justify">Guided by the school’s broad philosophy “Every Individual Matters” and the firm belief that “Every child has interests and talents’, the school has realigned its niche, PSE Hockey to Social-emotional learning and character development Through Active paRticipation in Sports &amp; outdoor education (S.T.A.R.S.) programme. The programme is aligned to the school’s Strategic Thrust 1- Holistic Development of Students with the Strategic Objective of providing a student-centric and all rounded education that is infused with values. Hence, the S.T.A.R.S. programme infuses the school’s STAR values of Self-discipline, Teamwork, Affection and Responsibility as well as PPS Student Outcomes and 21CC.</p>
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Guided by the school’s broad philosophy “Every Individual Matters” and the firm belief that “Every child has interests and talents’, the school has realigned its niche, PSE Hockey to Social-emotional learning and character development Through Active paRticipation in Sports &amp; outdoor education (S.T.A.R.S.) programme. The programme is aligned to the school’s Strategic Thrust 1- Holistic Development of Students with the Strategic Objective of providing a student-centric and all rounded education that is infused with values. Hence, the S.T.A.R.S. programme infuses the school’s STAR values of Self-discipline, Teamwork, Affection and Responsibility as well as PPS Student Outcomes and 21CC.</p>
 
-<p style="text-align:justify">We strongly believe that sports and outdoor education provide excellent platforms for our students to Learn for Life, display teamwork, set goals, exhibit determination and good sportsmanship. Through the LLP, the students get to experience the triumph of success and the agonies of defeat and in the process learn the important values of grit and resilience. We firmly believe that these are skills and values that will put our students in good stead when faced with life’s uncertainties and challenges in the future.</p>
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">We strongly believe that sports and outdoor education provide excellent platforms for our students to Learn for Life, display teamwork, set goals, exhibit determination and good sportsmanship. Through the LLP, the students get to experience the triumph of success and the agonies of defeat and in the process learn the important values of grit and resilience. We firmly believe that these are skills and values that will put our students in good stead when faced with life’s uncertainties and challenges in the future.</p>
 
 <table>
 <tbody>
-  <tr style="line-height:10px; background-color:royalblue; color:white; font-weight:bold">
+  <tr style="font-family:arial; font-size:16px; line-height:10px; background-color:royalblue; color:white; font-weight:bold">
     <td>Programme/Activity</td>
     <td>Brief Description</td>
     <td width="100">Level</td>
