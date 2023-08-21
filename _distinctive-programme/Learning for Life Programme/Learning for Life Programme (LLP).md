@@ -8,7 +8,7 @@ third_nav_title: Learning for Life Programme
 
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">We strongly believe that sports and outdoor education provide excellent platforms for our students to Learn for Life, display teamwork, set goals, exhibit determination and good sportsmanship. Through the LLP, the students get to experience the triumph of success and the agonies of defeat and in the process learn the important values of grit and resilience. We firmly believe that these are skills and values that will put our students in good stead when faced with life’s uncertainties and challenges in the future.</p>
 
-<table>
+<table style="border:2px solid royalblue">
 <tbody>
   <tr style="font-family:arial; font-size:16px; line-height:10px; background-color:royalblue; color:white; font-weight:bold">
     <td>Programme/Activity</td>
