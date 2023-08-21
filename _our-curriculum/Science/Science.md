@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Science
 ---
 <div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Department Goal</div>
-<br>
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue; line-height:1.8">Inspire, Inquire, Innovate</div> 
 <div align="justify" style="font-family:arial; font-size:16px">
 	<p>The Science learning experiences in PPS seek to achieve the following in our students.</p>
