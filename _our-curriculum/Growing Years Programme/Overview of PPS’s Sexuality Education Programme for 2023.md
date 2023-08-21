@@ -70,7 +70,7 @@ third_nav_title: Growing Years Programme
 <col style="width: 120px">
 </colgroup>
 <tbody style="line-height:1.5">
-  <tr style="font-weight:bold; background-color:royalblue; color:white">
+  <tr style="font-size:16px; font-weight:bold; background-color:royalblue; color:white">
     <td style="font-family:arial">CCE(FTGP) THEME</td>
     <td style="font-family:arial">LESSON TITLE / DURATION</td>
     <td style="font-family:arial">LESSON OVERVIEW</td>
