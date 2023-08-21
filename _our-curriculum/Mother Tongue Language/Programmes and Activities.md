@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue Language
 ---
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Mother Tongue Fortnight Program - Promoting the use of Mother Tongue Language and appreciating Culture&nbsp;in an authentic setting.</p>
 
-<h5>Promote Learning for Life by Igniting the Joy of learning</h5>
+<div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue; line-height:1.8">Promote Learning for Life by Igniting the Joy of learning</div>
 <ul>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Cultural Awareness Program</b> - Assembly talks to create awareness of different Mother Tongue Language cultures</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Festive Celebrations</b>- Chinese New Year, Hari Raya, Deepavali Celebration</li>
