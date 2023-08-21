@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Growing Years Programme
 ---
 <ol>
-	<li style="padding:0px 0px 10px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
-<li style="padding:0px 0px 10px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/MOE%20Sexuality%20Education%20Letter_Opt%20Out.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b><u>19-Jan-2023</u></b>.</li>
-	<li style="padding:0px 0px 10px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents can contact the school at <b>+65 6385 0762</b> for discussion or to seek clarification about the school’s sexuality education programme.</li>
+	<li style="padding:0px 0px 20px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
+<li style="padding:0px 0px 20px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/MOE%20Sexuality%20Education%20Letter_Opt%20Out.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b><u>19-Jan-2023</u></b>.</li>
+	<li style="padding:0px 0px 20px 10px; font-family:arial; line-height:1.8; text-align:justify; font-size:16px">Parents can contact the school at <b>+65 6385 0762</b> for discussion or to seek clarification about the school’s sexuality education programme.</li>
 	</ol>
