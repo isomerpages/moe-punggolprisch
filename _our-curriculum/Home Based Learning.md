@@ -24,11 +24,8 @@ description: ""
 &gt; * Mondays - Fridays: 8:00 am - 4:00 pm
 
 
-Students can also fill in a school-based form to request for the above matters at [go.gov.sg/sls-pps](go.gov.sg/sls-pps)
-
-
-
-For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students can also fill in a school-based form to request for the above matters at <a href="go.gov.sg/sls-pps">here</a><br><br>
+For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p><p>
 
 
 
@@ -39,4 +36,4 @@ For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.
 
 *We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.*
 
-<iframe width="800" height="315" src="https://www.youtube.com/embed/qg4x-rswXUM" title="Home-based Learning: How to Make it Work (Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/qg4x-rswXUM" title="Home-based Learning: How to Make it Work (Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
