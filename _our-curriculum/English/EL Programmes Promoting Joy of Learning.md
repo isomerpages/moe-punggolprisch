@@ -62,4 +62,4 @@ third_nav_title: English
 
 **(embed video here)**
 
-<img src="/images/English/Picture14.png" style="width:85%">
+<img src="/images/English/Picture14.png" style="width:100%">
