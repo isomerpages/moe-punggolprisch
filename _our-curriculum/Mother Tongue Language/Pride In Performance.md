@@ -4,7 +4,7 @@ permalink: /our-curriculum/mother-tongue-language/pride-in-performance/
 description: ""
 third_nav_title: Mother Tongue Language
 ---
-<table>
+<table style="border:2px solid royalblue">
 	<tbody>
 		<tr style="background-color:royalblue; color:white; font-weight:bold; font-size:18px; line-height:20px">
 			<td>Name of Competitions/Events</td>
