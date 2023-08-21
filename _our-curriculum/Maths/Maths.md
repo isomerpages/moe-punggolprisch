@@ -10,8 +10,5 @@ third_nav_title: Maths
 <p style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue">Motto</p>
 <div style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Pride in Performance<p></p>
 
-
-<center><b>PPS Distinctive Maths Curriculum</b></center>
-<img src="/images/Maths/MATHS1.jpeg" style="width:85%">
-<br>
+<center style="font-family:cursive; font-size:18px; color:black">PPS Distinctive Maths Curriculum<img src="/images/Maths/MATHS1.jpeg" style="width:85%"></center>
 <img src="/images/Maths/Maths_New%20Info.jpeg" style="width:85%"></div>
