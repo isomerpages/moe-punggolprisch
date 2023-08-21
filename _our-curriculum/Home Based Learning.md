@@ -20,11 +20,10 @@ description: ""
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</div>
 
 
-&gt; * School-based Helpline: 6385 0762
-&gt; * Mondays - Fridays: 8:00 am - 4:00 pm
+* School-based Helpline: 6385 0762<br>
+   Mondays - Fridays: 8:00 am - 4:00 pm
+* <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students can also fill in a school-based form to request for the above matters at <a href="go.gov.sg/sls-pps" target="_blank">here</a><br>
 
-
-<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students can also fill in a school-based form to request for the above matters at <a href="go.gov.sg/sls-pps" target="_blank">here</a><br><br>
 For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" target="_blank">mailto:helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p><p>
 
 </p><div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Useful Links</b><br><a href="/files/SLS%20Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf" target="_blank">Updated SLS Instructions and FAQs</a>
