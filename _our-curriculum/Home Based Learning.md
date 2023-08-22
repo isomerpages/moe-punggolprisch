@@ -18,15 +18,14 @@ description: ""
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue">PPS ICT Helpdesk</div>
 <p style="font-family:arial; font-size:16px; font-weight:bold; line-height:1.8"><u>School Operating Hours</u></p>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</div>
+<ul>
+<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">School-based Helpline: 6385 0762<br>
+	Mondays - Fridays: 8:00 am - 4:00 pm</li>
+<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students can also fill in a school-based form to request for the above matters at <a href="go.gov.sg/sls-pps" target="_blank">here</a></li>
+</ul>
 
+<p style="font-family:arial; font-size:16px; line-height:1.8">For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" target="_blank">mailto:helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
 
-* School-based Helpline: 6385 0762<br>
-   Mondays - Fridays: 8:00 am - 4:00 pm
-* <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students can also fill in a school-based form to request for the above matters at <a href="go.gov.sg/sls-pps" target="_blank">here</a><br>
-
-For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" target="_blank">mailto:helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p><p>
-
-</p><div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Useful Links</b><br><a href="/files/SLS%20Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf" target="_blank">Updated SLS Instructions and FAQs</a>
-<br><br>We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.</div>
-
-<iframe width="800" height="315" src="https://www.youtube.com/embed/qg4x-rswXUM" title="Home-based Learning: How to Make it Work (Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><p></p>
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Useful Links</b></p>
+<div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><a href="/files/SLS%20Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf" target="_blank">Updated SLS Instructions and FAQs</a></div>
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">We value the continued support of our parents to ensure that our students have an enriching Home-based learning experience.<br><br><iframe width="800" height="315" src="https://www.youtube.com/embed/qg4x-rswXUM" title="Home-based Learning: How to Make it Work (Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>
