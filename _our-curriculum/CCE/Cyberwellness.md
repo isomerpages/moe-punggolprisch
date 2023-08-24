@@ -21,7 +21,7 @@ third_nav_title: CCE
 
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><strong>Parental Engagement</strong><br>We engage the parents through bi-monthly newsletter sent out through Parent’s Gateway. We also conduct Cyber wellness related workshop to better equip parents in building relations with their children.<br><br>
 Here are some photos of the events held in school.</p>
-<table>
+<table style="border:1px solid Gainsboro">
 	<tbody><tr>
 		<td style="padding:10px 0px 10px 0px; background-color:Gainsboro" width="80%"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%201.jpeg"></td>
 		<td style="font-family:cursive; font-size:16px; line-height:1.3; text-align:center; padding:150px 30px 0px 10px; background-color:Gainsboro" rowspan="2">Students reciting the Cyber Wellness pledge led by P5 students during Learning Technology Week.</td>
