@@ -20,9 +20,9 @@ third_nav_title: Mother Tongue Language
 	<b>Higher Mother Tongue (Curriculum)</b> – This subject is offered to provide an opportunity for students with higher ability and interest in MTL to excel.<br><br>
 	<b>Differentiated Instruction Teaching</b> – Differentiated lessons are planned according to student’s readiness, interest and learning profile.</div>
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMTfpe7G7p_kJ7DZO35HZ0GAeUGHaueLybOBmNigpAikWJdQKk80x8hf_uarYFvheL-Exp11XBqLK4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vSMTfpe7G7p_kJ7DZO35HZ0GAeUGHaueLybOBmNigpAikWJdQKk80x8hf_uarYFvheL-Exp11XBqLK4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:black; line-height:1.8">Embrace Technology to prepare students for the future</div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">To deepen subject mastery and develop 21st Century Competencies, a range of different online platforms and tools are embedded in Student Learning Space (SLS) lessons.</div>
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpBjOFy8cs3HUDr9kQ06u9OwCOSMGqOXaEjyN1llNftrcQjh3dWnZ7ZGcezMpQ1IFNXviXKEOK2Pxg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vTpBjOFy8cs3HUDr9kQ06u9OwCOSMGqOXaEjyN1llNftrcQjh3dWnZ7ZGcezMpQ1IFNXviXKEOK2Pxg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
