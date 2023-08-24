@@ -29,23 +29,23 @@ third_nav_title: Clubs and Societies
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify"><b>Debate</b><br>		
+			<td style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Debate</b><br>		
 				1. Wits &amp; Words competition  
-					<ul style="font-size:12px">
-						<li style="line-height:1">Best speaker for Preliminary Round 2</li>
-						<li style="line-height:1">Winner of Preliminary Round 3</li>
-						<li style="line-height:1">Top 5 schools in the South Zone</li></ul>
+					<ul>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Best speaker for Preliminary Round 2</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Winner of Preliminary Round 3</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Top 5 schools in the South Zone</li></ul>
 				2. Primary School Debate Opens (PSDO) 2019
-					<ul style="font-size:12px">
-						<li style="line-height:1">Best speaker for Preliminary Round 1</li>
-						<li style="line-height:1">Winner of Preliminary Round 1</li></ul>				
-				<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjjzPbTc63mtLmXoACdW6iacbVzvC0-YA5mF6B5a4y826e6poVgioEGSpvKaEB_xktLAG2NcGEY0w2/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
-				<b>Drama</b><br>
+					<ul>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Best speaker for Preliminary Round 1</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Winner of Preliminary Round 1</li></ul>				
+				<center><iframe style="border:2px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRjjzPbTc63mtLmXoACdW6iacbVzvC0-YA5mF6B5a4y826e6poVgioEGSpvKaEB_xktLAG2NcGEY0w2/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
+				<b>Drama</b>
 			3. Public Performance at Our Tampines Hub for SYF 2019 Celebrations Play!
-				<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSA5l7Zeed6Vx90oOPWJWZClkyfdco5lpKOoXiUm-KV4LiZYtYT_uxjryQQyM0RgopTQ_HBD3BoWLPV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+				<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:2px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vSA5l7Zeed6Vx90oOPWJWZClkyfdco5lpKOoXiUm-KV4LiZYtYT_uxjryQQyM0RgopTQ_HBD3BoWLPV/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 			</td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 
-<div style="font-weight:bold; font-size:20px; color:royalblue">Year-end Celebration</div><img src="/images/CCA/Year%20End%20Celebration.jpeg" style="border:10px solid lightgrey">
+<div style="font-family:cursive; font-size:18px; text-align:center">Year-end Celebration</div><img src="/images/CCA/Year%20End%20Celebration.jpeg" style="border:2px solid black; padding:5px">
