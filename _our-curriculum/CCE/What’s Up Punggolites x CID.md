@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 <table><tbody>
 	<tr>
-	<td style="border:0px solid black; padding:10px 0px 10px 0px; background-color:whitesmoke" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%201.jpeg" style="width:95%; border:3px solid white; background-color:whitesmoke; padding:5px;"></td>
+	<td style="border:0px solid black; padding:10px 0px 10px 0px" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%201.jpeg" style="width:95%; border:2px solid black; padding:5px;"></td>
 	<td></td>
 	</tr>
 </tbody></table>
@@ -16,13 +16,13 @@ third_nav_title: CCE
 <table><tbody>
 	<tr>
 	<td></td>
-	<td style="border:0px solid black; padding:10px 0px 10px 0px; background-color:whitesmoke" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%202.jpeg" style="width:95%; border:3px solid white; background-color:whitesmoke; padding:5px;"></td>
+	<td style="border:0px solid black; padding:10px 0px 10px 0px" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%202.jpeg" style="width:95%; border:2px solid black; padding:5px;"></td>
 	</tr>
 	</tbody></table>
 
 <table><tbody>
 	<tr>
-	<td style="border:0px solid black; padding:10px 0px 10px 0px; background-color:whitesmoke" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%203.jpeg" style="width:95%; border:3px solid white; background-color:whitesmoke; padding:5px;"></td>
+	<td style="border:0px solid black; padding:10px 0px 10px 0px" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%203.jpeg" style="width:95%; border:2px solid black; padding:5px;"></td>
 	<td></td>
 	</tr>
 </tbody></table>
@@ -30,6 +30,6 @@ third_nav_title: CCE
 <table><tbody>
 	<tr>
 	<td></td>
-	<td style="border:0px solid black; padding:10px 0px 10px 0px; background-color:whitesmoke" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%204.jpeg" style="width:95%; border:3px solid white; background-color:whitesmoke; padding:5px;"></td>
+	<td style="border:0px solid black; padding:10px 0px 10px 0px" width="90%"><img src="/images/CCE/CID%20x%20Whatsup%204.jpeg" style="width:95%; border:2px solid black; padding:5px;"></td>
 	</tr>
 	</tbody></table>
