@@ -29,11 +29,11 @@ Here are some photos of the events held in school.</p>
 	<tr>
 		<td style="padding:10px 0px 10px 0px; background-color:Gainsboro"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%202.jpeg"></td>
 	</tr>
-	</tbody></table><br>
+	</tbody></table>
 	<table style="border:1px solid Gainsboro"><tbody><tr>
 	<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white" width="40%" rowspan="2"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%204.jpeg"></td>
 	<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white" width="60%"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%203.jpeg"><div style="padding:20px 20px 0px 30px; font-family:cursive; font-size:16px; line-height:1.5; background-color:Gainsboro">Students making a commitment to be a better online citizen by signing off in their Students’ Diary.</div></td>
-		</tr></tbody></table><br>
+		</tr></tbody></table>
 
 <center><iframe allowfullscreen="true" height="366" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-e7nLtyjxLQRtzdukpV04BVbjnR8pArFA-sIQpuTQISPpIgYtFiw399DrS2vxE3NIwVtiHUj2lqS2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Some of the class winners for poster and pledge card design competition. <br>Well done to all participants!</div></center>
 		
