@@ -21,21 +21,21 @@ third_nav_title: CCE
 
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><strong>Parental Engagement</strong><br>We engage the parents through bi-monthly newsletter sent out through Parent’s Gateway. We also conduct Cyber wellness related workshop to better equip parents in building relations with their children.<br><br>
 Here are some photos of the events held in school.</p>
-<table style="border:1px solid Gainsboro">
+<table style="border:1px solid whitesmoke">
 	<tbody><tr>
-		<td style="padding:10px 0px 10px 0px; background-color:Gainsboro" width="80%"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%201.jpeg"></td>
-		<td style="font-family:cursive; font-size:16px; line-height:1.3; text-align:center; padding:150px 20px 0px 1px; background-color:Gainsboro" rowspan="2">Students reciting the Cyber Wellness pledge led by P5 students during Learning Technology Week.</td>
+		<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px" width="80%"><img style="width:95%; border:3px solid white; padding:5px" src="/images/class%20pledge%201.jpeg"></td>
+		<td style="font-family:cursive; font-size:16px; line-height:1.3; text-align:center; padding:150px 20px 0px 1px; background-color:whitesmoke; border:0px" rowspan="2">Students reciting the Cyber Wellness pledge led by P5 students during Learning Technology Week.</td>
 	</tr>
 	<tr>
-		<td style="padding:10px 0px 10px 0px; background-color:Gainsboro"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%202.jpeg"></td>
+		<td style="padding:10px 0px 10px 0px; background-color:whitesmoke"><img style="width:95%; border:3px solid white; padding:5px" src="/images/class%20pledge%202.jpeg"></td>
 	</tr>
 	</tbody></table>
-	<table style="border:1px solid Gainsboro"><tbody><tr>
-	<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white" width="40%" rowspan="2"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%204.jpeg"></td>
-	<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white" width="60%"><img style="width:95%; border:1px solid white; padding:5px" src="/images/class%20pledge%203.jpeg"><div style="padding:20px 20px 0px 30px; font-family:cursive; font-size:16px; line-height:1.5; background-color:Gainsboro">Students making a commitment to be a better online citizen by signing off in their Students’ Diary.</div></td>
+	<table style="border:1px solid whitesmoke"><tbody><tr>
+	<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white" width="40%" rowspan="2"><img style="width:95%; border:3px solid white; padding:5px" src="/images/class%20pledge%204.jpeg"></td>
+	<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white" width="60%"><img style="width:95%; border:3px solid white; padding:5px" src="/images/class%20pledge%203.jpeg"><div style="padding:20px 20px 0px 30px; font-family:cursive; font-size:16px; line-height:1.5; background-color:whitesmoke">Students making a commitment to be a better online citizen by signing off in their Students’ Diary.</div></td>
 		</tr></tbody></table>
 
-<center><iframe allowfullscreen="true" height="366" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-e7nLtyjxLQRtzdukpV04BVbjnR8pArFA-sIQpuTQISPpIgYtFiw399DrS2vxE3NIwVtiHUj2lqS2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Some of the class winners for poster and pledge card design competition. <br>Well done to all participants!</div></center>
+<center><iframe allowfullscreen="true" height="366" width="680" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vR-e7nLtyjxLQRtzdukpV04BVbjnR8pArFA-sIQpuTQISPpIgYtFiw399DrS2vxE3NIwVtiHUj2lqS2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Some of the class winners for poster and pledge card design competition. <br>Well done to all participants!</div></center>
 		
 <div style="font-family:Arial; font-size:16px">You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">here</a> for more information on MOE Cyber Wellness education.</div>
     </div>
@@ -53,12 +53,12 @@ Here are some photos of the events held in school.</p>
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Guided by the Cyber Wellness Principles of Sense – Think – Act, the students are constantly reminded to exemplify their actions online and offline. The training has been shifted online conducted by our teachers via Zoom and SLS.</p>
 				<table>
 					<tbody><tr>
-						<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white"><img src="/images/training%201.jpeg" style="width:95%; border:1px solid white; padding:5px"></td>
+						<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%201.jpeg" style="width:95%; border:3px solid white; padding:5px"></td>
 					</tr><tr>
-						<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white"><img src="/images/training%202.jpeg" style="width:95%; border:1px solid white; padding:5px"></td>
+						<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%202.jpeg" style="width:95%; border:3px solid white; padding:5px"></td>
 					</tr>
 					<tr>
-			<td style="padding:10px 0px 10px 0px; background-color:Gainsboro; border:0px solid white"><img src="/images/training%203.jpeg" style="width:95%; border:1px solid white; padding:5px"><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Reflections and contributions by the ambassadors during online training.</div></td>
+			<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%203.jpeg" style="width:95%; border:3px solid white; padding:5px"><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Reflections and contributions by the ambassadors during online training.</div></td>
     </tr>
 		</tbody></table>
 	</div></li>
