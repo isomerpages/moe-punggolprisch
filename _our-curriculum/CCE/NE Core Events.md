@@ -10,8 +10,7 @@ third_nav_title: CCE
 
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Here are some photographs capturing our students during our NE Core days commemoration/celebrations.</p>
 
-
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSjPseI68gpPOql5O9dhYqe2GeTMznbEt9iLAhYP7XUmUAvwKqSwf_-Uqwtkjsp3vc0U61jlGISWjl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRSjPseI68gpPOql5O9dhYqe2GeTMznbEt9iLAhYP7XUmUAvwKqSwf_-Uqwtkjsp3vc0U61jlGISWjl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
 (embed video here)
