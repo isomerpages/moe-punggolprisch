@@ -15,7 +15,7 @@ third_nav_title: Mother Tongue Language
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students are engaged through various ICT resources and language games.</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Students learning is well supported by the various Formative Assessment Tools that allows timely feedback for teachers to adjust to their learning needs.</li></ul>
 
-<div style="font-family:arial; font-size:20px; font-weight:bold; color:black; line-height:1.8">Welcome diversity and embrace all learners</div>
+<div style="font-family:arial; font-size:20px; font-weight:bold; color:black; line-height:2.8">Welcome diversity and embrace all learners</div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Mother Tongue Support Program (Chinese Language)</b> – This is a program that is designed to support P3 and P4 students with weaker foundation in their mother tongue language.<br><br>
 	<b>Higher Mother Tongue (Curriculum)</b> – This subject is offered to provide an opportunity for students with higher ability and interest in MTL to excel.<br><br>
 	<b>Differentiated Instruction Teaching</b> – Differentiated lessons are planned according to student’s readiness, interest and learning profile.</div>
