@@ -46,12 +46,12 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 
 <table>
 	<tbody><tr>
-		<td style="margin:0px; padding:1px">
-			<img src="/images/CCA/Latest%20Photo_1.jpeg" style="border:5px solid lightgrey; width:100%;"></td>
-			<td style="margin:0px; padding:1px">
-				<img src="/images/CCA/Lates%20Photo-3.jpeg" style="border:5px solid lightgrey; width:100%"></td>
-			<td style="margin:0px; padding:1px">
-				<img src="/images/CCA/Lates%20Photo-2.jpeg" style="border:5px solid lightgrey; width:100%"></td>
+		<td style="margin:0px; padding:5px">
+			<img src="/images/CCA/Latest%20Photo_1.jpeg" style="border:2px solid black; width:100%;"></td>
+			<td style="margin:2px; padding:5px">
+				<img src="/images/CCA/Lates%20Photo-3.jpeg" style="border:2px solid black; width:100%"></td>
+			<td style="margin:0px; padding:5px">
+				<img src="/images/CCA/Lates%20Photo-2.jpeg" style="border:2px solid black; width:100%"></td>
 	</tr>
 </tbody></table>
 
