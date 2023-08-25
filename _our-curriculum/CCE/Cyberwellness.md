@@ -7,7 +7,7 @@ third_nav_title: CCE
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-		<label for="accordion1"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Cyber Wellness</p></label>
+		<label for="accordion1"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Cyber Wellness</p></label>
     <div>
 			<p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Our Cyber Wellness Programme @ PPS takes a holistic approach through students and parents engagement to develop students to become safe, responsible and ethical users of Information and Communication Technology (ICT).</p>
 <div style="font-family:arial; font-size:20px; font-weight:bold; line-height:1.8">School Wide Programme</div>
@@ -42,7 +42,7 @@ Here are some photos of the events held in school.</p>
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Cyber Wellness Ambassadors</p></label>
+    <label for="accordion2"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Cyber Wellness Ambassadors</p></label>
     <div>
       <p dir="ltr">The roles of the Cyber Wellness Ambassadors include:</p>
 <ul>
@@ -64,7 +64,7 @@ Here are some photos of the events held in school.</p>
 	</div></li>
 	<li>
     <input id="accordion3" type="checkbox">
-	<label for="accordion3"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Cyber Wellness Information for Parents</p></label>
+	<label for="accordion3"><p style="font-family:Arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Cyber Wellness Information for Parents</p></label>
     <div>
       <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">
