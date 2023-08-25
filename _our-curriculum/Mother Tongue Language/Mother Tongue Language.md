@@ -4,10 +4,10 @@ permalink: /our-curriculum/Mother-Tongue-Language/mother-tongue-language/
 description: ""
 third_nav_title: Mother Tongue Language
 ---
-<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Vision</div>
+<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Vision</div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">A Community of Confident and Effective Communicator.</div>
 <p></p>
-<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Mission</div>
+<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Mission</div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Igniting the Joy of Learning for Mother Tongue Language.</div>
 <p></p>
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:black; line-height:1.8">Promote Learning for Life by Igniting the Joy of learning</div>
