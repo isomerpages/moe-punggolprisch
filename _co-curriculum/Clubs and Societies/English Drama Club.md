@@ -32,13 +32,13 @@ third_nav_title: Clubs and Societies
 			<td style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Debate</b><br>		
 				1. Wits &amp; Words competition  
 					<ul>
-						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Best speaker for Preliminary Round 2</li>
-						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Winner of Preliminary Round 3</li>
-						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Top 5 schools in the South Zone</li></ul>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1">Best speaker for Preliminary Round 2</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1">Winner of Preliminary Round 3</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1">Top 5 schools in the South Zone</li></ul>
 				2. Primary School Debate Opens (PSDO) 2019
 					<ul>
-						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Best speaker for Preliminary Round 1</li>
-						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Winner of Preliminary Round 1</li></ul>				
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1">Best speaker for Preliminary Round 1</li>
+						<li style="font-family:arial; font-size:16px; text-align:justify; line-height:1">Winner of Preliminary Round 1</li></ul>				
 				<center><iframe style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRjjzPbTc63mtLmXoACdW6iacbVzvC0-YA5mF6B5a4y826e6poVgioEGSpvKaEB_xktLAG2NcGEY0w2/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
 				<b>Drama</b><br>
 			3. Public Performance at Our Tampines Hub for SYF 2019 Celebrations Play!
