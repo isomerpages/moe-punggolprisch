@@ -26,7 +26,7 @@ third_nav_title: ICT
   </tr>
 </tbody>
 </table>
-
+<div></div>
 <div style="font-family:arial; text-align:justify; line-height:1.8"><span style="font-weight:bold; font-size:20px">Programmes</span><br>
 The Baseline ICT Standards and New Media Literacies (NML) is a set of ICT and literacy skills that our students will learn over their 6 years in Punggol Primary School.<br><br>
 The <b>Baseline ICT Standards</b> define the basic level of knowledge, skills and values that our students need in order to fully benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society, while <b>New Media Literacies (NML)</b> in Singapore schools' context are defined as 'the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing technologies for learning'. <br><br>
