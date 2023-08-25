@@ -33,4 +33,4 @@ third_nav_title: Clubs and Societies
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCD7dH0ElbbiPV79L1TeIR7RCjSLCwVUMLQ8rfIs0kw6BTDw6YavaAilCM8lNLKcgvYx6ePGs5rsMM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vTCD7dH0ElbbiPV79L1TeIR7RCjSLCwVUMLQ8rfIs0kw6BTDw6YavaAilCM8lNLKcgvYx6ePGs5rsMM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
