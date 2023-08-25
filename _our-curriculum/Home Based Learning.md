@@ -15,8 +15,8 @@ description: ""
 ![](/images/HBL/hbl3.png)
 
 
-<div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue">PPS ICT Helpdesk</div>
-<p style="font-family:arial; font-size:16px; font-weight:bold; line-height:1.8"><u>School Operating Hours</u></p>
+<div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue; line-height:3">PPS ICT Helpdesk</div>
+<div style="font-family:arial; font-size:16px; font-weight:bold; line-height:1.8"><u>School Operating Hours</u></div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</div>
 <ul>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">School-based Helpline: 6385 0762<br>
