@@ -4,13 +4,13 @@ permalink: /our-curriculum/ICT/ict/
 description: ""
 third_nav_title: ICT
 ---
-<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue">Vision</div>
+<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Vision</div>
 <ul>
 	<li style="font-family:arial; font-size:16px; line-height:1.8">To nurture students who are future-ready digital learners</li>
 	<li style="font-family:arial; font-size:16px; line-height:1.8">To develop teachers who are designers and facilitators of meaningful tech-mediated learning experiences</li>
 </ul>
 
-<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:1.8">Mission</div>
+<div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Mission</div>
 <table style="border:1px solid royalblue">
 <tbody>
   <tr>
