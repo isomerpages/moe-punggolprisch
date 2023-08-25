@@ -5,30 +5,30 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <table>
-	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
+	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td style="text-align:justify">To nurture every English Debate &amp; Drama Club member into a confident and creative member, who is able to express himself/herself articulately in the realm of oratory and dramatisation via the use of the English Language.</td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
 		<td style="text-align:justify">To expose members to different forms of dramatisation and oratorical skills and ignite a passion and love for theatre arts, argumentation and public speaking.</td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
 		<td style="text-align:justify">The goal of the English Debate &amp; Drama Club is to nurture and develop students’ talents and skills in the area of public speaking through drama and debate activities.</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
 		<td style="text-align:justify"><div>In Debate, all members go through training on how to formulate and present arguments in response to assigned motions. Members will have opportunities to research for information and craft their speeches in a structured and persuasive manner. Debate practice sessions and competitions help our members to hone their skills.</div><br>
 <div style="text-align:justify">In Drama, members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. Members get the opportunity to display what they have learnt through various school-based performances and competitions. Members are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes.</div></td>
 	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
+	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
 		<td style="text-align:justify">
 			<table style="border:1px solid black">
 		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:18px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
 			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Library</td><td>Mrs Prakash<br>Ms Renee</td></tr>
 		</tbody>
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
+		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
 			<td style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Debate</b><br>		
 				1. Wits &amp; Words competition  
 					<ul>
