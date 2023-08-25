@@ -21,7 +21,7 @@ third_nav_title: Clubs and Societies
 		<td style="text-align:justify">
 			<table style="border:1px solid black">
 		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:18px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
+			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
 			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>4R &amp; 4J</td><td>Mdm Bawvaney<br>Mdm Mahirah</td></tr>
 		</tbody>
 	</table>
