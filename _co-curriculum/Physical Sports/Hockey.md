@@ -52,4 +52,5 @@ third_nav_title: Physical Sports
 	<tr><td></td></tr>
 </tbody></table>
 
-<p></p><center style="font-family:cursive; font-size:18px">Training Sessions<iframe allowfullscreen="true" height="366" width="600" style="border:1px solid black; padding:5px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3xOd5m4ZYWK5cTuVThxj1sP0KafFbfnIyfYCBafC2wDqLteeGJ0dUan2CVoBOQ53VxQ_IBXFv3lyu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><p></p>
+<div style="font-family:cursive; font-size:18px; text-align:center">Training Sessions</div>
+<center><iframe allowfullscreen="true" height="366" width="600" style="border:1px solid black; padding:5px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3xOd5m4ZYWK5cTuVThxj1sP0KafFbfnIyfYCBafC2wDqLteeGJ0dUan2CVoBOQ53VxQ_IBXFv3lyu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
