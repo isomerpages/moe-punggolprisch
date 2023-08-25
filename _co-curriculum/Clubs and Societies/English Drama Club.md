@@ -48,4 +48,4 @@ third_nav_title: Clubs and Societies
 	<tr><td></td></tr>
 </tbody></table>
 
-<div style="font-family:cursive; font-size:18px; text-align:center">Year-end Celebration</div><img src="/images/CCA/Year%20End%20Celebration.jpeg" style="border:2px solid black; padding:5px">
+<div style="font-family:cursive; font-size:18px; text-align:center">Year-end Celebration</div><img src="/images/CCA/Year%20End%20Celebration.jpeg" style="border:1px solid black; padding:5px">
