@@ -98,7 +98,7 @@ third_nav_title: Our Staff
   </tr>
 	 <tr>
 		<td style="background-color:ghostwhite">Character and Citizenship Education (CCE)</td>
-    <td>Mdm Khng Su- Lyn Jacqueline</td>
+    <td>Ms Khng Su- Lyn Jacqueline</td>
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
