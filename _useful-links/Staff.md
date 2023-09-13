@@ -63,6 +63,7 @@ description: ""
 			<li style="line-height:2;"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank"><img src="/images/Icons/SC.gif" style="border:3px solid white; float:left;width:65px;height:35px">School Cockpit</a></li>
 				<li style="line-height:2;"><a href="https://ssoe2.moe.edu.sg/" target="_blank"><img src="/images/Icons/SSOE2.png" style="border:3px solid white; float:left;width:65px;height:35px;">SSOE2 Service Portal</a></li>
 				<li style="line-height:2;"><a href="https://www.learning.moe.edu.sg/sls/index.html" target="_blank"><img src="/images/Icons/sls_icon.png" style="border:3px solid white; float:left;width:65px;height:35px">SLS</a></li>
+							<li style="line-height:2;"><a href="https://form.gov.sg/5ef0743b2940e20011884476" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Staff Personal Particulars Form</a></li>
 			</ul></td>
 		<td>-</td>
 	</tr>
