@@ -29,9 +29,7 @@ third_nav_title: Parents
 		<tr>
 			<td style="border: solid 0px black"><ul>
 				<li style="line-height:2"><a href="https://form.gov.sg/#!/60bdb67379dded0011f083dd" target="_blank">Application Form for Leave of&nbsp; Absence</a></li>
-				<li style="line-height:2"><a href="https://form.gov.sg/63bd0d46d2073e00126a39d9" target="_blank">Application Form for Mainstream School Leaver</a></li>
 				</ul></td>		
 					</tr>	
 	</tbody>
 	</table>
-	
