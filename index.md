@@ -19,6 +19,14 @@ sections:
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
       background: /images/herobanner2.png
   - infopic:
+      title: Caring Teacher Awards (CTA) 2024
+      subtitle: Punggol Primary school
+      id: infopic
+      button: Nominate Now!
+      url: https://www.cta.nie.edu.sg
+      alt: Image alt text
+      image: /images/Photos/cta 2024.png
+  - infopic:
       title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
       description: Come and experience our joy of learning as you embark on our e-open
