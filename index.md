@@ -17,7 +17,7 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
-        - title: ADVERTISEMENT
+        - title: INFORMATION
           description: ""
           url: /advertisement/school-canteen/
       background: /images/herobanner2.png
