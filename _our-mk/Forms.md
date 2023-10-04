@@ -3,7 +3,7 @@ title: Forms
 permalink: /our-mk/forms/
 description: ""
 ---
-#### MK@Punggol Waitlist Application Form
+<p style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue">MK@Punggol Waitlist Application Form</p>
 
 Please fill up this <a target="_blank" href="https://go.gov.sg/punggolmkwaitlistform">form</a>&nbsp;or scan the QR code below to register your child for 2024 K1class. Enrolment will be subjected to available vacancies.
 
