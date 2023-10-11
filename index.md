@@ -17,6 +17,9 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
+        - title: ADVERTIseMEMT
+          description: ""
+          url: /advertisement/school-canteen/
       background: /images/herobanner2.png
   - infopic:
       title: Caring Teacher Awards (CTA) 2024

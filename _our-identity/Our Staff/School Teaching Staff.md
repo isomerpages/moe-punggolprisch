@@ -203,8 +203,8 @@ third_nav_title: Our Staff
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Affection</td>
-    <td>Mdm Madinah Bte Ghaus Marican</td>
     <td>Mdm Siti Aishah Bte Abdul Aziz</td>
+    <td>Mr Wong Wen Jun Thomas</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Responsibility</td>

@@ -103,7 +103,7 @@ third_nav_title: Our Staff
 		<td>Mr Derek Lee</td>
 		</tr>
 	<tr>
-		<td>Mr Michael Chua</td>
+		<td>Mr Rajascharan</td>
 	</tr>
   <tr>
     <td style="background-color:ghostwhite">Contract Cleaners</td>
