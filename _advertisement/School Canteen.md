@@ -3,8 +3,7 @@ title: School Canteen
 permalink: /advertisement/school-canteen/
 description: ""
 ---
-
-<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-family:arial; font-weight:bold; color:royalblue; font-size:22px">Canteen Advertisement for Jan 2024</span><br>Punggol Primary School has the vacancy for <b>Halal Food Stall / Fusion Western – eg Rice, Noodles, bee hoon, Spaghetti, Mac&amp; cheese, pasta etc</b>.  We invite applications from interested parties to operate the above-mentioned stall.  The school has an enrolment of about 1240 students and 110 staff.</p>
+<p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-family:arial; font-weight:bold; color:royalblue; font-size:25px">Canteen Advertisement for Jan 2024</span><br>Punggol Primary School has the vacancy for <b>Halal Food Stall / Fusion Western – eg Rice, Noodles, bee hoon, Spaghetti, Mac&amp; cheese, pasta etc</b>.  We invite applications from interested parties to operate the above-mentioned stall.  The school has an enrolment of about 1240 students and 110 staff.</p>
 
 <div style="font-family:arial; font-size:16px; line-height:1.8"><span style="font-weight:bold; color:royalblue; font-size:18px">Requirements of Applicants</span>
 <br>Applicants must be:<ul>
