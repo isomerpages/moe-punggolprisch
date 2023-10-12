@@ -22,6 +22,14 @@ sections:
           url: /advertisement/school-canteen/
       background: /images/herobanner2.png
   - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: Punggol Primary School
+      id: infopic
+      button: Nominate Online
+      url: https://go.gov.sg/oyea2024
+      image: /images/Photos/oyea2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Caring Teacher Awards (CTA) 2024
       subtitle: Punggol Primary school
       id: infopic
