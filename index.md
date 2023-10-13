@@ -27,7 +27,7 @@ sections:
       id: infopic
       button: Nominate Online
       url: https://go.gov.sg/pat2024
-      image: /images/Photos/pat_2024.jpg
+      image: /images/Photos/pat2024_2.gif
       alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award
@@ -35,7 +35,7 @@ sections:
       id: infopic
       button: Nominate Online
       url: https://go.gov.sg/oyea2024
-      image: /images/Photos/oyea2024.jpg
+      image: /images/Photos/oyea2024_2.jpg
       alt: Image alt text
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
