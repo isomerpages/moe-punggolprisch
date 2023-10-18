@@ -14,7 +14,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Email</td>
-			<td><a target="_blank" href="mailto:enquiry@sfxtransport.com.sg">enquiry@sfxtransport.com.sg</a></td>
+			<td><a target="_blank" href="mailto:punggolpri@sfxtransport.com.sg">punggolpri@sfxtransport.com.sg</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
