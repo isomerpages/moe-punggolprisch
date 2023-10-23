@@ -11,4 +11,4 @@ third_nav_title: Parents
 	<tbody>
 	<tr>
 			<td style="border: solid 0px black"><ul>
-		<li style="line-height:2">Please refer to <a href="https://www.moe.gov.sg/primary/p1-registration/" target="_blank">MOE Website</a> for more information.</li></ul></td></tr></tbody></table>
+		<li style="line-height:2; font-family:arial; font-size:16px;">Please refer to <a href="https://www.moe.gov.sg/primary/p1-registration/" target="_blank">MOE Website</a> for more information.</li></ul></td></tr></tbody></table>
