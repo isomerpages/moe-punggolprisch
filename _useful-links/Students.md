@@ -76,10 +76,10 @@ description: ""
 		<tr>
 			<td style="border: solid 0px black"><a href="https://students-edu-sg.zoom.us/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click ⇣here to login to Zoom</a>
 			<ul>
-				<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a></li>
-			<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a></li>
-			<li style="line-height:0.5;"><a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a></li>
-		<li style="line-height:0.5;"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li></ul></td>
+				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/Zoom/Access_Zoom_Browser.pdf" target="_blank">Accessing Zoom with Browser</a></li>
+			<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/Zoom/Access_Zoom_DesktopApp.pdf" target="_blank">Accessing Zoom through Desktop App</a></li>
+			<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/Zoom/Access_Zoom_Mobile_TabletApp.pdf" target="_blank">Accessing Zoom through Mobile or Table App</a></li>
+		<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/Zoom/Zoom_Troubleshooting.pdf" target="_blank">Troubleshooting Instructions</a></li></ul></td>
 		</tr>
 </tbody>
 </table>
