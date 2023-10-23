@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Students.md
+      - Parents/P1 Registration.md
       - Parents/MoneySense Financial Literacy Programme.md
       - Parents/.keep
       - Parents/General.md
