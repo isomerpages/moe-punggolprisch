@@ -59,9 +59,11 @@ description: ""
 		<tr>
 			<td style="border: solid 0px black"><a href="https://workspace.google.com/dashboard" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click ⇣here to login to iCON</a>
 				<ul>
-				<li style="line-height:0.5;"><a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a></li>
-			<li style="line-height:0.5;"><a href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view" target="_blank">Onboarding Guide - using Chromebook</a></li>
-				<li style="line-height:0.5;"><a href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view" target="_blank">Onboarding Guide - using Google Chrome from any devices e.g. iPad, HP Laptop</a></li>
+				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://drive.google.com/file/d/1GjW93FmNQh-KE_ZFXEla6WhfwilkJlPV/view?usp=sharing" target="_blank">iCON Password Requirement</a></li>
+			<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view" target="_blank">Onboarding Guide - using Chromebook</a></li>
+				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view" target="_blank">Onboarding Guide - using Google Chrome from any devices e.g. iPad, HP Laptop</a></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/quick_guide_on_student_icon_data_management.pdf" target="_blank">Data Management Guide</a><span style="font-size:14px"> - to organize and housekeep data in Student iCON</span></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/google_takeout_guide_for_student_icon.pdf" target="_blank">Google Takeout Guide</a><span style="font-size:14px"> - to backup data in Student iCON</span></li>
 				</ul>
 			</td>
 	</tr>
