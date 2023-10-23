@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 <table style="font-size:16px">
 <thead>
-	<tr><td colspan="2" style="line-height:15px; font-family:impact; font-size:25px;">Primary 1 (P1) Registration</td></tr>
+	<tr><td colspan="2" style="line-height:15px; font-family:impact; font-size:25px;">Primary 1 Registration</td></tr>
 	</thead>
 	<tbody>
 		<tr>
