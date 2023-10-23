@@ -64,10 +64,10 @@ description: ""
 			<li style="line-height:0.5; font-family:arial; font-size:16px"><a target="_blank" href="https://drive.google.com/file/d/1xfODmtFNFVDerq98M8DEz0lOUSBk2-o0/view">Onboarding Guide - using Chromebook</a></li>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a target="_blank" href="https://drive.google.com/file/d/1kACPz5QDLl_LtL3YdZDgOwqEP7Tsju2g/view">Onboarding Guide - using Google Chrome from any devices e.g. iPad, HP Laptop</a></li>
 -->
-					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" target="_blank">Student iCON Onboarding Guide</a></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" target="_blank" class="noicon">Student iCON Onboarding Guide</a></li>
 					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/icon_password_requirements.pdf" target="_blank">iCON Password Requirement</a></li>
-					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/quick_guide_on_student_icon_data_management.pdf" target="_blank">Data Management Guide</a><span style="font-size:14px"></span></li>
-					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/google_takeout_guide_for_student_icon.pdf" target="_blank">Google Takeout Guide</a><span style="font-size:14px"> - to backup data in Student iCON</span></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/quick_guide_on_student_icon_data_management.pdf" target="_blank">Student iCON Data Management &amp; Housekeeping</a><span style="font-size:14px"></span></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/ICON/google_takeout_guide_for_student_icon.pdf" target="_blank">Google Takeout Guide to Back up Student iCON data</a></li>
 				</ul>
 			</td>
 	</tr>
