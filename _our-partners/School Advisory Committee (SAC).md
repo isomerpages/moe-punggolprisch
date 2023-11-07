@@ -2,12 +2,13 @@
 title: School Advisory Committee (SAC)
 permalink: /sac/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
 		</tbody><thead>
             <tr>
-               <td style="font-family:impact; font-size:25px" colspan="2"><img src="/images/SAC%20members.jpeg" style="border:5px solid lightgrey; width:65%"></td>
+               <!--<td colspan="2" style="font-family:impact; font-size:25px"><img style="border:5px solid lightgrey; width:65%" src="/images/SAC%20members.jpeg"></td>-->
             </tr>
          </thead>
   <tbody><tr style="line-height:10px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
@@ -20,7 +21,7 @@ description: ""
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Vice-Chairman</td>
-    <td>Ms Joy Toh Swee Wah</td>
+    <td>-</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Hon Secretary</td>
@@ -30,7 +31,7 @@ description: ""
 		<td rowspan="4" style="background-color:ghostwhite">Members</td>
     <td>Mr Lai Poh Koon</td>
   </tr>
-  <tr><td>Ms Eileen Lim Gek Kwan</td></tr>
+	<tr><td>Ms Annie Chin</td></tr>	
 	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
 	<tr><td>Mr Stanley Mark Tay Guan Seng</td></tr>
 	<tr><td></td></tr>

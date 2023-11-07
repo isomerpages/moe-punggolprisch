@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /advertisement/school-canteen/
 description: ""
+variant: markdown
 ---
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-family:arial; font-weight:bold; color:royalblue; font-size:25px">Canteen Advertisement for Jan 2024</span><br>Punggol Primary School has the vacancy for <b>Halal Food Stall / Fusion Western – eg Rice, Noodles, bee hoon, Spaghetti, Mac&amp; cheese, pasta etc</b>.  We invite applications from interested parties to operate the above-mentioned stall.  The school has an enrolment of about 1240 students and 110 staff.</p>
 
@@ -24,7 +25,7 @@ description: ""
 <li style="font-family:arial; font-size:16px; line-height:1.8">Stallholder must comply with the Healthy Eating in Schools Programme Guidelines<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a></li></ul></div>
 
 <div style="font-family:arial; font-size:16px; text-align:justify"><span style="font-weight:bold; color:royalblue; font-size:18px">Submission of Application</span><br>
-Applicants to download application form on this webpage or approach our school's Security Counter for hardcopy<br><br>
+Applicants to download application form on this webpage or approach our school's Security Counter for hardcopy <br><a target="_blank" href="/files/General/canteen%20application%20form.pdf">Application Form</a><br><br>
 	Applicants are to submit the following documents to the school:
 <ul>
 	<li style="font-family:arial; font-size:16px; line-height:1.8">Application Form</li>
