@@ -25,7 +25,7 @@ variant: markdown
 <li style="font-family:arial; font-size:16px; line-height:1.8">Stallholder must comply with the Healthy Eating in Schools Programme Guidelines<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme"> https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a></li></ul></div>
 
 <div style="font-family:arial; font-size:16px; text-align:justify"><span style="font-weight:bold; color:royalblue; font-size:18px">Submission of Application</span><br>
-Applicants to download application form on this webpage or approach our school's Security Counter for hardcopy <br><a href="/files/General/canteen%20application%20form.pdf">Application Form</a><br><br>
+Applicants to download application form on this webpage or approach our school's Security Counter for hardcopy <br><a target="_blank" href="/files/General/canteen%20application%20form.pdf">Application Form</a><br><br>
 	Applicants are to submit the following documents to the school:
 <ul>
 	<li style="font-family:arial; font-size:16px; line-height:1.8">Application Form</li>
