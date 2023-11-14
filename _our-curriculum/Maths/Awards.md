@@ -8,7 +8,7 @@ third_nav_title: Maths
 <table style="border:2px solid royalblue">
 	<tbody>
 		<tr style="background-color:royalblue; color:white; font-weight:bold; font-size:18px; line-height:20px">
-			<td width="400">Name of Competitions/Events</td>
+			<td width="500">Name of Competitions/Events</td>
 			<td>Our Pride</td>
 		</tr>
 		<tr>
