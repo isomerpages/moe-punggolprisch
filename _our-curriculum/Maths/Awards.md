@@ -21,6 +21,10 @@ third_nav_title: Maths
 		</tr>
 		<tr>
 			<td>NUS High School National Mathematical Olympiad of Singapore 2023</td>
+			<td>2 Bronze Awards<br>13 Honourable Mentions</td>
+		</tr>
+				<tr>
+			<td>MOE Gifted Education Branch – Primary Mathematics Project Competition (P5 Game Design)</td>
 			<td>1 Commendation Award</td>
 		</tr>
 	</tbody>
