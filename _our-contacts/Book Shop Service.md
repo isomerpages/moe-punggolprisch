@@ -2,6 +2,7 @@
 title: Book Shop Service
 permalink: /our-contacts/bookshop-service/
 description: ""
+variant: markdown
 ---
 <table style="font-size:16px">
 	<thead>
@@ -9,7 +10,7 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td width=100 style="font-weight:bold">Vendor</td>
+			<td width="100" style="font-weight:bold">Vendor</td>
 			<td>BL Marketing Pte Ltd</td>
 		</tr>
 		<tr>
@@ -22,14 +23,14 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Book List</td>
-			<td><a href="/files/General/Booklist/2023_PPS_P1_Booklist.pdf" target="_blank">2023 - Primary 1 </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P2_Booklist.pdf" target="_blank">2023 - Primary 2 </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P3_Booklist.pdf" target="_blank">2023 - Primary 3 </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P4_Booklist.pdf" target="_blank">2023 - Primary 4 </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P5Foundation_Booklist.pdf" target="_blank">2023 - Primary 5 Foundation </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P5HigherStdMT_Booklist.pdf" target="_blank">2023 - Primary 5 Higher & Standard MT </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P6Foundation_Booklist.pdf" target="_blank">2023 - Primary 6 Foundation </a><br>
-				<a href="/files/General/Booklist/2023_PPS_P6HigherStdMT_Booklist.pdf" target="_blank">2023 - Primary 6 Higher & Standard MT </a><br>
+			<td><a href="/files/General/Booklist/2024_PPS_P1_Booklist.pdf" target="_blank">2024 - Primary 1</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P2_Booklist.pdf" target="_blank">2024 - Primary 2</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P3_Booklist.pdf" target="_blank">2024 - Primary 3</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P4_Booklist.pdf" target="_blank">2024 - Primary 4</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P5Foundation_Booklist.pdf" target="_blank">2024 - Primary 5 Foundation</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P5_Booklist.pdf" target="_blank">2024 - Primary 5 Higher &amp; Standard MT</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P6Foundation_Booklist.pdf" target="_blank">2024 - Primary 6 Foundation</a><br>
+				<a href="/files/General/Booklist/2024_PPS_P6_Booklist.pdf" target="_blank">2024 - Primary 6 Higher &amp; Standard MT</a><br>
 			</td>
 		</tr>
 		<tr><td></td></tr>
