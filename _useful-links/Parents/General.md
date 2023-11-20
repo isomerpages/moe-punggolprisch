@@ -19,7 +19,7 @@ variant: markdown
 <!--23 Oct 2023-OB-Link obsolete
 			<li style="line-height:2; font-family:arial; font-size:16px"><a target="_blank" href="/files/Childhood%20Eye%20Condition.pdf">Common Childhood Eye Conditions</a></li>
 -->
-				<li style="line-height:2; font-family:arial; font-size:16px"><a href="/files/p3_p4_html.pdf" target="_blank">Information on P3 &amp; P4 Higher Mother Tongue Languages</a></li>
+				<li style="line-height:2; font-family:arial; font-size:16px"><a href="/files/MTL/p3_p4_hmtl.pdf" target="_blank">Information on P3 &amp; P4 Higher Mother Tongue Languages</a></li>
 				</ul></td>		
 					</tr>	
 	</tbody>
