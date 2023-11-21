@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /our-identity/Our-Staff/SAT/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table>
 <tbody>
@@ -45,7 +46,7 @@ third_nav_title: Our Staff
 		<td>Mdm Aw Hwee Lian (Celia)</td>
 	</tr>
   <tr>
-		<td rowspan="4" style="background-color:ghostwhite">Operations Support Officer (CSO)</td>
+		<td rowspan="4" style="background-color:ghostwhite">Operations Support Officer (OSO)</td>
     <td>Mdm Lim Kwee Ying</td>
   </tr>
   <tr>
@@ -81,7 +82,7 @@ third_nav_title: Our Staff
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>Mdm Karuppiah Nanthini</td>
+    <td>-</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
