@@ -21,6 +21,14 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: P1 Orientation
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      button: CLICK HERE
+      url: /files/P1_Orientation_Briefing_by_YH_2023.pdf
+      alt: Image alt text
+      image: /images/Photos/P1Orientation.jpg
+  - infopic:
       title: President's Award for Teachers (PAT) 2024
       subtitle: Punggol Primary School
       id: infopic
