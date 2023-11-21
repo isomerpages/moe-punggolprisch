@@ -21,6 +21,13 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: P1 Orientation
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      button: CLICK HERE
+      url: https://go.gov.sg/oyea2024
+      alt: Image alt text
+  - infopic:
       title: President's Award for Teachers (PAT) 2024
       subtitle: Punggol Primary School
       id: infopic
