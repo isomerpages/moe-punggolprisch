@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /our-identity/our-staff/key-personnel/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table>
 <tbody>
@@ -40,7 +41,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td style="background-color:ghostwhite">Physical Education &amp; Co-Curricular Activities (PE &amp; CCA)</td>
-		<td>Mr Alvin Chan Chin San</td>    
+		<td>Mr Thomas Wong Wen Jun</td>    
   </tr>
   <tr>
     <td style="background-color:ghostwhite">Student Management (SM)</td>
