@@ -21,19 +21,18 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Vice-Chairman</td>
-    <td>-</td>
+    <td>Mr Lai Poh Koon</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Hon Secretary</td>
     <td>Mdm Norliza A Rahim</td>
   </tr>
   <tr>
-		<td rowspan="4" style="background-color:ghostwhite">Members</td>
-    <td>Mr Lai Poh Koon</td>
+		<td rowspan="3" style="background-color:ghostwhite">Members</td>
+    <td>Ms Annie Chin</td>
   </tr>
-	<tr><td>Ms Annie Chin</td></tr>	
 	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
 	<tr><td>Mr Stanley Mark Tay Guan Seng</td></tr>
-	<tr><td></td></tr>
+		<tr><td></td></tr>
 </tbody>
 </table>
