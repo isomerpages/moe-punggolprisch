@@ -2,6 +2,7 @@
 title: Bus Service
 permalink: /our-contacts/bus-service/
 description: ""
+variant: markdown
 ---
 <table style="font-size:16px">
 	<thead>
@@ -28,4 +29,4 @@ description: ""
 	</tbody>
 </table>
 <br>
-<a href="/files/General/school%20bus%20operator%20and%20bus%20fare.pdf" target="_blank">School Bus Operator and Bus Fare</a>
+<a href="/files/General/School_Bus_Operator_and_Bus_Fare_2024.pdf" target="_blank">School Bus Operator and Bus Fare</a>
