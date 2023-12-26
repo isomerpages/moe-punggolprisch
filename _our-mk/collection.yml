@@ -2,6 +2,6 @@ collections:
   our-mk:
     output: true
     order:
-      - MK Staff.md
       - Our MK @ Punggol.md
+      - MK Staff.md
       - Forms.md
