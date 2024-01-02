@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - MoneySense Financial Literacy Programme.md
       - School Canteen Service.md

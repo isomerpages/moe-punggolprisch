@@ -2,7 +2,6 @@
 title: MoneySense Financial Literacy Programme
 permalink: /useful-links/parents/moneysense/
 description: ""
-third_nav_title: Parents
 ---
 <p style="font-family:arial; font-size:18px; font-weight:bold; text-align:justify">Invitation to attend MoneySense for Your Child (For Parents of Primary and Secondary School goers) programmes</p>
 

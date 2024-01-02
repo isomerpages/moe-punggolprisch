@@ -3,6 +3,7 @@ title: School Leaders
 permalink: /our-identity/our-staff/school-leaders/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table>
 <tbody>
@@ -18,7 +19,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td rowspan="2" style="background-color:ghostwhite">Vice Principal - Academic</td>
-    <td>Ms Yaw Li Ling Karen</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Mr Goh Chang Chuen</td>

@@ -101,6 +101,10 @@ variant: markdown
 		<td style="background-color:ghostwhite">Character and Citizenship Education (CCE)</td>
     <td>Ms Khng Su- Lyn Jacqueline</td>
   </tr>
+	<tr>
+		<td style="background-color:ghostwhite">Student Leadership</td>
+    <td>Mr Yeo Wei Hao</td>
+  </tr>
 	<tr><td></td></tr>
 	</tbody></table>
 <table><tbody>
@@ -164,6 +168,18 @@ variant: markdown
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (Tamil Language)</td>
     <td>Mdm Malini d/o Kumarasamy</td>
+  </tr>
+		 <tr>
+		<td style="background-color:ghostwhite">Senior Teacher (Social Studies)</td>
+    <td>Mdm Nurulhuda Bte Abdul Samat</td>
+  </tr>
+		 <tr>
+		<td style="background-color:ghostwhite">Senior Teacher (Art)</td>
+    <td>Mdm Julaiha Bte Mohd Jamil</td>
+  </tr>
+			 <tr>
+		<td style="background-color:ghostwhite">Senior Teacher (Science)</td>
+    <td>Mdm Oh Ling Fang</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>

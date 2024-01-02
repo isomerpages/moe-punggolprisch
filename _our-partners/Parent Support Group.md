@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /our-partners/parent-support-group/psg/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 	 <li>
@@ -45,7 +46,7 @@ description: ""
     <input id="accordion4" type="checkbox">
     <label for="accordion4"><h5>PSG Organisational Chart</h5></label>
     <div>
-      <p><img src="/images/PSG/PSG%20Org.jpeg" style="width:100%"></p>
+      <p><img src="/images/PSG/PSG_Organization_Structure_2024.png" style="width:100%"></p>
     </div>
 	</li>
 	<li>

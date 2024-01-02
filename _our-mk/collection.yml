@@ -3,4 +3,6 @@ collections:
     output: true
     order:
       - Our MK @ Punggol.md
+      - Our Learning Environment.md
+      - MK Staff.md
       - Forms.md
