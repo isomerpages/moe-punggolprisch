@@ -325,8 +325,9 @@ variant: markdown
 		<td>Ms Geetha do Sathiamurthi</td>
   </tr>
 	<tr style="line-height:1">
-		<td>Ms Sharmeela Begum d/o Jainlavudin</td>
 		<td>Mdm Malini Kumarasamy</td>
+		<td></td>
+		<td></td>
 		<td></td>
   </tr>
 </tbody>
