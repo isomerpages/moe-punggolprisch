@@ -194,7 +194,7 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Teamwork</td>
-    <td>Mdm Lee Siow Foong, Kaely</td>
+    <td>Mrs Kaelyn Kang</td>
     <td>Mdm Hairani Bte Asri</td>
   </tr>
   <tr style="line-height:1">
