@@ -1,6 +1,6 @@
 ---
-title: Overview of PPS’s Sexuality Education Programme for 2023
-permalink: /our-curriculum/Growing-Years-Programme/overview-of-pps-sexuality-education-programme-for-2023/
+title: Overview of PPS’s Sexuality Education Programme for 2024
+permalink: /our-curriculum/growing-years-programme/overview-of-pps-sexuality-education-programme-for-2024/
 description: ""
 third_nav_title: Growing Years Programme
 variant: markdown
