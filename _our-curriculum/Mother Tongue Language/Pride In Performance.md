@@ -3,14 +3,26 @@ title: Pride In Performance
 permalink: /our-curriculum/mother-tongue-language/pride-in-performance/
 description: ""
 third_nav_title: Mother Tongue Language
+variant: markdown
 ---
 <table style="border:2px solid royalblue">
 	<tbody>
 		<tr style="background-color:royalblue; color:white; font-weight:bold; font-size:18px; line-height:20px">
+			<td>Year</td>
 			<td>Name of Competitions/Events</td>
 			<td>Our Pride</td>
 		</tr>
 		<tr>
+			<td rowspan="2">2023</td>
+			<td>6th National Chinese Text Recital Competition 2023</td>
+			<td>Silver, Bronze</td>
+		</tr>
+		<tr>
+			<td>2023 Reading Super Star Award</td>
+			<td>Outstanding Award</td>
+		</tr>
+		<tr>
+			<td rowspan="8">2022</td>
 			<td>15th YMCA Mandarin Speaking Awards 2022</td>
 			<td>1st Runner-up </td>
 		</tr>
@@ -41,6 +53,11 @@ third_nav_title: Mother Tongue Language
 				<tr>
 			<td>Creative Story Writing Competition</td>
 			<td>4th Prize, Consolation Prize</td>
+		</tr>
+		<tr>
+			<td>2021</td>
+			<td>14th YMCA Mandarin Speaking Awards 2021</td>
+			<td>Champion</td>
 		</tr>
 	</tbody>
 </table>	

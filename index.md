@@ -21,22 +21,6 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
-      title: President's Award for Teachers (PAT) 2024
-      subtitle: Punggol Primary School
-      id: infopic
-      button: Nominate Online
-      url: https://go.gov.sg/pat2024
-      image: /images/Photos/pat2024_2.gif
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award
-      subtitle: Punggol Primary School
-      id: infopic
-      button: Nominate Online
-      url: https://go.gov.sg/oyea2024
-      image: /images/Photos/oyea2024_2.jpg
-      alt: Image alt text
-  - infopic:
       title: Caring Teacher Awards (CTA) 2024
       subtitle: Punggol Primary school
       id: infopic
