@@ -15,13 +15,13 @@ variant: markdown
 
 <p style="text-align:justify">To that point, I’d like to extend a warm invitation to all parents and caregivers to volunteer with the PPS Parent Support Group (PSG). Your active participation in our vibrant community goes a long way to foster a collaborative environment between parents and teachers that will enhance each child's educational journey. </p>
 
-<p style="text-align:justify">For parents who have volunteered in past events, I’d like to say a big "Thank you". For those who may be considering, I'd like to encourage you to join us. We eagerly anticipate partnering with each of you to make a difference in supporting and enriching the students' development at PPS. </p>
+<p style="text-align:justify">For parents who have volunteered in past events, I’d like to say a big <b>"Thank you"</b>. For those who may be considering, I'd like to encourage you to join us. We eagerly anticipate partnering with each of you to make a difference in supporting and enriching the students' development at PPS. </p>
 
-<p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." /em&gt;</em></blockquote><p></p><em>
+<p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." </em></blockquote><p></p><em>
 
 
 <p><img src="/images/PSG/PSG_Chairperson2024.png" style="float:left; width:15%">
-&nbsp;&nbsp;Yours faithfully,<br><br>
+&nbsp;&nbsp;Yours sincerely,<br><br>
 <b>&nbsp;&nbsp;Mdm Karen Lim Mei Lin<br>
 &nbsp;&nbsp;PSG Chairperson</b>
 </p>
