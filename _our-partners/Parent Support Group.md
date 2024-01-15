@@ -20,7 +20,7 @@ variant: markdown
 <p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." </em></blockquote><p></p>
 
 <p><img src="/images/PSG/PSG_Chairperson2024.png" style="float:left; width:15%">
-&nbsp;&nbsp;Yours sincerely,<br><br><b>&nbsp;&nbsp;Mdm Karen Lim Mei Lin<br>&nbsp;&nbsp;PSG Chairperson</b></p>
+&nbsp;&nbsp;Yours sincerely,<br><br><b>&nbsp;&nbsp;Mdm Karen Lim Mei Lin<br>&nbsp;&nbsp;PSG Chairperson</b><br><br><br></p>
 		 </div>
 </li>
 	
