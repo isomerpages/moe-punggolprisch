@@ -17,55 +17,53 @@ variant: markdown
 
 <p style="text-align:justify">For parents who have volunteered in past events, I’d like to say a big <b>"Thank you"</b>. For those who may be considering, I'd like to encourage you to join us. We eagerly anticipate partnering with each of you to make a difference in supporting and enriching the students' development at PPS. </p>
 
-<p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." </em></blockquote><p></p><em>
-
+<p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." </em></blockquote><p></p>
 
 <p><img src="/images/PSG/PSG_Chairperson2024.png" style="float:left; width:15%">
-&nbsp;&nbsp;Yours sincerely,<br><br>
-<b>&nbsp;&nbsp;Mdm Karen Lim Mei Lin<br>
-&nbsp;&nbsp;PSG Chairperson</b>
-</p>
-    </em></div><em>
-	</em></li><em>
-	<li>
+&nbsp;&nbsp;Yours sincerely,<br><br><b>&nbsp;&nbsp;Mdm Karen Lim Mei Lin<br>&nbsp;&nbsp;PSG Chairperson</b></p>
+		 </div>
+</li>
+	
+<li>
     <input id="accordion2" type="checkbox">
-	<label for="accordion2"><h5>PSG Logo</h5></label>
+  	<label for="accordion2"><h5>PSG Logo</h5></label>
     <div>
       <p><img src="/images/PSG/psg_content.jpeg" style="width:100%"></p>
     </div>
-	</li>
-  <li>
+</li>
+
+<li>
     <input id="accordion3" type="checkbox">
 		<label for="accordion3"><h5>PSG Framework</h5></label>
     <div>
 			<p><img src="/images/PSG/PSG%20Framework.jpeg" style="width:100%"></p>
     </div>
-	</li>
-	<li>
+</li>
+<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4"><h5>PSG Organisational Chart</h5></label>
     <div>
       <p><img src="/images/PSG/PSG_Organization_Structure_2024.png" style="width:100%"></p>
     </div>
-	</li>
-	<li>
+</li>
+<li>
     <input id="accordion5" type="checkbox">
 		<label for="accordion5"><h5>PSG Activities</h5></label>
     <div>
 			<p>The activities that we plan aim to:<br><img src="/images/PSG/PSG_Activities.jpg" style="width:80%"></p>
     </div>
-	</li>
-	<li>
+</li>
+<li>
     <input id="accordion6" type="checkbox">
-	<label for="accordion6"><h5>Ethos of PSG Members</h5></label>
+  	<label for="accordion6"><h5>Ethos of PSG Members</h5></label>
     <div>
 				<table>
-<tbody>		
-  <tr style="line-height:10px; background-color:royalblue; font-weight: bold; font-size:20px; color:white">
-		<td style="width:50%">Do's</td>
-    <td style="width:50%">Don'ts</td>
-  </tr>
-  <tr>
+					<tbody>		
+							<tr style="line-height:10px; background-color:royalblue; font-weight: bold; font-size:20px; color:white">
+								<td style="width:50%">Do's</td>
+								<td style="width:50%">Don'ts</td>
+							</tr>
+							<tr>
 		<td><ul style="list-style-type: none; margin:0; padding:0">
 			<li style="margin:0px 0; line-height:1.5; text-align:justify">☑ Follow the school’s rules and respect the authority of the school.</li>
 			<li style="margin:20px 0; line-height:1.5; text-align:justify">☑ Promote and participate actively in the school’s programmes for the benefit of all children. Communicate with the school on specific needs of the child, if any.</li>
@@ -87,4 +85,4 @@ variant: markdown
 </table>
     </div>
 	</li>
-</em></ul>
+</ul>
