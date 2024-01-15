@@ -3,6 +3,7 @@ title: Modular CCA (Sports)
 permalink: /cca/Physical-Sports/modular-cca-sports/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -22,7 +23,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday &amp; <br>Tuesday (P5 &amp; P6)<br>Thursday (P3 &amp; P4)</td><td>2:00pm - 4:00pm</td><td>Arena (Tues)<br>ISH (Thurs)</td><td>Mr Bala<br>Mr Tan Kia Hwee<br> Ms Sharmeela</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Arena / Field</td><td>Mr Aylwin Tan<br>Mr Bala<br>Mr/Ms PGDE (Untrained)</td></tr>
 		</tbody>
 	</table>
 		</td>
