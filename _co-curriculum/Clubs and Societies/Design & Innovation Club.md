@@ -24,7 +24,7 @@ variant: markdown
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Science rooms, <br>SR6, Maker Space</td><td>Mdm Christine Yeo<br>Mdm Cloud Lee<br>Ms Joey Tan<br>Mdm Tan Ai Kiam</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Science rooms, <br>SR6, Maker Space</td><td>Mdm Christine Yeo<br>Mdm Cloud Lee<br>Ms Joey Tan<br>Mdm Tan Ai Kiam<br>Mr Lin Ruixian<br>Mdm Ammani</td></tr>
 		</tbody>
 	</table>
 		</td>
