@@ -3,6 +3,7 @@ title: Hockey
 permalink: /cca/Physical-Sports/hockey/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -24,13 +25,13 @@ third_nav_title: Physical Sports
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td width="100">Day</td><td width="180">Time</td><td width="80">Venue</td><td>Teacher in charge</td></tr>
 			<tr>
 				<td style="border:0px solid black">Monday<br>(P3&amp;P4)</td>
-				<td width="200" style="border:0px solid black">2:00pm - 4:00pm<br>(P3 Boys&amp;Girls)<br>2:00pm - 4:00pm<br>(Girls)<br>2:30pm - 4:30pm<br>(P4 Boys) </td>
+				<td width="200" style="border:0px solid black">P3&amp;P4 Boys &amp; Girls:<br>3:00pm - 5:00pm</td>
 				<td rowspan="2">Parade Ground / Hall</td>
-				<td rowspan="2">Mdm Subha<br>Mdm Chang Sok Cheng<br>Ms Geetha<br>Mdm Madinah<br>Mdm Tjia Hwee King<br>Mdm Mak Mei Woon<br>Mdm Koh Chee Ting<br>Ms Nurul Aqilah</td>
+				<td rowspan="2">Mdm Subha<br>Mdm Chang Sok Cheng<br>Mdm Mak Mei Woon<br>Ms Nurul Aqilah<br>Ms Nur Izyan<br>Mdm Lim Shao Leng Priscilla<br></td>
 			</tr>
 			<tr>
-				<td>Tue&amp;Thur<br>(P5 &amp; P6)</td>
-				<td width="200">2:00pm -3:30pm<br>(P5&amp;P6 Girls)<br>3:00pm - 4:30pm<br> (P5&amp;P6 Boys)</td>
+				<td>Tue&amp;Thur<br>(P5&amp;P6)</td>
+				<td width="200">P5&amp;P6 Girls (Tue):<br>2:00pm - 4:00pm<br>P5&amp;P6 Boys (Thur):<br>3:00pm - 5:00pm</td>
 			</tr>
 		</tbody>
 	</table>
