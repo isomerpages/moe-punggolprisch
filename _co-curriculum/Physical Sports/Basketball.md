@@ -24,7 +24,7 @@ variant: markdown
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday (P3 - P4) <br><br>Tuesday (P5 - P6)</td><td>3:00pm - 5:00pm<br><br>2:00pm - 4:00pm</td><td>ISH / Arena / Basketball Court</td><td>Mr Tai Yean Hwee<br>Mrs Heng-Tan Siow Leng<br>Ms Hairani<br>Mr Hafez<br></td></tr>
+			<tr><td>Monday (P3&amp;P4) <br><br>Tuesday (P5&amp;P6)</td><td>3:00pm - 5:00pm<br><br>2:00pm - 4:00pm</td><td>ISH / Arena / Basketball Court</td><td>Mr Tai Yean Hwee<br>Mrs Heng-Tan Siow Leng<br>Ms Hairani<br>Mr Hafez<br></td></tr>
 		</tbody>
 	</table>
 		</td>
