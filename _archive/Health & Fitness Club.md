@@ -2,7 +2,6 @@
 title: Health & Fitness Club
 permalink: /cca/Physical-Sports/health-and-fitness-club/
 description: ""
-third_nav_title: Physical Sports
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>

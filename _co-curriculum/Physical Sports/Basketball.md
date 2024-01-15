@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/Physical-Sports/basketball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -23,7 +24,7 @@ third_nav_title: Physical Sports
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday &amp; <br>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH &amp; Basketball Court / Arena</td><td>Mrs Heng-Tan Siow Leng<br>Ms Koh Shiew Ching<br>Ms Hairani<br>Mr Tai Yean Hwee</td></tr>
+			<tr><td>Monday (P3&amp;P4) <br><br>Tuesday (P5&amp;P6)</td><td>3:00pm - 5:00pm<br><br>2:00pm - 4:00pm</td><td>ISH / Arena / Basketball Court</td><td>Mr Tai Yean Hwee<br>Mrs Heng-Tan Siow Leng<br>Ms Hairani<br>Mr Hafez<br></td></tr>
 		</tbody>
 	</table>
 		</td>

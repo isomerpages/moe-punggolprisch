@@ -3,6 +3,7 @@ title: Art & Crafts Club
 permalink: /cca/Visual-and-Performing-Arts/arts-n-craft-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -22,7 +23,7 @@ third_nav_title: Visual and Performing Arts
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Room 1</td><td>Mdm Julaiha<br>Ms Erwina<br>Ms Naurah Insyirah</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>ISH Art Studio 1</td><td>Mdm Julaiha<br>Ms Erwina<br>Ms Naurah Insyirah</td></tr>
 		</tbody>
 	</table>
 		</td>

@@ -3,6 +3,7 @@ title: Infocomm & Journalism Club
 permalink: /cca/Clubs-and-Societies/infocomm-n-journalism-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -25,7 +26,7 @@ third_nav_title: Clubs and Societies
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>3J</td><td>Mdm Khuan Jiayan<br>Mdm Koh Wee Lin</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>6S</td><td>Mdm Koh Wee Lin<br>Ms Geetha</td></tr>
 		</tbody>
 	</table>
 		</td>
