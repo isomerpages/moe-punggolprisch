@@ -44,7 +44,7 @@ variant: markdown
 			<td style="border: solid 0px black"><a href="https://learning.moe.edu.sg/" target="_blank" style="font-weight:bold; font-size:18px; background-color: #4CAF50; color:white">Click ⇣here to login to SLS</a>
 				<ul>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" target="_blank">What is SLS?</a></li>
-				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/SLS/Getting_Started_with_SLS.pdf" target="_blank">Getting Started with SLS (initial login)</a></li>
+				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/SLS/getting_started_with_sls.pdf" target="_blank">Getting Started with SLS (initial login)</a></li>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://www.learning.moe.edu.sg/students/frequently-asked-questions/technical-support-and-passwords/" target="_blank">Technical Supports and Passwords</a></li>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/SLS/sls_acct_mgmt_guide.pdf" target="_blank">SLS Account Management - Guide for Students</a></li>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="/files/Student/SLS/SLS_Support_for_HBL.pdf">SLS Support for Home-based Learning</a></li>
