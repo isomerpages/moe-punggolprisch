@@ -2,13 +2,13 @@ collections:
   our-mk:
     output: true
     order:
-      - Our Curriculum and Programmes/.keep
       - Open House.md
-      - Our MK at Punggol/MK @ PL Team.md
       - Our MK at Punggol/.keep
+      - Our MK at Punggol/MK @ PL Team.md
       - Our MK at Punggol/Our MK @ Punggol.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Our Learning Environment.md
       - Our Learning Environment/MK Classroom.md
       - Our Learning Environment/Outdoor Learning.md
+      - Our Curriculum and Programmes/.keep
       - Forms.md
