@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - Our Collaborations (COMING SOON)!.md
       - Information for Parents/.keep
       - Information for Parents/MK Uniforms.md
       - Information for Parents/MK Fees.md
