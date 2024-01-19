@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Our Learning Environment
 ---
-<p></p>
+<table><tbody><tr><th rowspan="1" colspan="1"><h3><strong>PPS Playground</strong></h3></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/mk_playground1.jpeg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/mk_playground2.jpeg"></div></td></tr></tbody></table><p></p><table><tbody><tr><th rowspan="1" colspan="1"><h3><strong>Sand &amp; Water Play</strong></h3></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/sand_waterplay1.jpeg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/sand_waterplay2.jpeg"></div></td></tr></tbody></table><p></p>
