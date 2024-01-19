@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - Information for Parents/Forms.md
       - Information for Parents/.keep
       - Open House.md
       - Our MK at Punggol/.keep
