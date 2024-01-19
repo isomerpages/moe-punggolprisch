@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - MK Staff.md
       - Community in Bloom.md
       - Singapore Quality Class.md
       - People Developer Standard.md
