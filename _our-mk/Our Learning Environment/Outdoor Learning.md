@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Our Learning Environment
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/outdoor_learning.jpg"></div><p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/outdoor_learning.png"></div><p></p>
