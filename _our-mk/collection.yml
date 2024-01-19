@@ -2,7 +2,6 @@ collections:
   our-mk:
     output: true
     order:
-      - Our Learning Environment/Vision & Mission.md
       - Our Learning Environment/.keep
       - Our MK @ Punggol.md
       - MK Staff.md
