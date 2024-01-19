@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - Open House.md
       - Our Learning Environment/.keep
       - Our Learning Environment/Our Learning Environment.md
       - Our Learning Environment/MK Classroom.md
