@@ -2,10 +2,10 @@ collections:
   our-mk:
     output: true
     order:
-      - Our Learning Environment/Outdoor Learning.md
-      - Our Learning Environment/MK Classroom.md
-      - Our Learning Environment/Our Learning Environment.md
       - Our Learning Environment/.keep
+      - Our Learning Environment/Our Learning Environment.md
+      - Our Learning Environment/MK Classroom.md
+      - Our Learning Environment/Outdoor Learning.md
       - Our MK @ Punggol.md
       - MK Staff.md
       - Forms.md
