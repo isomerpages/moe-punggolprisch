@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - Our MK @ Punggol/Our MK @ Punggol.md
       - Our MK @ Punggol/.keep
       - Open House.md
       - Our Learning Environment/.keep
