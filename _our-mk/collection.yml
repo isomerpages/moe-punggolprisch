@@ -2,11 +2,6 @@ collections:
   our-mk:
     output: true
     order:
-      - Our Collaborations (COMING SOON)!.md
-      - Information for Parents/.keep
-      - Information for Parents/MK Uniforms.md
-      - Information for Parents/MK Fees.md
-      - Information for Parents/Forms.md
       - Open House.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Our MK @ Punggol.md
@@ -17,3 +12,8 @@ collections:
       - Our Learning Environment/Outdoor Learning.md
       - Our Curriculum and Programmes/.keep
       - Our KCare @ Punggol.md
+      - Information for Parents/.keep
+      - Information for Parents/MK Uniforms.md
+      - Information for Parents/MK Fees.md
+      - Information for Parents/Forms.md
+      - Our Collaborations (COMING SOON)!.md
