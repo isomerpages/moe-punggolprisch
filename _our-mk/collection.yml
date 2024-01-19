@@ -2,7 +2,6 @@ collections:
   our-mk:
     output: true
     order:
-      - Our KCare @ Punggol.md
       - Open House.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Our MK @ Punggol.md
@@ -13,3 +12,4 @@ collections:
       - Our Learning Environment/Outdoor Learning.md
       - Our Curriculum and Programmes/.keep
       - Forms.md
+      - Our KCare @ Punggol.md
