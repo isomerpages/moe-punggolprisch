@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - Our KCare @ Punggol.md
       - Our Learning Environment.md
       - MK Staff.md
       - Community in Bloom.md
