@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Open House.md
-      - Our MK at Punggol/Operating Hours.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Vision & Mission.md
+      - Our MK at Punggol/Operating Hours.md
       - Our MK at Punggol/MK @ PL Team.md
       - Our Learning Environment/.keep
       - Our Learning Environment/MK Classroom.md
