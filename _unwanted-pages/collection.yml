@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - Our Learning Environment.md
       - MK Staff.md
       - Community in Bloom.md
       - Singapore Quality Class.md
