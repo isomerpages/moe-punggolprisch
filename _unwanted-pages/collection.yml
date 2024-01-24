@@ -2,6 +2,7 @@ collections:
   unwanted-pages:
     output: true
     order:
+      - Our Collaborations (COMING SOON)!.md
       - Our MK @ Punggol.md
       - Our KCare @ Punggol.md
       - Community in Bloom.md
