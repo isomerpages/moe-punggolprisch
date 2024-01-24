@@ -1,0 +1,17 @@
+collections:
+  our-identity:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Mission, Vision and Motto.md
+      - Our S T A R Values.md
+      - Our Staff/School Leaders.md
+      - Our Staff/.keep
+      - Our Staff/Key Personnel.md
+      - Our Staff/School Admin Team.md
+      - Our Staff/School Teaching Staff.md
+      - Our Staff/Learning Support Team.md
+      - Our School Song.md
+      - PPS Student Outcomes.md
+      - Strategic Directions.md
+      - School Rules and Regulations.md

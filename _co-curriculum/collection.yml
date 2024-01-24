@@ -1,0 +1,24 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Co Curricular Activities (CCA) Programme.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Robotics.md
+      - Clubs and Societies/Design & Innovation Club.md
+      - Clubs and Societies/English Drama Club.md
+      - Clubs and Societies/Infocomm & Journalism Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Hockey.md
+      - Physical Sports/Modular CCA (Sports).md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Art & Crafts Club.md
+      - Visual and Performing Arts/Chinese Calligraphy & Brush Painting.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Angklung Ensemble.md
+      - Visual and Performing Arts/Guzheng Ensemble.md
+      - Visual and Performing Arts/Concert Band.md

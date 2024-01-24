@@ -1,0 +1,14 @@
+collections:
+  unwanted-pages:
+    output: true
+    order:
+      - Our Collaborations (COMING SOON)!.md
+      - Our MK @ Punggol.md
+      - Our KCare @ Punggol.md
+      - Community in Bloom.md
+      - Singapore Quality Class.md
+      - People Developer Standard.md
+      - Best Practice – Student All–Round Development.md
+      - Best Practice – Staff Wellbeing.md
+      - Unstructured Recess Play (URP).md
+      - CCA Recruitment Drive.md

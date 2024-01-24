@@ -1,0 +1,60 @@
+title: Punggol Primary School
+url: https://punggolpri.moe.edu.sg
+favicon: /images/punggol-primary-school.jpeg
+colors:
+  primary-color: "#4169e1"
+  secondary-color: "#222871"
+  media-colors:
+    - title: media-color-one
+      color: "#454592"
+    - title: media-color-two
+      color: "#454592"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: ""
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d1p6ft99o4a29p.amplifyapp.com
+prod: https://master.d1p6ft99o4a29p.amplifyapp.com
+shareicon: /images/punggol-primary-school.jpeg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: pps-news
+google_analytics_ga4: ""

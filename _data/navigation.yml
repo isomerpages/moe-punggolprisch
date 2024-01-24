@@ -1,0 +1,19 @@
+logo: /images/punggol-primary-school.jpeg
+links:
+  - title: Our Identity
+    collection: our-identity
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our Co Curriculum
+    collection: co-curriculum
+  - title: Our Pride
+    url: /distinctive-programme/distinctive-programme/
+    sublinks:
+      - title: Distinctive Programme
+        url: /distinctive-programme/distinctive-programme/
+      - title: Achievements and Affirmations
+        url: /achievements-and-affirmations/school-awards/school-green-award/
+  - title: Our Partners
+    collection: our-partners
+  - title: Our MK@Punggol
+    collection: our-mk

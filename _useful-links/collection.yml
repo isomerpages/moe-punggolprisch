@@ -1,0 +1,12 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - Students.md
+      - Parents/.keep
+      - Parents/General.md
+      - Parents/Covid–19.md
+      - Parents/P1 Registration.md
+      - Parents/Transfer & Admission Matters.md
+      - Parents/P6 Matters.md
+      - Staff.md

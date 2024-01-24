@@ -1,0 +1,20 @@
+collections:
+  our-mk:
+    output: true
+    order:
+      - Open House.md
+      - Our MK at Punggol/.keep
+      - Our MK at Punggol/Vision & Mission.md
+      - Our MK at Punggol/Operating Hours.md
+      - Our MK at Punggol/MK @ PL Team.md
+      - Our Learning Environment/.keep
+      - Our Learning Environment/MK Classroom.md
+      - Our Learning Environment/Outdoor Learning.md
+      - Our Curriculum and Programmes/.keep
+      - Our Curriculum and Programmes/Our Curriculum.md
+      - Our Curriculum and Programmes/Starlight Literacy Programme.md
+      - Our Curriculum and Programmes/HI light Programme.md
+      - Information for Parents/.keep
+      - Information for Parents/MK Uniforms.md
+      - Information for Parents/MK Fees.md
+      - Information for Parents/Forms.md

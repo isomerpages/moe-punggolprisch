@@ -1,0 +1,16 @@
+collections:
+  achievements-and-affirmations:
+    output: true
+    order:
+      - School Awards/School Green Award (Vanda Miss Joaquim Sustained
+        Achievement Award).md
+      - School Awards/Energy Efficiency National Partnership (EENP).md
+      - School Awards/WWF Eco–school Award.md
+      - School Awards/National Youth Upcycling Movement (NYUM).md
+      - School Awards/.keep
+      - Staff Awards.md
+      - CCA Achievements/2019.md
+      - CCA Achievements/.keep
+      - Competitions/2020.md
+      - Competitions/2019.md
+      - Competitions/.keep

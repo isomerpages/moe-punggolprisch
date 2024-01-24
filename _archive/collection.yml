@@ -1,0 +1,7 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Health & Fitness Club.md
+      - MoneySense Financial Literacy Programme.md
+      - School Canteen Service.md
