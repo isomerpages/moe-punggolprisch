@@ -10,15 +10,10 @@ description: ""
 </a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Click</strong>  <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><strong>&nbsp;to register for MK Open House 2024</strong>
-</p>
-</li>
-<li>
-<p><strong>Click </strong><a href="https://go.gov.sg/adayinmkpl" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> to view 'A Day at MK@Punggol'</strong>
+<p><strong>Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to register for MK Open House 2024</strong>
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/open_house.png">
 </div>
@@ -107,8 +102,16 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><a href="https://go.gov.sg/mkpunggoloh2024" rel="noopener noreferrer nofollow" target="_blank">Click here for more details.</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Click <a href="https://go.gov.sg/mkpunggoloh2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to view the briefing slides on MK &amp; KCare</strong>
 </p>
+</li>
+<li>
+<p><strong>Click <a href="https://go.gov.sg/adayinmkpl" rel="noopener noreferrer nofollow" target="_blank">here</a> to watch a video on 'A Day at MK@Punggol'</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Important to NOTE:</strong>
 </p>
