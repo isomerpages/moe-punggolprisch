@@ -18,9 +18,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/open_house.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Registration_Exercise_2024.jpg">
-</div>
 <h4><strong>Programme Outline</strong></h4>
 <table>
 <tbody>
@@ -116,6 +113,9 @@ description: ""
 </p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Registration_Exercise_2024.jpg">
+</div>
 <p></p>
 <p><strong>Important to NOTE:</strong>
 </p>
