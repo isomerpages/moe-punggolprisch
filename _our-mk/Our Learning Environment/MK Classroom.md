@@ -5,4 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Our Learning Environment
 ---
-<h4><a href="https://go.gov.sg/mkenviron" rel="noopener noreferrer nofollow" target="_blank">Click on the video to view the MK Classrooms</a></h4><p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Click <a href="https://go.gov.sg/mkenviron" rel="noopener noreferrer nofollow" target="_blank">here</a> to watch a video on the 'MK Classrooms"</strong>
+</p>
+</li>
+<li>
+<p><strong>Click <a href="https://go.gov.sg/adayinmkpl" rel="noopener noreferrer nofollow" target="_blank">here</a> to watch a video on "Day at MK@Punggol"</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
