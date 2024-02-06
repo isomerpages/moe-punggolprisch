@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>Is your child turning 5 years old in 2025?</strong></h4>
 <p>To find out more about the pre-school experience at MK, visit&nbsp;
-<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u>
+<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u> 
 </a>.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -14,7 +14,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Click </strong><a href="https://go.gov.sg/adayinmkpl" rel="noopener noreferrer nofollow" target="_blank">here </a><strong>to view 'A Day at MK@Punggol'</strong>
+<p><strong>Click </strong><a href="https://go.gov.sg/adayinmkpl" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> to view 'A Day at MK@Punggol'</strong>
 </p>
 </li>
 </ul>
