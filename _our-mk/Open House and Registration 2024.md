@@ -8,12 +8,6 @@ description: ""
 <p>To find out more about the pre-school experience at MK, visit&nbsp;
 <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/mk</u> 
 </a>.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to register for MK Open House 2024</strong>
-</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/open_house.png">
 </div>
