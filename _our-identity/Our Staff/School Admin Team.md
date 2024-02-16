@@ -25,7 +25,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Operations Manager (OM)</td>
-    <td>Mr Richards Tranley Peter</td>
+    <td>-</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">ICT Manager </td>
