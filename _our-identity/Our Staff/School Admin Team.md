@@ -25,7 +25,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Operations Manager (OM)</td>
-    <td>Mr Richards Tranley Peter</td>
+    <td>-</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">ICT Manager </td>
@@ -103,15 +103,13 @@ variant: markdown
 		<td>Mdm Ammaniammal d/o Adimulam</td>
 	</tr>
   <tr>
-    <td rowspan="3" style="background-color:ghostwhite">Security Officer</td>
+    <td rowspan="2" style="background-color:ghostwhite">Security Officer</td>
 		<td>Mr Derek Lee</td>
 		</tr>
 	<tr>
 		<td>Mr Rajascharan</td>
 	</tr>
-	<tr>
-		<td>Mr Clement Franklin</td>
-	</tr>
+
   <tr>
     <td style="background-color:ghostwhite">Contract Cleaners</td>
     <td>(7)</td>
