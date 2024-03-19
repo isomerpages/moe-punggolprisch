@@ -25,7 +25,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Teamwork</td>
     <td>Mdm Ng Mui Keng Jeannie</td>
-    <td>Mdm Shiamala d/o Ramyah</td>
+    <td>Mdm Lao Ngee Ping Joan</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Affection</td>
@@ -35,7 +35,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Responsibility</td>
     <td>Mdm Chua Yen Ling Rachel</td>
-    <td>Mdm Lao Ngee Ping Joan</td>
+    <td>Mdm Shiamala d/o Ramyah</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Joy</td>
@@ -120,7 +120,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Affection</td>
     <td>Mdm Tan Hui Koon Ivy</td>
-    <td>Mdm Mak Mei Woon</td>
+    <td>Mdm Tow Poh Huay Adeline</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Responsibility</td>
@@ -130,7 +130,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Joy</td>
     <td>Mdm Denise Nicole Tay</td>
-    <td>Mr Tai Yean Hwee</td>
+    <td>Mdm Khuan Jiayan</td>
   </tr>
 </tbody>
 </table>
@@ -160,7 +160,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Affection</td>
     <td>Mdm Islina Bte Ismail</td>
-    <td>Mdm Tow Poh Huay Adeline</td>
+    <td>Mdm Mak Mei Woon</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Responsibility</td>
@@ -210,7 +210,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Joy</td>
     <td>Mdm Subhaletchmi</td>
-    <td>Mdm Teou Lay Yen</td>
+    <td>Mdm Malini Kumarasamy</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Innovation</td>
@@ -260,7 +260,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">6 Innovation</td>
     <td>Mdm Nurulhuda Bte Abdul Samat</td>
-    <td>Mr Koh Hoon Hwee Vincent</td>
+    <td>Mr Tai Yean Hwee</td>
   </tr>
 </tbody>
 </table>
