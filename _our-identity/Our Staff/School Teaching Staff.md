@@ -35,7 +35,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Responsibility</td>
     <td>Mdm Chua Yen Ling Rachel</td>
-    <td>Mdm Shiamala d/o Ramyah</td>
+    <td>Ms Teng Shao Wen Tricia</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Joy</td>
@@ -367,6 +367,7 @@ variant: markdown
 	  <td rowspan="1" style="background-color:ghostwhite">MUSIC</td>
 		<td>Mdm Siti Aishah Bte Abdul Aziz</td>
 		<td>Ms Jacqueline Khng</td>
+		<td>Ms Teng Shao Wen, Tricia</td>
 		<td></td>
   </tr>
 </tbody>
