@@ -50,4 +50,15 @@ sections:
       title: PPS News
       subtitle: Our Latest Updates
       button: View All
+  - infopic:
+      title: Our Pride (PPS Alumni)
+      subtitle: Punggol Primary School
+      id: infopic
+      description: "As we continue to cherish vibrant memories during our time at
+        Punggol Primary School, we are thrilled to invite you to join our
+        official Alumni Group. "
+      button: Fill up the form now!!!
+      url: https://forms.gle/vhzWc57m9cCQBf676
+      image: /images/Photos/2024/alumni2024.jpg
+      alt: Image alt text
 ---
