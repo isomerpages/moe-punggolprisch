@@ -54,6 +54,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<h2>Be Part of PPS!</h2>
+<h3>Experience the Joy of Learning</h3>
 <table>
 <tbody>
 <tr>
