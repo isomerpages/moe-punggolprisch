@@ -17,10 +17,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Photos/2024/PE.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/WJSMw3f-UR8"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Photos/2024/PE.png"></a>
 </th>
 </tr>
 <tr>
@@ -35,10 +32,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MainTitle.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Science.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/7BFkcdmx9gc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Science.png"></a>
 </td>
 </tr>
 <tr>
@@ -55,10 +49,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MTL.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/WC_vErVqgJM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MTL.png"></a>
 </td>
 </tr>
 </tbody>
