@@ -54,8 +54,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3></h3>
 <table>
 <tbody>
 <tr>
