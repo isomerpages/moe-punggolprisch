@@ -55,31 +55,27 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h2>Be Part of PPS!</h2>
-<h3>Experience the Joy of Learning</h3>
+<h3></h3>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<h3><strong>Be Part of PPS!</strong></h3>
+<h3>Experience the Joy of Learning</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCIENCE</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7BFkcdmx9gc?si=v5GcjT4H8XY-9GgA"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WC_vErVqgJM?si=44-J_pnV0RTR8gyt"></iframe>
-</div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kK5OjISXk2c?si=kAU0oThqyMqxSEF7"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0BnL727sH5k?si=fYhUoahE2MbJ7wsm"></iframe>
 </div>
 </td>
 </tr>
@@ -89,6 +85,22 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVUxI3neOQ0?si=jZ0Lfz_H0ei0jZd_"></iframe>
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WC_vErVqgJM?si=44-J_pnV0RTR8gyt"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0BnL727sH5k?si=fYhUoahE2MbJ7wsm"></iframe>
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJSMw3f-UR8?si=hY6idzWIvVtv0RAd"></iframe>
@@ -101,6 +113,8 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R4roMXr1IJM?si=xA8mpLWSGOHjxO4P"></iframe>
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eOz_Av5halM?si=Te6qo-_Gs-VWbfjG"></iframe>
