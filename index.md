@@ -21,6 +21,13 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS 2024 E-Open House
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
       id: infopic
