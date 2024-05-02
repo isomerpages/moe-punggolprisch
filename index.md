@@ -29,6 +29,7 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/Photos/2024/main_page.png
+      url: /e-openhouse/
   - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
