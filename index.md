@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Come and experience our joy of learning as you embark on our e-open
         house.
-      button: Button Text
+      button: Click here
       alt: Image alt text
       image: /images/Photos/2024/main_page.png
       url: /e-openhouse/
