@@ -56,26 +56,48 @@ description: ""
 </table>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/eOz_Av5halM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Aesthetics" src="/images/Photos/2024/Aesthetic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Music &amp; Arts</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/eOz_Av5halM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Aesthetics" src="/images/Photos/2024/12.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Music &amp; Arts</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/R4roMXr1IJM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT Programmes" src="/images/Photos/2024/ICT.png">
+<img style="width: 100%" height="auto" width="100%" alt="ICT" src="/images/Photos/2024/6.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ICT Programmes</div>
+<div class="isomer-card-title">Information &amp; Communications Technology</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/WJSMw3f-UR8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PE Programmes" src="/images/Photos/2024/PE.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PE Programmes</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/WJSMw3f-UR8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PE" src="/images/Photos/2024/5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Physical Education</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/0BnL727sH5k" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/Photos/2024/CCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/Photos/2024/9.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Character &amp; Citizenship Education</div>
+<div class="isomer-card-link">Click here to view the video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/7BFkcdmx9gc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science" src="/images/Photos/2024/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/WVUxI3neOQ0" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Math" src="/images/Photos/2024/2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mathematics</div>
+<div class="isomer-card-link">Click here to view the video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/kK5OjISXk2c" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English" src="/images/Photos/2024/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/WC_vErVqgJM" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL" src="/images/Photos/2024/13.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mother Tongue Language</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
 </a>
@@ -91,7 +113,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCIENCE</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7BFkcdmx9gc?si=v5GcjT4H8XY-9GgA"></iframe>
 </div>
@@ -99,7 +120,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kK5OjISXk2c?si=kAU0oThqyMqxSEF7"></iframe>
 </div>
@@ -135,10 +155,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Photos/2024/Screenshot_2024_05_02_162206.png">
-</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R4roMXr1IJM?si=xA8mpLWSGOHjxO4P"></iframe>
 </div>
