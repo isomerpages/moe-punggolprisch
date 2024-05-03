@@ -4,7 +4,12 @@ permalink: /e-openhouse/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,10 +48,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/English.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/KJv4h83SQMY"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/English.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/WC_vErVqgJM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MTL.png"></a>
@@ -67,7 +69,7 @@ description: ""
 <div class="isomer-card-title">Character &amp; Citizenship Education</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/kK5OjISXk2c" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English" src="/images/Photos/2024/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/KJv4h83SQMY" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English" src="/images/Photos/2024/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Language</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/R4roMXr1IJM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -82,7 +84,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/WC_vErVqgJM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL" src="/images/Photos/2024/13.png">
+<img style="width: 100%" height="auto" width="100%" alt="MTL" src="/images/Photos/2024/12.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -103,7 +105,10 @@ description: ""
 </a>
 </div>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -121,7 +126,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kK5OjISXk2c?si=kAU0oThqyMqxSEF7"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KJv4h83SQMY?si=JoTkpVo2NMdySZcX"></iframe>
 </div>
 </td>
 </tr>
