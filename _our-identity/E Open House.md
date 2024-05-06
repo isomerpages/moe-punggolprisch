@@ -181,11 +181,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/eng.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KJv4h83SQMY?si=JoTkpVo2NMdySZcX"></iframe>
 </div>
@@ -193,6 +191,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ma.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVUxI3neOQ0?si=jZ0Lfz_H0ei0jZd_"></iframe>
 </div>
@@ -200,6 +201,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/mtl.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WC_vErVqgJM?si=44-J_pnV0RTR8gyt"></iframe>
 </div>
@@ -207,6 +211,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/cce.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0BnL727sH5k?si=fYhUoahE2MbJ7wsm"></iframe>
 </div>
@@ -214,6 +221,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/pe.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJSMw3f-UR8?si=hY6idzWIvVtv0RAd"></iframe>
 </div>
@@ -221,6 +231,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ict.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R4roMXr1IJM?si=xA8mpLWSGOHjxO4P"></iframe>
 </div>
@@ -228,6 +241,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ae.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eOz_Av5halM?si=Te6qo-_Gs-VWbfjG"></iframe>
 </div>
