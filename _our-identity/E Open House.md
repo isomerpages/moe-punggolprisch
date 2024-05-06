@@ -157,14 +157,14 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/WJSMw3f-UR8" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE" src="/images/Photos/2024/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="PE" src="/images/Photos/2024/4.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Physical Education</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/7BFkcdmx9gc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science" src="/images/Photos/2024/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/7BFkcdmx9gc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science" src="/images/Photos/2024/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science &amp; Greenovation</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 </div>
 <p></p>
 <p><strong>DESIGN #4</strong>
@@ -186,10 +186,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Mother_Tongue_Language.png">
-</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KJv4h83SQMY?si=JoTkpVo2NMdySZcX"></iframe>
 </div>
