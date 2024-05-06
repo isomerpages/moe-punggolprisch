@@ -176,11 +176,19 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>PPS E-OPEN HOUSE</strong>
+</p>
+</blockquote>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>ENGLISH</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KJv4h83SQMY?si=JoTkpVo2NMdySZcX"></iframe>
 </div>
@@ -188,6 +196,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>MATHEMATICS</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVUxI3neOQ0?si=jZ0Lfz_H0ei0jZd_"></iframe>
 </div>
@@ -195,6 +207,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>MOTHER TONGUE LANGUAGE</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WC_vErVqgJM?si=44-J_pnV0RTR8gyt"></iframe>
 </div>
@@ -202,6 +218,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>CHARACTER &amp; CITIZENSHIP EDUCATION</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0BnL727sH5k?si=fYhUoahE2MbJ7wsm"></iframe>
 </div>
@@ -209,6 +229,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>PHYSICAL EDUCATION</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJSMw3f-UR8?si=hY6idzWIvVtv0RAd"></iframe>
 </div>
@@ -216,6 +240,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>INFORMATION &amp; COMMUNICATION TECHNOLOGY</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R4roMXr1IJM?si=xA8mpLWSGOHjxO4P"></iframe>
 </div>
@@ -223,6 +251,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
+<p><strong>AESTHETICS</strong>
+</p>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eOz_Av5halM?si=Te6qo-_Gs-VWbfjG"></iframe>
 </div>
