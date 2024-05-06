@@ -112,7 +112,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Science &amp; Greenovation</div>
+<div class="isomer-card-title">Science &amp; GreeNovation</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
 </a>
@@ -164,7 +164,7 @@ description: ""
 <div class="isomer-card-title">Physical Education</div>
 <div class="isomer-card-link">Click here to view the video</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/7BFkcdmx9gc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science" src="/images/Photos/2024/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science &amp; Greenovation</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/7BFkcdmx9gc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science" src="/images/Photos/2024/2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science &amp; GreeNovation</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 </div>
 <p></p>
 <p><strong>DESIGN #4</strong>
