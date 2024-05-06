@@ -128,7 +128,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>PPS E-OPEN HOUSE</strong>
+<p><strong>Be Part of PPS! Experiencing the Joy of Learning.</strong>
 </p>
 </blockquote>
 <p></p>
@@ -137,7 +137,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>ENGLISH</strong>
+<p><strong>English</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -148,7 +148,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>MATHEMATICS</strong>
+<p><strong>Mathematics</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -159,7 +159,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>MOTHER TONGUE LANGUAGE</strong>
+<p><strong>Mother Tongue Language</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -170,7 +170,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>CHARACTER &amp; CITIZENSHIP EDUCATION</strong>
+<p><strong>Character &amp; Citizenship Education</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -181,7 +181,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>PHYSICAL EDUCATION</strong>
+<p><strong>Physical Education</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -192,7 +192,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>INFORMATION &amp; COMMUNICATION TECHNOLOGY</strong>
+<p><strong>Information &amp; Communication Technology</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
@@ -203,7 +203,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>AESTHETICS</strong>
+<p><strong>Aesthetic</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
