@@ -182,7 +182,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/eng.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Photos/2024/eng.png">
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KJv4h83SQMY?si=JoTkpVo2NMdySZcX"></iframe>
@@ -241,17 +241,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ae.png">
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eOz_Av5halM?si=Te6qo-_Gs-VWbfjG"></iframe>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
