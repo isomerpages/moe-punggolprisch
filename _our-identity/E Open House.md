@@ -18,36 +18,24 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/eOz_Av5halM"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Photos/2024/Aesthetic.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ICT.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/R4roMXr1IJM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/ICT.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/WJSMw3f-UR8"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Photos/2024/PE.png"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/CCE.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/0BnL727sH5k"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/CCE.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MainTitle.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/yqfvi2Sss90"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/MainTitle.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/7BFkcdmx9gc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Science.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Maths.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/WVUxI3neOQ0"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/Maths.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/KJv4h83SQMY"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photos/2024/English.png"></a>
@@ -61,7 +49,7 @@ description: ""
 <p></p>
 <p><strong>DESIGN #2</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/yqfvi2Sss90" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House 2024</div><div class="isomer-card-link">Click here to </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/yqfvi2Sss90" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House 2024</div><div class="isomer-card-link">Click here to</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/eOz_Av5halM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
