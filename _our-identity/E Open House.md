@@ -49,7 +49,7 @@ description: ""
 <p></p>
 <p><strong>DESIGN #2</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/yqfvi2Sss90" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House 2024</div><div class="isomer-card-link">Click here to</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/yqfvi2Sss90" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House 2024</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/eOz_Av5halM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -183,7 +183,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong>Aesthetic</strong>
+<p><strong>Aesthetics</strong>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
