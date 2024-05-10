@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide3.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="mailto:mk_punggol@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide3.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Slide4.png">
