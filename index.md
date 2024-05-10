@@ -42,15 +42,6 @@ sections:
       image: /images/Photos/2024/alumni2024.jpg
       alt: Image alt text
   - infopic:
-      title: MK Open House 2024
-      subtitle: MK @ Punggol
-      id: infopic
-      description: Come join us for a Welcome Address & Information Session.
-      button: CLICK HERE
-      url: /our-mk/openhouse/
-      image: /images/MK/open_house.png
-      alt: Image alt text
-  - infopic:
       title: PPS E-Open House
       subtitle: PUNGGOL PRIMARY SCHOOL
       description: Come and experience our joy of learning as you embark on our e-open
