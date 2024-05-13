@@ -5,13 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
-<p></p><a class="isomer-image-wrapper" href="mailto:mk_punggol@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Welcome.png"></a>
+<a class="isomer-image-wrapper" href="mailto:mk_punggol@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Welcome.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning_begins.png">
 </div>
 <p></p>
-<h4><strong>Curious about the MK Experience?</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/curious_header.png">
+</div>
 <p><strong>Check out some of the videos below to find out more!</strong>
 </p>
 <ul data-tight="true" class="tight">
