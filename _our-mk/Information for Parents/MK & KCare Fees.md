@@ -39,6 +39,14 @@ programmes such as field trips.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Singapore Citizen</strong>
 </p>
@@ -56,6 +64,14 @@ programmes such as field trips.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$353.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
