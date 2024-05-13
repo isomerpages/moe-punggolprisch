@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - Our MK at Punggol/Vision & Mission & Values.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Welcome.md
       - Our MK at Punggol/Contact Us.md
