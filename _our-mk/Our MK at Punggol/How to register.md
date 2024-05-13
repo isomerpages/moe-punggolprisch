@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
-<h4><strong>How to register?</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/register_header.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Open to Singapore Citizen and Permanent Resident children born between
