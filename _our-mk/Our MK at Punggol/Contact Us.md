@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
-<h4><strong>Contact Us</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/contact_header.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>For more information,&nbsp;please&nbsp;contact us at&nbsp;6214 0691,&nbsp;email&nbsp;us
