@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Vision & Mission.md
       - Open House and Registration 2024.md
       - Health & Fitness Club.md
       - MoneySense Financial Literacy Programme.md
