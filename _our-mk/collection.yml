@@ -2,7 +2,6 @@ collections:
   our-mk:
     output: true
     order:
-      - Our Collaborations.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Welcome.md
       - Our MK at Punggol/Contact Us.md
@@ -25,3 +24,4 @@ collections:
       - Information for Parents/MK Uniforms.md
       - Information for Parents/MK & KCare Fees.md
       - Information for Parents/Forms.md
+      - Our Collaborations.md
