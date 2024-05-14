@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Operating Hours.md
       - Vision & Mission.md
       - Open House and Registration 2024.md
       - Health & Fitness Club.md
