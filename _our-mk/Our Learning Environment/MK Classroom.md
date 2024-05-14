@@ -16,6 +16,10 @@ third_nav_title: Our Learning Environment
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Headers/h_classroom.png">
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="469" width="760" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRi1t02_M35lyZ9p_UZEq79jpznJRDzHcDU3iqQqB03S0TAF8eS_l26F89aZA_8bZjw1W416zMUD9xf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
