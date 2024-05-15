@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK Headers/h_register.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Open to Singapore Citizen and Permanent Resident children born between
