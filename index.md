@@ -21,6 +21,16 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS E-Open House
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      description: Come and experience our joy of learning as you embark on our e-open
+        house.
+      button: Click here
+      alt: Image alt text
+      image: /images/Photos/2024/main_page.png
+      url: /e-openhouse/
+  - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
       id: infopic
@@ -31,24 +41,6 @@ sections:
       url: https://forms.gle/vhzWc57m9cCQBf676
       image: /images/Photos/2024/alumni2024.jpg
       alt: Image alt text
-  - infopic:
-      title: MK Open House 2024
-      subtitle: MK @ Punggol
-      id: infopic
-      description: Come join us for a Welcome Address & Information Session.
-      button: CLICK HERE
-      url: /our-mk/openhouse/
-      image: /images/MK/open_house.png
-      alt: Image alt text
-  - infopic:
-      title: PPS E-Open House
-      subtitle: PUNGGOL PRIMARY SCHOOL
-      description: Come and experience our joy of learning as you embark on our e-open
-        house.
-      button: CLICK HERE
-      url: https://drive.google.com/file/d/1JEN98j6p3YAvZ8mzwxMQWpJY2k7zSibJ/view
-      image: /images/eopen_house2.JPG
-      alt: E-Open House
   - infopic:
       title: PPS Growth Mindset
       subtitle: PUNGGOL PRIMARY SCHOOL
