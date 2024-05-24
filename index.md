@@ -16,7 +16,7 @@ sections:
           url: /useful-links/students
         - title: Our MK@Punggol
           description: ""
-          url: https://punggolpri.moe.edu.sg/our-mk-at-punggol
+          url: https://punggolpri.moe.edu.sg/welcome
       background: /images/herobanner2.png
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL

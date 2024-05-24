@@ -1,6 +1,6 @@
 ---
 title: Welcome
-permalink: /our-mk-at-punggol/
+permalink: /welcome/
 variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
