@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /our-mk/forms/
+permalink: /our-mk/information-for-parents/forms/
 description: ""
 third_nav_title: Information for Parents
 variant: markdown

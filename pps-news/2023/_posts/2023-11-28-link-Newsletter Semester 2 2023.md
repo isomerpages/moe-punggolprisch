@@ -1,5 +1,5 @@
 ---
-title: Newsletter 2023 Semester 2
+title: Newsletter Semester 2 2023
 date: 2023-11-28
 layout: link
 description: ""

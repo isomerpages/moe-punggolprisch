@@ -1,6 +1,6 @@
 ---
 title: About KCare
-permalink: /about-kcare/
+permalink: /our-mk/about-kcare/
 variant: tiptap
 description: ""
 ---

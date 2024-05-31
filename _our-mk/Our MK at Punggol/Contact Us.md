@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us/
+permalink: /our-mk/our-mk-at-punggol/contact-us/
 variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
