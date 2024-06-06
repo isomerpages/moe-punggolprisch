@@ -155,7 +155,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Teamwork</td>
     <td>Mdm Oh Ling Fang</td>
-    <td>Mdm Norsuhana Bte Sahmat</td>
+    <td>-</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Affection</td>
@@ -308,15 +308,10 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr style="line-height:1">
-     <td rowspan="2" style="background-color:ghostwhite">MALAY</td>
-		<td>Ms Hairani Bte Asri</td>
-		<td>Mdm Norsuhana Bte Sahmat</td>
+     <td style="background-color:ghostwhite">MALAY</td>
 		<td>Mdm Norwati Bte Sulaiman</td>
-  </tr>
-	<tr style="line-height:1">
+		<td>Ms Hairani Bte Asri</td>
 		<td>Mdm Mahirah Bte Mohd Thoimi</td>
-		<td></td>
-		<td></td>
   </tr>
 	<tr style="line-height:1">
 	  <td rowspan="2" style="border:0px; background-color:ghostwhite">TAMIL</td>
@@ -352,8 +347,8 @@ variant: markdown
 	</tr>
 	<tr style="line-height:1">
 		<td>Mr Cheng Guo Wei, Derek</td>
-		<td></td>
-		<td></td>
+		<td>Mr Muhammad Fadly Bin Wahab</td>
+		<td>Ms Jillian Too Hui Li</td>
   </tr>
 		<tr style="line-height:1">
 	</tr>
