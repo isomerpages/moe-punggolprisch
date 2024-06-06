@@ -25,7 +25,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Operations Manager (OM)</td>
-    <td>-</td>
+    <td>Mr Abdul Halim bin Latif</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">ICT Manager </td>
@@ -85,7 +85,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>Ms Noraishah Bte Amin</td>
+    <td>Mr Daicamat Dennis Castillo</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
