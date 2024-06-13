@@ -2,7 +2,6 @@ collections:
   unwanted-pages:
     output: true
     order:
-      - Our MK @ Punggol.md
       - Our KCare @ Punggol.md
       - Community in Bloom.md
       - Singapore Quality Class.md
