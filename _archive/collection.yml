@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Our KCare @ Punggol.md
       - Our MK @ Punggol.md
       - Operating Hours.md
       - Vision & Mission.md
