@@ -30,7 +30,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Affection</td>
     <td>Mdm Nor Hidayah Bte Taib</td>
-    <td>Mrs Heng-Tan Siow Leng</td>
+    <td>Mrs Heng-Tan Siow Leng, Ms Jillian Too Hui Li</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Responsibility</td>
@@ -45,7 +45,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">1 Innovation</td>
     <td>Ms Annisa Bte Mohamed Maideen</td>
-    <td>Mdm Koh Bao Zhi</td>
+    <td>Mdm Koh Bao Zhi, Mr Muhammad Fadly Bin Wahab</td>
   </tr>
 </tbody>
 </table>
@@ -125,7 +125,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Responsibility</td>
     <td>Mdm Satvinder Kaur</td>
-    <td>Mr Quek Lye Huat Cyril</td>
+    <td>Mdm Shiamala d/o Ramyah, Mr Quek Lye Huat Cyril</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Joy</td>
@@ -155,7 +155,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Teamwork</td>
     <td>Mdm Oh Ling Fang</td>
-    <td>-</td>
+    <td>Mdm Mahirah Bte Mohd Thoimi</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Affection</td>
@@ -249,7 +249,7 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">6 Responsibility</td>
-    <td>Mdm Koh Chee Ting</td>
+    <td>Ms Anne Poh Bee Leng</td>
     <td>Mdm Li Yuan</td>
   </tr>
   <tr style="line-height:1">
