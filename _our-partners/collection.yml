@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - School Canteen Service.md
       - Parent Support Group.md
       - School Advisory Committee (SAC).md
