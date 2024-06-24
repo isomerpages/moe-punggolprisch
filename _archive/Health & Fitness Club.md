@@ -1,7 +1,8 @@
 ---
 title: Health & Fitness Club
-permalink: /cca/Physical-Sports/health-and-fitness-club/
+permalink: /archive/cca/physical-sports/health-and-fitness-club/
 description: ""
+variant: tiptap
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>

@@ -1,7 +1,8 @@
 ---
 title: Our MK @ Punggol
-permalink: /our-mk-at-punggol/
+permalink: /archive/our-mk-at-punggol/
 description: ""
+variant: tiptap
 ---
 <img src="/images/MKLogo.jpeg" style="width:35%">
 

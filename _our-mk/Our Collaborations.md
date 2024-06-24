@@ -1,6 +1,6 @@
 ---
 title: Our Collaborations
-permalink: /our-mk/our-collaborations/
+permalink: /our-mk/our-collab/
 variant: tiptap
 description: ""
 ---

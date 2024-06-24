@@ -1,6 +1,6 @@
 ---
 title: Open House and Registration 2024
-permalink: /our-mk/openhouse/
+permalink: /archive/our-mk/openhouse/
 variant: tiptap
 description: ""
 ---

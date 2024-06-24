@@ -25,7 +25,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Operations Manager (OM)</td>
-    <td>-</td>
+    <td>Mr Abdul Halim bin Latif</td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">ICT Manager </td>
@@ -49,7 +49,7 @@ variant: markdown
 		<td>Mdm Sharifah Badariah Binte Syed Abdullah Alsagoff</td>
 	</tr>
   <tr>
-		<td rowspan="4" style="background-color:ghostwhite">Operations Support Officer (OSO)</td>
+		<td rowspan="5" style="background-color:ghostwhite">Operations Support Officer (OSO)</td>
     <td>Mdm Lim Kwee Ying</td>
   </tr>
   <tr>
@@ -60,6 +60,9 @@ variant: markdown
   </tr>
   <tr>
     <td>Mdm Kalarainee d/o Rajalingam</td>
+  </tr>
+		  <tr>
+    <td>Mr Fong Ming Onn</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>
@@ -85,7 +88,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>Ms Noraishah Bte Amin</td>
+    <td>Mr Daicamat Dennis Castillo</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>

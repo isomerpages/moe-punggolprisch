@@ -1,6 +1,6 @@
 ---
 title: Vision & Mission
-permalink: /our-mk/our-mk-at-punggol/our-vision-mission/
+permalink: /archive/our-mk/our-mk-at-punggol/our-vision-mission/
 variant: tiptap
 description: ""
 ---

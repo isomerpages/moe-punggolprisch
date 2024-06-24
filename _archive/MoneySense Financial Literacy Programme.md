@@ -1,7 +1,8 @@
 ---
 title: MoneySense Financial Literacy Programme
-permalink: /useful-links/parents/moneysense/
+permalink: /archive/useful-links/parents/moneysense/
 description: ""
+variant: tiptap
 ---
 <p style="font-family:arial; font-size:18px; font-weight:bold; text-align:justify">Invitation to attend MoneySense for Your Child (For Parents of Primary and Secondary School goers) programmes</p>
 
