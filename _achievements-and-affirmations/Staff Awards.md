@@ -14,7 +14,7 @@ variant: markdown
 					<tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
 				<td width="35%">MOE Service Excellence Award (Gold)</td>
 				<td width="35%">MOE Service Excellence Award (Silver)</td>
-						<td width="30%"></td>
+				<td width="30%">National Day Awards: <br>The Commendation Medal</td>
 				</tr>
   <tr>
     <td><ol>
@@ -33,7 +33,47 @@ variant: markdown
 			<li style="line-height:1">Mdm Norashikin Bte Ishak</li>
 			<li style="line-height:1">Mdm Rubiah Bte Mahfol</li></ol>
 		</td>
-							<td></td>
+							<td><ol>
+			<li style="line-height:1">Ms Siti Aishah</li>
+			</ol></td>
+  </tr>
+</tbody>
+</table>
+				<table>
+				<tbody style="font-size:17px">
+					<tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
+				<td width="35%">Associate of AST Award</td>
+				<td width="35%">Anugerah Arif Budiman</td>
+				<td width="30%">Long Service Award Boy Brigade (20 Years)</td>
+				</tr>
+  <tr>
+    <td><ol>
+			<li style="line-height:1">Mdm Nurulhuda Bte Samat</li>
+		</ol></td>
+    <td><ol>
+			<li style="line-height:1">Mdm Hairani Bte Asri</li></ol>
+		</td>
+							<td><ol>
+			<li style="line-height:1">Mrs Kelly Lye</li>
+			</ol></td>
+  </tr>
+</tbody>
+</table>
+				<table>
+				<tbody style="font-size:17px">
+					<tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
+				<td width="35%">Covid Resilience Medal</td>
+				<td width="35%"></td>
+				<td width="30%"></td>
+				</tr>
+  <tr>
+    <td><ol>
+			<li style="line-height:1">Mr Khamilnullah B Abd Hamid</li>
+			<li style="line-height:1">Mr Eddie Heng Chai Boon</li>
+			<li style="line-height:1">Ms Usha Rani Henry</li>
+		</ol></td>
+    <td></td>
+		<td></td>
   </tr>
 </tbody>
 </table>
