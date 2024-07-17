@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Staff Awards.md
       - CCA Achievement (ARCHIVE)/2019.md
       - CCA Achievement (ARCHIVE)/.keep
       - Our MK @ Punggol.md
