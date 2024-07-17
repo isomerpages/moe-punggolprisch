@@ -2,7 +2,7 @@ collections:
   archive:
     output: true
     order:
-      - CCA Achievement.md
+      - CCA Achievement ARCHIVE.md
       - Our MK @ Punggol.md
       - Operating Hours.md
       - Vision & Mission.md
