@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/Visual-and-Performing-Arts/concert-band/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -28,7 +29,7 @@ third_nav_title: Visual and Performing Arts
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify">2018 SYF Accomplishment</td>
+			<td style="text-align:justify"></td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
