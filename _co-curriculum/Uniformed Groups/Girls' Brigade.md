@@ -39,9 +39,6 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify"></td>
-	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 
