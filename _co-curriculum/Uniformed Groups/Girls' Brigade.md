@@ -40,8 +40,7 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify"><ul><li>2023 - National Company Award - Bronze Award</li>
-				<li>9 Gold and 1 Silver Company Awards since 2011</li></ul></td>
+			<td style="text-align:justify"></td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
