@@ -39,14 +39,6 @@ variant: markdown
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
 			<td style="text-align:justify">
-				<b>National Hockey Championships</b>
-				<br><b> 2019</b><br>    
-							Senior Boys  Champion   <br>
-							Senior Girls  Champion<br>   
-							Junior Girls  Champion<br>
-							Junior Boys  3rd<br><br>
-						<b>National School Games Hockey</b><br>
-						Champions for both Senior Division Girls and Senior Division Boys
 			<center><iframe style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRdhSNkhEeDPTJv07HajsiicOltBCsRY9CYzusS4ksRqHJVyDJ-Vd9jfYHvGthdFgMEWYtwvsBmU2SW/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
 			</td>
 				</tr>
