@@ -29,9 +29,6 @@ variant: markdown
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-		<td style="text-align:justify"></td>
-	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vTCD7dH0ElbbiPV79L1TeIR7RCjSLCwVUMLQ8rfIs0kw6BTDw6YavaAilCM8lNLKcgvYx6ePGs5rsMM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
