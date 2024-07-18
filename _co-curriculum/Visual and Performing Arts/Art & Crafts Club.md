@@ -29,8 +29,7 @@ variant: markdown
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify"><b>SYF Art and Craft Exhibition 2019</b><br>
-				Certificate of Participation</td>
+			<td style="text-align:justify"></td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
