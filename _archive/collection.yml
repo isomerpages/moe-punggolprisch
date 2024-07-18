@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - School Awards/National Youth Upcycling Movement (NYUM).md
       - School Awards/.keep
       - Competitions (Our Pride)/2019.md
       - Competitions (Our Pride)/2020.md
