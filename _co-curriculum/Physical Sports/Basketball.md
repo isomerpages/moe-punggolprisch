@@ -30,8 +30,7 @@ variant: markdown
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-		<td style="text-align:justify"><div style="text-align:justify">South Zone championships 2019<br>Senior Boys - Preliminary rounds</div><br>
-<div style="text-align:justify">National championships 2019 <br>Junior Boys - Tiered rounds 2nd runner -up</div></td>
+		<td style="text-align:justify"><div style="text-align:justify"></div></td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
