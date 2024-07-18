@@ -29,9 +29,7 @@ variant: markdown
 		</td>
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify">2019 - Silver Honour Roll<br>
-2018 - Silver Honour Roll  
-			</td>
+			<td style="text-align:justify"></td>
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
