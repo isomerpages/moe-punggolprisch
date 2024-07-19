@@ -2,7 +2,6 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
-      - 2022.md
       - 2023/.keep
       - 2024/.keep
       - School Awards/.keep
