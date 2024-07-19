@@ -5,3 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2022"
 ---
+<div class="iframe-wrapper">
+<iframe height="1661" width="1152" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRlMIB2wKiODVQJkWiqk5csWasCngN_bSADmkRDhsZiUqaGWUXvDPw5n9ioLe2WjBRRbX5BK2ByHv7/embed?start=false&amp;loop=false&amp;delayms=7500"></iframe>
+</div>
+<p></p>
