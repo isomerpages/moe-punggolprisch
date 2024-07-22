@@ -31,5 +31,4 @@ variant: markdown
 		<tr><td></td></tr>
 </tbody></table>
 
-
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vQV-X7doelXtP-eIZfu097ksSEUw5olvPMJkM3HP_rJZwPKCBSaKwTR1AUciozLffALk5fSjuhmgCHf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<img src="/images/CCA/angklung.jpg" style="border:1px solid black; padding:5px; width:100%">
