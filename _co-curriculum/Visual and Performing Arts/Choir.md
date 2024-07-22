@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-<img src="/images/CCA/choir.jpg" style="border:1px solid black; padding:5px; width:100%">
-<br>
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>A joyful and confident community of learners that are passionate about singing and performing.</td>
@@ -33,3 +31,5 @@ variant: markdown
 	<tr><td></td></tr>
 </tbody></table>
 
+<img src="/images/CCA/choir.jpg" style="border:1px solid black; padding:5px; width:100%">
+<br>
