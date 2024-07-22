@@ -31,6 +31,5 @@ variant: markdown
 		<tr><td></td></tr>
 </tbody></table>
 
-![](/images/CCA/guzheng.jpg)
 
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQwbRXmpgAY0dJktMRNL-OvsDqMbq4imhbSLNt5lli8SvlQhUC648eLxJkp4dfRSVwthLSE1lXEoE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<img src="/images/CCA/guzheng.jpg" style="border:1px solid black; padding:5px; width:100%">
