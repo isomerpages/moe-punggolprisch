@@ -31,4 +31,4 @@ third_nav_title: Visual and Performing Arts
 		<tr><td></td></tr>
 </tbody></table>
 
-![](/images/CCA/Dance.jpg)
+<img src="/images/CCA/Dance.jpg" style="border:1px solid black; padding:5px; width:80%">
