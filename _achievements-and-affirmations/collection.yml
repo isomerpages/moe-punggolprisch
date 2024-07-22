@@ -2,6 +2,7 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - Archives/.keep
       - 2024/.keep
       - 2024/Student Achievements.md
       - 2023/.keep
