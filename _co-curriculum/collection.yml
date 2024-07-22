@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - International Dance.md
       - Co Curricular Activities (CCA) Programme.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Robotics.md
