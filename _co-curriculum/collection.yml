@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - International Dance.md
       - Co Curricular Activities (CCA) Programme.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Robotics.md
@@ -23,3 +22,4 @@ collections:
       - Visual and Performing Arts/Angklung Ensemble.md
       - Visual and Performing Arts/Guzheng Ensemble.md
       - Visual and Performing Arts/Concert Band.md
+      - International Dance.md
