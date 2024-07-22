@@ -2,14 +2,14 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
-      - 2022/Staff Achievements.md
-      - 2022/Student Achievements.md
-      - 2022/.keep
+      - 2024/.keep
+      - 2024/Student Achievements.md
+      - 2023/.keep
       - 2023/Staff Achievements.md
       - 2023/Student Achievements.md
-      - 2023/.keep
-      - 2024/Student Achievements.md
-      - 2024/.keep
+      - 2022/.keep
+      - 2022/Staff Achievements.md
+      - 2022/Student Achievements.md
       - School Awards/.keep
       - School Awards/School Green Award (Vanda Miss Joaquim Sustained
         Achievement Award).md
