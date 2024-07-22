@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
+<img src="/images/CCA/choir.jpg" style="border:1px solid black; padding:5px; width:100%">
+<br>
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
 		<td>A joyful and confident community of learners that are passionate about singing and performing.</td>
@@ -31,15 +33,3 @@ variant: markdown
 	<tr><td></td></tr>
 </tbody></table>
 
-
-<center><iframe style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vQ53gVp4YqRtJA9Zt1A0kzbhjcBE_oi5o5C5DFeB-FKMb1RSjvEBlYJypbEhNvO7QcwNRc-KE4ezpYL/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
-
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vR3HYIzKoxMr8nT8Mhq2XGNhO-JpUiDQEyJf97sBzbOemOjERZWeAXv-TdRm-rPB3ILG1Ytg__dFn4S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
-<table>
-	<tbody><tr><td width="50%" style="padding:10px 0px 0px 10px">
-<img src="/images/CCA/Choir2.jpeg" style="border:1px solid black; padding:5px; width:90%"><br></td>
-		<td width="50%" style="padding:10px 0px 0px 10px"> 
-<img src="/images/CCA/Choir1.jpeg" style="border:1px solid black; padding:5px; width:100%">
-	</td></tr>
-	</tbody></table>
