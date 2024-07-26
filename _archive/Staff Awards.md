@@ -2,9 +2,10 @@
 title: Staff Awards
 permalink: /achievements-and-affirmations/staff-awards/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-		 <li>
+			 <li>
     <input id="accordion1" type="checkbox" style="background-color:&nbsp;#ccc;">
 		<label for="accordion1"><h5>2022</h5></label>
     <div>
@@ -42,7 +43,7 @@ description: ""
   <tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
     <td width="35%">MOE Service Excellence Award (Silver)</td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
-		<td width="30%">National Day Awards: <br>The Commendation Medal</td>
+		<td width="30%"></td>
   </tr>
   <tr>
     <td><ol>
@@ -68,7 +69,7 @@ description: ""
 			<table>
 <tbody style="font-size:17px">
   <tr style="line-height:20px; background-color:royalblue; font-weight: bold; font-size:18px; color:white">
-    <td width="35%">MOE Service Excellence Award (Silver)</td>
+    <td width="35%"></td>
     <td width="35%">National Day Awards: <br>The Long Service Medal</td>
 		<td width="30%">National Day Awards: <br>The Commendation Medal</td>
   </tr>

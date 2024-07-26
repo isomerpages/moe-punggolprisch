@@ -2,15 +2,18 @@ collections:
   achievements-and-affirmations:
     output: true
     order:
+      - 2024/.keep
+      - 2024/Student Achievements.md
+      - 2023/.keep
+      - 2023/Staff Achievements.md
+      - 2023/Student Achievements.md
+      - 2022/.keep
+      - 2022/Staff Achievements.md
+      - 2022/Student Achievements.md
+      - School Awards/.keep
       - School Awards/School Green Award (Vanda Miss Joaquim Sustained
         Achievement Award).md
       - School Awards/Energy Efficiency National Partnership (EENP).md
       - School Awards/WWF Eco–school Award.md
-      - School Awards/National Youth Upcycling Movement (NYUM).md
-      - School Awards/.keep
-      - Staff Awards.md
-      - CCA Achievements/2019.md
       - CCA Achievements/.keep
-      - Competitions/2020.md
-      - Competitions/2019.md
       - Competitions/.keep

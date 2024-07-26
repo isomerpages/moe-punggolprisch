@@ -3,6 +3,7 @@ title: Angklung Ensemble
 permalink: /cca/Visual-and-Performing-Arts/angklung-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <table>
 	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
@@ -27,11 +28,7 @@ third_nav_title: Visual and Performing Arts
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify">2018 SYF Accomplishment</td>
-	</tr>
-	<tr><td></td></tr>
+		<tr><td></td></tr>
 </tbody></table>
-
-
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vQV-X7doelXtP-eIZfu097ksSEUw5olvPMJkM3HP_rJZwPKCBSaKwTR1AUciozLffALk5fSjuhmgCHf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<img src="/images/CCA/angklung.jpg" style="border:1px solid black; padding:5px; width:100%">
+<br>

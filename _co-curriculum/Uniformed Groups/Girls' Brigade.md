@@ -39,9 +39,6 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify">9 Gold and 1 Silver Company Awards since 2011</td>
-	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 
@@ -55,9 +52,3 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 				<img src="/images/CCA/Lates%20Photo-2.jpeg" style="border:2px solid black; width:100%"></td>
 	</tr>
 </tbody></table>
-
-<!--
-![](/images/CCA/Latest%20Photo_1.jpeg)
-![](/images/CCA/Lates%20Photo-2.jpeg)
-![](/images/CCA/Lates%20Photo-3.jpeg)
--->

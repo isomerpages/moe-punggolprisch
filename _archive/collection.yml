@@ -2,6 +2,14 @@ collections:
   archive:
     output: true
     order:
+      - School Awards/National Youth Upcycling Movement (NYUM).md
+      - School Awards/.keep
+      - Competitions (Our Pride)/2019.md
+      - Competitions (Our Pride)/2020.md
+      - Competitions (Our Pride)/.keep
+      - Staff Awards.md
+      - CCA Achievement (ARCHIVE)/2019.md
+      - CCA Achievement (ARCHIVE)/.keep
       - Our MK @ Punggol.md
       - Operating Hours.md
       - Vision & Mission.md

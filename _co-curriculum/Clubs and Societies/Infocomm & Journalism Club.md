@@ -31,12 +31,6 @@ variant: markdown
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-		<td><ol>
-	<li style="font-family:arial; font-size:16px; line-height:1">Our School, Our Stories Competition 2019 (2 teams) - Participation</li>
-	<li style="font-family:arial; font-size:16px; line-height:1">Our School, Our Stories Competition 2018 (3 teams) - Participation</li>
-</ol></td>
-	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 <center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vSpJhrmW79aYVYsYDjPsosiBVzURZqDRVL5P9K9e1XerhSOLhcmC3QIgqJbxo8ulmvtmbCdu8QGmXVp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>

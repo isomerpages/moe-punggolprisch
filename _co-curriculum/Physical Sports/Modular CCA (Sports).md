@@ -28,15 +28,6 @@ variant: markdown
 	</table>
 		</td>
 	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
-			<td style="text-align:justify"><b>2019</b><br>
-				<b>Friendly Games:</b><br>
-				<ol>
-					<li style="font-family:arial; font-size:16px; line-height:1">Admiralty Primary School &amp; Holy Innocent’s Primary School - Frisbee</li>
-					<li style="font-family:arial; font-size:16px; line-height:1">Admiralty Primary School - Touckball</li></ol>
-				<b>Enrichment:</b><br>Forest Adventure (at Bedok)
-			</td>
-	</tr>
 	<tr><td></td></tr>
 </tbody></table>
 
