@@ -41,7 +41,7 @@ variant: markdown
 	<tbody>
 	<tr></tr>
 		<tr>
-		<td style="font-weight:bold; text-align:center; border:1px solid black; width:150px" rowspan="2">Distance</td>
+		<td style="font-weight:bold; vertical-align:middle; text-align:center; border:1px solid black; width:150px" rowspan="2">Distance</td>
 		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">Up to 15-seater</td>
 		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">&gt; 15-seater</td>
 		</tr>
