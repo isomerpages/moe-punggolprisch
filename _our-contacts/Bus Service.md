@@ -35,20 +35,20 @@ variant: markdown
 
 <table>
 	<thead>
-		<tr><td style="font-size:20px" colspan="2">Period: 1 Jan 2025 to 31 Dec 2026</td></tr>
+		<tr><td style="font-weight:bold;" colspan="2">Period: 1 Jan 2025 to 31 Dec 2026</td></tr>
 	</thead>
 	<tbody>
 	<tr></tr>
 		<tr>
-		<td style="font-weight:bold; font-size:20px; text-align:center; border:1px solid black" rowspan="2">Distance</td>
-		<td style="font-weight:bold; font-size:20px; text-align:center; border:1px solid black" colspan="2">Up to 15-seater</td>
-		<td style="font-weight:bold; font-size:20px; text-align:center; border:1px solid black" colspan="2">&gt; 15-seater</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:150px" rowspan="2">Distance</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">Up to 15-seater</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">&gt; 15-seater</td>
 		</tr>
 	<tr>
-		<td style="font-weight:bold; text-align:center; border:1px solid black">1-Way Trip</td>
-		<td style="font-weight:bold; text-align:center; border:1px solid black">2-Way Trip</td>
-		<td style="font-weight:bold; text-align:center; border:1px solid black">1-Way Trip</td>
-		<td style="font-weight:bold; text-align:center; border:1px solid black">2-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">1-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">2-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">1-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">2-Way Trip</td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border:1px solid black">Up to 2KM</td>
@@ -66,4 +66,3 @@ variant: markdown
 	</tr>
 	</tbody>
 	</table>
-		
