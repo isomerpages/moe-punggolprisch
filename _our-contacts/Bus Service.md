@@ -12,7 +12,7 @@ variant: markdown
 			<tr><td width="100" style="font-weight:bold">Vendor</td>
 			<td>SFX Transport Pte Ltd<br><br>
 		Please contact Ms Judy Tan on School Bus transport matters.<br>
-			If you are unable to contact Ms Judy via call, please send her a message via SMS.</td>
+			If you are unable to contact Ms Judy Tan via call, please send her a message via SMS.</td>
 		</tr>
 		<tr>
 		</tr><tr>
