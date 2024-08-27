@@ -2,7 +2,6 @@ collections:
   our-contacts:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Canteen Advertisement.md
       - Punggol Primary.md
       - Book Shop Service.md
