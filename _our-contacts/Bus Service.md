@@ -15,9 +15,6 @@ variant: markdown
 			If you are unable to contact Ms Judy Tan via call, please send her a message via SMS.</td>
 		</tr>
 		<tr>
-		</tr><tr>
-			<td style="font-weight:bold">Email</td>
-			<td><a target="_blank" href="mailto:punggolpri@sfxtransport.com.sg">punggolpri@sfxtransport.com.sg</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Tel No</td>
@@ -26,6 +23,10 @@ variant: markdown
 		<tr>
 			<td style="font-weight:bold">HP No</td>
 			<td>+65 8800 0262</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Email</td>
+			<td><a target="_blank" href="mailto:punggolpri@sfxtransport.com.sg">punggolpri@sfxtransport.com.sg</a></td>
 		</tr>
 		<tr><td></td></tr>
 	</tbody>
