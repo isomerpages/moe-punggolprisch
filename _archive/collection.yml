@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - SBAdv.md
       - School Awards/National Youth Upcycling Movement (NYUM).md
       - School Awards/.keep
       - Competitions (Our Pride)/2019.md
