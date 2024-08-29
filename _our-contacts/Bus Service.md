@@ -9,24 +9,61 @@ variant: markdown
 		<tr><td style="font-family:impact; font-size:25px" colspan="2">Registration of School's Transport</td></tr>
 	</thead>
 	<tbody>
+			<tr><td width="100" style="font-weight:bold">Vendor</td>
+			<td>SFX Transport Pte Ltd<br><br>
+		Please contact Ms Judy Tan on School Bus transport matters.<br>
+			If you are unable to contact Ms Judy Tan via call, please send her a message via SMS.</td>
+		</tr>
 		<tr>
-			<td width="100" style="font-weight:bold">Vendor</td>
-			<td>SFX Transport Pte Ltd</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">Tel No</td>
+			<td>+65 6282 0262</td>
+		</tr>
+		<tr>
+			<td style="font-weight:bold">HP No</td>
+			<td>+65 8800 0262</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Email</td>
 			<td><a target="_blank" href="mailto:punggolpri@sfxtransport.com.sg">punggolpri@sfxtransport.com.sg</a></td>
 		</tr>
-		<tr>
-			<td style="font-weight:bold">Contact</td>
-			<td>+65 6282 0262</td>
-		</tr>
-		<tr>
-			<td style="font-weight:bold">Website</td>
-			<td><a target="_blank" href="https://pps.sfxtransport.com.sg">SFX Transport</a></td>
-		</tr>
 		<tr><td></td></tr>
 	</tbody>
 </table>
-<br>
-<a href="/files/General/School_Bus_Operator_and_Bus_Fare_2024.pdf" target="_blank">School Bus Operator and Bus Fare</a>
+
+
+
+<table>
+	<thead>
+		<tr><td style="font-weight:bold;" colspan="2">Period: 1 Jan 2025 to 31 Dec 2026</td></tr>
+	</thead>
+	<tbody>
+	<tr></tr>
+		<tr>
+		<td style="font-weight:bold; vertical-align:middle; text-align:center; border:1px solid black; width:150px" rowspan="2">Distance</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">Up to 15-seater</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black" colspan="2">&gt; 15-seater</td>
+		</tr>
+	<tr>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">1-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">2-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">1-Way Trip</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black; width:100px">2-Way Trip</td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border:1px solid black">Up to 2KM</td>
+		<td style="text-align:center; border:1px solid black">$150.00</td>
+		<td style="text-align:center; border:1px solid black">$180.00</td>
+		<td style="text-align:center; border:1px solid black">$150.00</td>
+		<td style="text-align:center; border:1px solid black">$180.00</td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border:1px solid black">&gt;2 - 4KM</td>
+		<td style="text-align:center; border:1px solid black">$180.00</td>
+		<td style="text-align:center; border:1px solid black">$200.00</td>
+		<td style="text-align:center; border:1px solid black">$180.00</td>
+		<td style="text-align:center; border:1px solid black">$200.00</td>
+	</tr>
+	</tbody>
+	</table>
