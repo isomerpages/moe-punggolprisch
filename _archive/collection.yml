@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - CCE/.keep
       - School Awards/National Youth Upcycling Movement (NYUM).md
       - School Awards/.keep
       - Competitions (Our Pride)/2019.md
