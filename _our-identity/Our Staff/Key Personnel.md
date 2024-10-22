@@ -17,7 +17,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:ghostwhite">School Staff Developer</td>
-    <td>Mrs Lee Mei Chuen</td>
+    <td>-</td>
   </tr>
   <tr>
     <td style="background-color:ghostwhite">English (EL)</td>
