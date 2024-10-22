@@ -21,6 +21,10 @@ variant: markdown
     <td style="background-color:ghostwhite">Vice Principal - Academic</td>    
     <td>Mr Goh Chang Chuen</td>
   </tr>
+	<tr>
+    <td style="background-color:ghostwhite">Vice Principal - Academic</td>    
+    <td>Mrs Annie Yuen</td>
+  </tr>
   <tr>
     <td style="background-color:ghostwhite">Vice Principal – Administration</td>
     <td>Ms Usha Rani Henry</td>
