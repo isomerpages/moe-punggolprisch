@@ -16,7 +16,7 @@ variant: markdown
 <tbody>
 	<tr>
 		<td><ul style="margin:0px; list-style-type:none;">
-			<li style="line-height:2;"><a href="http://schools.gov.sg/owa/auth/logon.aspx" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
+			<li style="line-height:2;"><a href="https://outlook.office365.com/mail/" target="_blank"><img src="/images/Icons/ces_icon.jpg" style="border:3px solid white; float:left;width:35px;height:35px">CES Webmail</a></li>
 			</ul></td>
 		<td>
 			<ul style="margin:0px; list-style-type:none;">
