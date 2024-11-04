@@ -3,11 +3,8 @@ title: EL Programmes Promoting Joy of Learning
 permalink: /our-curriculum/English/el-programmes-promoting-joy-of-learning/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
-<!--
-![](/images/English/photo2.jpeg)
--->
-
 <table style="font-size:16px; width:100%; border:2px solid royalblue">
 	<tbody><tr>
 		<td style="width:10%; background-color:royalblue;"></td>
@@ -53,13 +50,7 @@ third_nav_title: English
 	<li style="font-family:arial; font-size:16px; line-height:1.6">We had an official opening in 2019 in conjunction with Our Reading Fiesta. Our students dressed up as their favourite storybook characters.</li></ul>
 <p></p>
 
-<center><iframe width="768" height="429" src="https://www.youtube.com/embed/vsigHCaCTx8" title="PPS School Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
-
-<center style="font-family:cursive; font-size:18px">Our Inaugural Reading Fiesta 2019<iframe width="766" height="430" src="https://www.youtube.com/embed/S6JPSmwWUz8" title="PPS Inaugural Reading Fiesta 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
-
 <div style="font-family:arial; font-size:20px; font-weight:bold; color:royalblue">Reading Fiesta &amp; EL Week</div>
-<div style="font-family:arial; font-size:16px; line-height:1.6; text-align:justify"><span style="font-weight:bold; line-height:3">Promoting Joy of Learning in English Language</span><br>As part of EL department efforts to build a reading culture in our school, a wide array of reading activities were organised. Reading Fiesta is a week filled&nbsp;&nbsp;with fun reading activities to encourage all of our students to partake in reading!</div>
-
-**(embed video here)**
+<div style="font-family:arial; font-size:16px; line-height:1.6; text-align:justify"><span style="font-weight:bold; line-height:3">Promoting Joy of Learning in English Language</span><br>As part of EL department efforts to build a reading culture in our school, a wide array of reading activities were organised. Reading Fiesta is a week filled&nbsp;&nbsp;with fun reading activities to encourage all of our students to partake in reading!</div><br>
 
 <img src="/images/English/Picture14.png" style="width:100%">
