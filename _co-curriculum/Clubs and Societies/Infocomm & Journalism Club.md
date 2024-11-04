@@ -33,4 +33,3 @@ variant: markdown
 	</tr>
 	<tr><td></td></tr>
 </tbody></table>
-<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vSpJhrmW79aYVYsYDjPsosiBVzURZqDRVL5P9K9e1XerhSOLhcmC3QIgqJbxo8ulmvtmbCdu8QGmXVp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>

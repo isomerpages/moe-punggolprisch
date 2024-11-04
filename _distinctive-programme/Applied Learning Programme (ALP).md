@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /distinctive-programme/alp/
 description: ""
+variant: markdown
 ---
 <p style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue">GreeNovation @ PPS</p>  
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">The school’s Applied Learning Programme, named “GreeNovation @ PPS” in essence aims to promote green education to all its stakeholders and encourage the students to tackle environmental issues confronting the world today through innovative thinking.&nbsp; In line with the school’s mission of “Igniting the Joy of Learning. Inspiring All to Care and Share.” and vision of “A Gracious Community of Confident and Innovative Life-long Leaners.”, the school seeks to leverage GreeNovation to hone 21CC skills through inquiry-based learning.</p>
@@ -22,4 +23,3 @@ description: ""
 
 ![](/images/school%20website%20Science5.jpeg)
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTu3LoetTHlrMVvi8e3QcfVeLp1Dis1Pu1xPkB7TYmipFVwfelLvJGT3CuQgcKRcLTyPv3Rdc24HK2c/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></center>

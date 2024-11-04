@@ -39,11 +39,7 @@ variant: markdown
 	</tr>
 		<tr><td style="line-height:1; font-weight:bold; font-size: 22px; color:royalblue; border:0px solid black; text-align:right">Achievement ⇥</td>
 			<td style="text-align:justify">
-			<center><iframe style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vRdhSNkhEeDPTJv07HajsiicOltBCsRY9CYzusS4ksRqHJVyDJ-Vd9jfYHvGthdFgMEWYtwvsBmU2SW/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>
 			</td>
 				</tr>
 	<tr><td></td></tr>
 </tbody></table>
-
-<div style="font-family:cursive; font-size:18px; text-align:center">Training Sessions</div>
-<center><iframe allowfullscreen="true" height="366" width="600" style="border:1px solid black; padding:5px" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3xOd5m4ZYWK5cTuVThxj1sP0KafFbfnIyfYCBafC2wDqLteeGJ0dUan2CVoBOQ53VxQ_IBXFv3lyu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
