@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Aesthetics/Music Curriculum.md
       - Aesthetics/Busking.md
       - Aesthetics/Art Fiesta.md
       - Aesthetics/Art Curriculum.md
