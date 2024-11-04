@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/Aesthetics.md
-      - Aesthetics/Aesthetic Week.md
       - Aesthetics/Art Curriculum.md
       - Aesthetics/Art Fiesta.md
       - Aesthetics/Busking.md
