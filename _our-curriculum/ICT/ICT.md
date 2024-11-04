@@ -3,6 +3,7 @@ title: ICT
 permalink: /our-curriculum/ICT/ict/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 <div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Vision</div>
 <ul>
@@ -66,8 +67,6 @@ In Punggol Primary, our NML lessons are woven into our lessons and our ICT Digit
 	</tr>
 		<tr></tr>
 </tbody></table>
-
-<center style="font-family:cursive; font-size:18px; color:black">ICT-Enhanced Lessons<iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQshYRVLVzwla4AHB3bkeYwJo00npeEypOLav9m9wjq1HlFhZXS4s3JgmTBus8zPS8iQvBWE4nu3xK8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 <center style="font-family:cursive; font-size:18px; color:black">Primary 5 Code for Fun lessons<img src="/images/ICT/Photo%206.jpeg" style="width:55%; border:1px solid black"></center>
 
