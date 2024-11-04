@@ -3,6 +3,7 @@ title: Programmes and Activities
 permalink: /our-curriculum/Mother-Tongue-Language/programmes-and-activities/
 description: ""
 third_nav_title: Mother Tongue Language
+variant: markdown
 ---
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Mother Tongue Fortnight Program - Promoting the use of Mother Tongue Language and appreciating Culture&nbsp;in an authentic setting.</p>
 
@@ -13,6 +14,3 @@ third_nav_title: Mother Tongue Language
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Conversational Chinese and Malay (CCM) Programme</b> - This programme is to strengthen bonds among students of different races; at the same time helping them to acquire the language that would enable them to operate comfortably in the region.</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>Reading Programme</b> - a series of activities such as books sharing, quizzes and author’s talk are organized to promote reading.</li>
 <li style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8"><b>National Tamil Debate Competition</b> - Tamil students took part in the National Tamil debate competition (Sorpor) to hone their public speaking skill</li></ul>
-
-
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" style="border:1px solid black; padding:5px" src="https://docs.google.com/presentation/d/e/2PACX-1vQQTZQECcTIJO5QIcuZ70vvlO3pwPeMXmwQ23-ND9BA9lGd4idac0mQ4XTl0OdeIsnboHbktap3kcXh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
