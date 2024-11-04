@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Aesthetics/Aesthetic Week.md
       - Aesthetics/.keep
       - CCE/P3 Virtual LJ on SLS.md
       - CCE/.keep
