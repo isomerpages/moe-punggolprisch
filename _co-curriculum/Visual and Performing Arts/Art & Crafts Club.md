@@ -33,6 +33,6 @@ variant: markdown
 
 
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Every Tuesday, students in Art &amp; Crafts Club are immersed in activities that promote their creativity. Students are involved in competitions such SYF (Singapore Youth Festival) logo design, creating towel crafts for the elderly, balloon sclpting and other craft making activities.</div>
-
+<br>
 <div style="font-family:arial; font-size:20px; color:royalblue; font-weight:bold; line-height:1.8">Cheng San Library Art Exhibition</div>
 <div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Budding artists from Punggol Primary School got a special highlight when their artworks got exhibited at the Cheng San Public Library from 12 March to 24 March 2018, through a special collaboration between the school and the National Library Board.&nbsp; Visitors to the library were treated to a visual feast, ranging from metal tooling crafts, acrylic painting, still life drawings, Chinese brush paintings and ceramic sculptures done by students across the six levels. It was indeed a proud moment for these young artists, to see the public appreciating and admiring their artworks and taking pictures of the exhibits on display.</div>
