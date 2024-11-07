@@ -41,50 +41,11 @@ Here are some photos of the events held in school.</p>
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2"><p style="font-family:Arial; font-size:23px; font-weight:bold; color:royalblue">Cyber Wellness Ambassadors</p></label>
-    <div>
-      <p dir="ltr">The roles of the Cyber Wellness Ambassadors include:</p>
-<ul>
-<li style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><strong>Lead and Inspire</strong>:&nbsp;Be exemplary as a responsible online user.</li>
-<li style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><strong>Teach and Advocate</strong>:&nbsp;Create authentic materials to share with their peers.</li>
-</ul>
-<p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Our ambassadors are appointed and trained from P3 level to assume their roles through P6 level. Due to COVID-19, the students have gained more ICT knowledge but are continuously susceptible to online threats and dangers. Thus the training are conducted online to equip the ambassadors with sensitively and alertness in dealing with these dangers.</p>
-<p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">Guided by the Cyber Wellness Principles of Sense – Think – Act, the students are constantly reminded to exemplify their actions online and offline. The training has been shifted online conducted by our teachers via Zoom and SLS.</p>
-				<table>
-					<tbody><tr>
-						<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%201.jpeg" style="width:95%; border:3px solid white; padding:5px"></td>
-					</tr><tr>
-						<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%202.jpeg" style="width:95%; border:3px solid white; padding:5px"></td>
-					</tr>
-					<tr>
-			<td style="padding:10px 0px 10px 0px; background-color:whitesmoke; border:0px solid white"><img src="/images/training%203.jpeg" style="width:95%; border:3px solid white; padding:5px"><div style="font-family:cursive; font-size:16px; line-height:1.5; text-align:center">Reflections and contributions by the ambassadors during online training.</div></td>
-    </tr>
-		</tbody></table>
-	</div></li>
-	<li>
-    <input id="accordion3" type="checkbox">
 	<label for="accordion3"><p style="font-family:Arial; font-size:23px; font-weight:bold; color:royalblue">Cyber Wellness Information for Parents</p></label>
     <div>
       <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">
 	<a href="/our-curriculum/home-based-learning/">MOE Parent Kits for Home-based Learning</a><br>
-	<a href="/files/cce/CyberWellness/CyberWellnessResource.pdf" target="_blank">Cyber Wellness Resources</a></p>
-
-<div colspan="2" style="font-family:Arial; font-size:20px; font-weight:bold">Punggol Cyber News</div>
-<table style="width:30%; border:1px solid royalblue">
-	<tbody><tr style="font-weight:bold; line-height:1.3; background-color:royalblue">
-			<td style="font-family:Arial; font-size:16px; line-height:1.5; color:white">Year</td>
-			<td style="font-family:Arial; font-size:16px; line-height:1.5; color:white">Volume</td>
-		</tr>
-		<tr>
-			<td style="font-family:Arial; font-size:16px; border: 0px solid black; line-height:1">2023</td>
-			<td style="font-family:Arial; font-size:16px; border: 0px solid black; line-height:1"><a href="https://go.gov.sg/punggolcyberwellness" target="_blank">Volume 1</a></td>
-		</tr>
-		<tr>
-		<td style="font-family:Arial; font-size:16px; border: 0px solid black; line-height:1">2022</td>
-	<td style="font-family:Arial; font-size:16px; border: 0px solid black; line-height:1"><a href="/files/PPSCyberNews/2022/CN-Nov2022.pdf" target="_blank">November</a></td>
-		</tr>
-	</tbody></table>
-    </div>
-	</li>
+	</p>
+	</div></li>
 </ul>
