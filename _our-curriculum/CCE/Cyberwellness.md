@@ -41,7 +41,7 @@ Here are some photos of the events held in school.</p>
 	</li>
 	<li>
     <input id="accordion2" type="checkbox">
-	<label for="accordion3"><p style="font-family:Arial; font-size:23px; font-weight:bold; color:royalblue">Cyber Wellness Information for Parents</p></label>
+	<label for="accordion2"><p style="font-family:Arial; font-size:23px; font-weight:bold; color:royalblue">Cyber Wellness Information for Parents</p></label>
     <div>
       <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">We would like to engage parents to be our partners in inculcating Cyber Wellness values to the students. We will periodically send out useful links, webinars and articles on the current Cyber trends. Stay tuned!</p>
 <p style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">
