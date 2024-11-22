@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - E Open House.md
       - School Canteen Advertisement.md
       - Aesthetics/Diary Design on Growth Mindset.md
       - Aesthetics/PPS Art Exhibition at Cheng San Library @Hougang Mall.md
