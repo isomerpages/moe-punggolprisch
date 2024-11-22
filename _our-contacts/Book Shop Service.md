@@ -23,14 +23,14 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Book List</td>
-			<td><a href="/files/General/Booklist/2024_PPS_P1_Booklist.pdf" target="_blank">2024 - Primary 1</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P2_Booklist.pdf" target="_blank">2024 - Primary 2</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P3_Booklist.pdf" target="_blank">2024 - Primary 3</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P4_Booklist.pdf" target="_blank">2024 - Primary 4</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P5Foundation_Booklist.pdf" target="_blank">2024 - Primary 5 Foundation</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P5_Booklist.pdf" target="_blank">2024 - Primary 5 Higher &amp; Standard MT</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P6Foundation_Booklist.pdf" target="_blank">2024 - Primary 6 Foundation</a><br>
-				<a href="/files/General/Booklist/2024_PPS_P6_Booklist.pdf" target="_blank">2024 - Primary 6 Higher &amp; Standard MT</a><br>
+			<td><a href="https://drive.google.com/file/d/1F0gRVaXqTcVwhSG24KH-06lepMKVt57j/view?usp=drive_link" target="_blank">2024 - Primary 1</a><br>
+				<a href="https://drive.google.com/file/d/1trgP1lDuzlKyhe6RdGa4mx0OdFT80cMC/view?usp=drive_link" target="_blank">2024 - Primary 2</a><br>
+				<a href="https://drive.google.com/file/d/1rFITitWGu1O61Xfy81U7mM3VbyV96cEj/view?usp=drive_link" target="_blank">2024 - Primary 3</a><br>
+				<a href="https://drive.google.com/file/d/1PMUoeZJZJmeYwAoXGcyHMTPxVxYD6ZQk/view?usp=drive_link" target="_blank">2024 - Primary 4</a><br>
+				<a href="https://drive.google.com/file/d/13G3bQ-OAnh7xmpvIOoaZY4aL5oLujMzG/view?usp=drive_link" target="_blank">2024 - Primary 5 Foundation</a><br>
+				<a href="https://drive.google.com/file/d/1rk0LvVVAI1ZpQ3BnWZ1DrJvl8k7QaKra/view?usp=drive_link" target="_blank">2024 - Primary 5 Higher &amp; Standard MT</a><br>
+				<a href="https://drive.google.com/file/d/1TMT-Eixnu1UV7DQh9vxDhKJAnfE6nuIo/view?usp=drive_link" target="_blank">2024 - Primary 6 Foundation</a><br>
+				<a href="https://drive.google.com/file/d/1ibGmGzwUn3TlSsRfpaUqR3LX-UkP0_sG/view?usp=drive_link" target="_blank">2024 - Primary 6 Higher &amp; Standard MT</a><br>
 			</td>
 		</tr>
 		<tr><td></td></tr>
