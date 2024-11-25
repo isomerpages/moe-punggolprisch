@@ -36,11 +36,11 @@ variant: markdown
     <td>Ms Manisah Mohd Yacob</td>
   </tr>
   <tr>
-     <td style="background-color:ghostwhite">HOD Science (SC)</td>
+     <td style="background-color:ghostwhite">Science (SC)</td>
 		<td>Mdm Teou Lay Yen</td>
   </tr>
   <tr>
-    <td style="background-color:ghostwhite">Physical Education &amp; Co-Curricular Activities (PE &amp; CCA)</td>
+    <td style="background-color:ghostwhite">PE, Aesthetics and Music (PAM)</td>
 		<td>Mr Thomas Wong Wen Jun</td>    
   </tr>
   <tr>
