@@ -18,7 +18,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite" rowspan="2" width="280">Administration Manager (AM)</td>
-    <td>Mdm Gloria Lau</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Mdm Siti Masura Binte Hatnen</td>
@@ -88,7 +88,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>Mr Daicamat Dennis Castillo</td>
+    <td>-</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
