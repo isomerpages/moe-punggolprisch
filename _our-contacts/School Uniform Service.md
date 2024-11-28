@@ -2,6 +2,7 @@
 title: School Uniform Service
 permalink: /our-contacts/school-uniform-service/
 description: ""
+variant: markdown
 ---
 <table style="font-size:16px">
 	<thead>
@@ -9,7 +10,7 @@ description: ""
 	</thead>
 	<tbody>
 		<tr>
-			<td width=100 style="font-weight:bold">Vendor</td>
+			<td width="100" style="font-weight:bold">Vendor</td>
 			<td>Magdalene Sewing Centre Pte Ltd</td>
 		</tr>
 		<tr>
@@ -22,7 +23,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a></td>
+			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a><br><a href="https://drive.google.com/file/d/1u2zOCs8G-DnQjQPk-_A12VZpVFc6cfNl/view?usp=sharing" target="_blank">Exchange Policy</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Outlet</td>
