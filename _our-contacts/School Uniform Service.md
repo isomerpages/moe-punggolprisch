@@ -23,7 +23,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a><br><a href="https://drive.google.com/file/d/1u2zOCs8G-DnQjQPk-_A12VZpVFc6cfNl/view?usp=sharing" target="_blank">Exchange Policy</a></td>
+			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a><br><a href="https://drive.google.com/file/d/1u2zOCs8G-DnQjQPk-_A12VZpVFc6cfNl/view?usp=sharing" target="_blank">Price List and Exchange Policy</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Outlet</td>
