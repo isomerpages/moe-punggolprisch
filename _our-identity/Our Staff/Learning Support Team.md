@@ -3,6 +3,7 @@ title: Learning Support Team
 permalink: /our-identity/Our-Staff/learning-support-team/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <table width="100%">
 	
@@ -31,7 +32,7 @@ third_nav_title: Our Staff
 	</tr>
   <tr>
     <td style="background-color:ghostwhite">Teaching &amp; Learning </td>
-    <td>Mr Hafez Bin Haroon Aljunied</td>
+    <td>-</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>
