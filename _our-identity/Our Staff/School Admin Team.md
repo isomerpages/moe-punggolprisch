@@ -34,7 +34,6 @@ variant: markdown
   </tr>
   <tr>
 		<td rowspan="4" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
-    <td>-</td>
   </tr>
   <tr>
     <td>Mdm Rubiah Binte Mahfol</td>
