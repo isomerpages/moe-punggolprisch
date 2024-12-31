@@ -17,10 +17,7 @@ variant: markdown
     <td>Name</td>
   </tr>
   <tr>
-		<td style="background-color:ghostwhite" rowspan="2" width="280">Administration Manager (AM)</td>
-    <td>-</td>
-  </tr>
-  <tr>
+		<td style="background-color:ghostwhite" width="280">Administration Manager (AM)</td>
     <td>Mdm Siti Masura Binte Hatnen</td>
   </tr>
   <tr>
@@ -37,7 +34,7 @@ variant: markdown
   </tr>
   <tr>
 		<td rowspan="4" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
-    <td>Mdm Loh Gek Noi (Julie)</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Mdm Rubiah Binte Mahfol</td>
