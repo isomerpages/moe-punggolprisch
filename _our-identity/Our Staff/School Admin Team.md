@@ -33,9 +33,7 @@ variant: markdown
     <td>Ms Norashikin Bte Ishak</td>
   </tr>
   <tr>
-		<td rowspan="4" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
-  </tr>
-  <tr>
+		<td rowspan="3" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
     <td>Mdm Rubiah Binte Mahfol</td>
   </tr>
 	<tr>
