@@ -17,7 +17,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:ghostwhite">School Staff Developer</td>
-    <td>-</td>
+    <td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
   <tr>
     <td style="background-color:ghostwhite">English (EL)</td>
@@ -50,7 +50,7 @@ variant: markdown
   <tr>    
     <td style="background-color:ghostwhite">Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)
 		</td>
-		<td>Ms Afifah Binti Abd Y Aljaru</td>
+		<td>-</td>
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
@@ -159,11 +159,11 @@ variant: markdown
   </tr>
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (Lower Primary Learners)</td>
-    <td>Ms Susan Neo</td>
+    <td>-</td>
   </tr>
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (Mathematics)</td>
-    <td>Ms Lim Gek Wah<br>Mdm Islina Bte Ismail</td>
+    <td>Mdm Islina Bte Ismail</td>
   </tr>
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (Tamil Language)</td>
