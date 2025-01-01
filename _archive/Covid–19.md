@@ -2,7 +2,6 @@
 title: Covid–19
 permalink: /useful-links/parents/covid-19/
 description: ""
-third_nav_title: Parents
 ---
 <table style="font-size:16px">
 <thead>
@@ -11,7 +10,7 @@ third_nav_title: Parents
 		<td width="250">For Queries Relating to</td>
 		<td>Resources</td></tr>
 </thead>
-<tbody >
+<tbody>
 		<tr>
 			<td>Vaccine Safety and Efficacy</td>
 			<td>

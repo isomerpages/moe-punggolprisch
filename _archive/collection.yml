@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Covid–19.md
       - E Open House.md
       - School Canteen Advertisement.md
       - Aesthetics/Diary Design on Growth Mindset.md
