@@ -30,10 +30,6 @@ variant: markdown
 	<tr>
 		<td>Mdm Nurul Shireen Binte Saburudin</td>
 	</tr>
-  <tr>
-    <td style="background-color:ghostwhite">Teaching &amp; Learning </td>
-    <td>-</td>
-  </tr>
 	<tr><td></td></tr>
 </tbody>
 </table>
