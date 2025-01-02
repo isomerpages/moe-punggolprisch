@@ -50,7 +50,7 @@ variant: markdown
   <tr>    
     <td style="background-color:ghostwhite">Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)
 		</td>
-		<td>-</td>
+		<td>Ms Khng Su- Lyn Jacqueline (covering)</td>
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
@@ -156,10 +156,6 @@ variant: markdown
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (English Language)</td>
     <td>Mdm Renee Yuanna Sulaiman</td>
-  </tr>
-	 <tr>
-		<td style="background-color:ghostwhite">Senior Teacher (Lower Primary Learners)</td>
-    <td>-</td>
   </tr>
 	 <tr>
 		<td style="background-color:ghostwhite">Senior Teacher (Mathematics)</td>
