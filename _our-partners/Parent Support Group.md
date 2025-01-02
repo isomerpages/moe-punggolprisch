@@ -78,11 +78,18 @@ variant: markdown
 			<li style="margin:20px 0; line-height:1.5; text-align:justify">☒ Represent the school at any external party, unless specifically authorised by the school leaders (e.g. speaking to the media).</li>
 			<li style="margin:20px 0; line-height:1.5; text-align:justify">☒ Wear revealing clothes.</li>
 			<li style="margin:20px 0; line-height:1.5; text-align:justify">☒ Use the PSG WhatsApp group chat to seek support for specific problems that your child is facing in school. Such feedback should be given to the school. Send messages that are irrelevant to the PSG’s work through the PSG’s communication channels.</li>
-			</ul>
+			</ul>			
 		</td>
   </tr>
 </tbody>
 </table>
     </div>
-	</li>
+											</li><li>
+    <input id="accordion7" type="checkbox">
+		<label for="accordion7"><h5>Join Us!</h5></label>
+    <div>
+			<p><br><img src="/images/PSG/PSG_JoinUs.jpg" style="width:40%"></p>
+    </div>
+</li>
+	
 </ul>
