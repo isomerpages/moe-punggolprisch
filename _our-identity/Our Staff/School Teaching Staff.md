@@ -165,7 +165,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Responsibility</td>
     <td>Mdm Satvinder Kaur</td>
-    <td>Mdm Julaiha Bte Mohd Jamil</td>
+    <td>Mdm Julaiha Bte Mohd Jamil <br>Mr Quek Lye Huat Cyril</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">4 Joy</td>
