@@ -113,7 +113,7 @@ variant: markdown
 
   <tr>
     <td style="background-color:ghostwhite">Contract Cleaners</td>
-    <td>(7)</td>
+    <td>(8)</td>
   </tr>
 		<tr><td></td></tr>
 </tbody>

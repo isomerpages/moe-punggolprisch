@@ -1,6 +1,6 @@
 ---
 title: Staff Awards
-permalink: /achievements-and-affirmations/staff-awards/
+permalink: /archive/achievements-and-affirmations/staff-awards/
 description: ""
 variant: markdown
 ---

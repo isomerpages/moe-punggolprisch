@@ -1,7 +1,8 @@
 ---
 title: Covid–19
-permalink: /useful-links/parents/covid-19/
+permalink: /archive/parents/covid-19/
 description: ""
+variant: tiptap
 ---
 <table style="font-size:16px">
 <thead>

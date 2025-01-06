@@ -20,7 +20,7 @@ variant: markdown
     <td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
   <tr>
-    <td style="background-color:ghostwhite">English (EL)</td>
+    <td style="background-color:ghostwhite">English (EL),<br>Social Studies (SS)</td>
     <td>Ms Noraini Bte Yosorh</td>
   </tr>
   <tr>
@@ -46,11 +46,6 @@ variant: markdown
   <tr>
     <td style="background-color:ghostwhite">Student Management (SM)</td>
 		<td>Mr Khamilnullah Bin Abd Hamid</td>
-  </tr>
-  <tr>    
-    <td style="background-color:ghostwhite">Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)
-		</td>
-		<td>Ms Khng Su- Lyn Jacqueline (covering)</td>
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
@@ -98,8 +93,8 @@ variant: markdown
     <td>Ms Chua Yen Ling Rachel</td>
   </tr>
 	 <tr>
-		<td style="background-color:ghostwhite">Character and Citizenship Education (CCE)</td>
-    <td>Ms Khng Su- Lyn Jacqueline</td>
+		<td style="background-color:ghostwhite">Character and Citizenship Education (CCE)<br>(covering HOD)</td>
+    <td>Ms Khng Su- Lyn Jacqueline </td>
   </tr>
 	<tr>
 		<td style="background-color:ghostwhite">Student Leadership</td>
