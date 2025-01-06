@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Modular CCA (Sports).md
       - Covid–19.md
       - E Open House.md
       - School Canteen Advertisement.md
