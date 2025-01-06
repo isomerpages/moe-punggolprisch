@@ -20,7 +20,7 @@ variant: markdown
     <td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
   <tr>
-    <td style="background-color:ghostwhite">English (EL),<br>Character and Citizenship Education &amp; <br>Social Studies (CCE &amp; SS)</td>
+    <td style="background-color:ghostwhite">English (EL),<br>Social Studies (SS)</td>
     <td>Ms Noraini Bte Yosorh</td>
   </tr>
   <tr>
