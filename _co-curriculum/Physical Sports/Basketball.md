@@ -24,10 +24,10 @@ variant: markdown
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr><tr></tr>
-			<tr><td><b><u>Boys</u></b><br>Monday (P3&amp;P4) <br><br>Tuesday (P5&amp;P6)</td><td><br>3:00pm - 5:00pm<br><br>2:00pm - 4:00pm</td><td><br>ISH / Arena / Basketball Court</td><td><br>Mr Tai Yean Hwee<br>Ms Hairani<br>Mr Bala<br>Mr Fadly Wahad<br></td></tr>
+			<tr><td><b><u>BOYS</u></b><br>Monday (P3&amp;P4) <br><br>Tuesday (P5&amp;P6)</td><td><br>3:00pm - 5:00pm<br><br>2:00pm - 4:00pm</td><td><br>ISH / Arena / Basketball Court</td><td><br>Mr Tai Yean Hwee<br>Ms Hairani<br>Mr Bala<br>Mr Fadly Wahad<br></td></tr>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white">
 				<td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td><b><u>Girls</u></b><br>Monday </td><td><br>3:00pm - 5:00pm</td><td><br>ISH / Arena / Basketball Court</td><td><br>Mdm Subha<br>Mrs Heng Siow Leng</td></tr>
+			<tr><td><b><u>GIRLS</u></b><br>Monday </td><td><br>3:00pm - 5:00pm</td><td><br>ISH / Arena / Basketball Court</td><td><br>Mdm Subha<br>Mrs Heng Siow Leng</td></tr>
 		</tbody>
 	</table>
 		</td>
