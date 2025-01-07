@@ -24,14 +24,15 @@ variant: markdown
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td width="100">Day</td><td width="180">Time</td><td width="80">Venue</td><td>Teacher in charge</td></tr>
 			<tr>
-				<td style="border:0px solid black">Monday<br>(P3&amp;P4)</td>
-				<td width="200" style="border:0px solid black">P3&amp;P4 Boys &amp; Girls:<br>3:00pm - 5:00pm</td>
-				<td rowspan="2">Parade Ground / Hall</td>
-				<td rowspan="2">Mdm Subha<br>Mdm Chang Sok Cheng<br>Mdm Mak Mei Woon<br>Ms Nurul Aqilah<br>Ms Nur Izyan<br>Mdm Lim Shao Leng Priscilla<br></td>
+				<td style="border:0px solid black">Monday<br>(P5-P6)</td>
+				<td width="150" style="border:0px solid black">3:00pm - 5:00pm</td>
+				<td width="150" style="border:0px solid black">Parade Ground / Hall</td>
+				<td rowspan="2" width="150" style="border:0px solid black">Mr Aylwin Tan<br>Mdm Chang Sok Cheng<br>Mdm Mak Mei Woon<br>Ms Nurul Aqilah<br>Ms Nur Izyan</td>
 			</tr>
 			<tr>
-				<td>Tue&amp;Thur<br>(P5&amp;P6)</td>
-				<td width="200">P5&amp;P6 Girls (Tue):<br>2:00pm - 4:00pm<br>P5&amp;P6 Boys (Thur):<br>3:00pm - 5:00pm</td>
+				<td>Tuesday<br>(P3-P6)</td>
+				<td width="200"><b>P3-P4</b>:<br>2:00pm - 4:00pm<br><b>P5-P6</b>:<br>2:00pm - 5:00pm</td>
+				<td>Parade Ground / SK Pitch</td>
 			</tr>
 		</tbody>
 	</table>
