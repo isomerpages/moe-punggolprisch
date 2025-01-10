@@ -34,7 +34,7 @@ Through the GB curriculum, the GB aims to develop each pupil and officer to her 
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday</td><td>3:00pm - 5:00pm</td><td>Arena &amp; Library</td><td>Ms Susan Neo<br>Mrs Ivy Mak<br>Ms Lee Siow Foong, Kaelyn</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Auditorium, Heritage &amp; Cultural Room 1</td><td>Mdm Joan Lao<br>Mdm Lee Siow Foong<br>Mdm Priscilla Lim</td></tr>
 		</tbody>
 	</table>
 		</td>

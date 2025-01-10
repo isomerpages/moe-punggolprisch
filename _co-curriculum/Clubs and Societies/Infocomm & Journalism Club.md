@@ -26,7 +26,7 @@ variant: markdown
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>6S</td><td>Mdm Koh Wee Lin<br>Ms Geetha</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>6S</td><td>Mdm Koh Wee Lin<br>Mdm Khuan Jiyan<br>Ms Geetha</td></tr>
 		</tbody>
 	</table>
 		</td>

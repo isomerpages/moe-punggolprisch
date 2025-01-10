@@ -1,5 +1,5 @@
 ---
-title: eNewsletter Semester 1 2024
+title: eNewsletter Semester 1
 date: 2024-05-30
 layout: link
 description: ""

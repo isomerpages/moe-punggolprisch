@@ -1,6 +1,6 @@
 ---
-title: School Canteen Advertisement
-permalink: /our-contacts/school-canteen-advertisement/
+title: Sch00l Cant33n Adv3rtis3m3nt
+permalink: /archive/sch00l-cant33n-adv3rt1s3m3nt/
 description: ""
 variant: tiptap
 ---

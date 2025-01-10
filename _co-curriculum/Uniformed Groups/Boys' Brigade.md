@@ -23,7 +23,7 @@ variant: markdown
 			<table style="border:1px solid black">
 		<tbody>
 			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Monday</td><td>3:00pm - 5:00pm</td><td>Arena &amp; Auditorium</td><td>Mrs Kelly Lye<br>Mr Yeo Wei Hao<br>Ms Gan Hui Teng</td></tr>
+			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Auditorium</td><td>Mrs Kelly Lye<br>Mr Yeo Wei Hao<br>Ms Gan Hui Teng</td></tr>
 		</tbody>
 	</table>
 		</td>
