@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - School Canteen.md
       - Chinese Calligraphy & Brush Painting.md
       - Modular CCA (Sports).md
       - Covid–19.md
