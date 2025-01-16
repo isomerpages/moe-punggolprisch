@@ -3,30 +3,9 @@ title: Boys' Brigade
 permalink: /cca/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
-		<td>To be the youth organisation of choice</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
-		<td style="text-align:justify">To nurture Youth, based on values to serve and lead.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
-		<td style="text-align:justify">To develop and nurture leaders with habits of obedience, reverence, discipline and self-respect by providing physical, social and spiritual interests guided by adult leaders as officers.</td>
-	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
-		<td style="text-align:justify">75th BB Company, sponsored by Paya Lebar Methodist Church started in 2000. This CCA is jointly run by BB Officers and teachers. Values are inculcated through a myriad of activities comprising Character Studies, Parade Drills, Singspiration, Adventure/Character Quest, VIAs and BB Camps.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
-		<td>
-			<table style="border:1px solid black">
-		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Auditorium</td><td>Mrs Kelly Lye<br>Mr Yeo Wei Hao<br>Ms Gan Hui Teng</td></tr>
-		</tbody>
-	</table>
-		</td>
-	</tr>
-	<tr><td></td></tr>
-</tbody></table>
+<div class="iframe-wrapper">
+<iframe height="750" width="1000" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vRw-OATuhg7Dvs4if4WL7D_hgMRoFlsRx7JTCfdHZlrZ4Bihq8PyjdPPUR6kFiVMAOx6h6zrchTpM_2/pub?embedded=true"></iframe>
+</div>
+<p></p>
