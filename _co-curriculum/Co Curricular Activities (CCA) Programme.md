@@ -20,5 +20,3 @@ CCA also promotes friendships among students from diverse backgrounds as they le
 <p></p>
 
 <p style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">At the primary level, it is not compulsory for students to participate in school-based CCA. However, we strongly encourage all students to participate in at least 1 school-based CCA during their course of study in PPS.</p>
-
-<p style="font-size:20px; font-weight:bold"><a target="_blank" href="/files/CCA/CCA_Schedule_2024.pdf">CCA Schedule 2024</a></p>
