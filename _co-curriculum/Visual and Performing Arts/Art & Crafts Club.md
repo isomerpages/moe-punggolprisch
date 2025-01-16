@@ -3,36 +3,9 @@ title: Art & Crafts Club
 permalink: /cca/Visual-and-Performing-Arts/arts-n-craft-club/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
-		<td>Creative Individuals with good habits of mind and character.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
-		<td style="text-align:justify">To provide Art &amp; Crafts Club members with an opportunity to enrich and foster their individuality through the creation of artworks. To develop members to be a gracious representative of the visual arts of the school and community.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
-		<td style="text-align:justify">The Art &amp; Crafts Club aims to imbue in students the love for the visual art and nurture artistic growth through meaningful and joyful artmaking activities.</td>
-	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
-		<td style="text-align:justify">Members of the Art &amp; Crafts Club maintains a sense of camaraderie for fellow members and supports each other through fun and enjoyable activities which are conducted on Tuesdays from 2 to 4 pm. Members can look forward to exciting learning journeys, teambonding session and art jamming sessions with their peers and teachers in the Art Studios.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
-		<td>
-			<table style="border:1px solid black">
-		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td width="100">Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>Art Studio 1 &amp; 2</td><td>Ms Erwina<br>Ms Naurah<br>Mdm Julaiha</td></tr>
-		</tbody>
-	</table>
-		</td>
-	</tr>
-	<tr><td></td></tr>
-</tbody></table>
-
-
-<div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Every Tuesday, students in Art &amp; Crafts Club are immersed in activities that promote their creativity. Students are involved in competitions such SYF (Singapore Youth Festival) logo design, creating towel crafts for the elderly, balloon sclpting and other craft making activities.</div>
-<br>
-<div style="font-family:arial; font-size:20px; color:royalblue; font-weight:bold; line-height:1.8">Cheng San Library Art Exhibition</div>
-<div style="font-family:arial; font-size:16px; text-align:justify; line-height:1.8">Budding artists from Punggol Primary School got a special highlight when their artworks got exhibited at the Cheng San Public Library from 12 March to 24 March 2018, through a special collaboration between the school and the National Library Board.&nbsp; Visitors to the library were treated to a visual feast, ranging from metal tooling crafts, acrylic painting, still life drawings, Chinese brush paintings and ceramic sculptures done by students across the six levels. It was indeed a proud moment for these young artists, to see the public appreciating and admiring their artworks and taking pictures of the exhibits on display.</div>
+<div class="iframe-wrapper">
+<iframe height="1000" width="1000" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vQhtlx-T4wIPSMR67OAre5-TXXn9t4RRcVjsfJt0fB_Dlwq7UaZCYpnv1t4zXKZ12Y1WQ2WiTkZOJdX/pub?embedded=true"></iframe>
+</div>
+<p></p>
