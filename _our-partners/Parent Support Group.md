@@ -19,7 +19,7 @@ variant: markdown
 
 <p style="text-align:justify">To quote Helen Keller, </p><blockquote style="font-size:20px; color:darkblue"><em>"Alone we can do so little; together we can do so much." </em></blockquote><p></p>
 
-<p>Yours sincerely,<br><b>Mdm Karen Lim Mei Lin<br>PSG Chairperson</b><br><br><br></p>
+<p>Yours sincerely,<br><b>Mdm Karen Lim Mei Lin<br>PSG Chairperson</b><br></p>
 		 </div>
 </li>
 	
