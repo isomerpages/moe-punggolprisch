@@ -3,33 +3,9 @@ title: Infocomm & Journalism Club
 permalink: /cca/Clubs-and-Societies/infocomm-n-journalism-club/
 description: ""
 third_nav_title: Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody><tr><td width="70" style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Vision ⇥</td>
-		<td style="text-align:justify">Ignite the joy in learning meaningful ICT tools and
-		</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Mission ⇥</td>
-		<td style="text-align:justify">Equip students with relevant ICT skills and and widen their perspectives on ICT.
-		</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Objective ⇥</td>
-		<td style="text-align:justify">Infocomm and Journalism Club aims to empower Punggolites to integrate media and ICT tools in a fun and meaningful way.
-		</td>
-	</tr>
-		<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Brief Description of CCA ⇥</td>
-		<td style="text-align:justify">Members of the Infocomm and Journalism Club are exposed to techniques of photography, filming, video journalism, programming skills and games development platforms such as Makey Makey, Mbot, Scratch and Drone.</td>
-	</tr>
-	<tr><td style="line-height:1; font-weight:bold; font-size: 20px; color:royalblue; border:0px solid black; text-align:right">Schedule ⇥</td>
-		<td style="text-align:justify">
-			<table style="border:1px solid black">
-		<tbody>
-			<tr style="line-height:10px; font-weight: bold; background-color:royalblue; font-size:16px;color:white"><td>Day</td><td>Time</td><td>Venue</td><td>Teacher in charge</td></tr>
-			<tr><td>Tuesday</td><td>2:00pm - 4:00pm</td><td>6S</td><td>Mdm Koh Wee Lin<br>Mdm Khuan Jiyan<br>Ms Geetha</td></tr>
-		</tbody>
-	</table>
-		</td>
-	</tr>
-	<tr><td></td></tr>
-</tbody></table>
+<div class="iframe-wrapper">
+<iframe height="750" width="1000" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vRx9RGOqBa-NL-v27oOM2otSTbXU2IKLKe1eD98f6X6uus101PyOPpGK6C2ShNR6ULk65Cll2oLyp3G/pub?embedded=true"></iframe>
+</div>
+<p></p>
