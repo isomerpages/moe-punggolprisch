@@ -125,7 +125,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Responsibility</td>
     <td>Mr Lin Ruixian</td>
-    <td>Ms Khng Su-Lyn Jacqqueline</td>
+    <td>Ms Khng Su-Lyn Jacqueline</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Joy</td>
