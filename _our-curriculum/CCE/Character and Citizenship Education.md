@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /our-curriculum/CCE/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 <div style="font-family:arial; font-size:25px; font-weight:bold; color:royalblue; line-height:3">Our Approach</div>
 <div style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8">The CCE Department aims to develop our Punggolites to be students of good character, have a balanced sense of self, form healthy relationships and be resilient when faced with challenges. Our students will be future-ready and be active citizens.</div> 
@@ -26,8 +27,5 @@ As all students are ambassadors to the school and play a pivotal role in display
 To build Teacher-Student Relationships and Student-Student Relationships, Punggolites enjoy time spent as a cohort with specially curated activities to develop Social-Emotional Competencies during our Level Bonding.</span>
 	<img src="/images/CCE/Art%20Bonding%20P4%20Success.jpeg" style="width:65%; border:2px solid black; padding:5px">
 	</li>
-	
-<li style="font-family:Arial; font-size:16px; text-align:justify; line-height:1.8"><span style="font-size:20px; color:royalblue; font-weight:bold">Social Studies</span><br>
-Social Studies include content knowledge that provides opportunities for exploration into national identity, contemporary issues, as well as Singapore’s constraints and vulnerabilities. As students interact with one another through group activities, project work, and learning journeys, they learn the skills of working together harmoniously, appreciating diversity, and active listening. They also learn how to demonstrate STAR values as they are encouraged to do their best in various learning tasks and relate to their teachers and fellow classmates.</li>
 </ul>
 <p></p>
