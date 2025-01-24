@@ -5,8 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/our_team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_PL_Team.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
