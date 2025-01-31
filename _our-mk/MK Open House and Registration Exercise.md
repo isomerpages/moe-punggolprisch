@@ -10,7 +10,6 @@ description: ""
 </a>.</p>
 <p>•<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a><strong>&nbsp;to register for MK Open House 2025.</strong>
 </p>
-<hr><a class="isomer-image-wrapper" href="mailto:mk_punggol@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_PL_OpenHouse_2025.jpg"></a>
 <hr>
 <h4><strong>2025 MK Registration Exercise</strong></h4>
 <ul data-tight="true" class="tight">
@@ -35,7 +34,7 @@ vacancies.</p>
 <p>For more information on the 2025 MK Open House and Registration Exercise,
 please visit&nbsp;<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/preschool/moe-kindergarten</u></a>.</p>
 </li>
-</ul>
+</ul><a class="isomer-image-wrapper" href="mailto:mk_punggol@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_PL_OpenHouse_2025.jpg"></a>
 <h4><strong>Programme Outline</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
