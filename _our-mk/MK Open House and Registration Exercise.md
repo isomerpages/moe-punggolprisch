@@ -10,7 +10,6 @@ description: ""
 </a>.</p>
 <p>•<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a><strong>&nbsp;to register for MK Open House 2025.</strong>
 </p>
-<hr>
 <h4><strong>2025 MK Registration Exercise</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
