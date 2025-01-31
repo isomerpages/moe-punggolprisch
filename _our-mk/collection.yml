@@ -2,6 +2,7 @@ collections:
   our-mk:
     output: true
     order:
+      - MK Open House and Registration Exercise.md
       - Our MK at Punggol/.keep
       - Our MK at Punggol/Welcome.md
       - Our MK at Punggol/Contact Us.md
@@ -22,4 +23,3 @@ collections:
       - Information for Parents/MK & KCare Fees.md
       - Information for Parents/Forms.md
       - Our Collaborations.md
-      - MK Open House and Registration Exercise.md
