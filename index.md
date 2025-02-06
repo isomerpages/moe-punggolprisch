@@ -16,10 +16,18 @@ sections:
           url: /useful-links/students
         - title: Our MK@Punggol
           description: ""
-          url: https://punggolpri.moe.edu.sg/our-mk/our-mk-at-punggol/welcome
+          url: /our-mk/openhouse/
       background: /images/herobanner2.png
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
+  - infopic:
+      title: MK Open House & Registration Exercise
+      subtitle: MK @ PUNGGOL
+      id: infopic
+      button: CLICK HERE
+      url: /our-mk/openhouse/
+      image: /images/MK/MK_PL_OpenHouse_2025.jpg
+      alt: Image alt text
   - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School

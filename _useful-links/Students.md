@@ -20,15 +20,15 @@ variant: markdown
 			<td style="border: solid 0px black">
 				<ul>
 					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://member.koobits.com/" target="_blank">Koobits</a></li>
-					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="http://www.mindclickonline.com/" target="_blank">Touch Typing</a></li>
 					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://www.literatu.com" target="_blank">Scribo</a></li>
+					<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></li>
 				</ul>
 		</td>
 		<td style="border: solid 0px black">
 			<ul>
 				<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">PPS OPAC Library</a></li>
-			<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a><br>	
-					<a href="/files/Student/Moo_O/MooO_Student_Installation_Guide2020.pdf" target="_blank">Installation Guide</a></li>
+			<li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://plus.moo-o.com/" target="_blank">Moo-O Plus</a>
+			</li><li style="line-height:0.5; font-family:arial; font-size:16px"><a href="https://www.dropbox.com/scl/fi/4uwszwmxurehzp1e0lexm/Moo-O-Installation-Guide-for-Home-Users.pdf?rlkey=ngrgcoht4t61vqidwodbezgf8&amp;e=1&amp;dl=0" target="_blank">Moo-O Installation Guide</a></li>
 			</ul>
 				</td>
 		</tr>

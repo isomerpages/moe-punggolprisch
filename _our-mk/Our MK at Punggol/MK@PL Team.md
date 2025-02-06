@@ -5,8 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Our MK at Punggol
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/our_team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_PL_Team.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -40,7 +46,7 @@ third_nav_title: Our MK at Punggol
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +91,14 @@ third_nav_title: Our MK at Punggol
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Marie Therese Anthony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur A’isyah Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

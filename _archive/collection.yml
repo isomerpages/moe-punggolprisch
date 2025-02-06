@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Our MK @ Punggol.md
       - Chinese Calligraphy & Brush Painting.md
       - Modular CCA (Sports).md
       - Covid–19.md
@@ -26,9 +27,7 @@ collections:
       - Staff Awards.md
       - CCA Achievement (ARCHIVE)/2019.md
       - CCA Achievement (ARCHIVE)/.keep
-      - Our MK @ Punggol.md
       - Operating Hours.md
       - Vision & Mission.md
-      - Open House and Registration 2024.md
       - Health & Fitness Club.md
       - MoneySense Financial Literacy Programme.md

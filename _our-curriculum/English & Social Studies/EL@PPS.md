@@ -1,8 +1,9 @@
 ---
 title: EL@PPS
-permalink: /our-curriculum/English/el-at-pps/
+permalink: /our-curriculum/english/el-at-pps/
 description: ""
-third_nav_title: English
+third_nav_title: English & Social Studies
+variant: tiptap
 ---
 ![](/images/English/el7.png)
 

@@ -1,8 +1,8 @@
 ---
 title: EL Programmes Promoting Joy of Learning
-permalink: /our-curriculum/English/el-programmes-promoting-joy-of-learning/
+permalink: /our-curriculum/english/el-programmes-promoting-joy-of-learning/
 description: ""
-third_nav_title: English
+third_nav_title: English & Social Studies
 variant: markdown
 ---
 <table style="font-size:16px; width:100%; border:2px solid royalblue">
