@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>Calling all Punggolites past, present, and future - Join us in our 30th Anniversary Homecoming, 30th May 2025 from 9 am to 3 pm - open to all.</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30_Homecoming/30_Homecoming_Page_Header.jpg">
+</div>
+<h4><strong>Calling all Punggolites past, present, and future - Join us in our 30th Anniversary Homecoming, 30th May 2025 from 9 am to 3 pm - open to all.</strong></h4>
 <p>Celebrate three decades of educational excellence with Punggol Primary
 School. We warmly invite you to commemorate this significant milestone,
 where past and present members of our school community can come together
@@ -43,7 +45,8 @@ the enduring spirit that makes our Punggol community special.</p>
 </tr>
 </tbody>
 </table>
-<p>We look forward to seeing you there!</p>
+<p><strong>We look forward to seeing you there!</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/30_Homecoming/30_ppshomecoming.jpg">
 </div>
