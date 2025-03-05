@@ -17,7 +17,7 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: /our-mk/openhouse/
-      background: /images/herobanner2.png
+      background: /images/30th_Anniversary_Banner.png
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
