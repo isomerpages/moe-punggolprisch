@@ -24,10 +24,10 @@ future.</p>
 <p>⏰ Time: 9:00 AM - 3:00 PM</p>
 <p>📍 Venue: Punggol Primary School</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30_Homecoming/Upon_Scanning_QR_Code_on_Banner__2_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upon_Scanning_QR_Code_on_Banner__3_.png">
+</div>
 <p>Embark on an exciting journey through our:</p>
 <ul data-tight="true" class="tight">
 <li>
