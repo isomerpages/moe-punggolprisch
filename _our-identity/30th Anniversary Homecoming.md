@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4><strong>Join us as we Reconnect with familiar faces, Reminisce about our shared journeys, and Renew the spirit that makes our school community special. </strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+</div>
+<h4><strong>Join us as we Reconnect with familiar faces, Reminisce about our shared journeys, and Renew the spirit that makes our school community special.</strong></h4>
 <p>Experience the magic of PPS through interactive discoveries, heartwarming
 performances, and meaningful moments that bridge our past, present, and
 future.</p>
