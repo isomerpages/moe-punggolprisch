@@ -4,7 +4,23 @@ permalink: /30th-anniversary-homecoming/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe height="750" width="1000" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vSNLxpIV7xaKyh4xdVPNuOOfaFSRqq86-lM5-Yy6-BRtP7djbV8IqpHsXbt95N-O4xuhuDxy27OC8nG/pub?embedded=true"></iframe>
-</div>
 <p></p>
+<p><strong>Calling all Punggolites past, present, and future - Join us in our 30th Anniversary Homecoming, 30th May 2025 from 9 am to 3 pm - open to all.</strong>
+</p>
+<p>Celebrate three decades of educational excellence with Punggol Primary
+School. We warmly invite you to commemorate this significant milestone,
+where past and present members of our school community can come together
+to share treasured memories and strengthen our bonds. This special occasion
+will feature engaging activities for alumni, students, teachers, staff
+and friends alike.</p>
+<p>📅 Date: Friday, 30th May&nbsp;</p>
+<p>⏰ Time: 9:00 AM - 3:00 PM</p>
+<p>📍 Venue: Punggol Primary School</p>
+<p>Immerse yourself in a festive atmosphere featuring mouth-watering treats,
+entertaining games, and engaging activities designed to evoke nostalgia
+whilst crafting fresh memories. This event presents the perfect setting
+to catch up with former classmates, reminisce about school days, and experience
+the enduring spirit that makes our Punggol community special.</p>
+<p>
+<br>
+</p>
