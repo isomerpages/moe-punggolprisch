@@ -21,6 +21,30 @@ entertaining games, and engaging activities designed to evoke nostalgia
 whilst crafting fresh memories. This event presents the perfect setting
 to catch up with former classmates, reminisce about school days, and experience
 the enduring spirit that makes our Punggol community special.</p>
-<p>
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/30_Homecoming/30_homecoming_page1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/30_Homecoming/30_homecoming_page2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>We look forward to seeing you there!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30_Homecoming/30_ppshomecoming.jpg">
+</div>
+<p></p>
