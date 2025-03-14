@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - 30th Anniversary Homecoming.md
       - Our MK @ Punggol.md
       - Chinese Calligraphy & Brush Painting.md
       - Modular CCA (Sports).md
