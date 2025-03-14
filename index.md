@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: Click here
       url: https://go.gov.sg/homecomingsite
-      image: /images/herobanner_5.png
+      image: /images/Banner_ppt.png
       alt: Image alt text
   - infopic:
       title: MK Open House & Registration Exercise
