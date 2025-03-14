@@ -21,6 +21,14 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS Homecoming
+      subtitle: PPS Celebrates
+      id: infopic
+      button: Click here
+      url: https://go.gov.sg/homecomingsite
+      image: /images/herobanner_5.png
+      alt: Image alt text
+  - infopic:
       title: MK Open House & Registration Exercise
       subtitle: MK @ PUNGGOL
       id: infopic
@@ -47,8 +55,4 @@ sections:
       alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
-  - resources:
-      title: PPS News
-      subtitle: Our Latest Updates
-      button: View All
 ---
