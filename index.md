@@ -47,8 +47,12 @@ sections:
       alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
-  - resources:
-      title: PPS News
-      subtitle: Our Latest Updates
-      button: View All
+  - infopic:
+      title: PPS Homecoming
+      subtitle: PPS Celebrates
+      id: infopic
+      button: Click here
+      url: https://go.gov.sg/homecomingsite
+      image: /images/herobanner_5.png
+      alt: Image alt text
 ---
