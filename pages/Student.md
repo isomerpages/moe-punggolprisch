@@ -17,17 +17,17 @@ description: ""
 <div class="isomer-card-link">Click here to login</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://member.koobits.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KooBits" src="/images/Icons/kb.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KooBits</div><div class="isomer-card-link">Click here to login</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://plus.moo-o.com/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Moo-O Plus" src="/images/Icons/mooO.png">
+<img style="width: 100%" height="auto" width="100%" alt="Scholastic Literacy Pro" src="/images/Icons/SLP.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Moo-O Plus</div>
+<div class="isomer-card-title">Scholastic Literacy Pro</div>
 <div class="isomer-card-link">Click here to login</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scholastic Literacy Pro" src="/images/Icons/SLP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scholastic Literacy Pro</div><div class="isomer-card-link">Click here to login</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://plus.moo-o.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Moo-O Plus" src="/images/Icons/mooO.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Moo-O Plus</div><div class="isomer-card-link">Click here to login</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.zbschools.sg/user-center/welcome?redirectUri=/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
