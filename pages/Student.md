@@ -4,3 +4,18 @@ permalink: /student/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scholastic Literacy Pro" src="/images/Icons/SLP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scholastic Literacy Pro </div><div class="isomer-card-link">Click here to login</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.zbschools.sg/user-center/welcome?redirectUri=/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="早报校园（大拇指 小拇指）" src="/images/Icons/zbxy.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">早报校园（大拇指 小拇指）</div>
+<div class="isomer-card-link">Click here to access the page</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ezhishi.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="知识网 eZhishi" src="/images/Icons/rzhishi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">知识网 eZhishi</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click here to access the page</div></div></a>
+</div>
+<p></p>
