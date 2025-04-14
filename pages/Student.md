@@ -51,4 +51,26 @@ description: ""
 </div>
 </a>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Student Learning Space (SLS)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/Student/SLS/getting_started_with_sls.pdf" rel="noopener nofollow" target="_blank">Getting Started with SLS (Initial Login)</a>
+</p>
+<p><a href="/files/Student/SLS/sls_acct_mgmt_guide.pdf" rel="noopener nofollow" target="_blank">SLS Account Management Guide</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Student iCON</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" rel="noopener nofollow" target="_blank">Onboarding Guide</a>
+</p>
+<p><a href="/files/Student/ICON/icon_password_requirements.pdf" rel="noopener nofollow" target="_blank">Password Requirement</a>
+</p>
+<p><a href="https://go.gov.sg/studiconbackup" rel="noopener nofollow" target="_blank">Backup Student iCON Data</a>
+</p>
+</div>
+</details>
+</div>
 <p></p>
