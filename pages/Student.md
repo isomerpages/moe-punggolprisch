@@ -51,25 +51,30 @@ description: ""
 </div>
 </a>
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Student Learning Space (SLS)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/Student/SLS/getting_started_with_sls.pdf" rel="noopener nofollow" target="_blank">Getting Started with SLS (Initial Login)</a>
-</p>
-<p><a href="/files/Student/SLS/sls_acct_mgmt_guide.pdf" rel="noopener nofollow" target="_blank">SLS Account Management Guide</a>
-</p>
-</div>
-</details>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Student iCON</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" rel="noopener nofollow" target="_blank">Onboarding Guide</a>
-</p>
-<p><a href="/files/Student/ICON/icon_password_requirements.pdf" rel="noopener nofollow" target="_blank">Password Requirement</a>
-</p>
-<p><a href="https://go.gov.sg/studiconbackup" rel="noopener nofollow" target="_blank">Backup Student iCON Data</a>
-</p>
+<p></p>
+<p></p>
+<h3><strong><u>Self-Service Password Reset Service</u></strong></h3>
+<h4>What is it about?</h4>
+<p>Your MIMS account gives you access to your accounts like Student iCON,
+Student Learning Space, etc. If you forget your MIMS password, you would
+not be able to access these accounts.</p>
+<p></p>
+<p>Currently, you would have to approach your Form Teacher to perform a password
+reset for you. However, this is inconvenient and the process is not immediate.</p>
+<p></p>
+<p>With the MIMS Student Self-Service Password Reset Service, you would be
+able to perform the password reset yourself if you forget your password.</p>
+<p></p>
+<h4><em>How do I enable this?</em></h4>
+<p>You will need to perform a one-time set up of answers to challenge questions
+in your MIMS Portal to enable student self-service password reset when
+required.</p>
 </div>
 </details>
 </div>
