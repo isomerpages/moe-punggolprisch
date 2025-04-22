@@ -61,26 +61,42 @@ description: ""
 <details class="isomer-details">
 <summary>SLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" rel="noopener nofollow" target="_blank">What is SLS?</a>
 </p>
-<p><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Account Management </a>
+</li>
+<li>
+<p><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Account Management</a>
 </p>
+</li>
+<li>
 <p><a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">Password &amp; Technical Support</a>
 </p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MS Teams Quick Guide</a>
-</summary>
+<summary>MS Teams</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener nofollow" target="_blank">Quick Guide on login to MS Teams, join meetings &amp; view recorded meetings</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><a href="https://www.dropbox.com/scl/fi/4uwszwmxurehzp1e0lexm/Moo-O-Installation-Guide-for-Home-Users.pdf?rlkey=ngrgcoht4t61vqidwodbezgf8&amp;e=1&amp;dl=0" rel="noopener nofollow" target="_blank">Moo-O Installation Guide</a>
-</summary>
+<summary>Moo-O</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.dropbox.com/scl/fi/4uwszwmxurehzp1e0lexm/Moo-O-Installation-Guide-for-Home-Users.pdf?rlkey=ngrgcoht4t61vqidwodbezgf8&amp;e=1&amp;dl=0" rel="noopener nofollow" target="_blank">Installation Guide</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
