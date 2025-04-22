@@ -67,7 +67,7 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>SLS</strong>
+<summary><strong>Student Learning Space (SLS)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" rel="noopener nofollow" target="_blank">What is SLS?</a>
@@ -79,27 +79,19 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>MS Teams</strong>
+<summary><strong>Microsoft Teams</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener nofollow" target="_blank">Learn how to login to MS Teams, join meetings &amp; view recorded meetings</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Moo-O</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://www.dropbox.com/scl/fi/4uwszwmxurehzp1e0lexm/Moo-O-Installation-Guide-for-Home-Users.pdf?rlkey=ngrgcoht4t61vqidwodbezgf8&amp;e=1&amp;dl=0" rel="noopener nofollow" target="_blank">Installation Guide</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 </div>
