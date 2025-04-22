@@ -16,27 +16,26 @@ description: ""
 <div class="isomer-card-title">Student Learning Space (SLS)</div>
 <div class="isomer-card-link">Click here to login</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://member.koobits.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KooBits" src="/images/Icons/kb.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KooBits</div><div class="isomer-card-link">Click here to login</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.office.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MS Teams" src="/images/Icons/teams.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MS Teams</div><div class="isomer-card-description">Sign in with your MIMS account username and password.</div><div class="isomer-card-link">Click here to login</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://member.koobits.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scholastic Literacy Pro" src="/images/Icons/SLP.png">
+<img style="width: 100%" height="auto" width="100%" alt="KooBits" src="/images/Icons/kb.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Scholastic Literacy Pro</div>
+<div class="isomer-card-title">KooBits</div>
 <div class="isomer-card-link">Click here to login</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://plus.moo-o.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Moo-O Plus" src="/images/Icons/mooO.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Moo-O Plus</div><div class="isomer-card-link">Click here to login</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.office.com/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://slz02.scholasticlearningzone.com/resources/dp-int/dist/#/login3/SGPDT3K" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scholastic Literacy Pro" src="/images/Icons/SLP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scholastic Literacy Pro</div><div class="isomer-card-link">Click here to login</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://plus.moo-o.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MS Teams" src="/images/Icons/teams.png">
+<img style="width: 100%" height="auto" width="100%" alt="Moo-O Plus" src="/images/Icons/mooO.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MS Teams</div>
-<div class="isomer-card-description">Sign in with your MIMS account username and password.</div>
+<div class="isomer-card-title">Moo-O Plus</div>
 <div class="isomer-card-link">Click here to login</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.zbschools.sg/user-center/welcome?redirectUri=/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="早报校园（大拇指 小拇指）" src="/images/Icons/zbxy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">早报校园（大拇指 小拇指）</div><div class="isomer-card-link">Click here to access the page</div></div></a>
@@ -73,7 +72,8 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>Moo-O Installation Guide</summary>
+<summary><a href="https://www.dropbox.com/scl/fi/4uwszwmxurehzp1e0lexm/Moo-O-Installation-Guide-for-Home-Users.pdf?rlkey=ngrgcoht4t61vqidwodbezgf8&amp;e=1&amp;dl=0" rel="noopener nofollow" target="_blank">Moo-O Installation Guide</a>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
