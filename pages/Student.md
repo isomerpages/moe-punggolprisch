@@ -59,9 +59,14 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>SLS sdf</summary>
+<summary>SLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" rel="noopener nofollow" target="_blank">What is SLS?</a>
+</p>
+<p><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Account Management </a>
+</p>
+<p><a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">Password &amp; Technical Support</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
