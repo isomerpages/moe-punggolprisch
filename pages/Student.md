@@ -55,7 +55,14 @@ description: ""
 <details class="isomer-details">
 <summary>Student iCON</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" rel="noopener nofollow" target="_blank">Onboarding Guide</a>
+</p>
+<p><a href="/files/Student/ICON/MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Student Self Service Password Reset Guide</a>
+</p>
+<p><a href="/files/Student/ICON/quick_guide_on_student_icon_data_management.pdf" rel="noopener nofollow" target="_blank">Manage your Google Workspace Storage</a>
+</p>
+<p><a href="/files/Student/ICON/google_takeout_guide_for_student_icon.pdf" rel="noopener nofollow" target="_blank">(For Graduating Students) Back up Student iCON Data</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -82,7 +89,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener nofollow" target="_blank">Quick Guide on login to MS Teams, join meetings &amp; view recorded meetings</a>
+<p><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener nofollow" target="_blank">Learn how to login to MS Teams, join meetings &amp; view recorded meetings</a>
 </p>
 </li>
 </ul>
