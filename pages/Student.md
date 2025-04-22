@@ -53,7 +53,8 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Student iCON</summary>
+<summary><strong>Student iCON</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="/files/Student/ICON/student_icon_onboarding_guide.pdf" rel="noopener nofollow" target="_blank">Onboarding Guide</a>
 </p>
@@ -66,26 +67,20 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>SLS</summary>
+<summary><strong>SLS</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://www.youtube.com/watch?v=eKIHRVWxYPI" rel="noopener nofollow" target="_blank">What is SLS?</a>
 </p>
-</li>
-<li>
 <p><a href="https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener nofollow" target="_blank">Account Management</a>
 </p>
-</li>
-<li>
 <p><a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">Password &amp; Technical Support</a>
 </p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>MS Teams</summary>
+<summary><strong>MS Teams</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -96,7 +91,8 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>Moo-O</summary>
+<summary><strong>Moo-O</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
