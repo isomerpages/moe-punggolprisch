@@ -52,4 +52,31 @@ description: ""
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://schoolibrary.moe.edu.sg/punggolpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PPS OPAC Library" src="/images/Icons/opac.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS OPAC Library</div><div class="isomer-card-link">Click here to login</div></div></a>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Student iCON</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>SLS sdf</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><a href="/files/Student/MS_Teams_Quick_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MS Teams Quick Guide</a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Moo-O Installation Guide</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
