@@ -1,6 +1,6 @@
 ---
 title: MK Open House and Registration Exercise
-permalink: /our-mk/openhouse/
+permalink: /archive/openhouse/
 variant: tiptap
 description: ""
 ---
