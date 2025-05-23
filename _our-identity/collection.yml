@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - E Open House.md
       - Principal's Message.md
       - School Mission, Vision and Motto.md
       - Our S T A R Values.md
@@ -16,4 +15,5 @@ collections:
       - PPS Student Outcomes.md
       - Strategic Directions.md
       - School Rules and Regulations.md
+      - E Open House.md
       - 30th Anniversary Homecoming.md
