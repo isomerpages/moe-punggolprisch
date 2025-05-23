@@ -4,7 +4,7 @@ permalink: /e-openhouse/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/yqfvi2Sss90" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House 2024</div><div class="isomer-card-link">Click here to view the video</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/K4EHVNYtfUg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Welcome" src="/images/Photos/2024/Primary_1J_milestone.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PPS e-Open House</div><div class="isomer-card-link">Click here to view the video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/eOz_Av5halM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
