@@ -28,7 +28,7 @@ sections:
         e-Open House brings our vibrant school community directly to your
         screen.
       button: CLICK HERE
-      url: /our-identity/E%20Open%20House.md
+      url: /our-identity/E-openhouse.md
       image: /images/Photos/2024/PPS_OpenHouse.png
       alt: Image alt text
   - infopic:
