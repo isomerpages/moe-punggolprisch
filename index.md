@@ -28,8 +28,8 @@ sections:
         e-Open House brings our vibrant school community directly to your
         screen.
       button: CLICK HERE
-      url: https://youtu.be/K4EHVNYtfUg
-      image: /images/Photos/2024/Primary_1J_milestone.jpg
+      url: /our-identity/E%20Open%20House.md
+      image: /images/Photos/2024/PPS_OpenHouse.png
       alt: Image alt text
   - infopic:
       title: PPS Homecoming
