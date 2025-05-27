@@ -1,5 +1,5 @@
 collections:
-  event:
+  events:
     output: true
     order:
       - E Open House.md
