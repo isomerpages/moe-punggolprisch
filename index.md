@@ -29,7 +29,7 @@ sections:
         screen.
       button: CLICK HERE
       url: /events/e-openhouse
-      image: /images/Photos/2024/PPS_OpenHouse2.png
+      image: /images/Photos/2025/PPS_OpenHouse.png
       alt: Image alt text
   - infopic:
       title: PPS Homecoming
