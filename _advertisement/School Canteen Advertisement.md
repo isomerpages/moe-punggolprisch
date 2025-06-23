@@ -108,7 +108,7 @@ School’s General Office by the closing date.</p>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: <strong>Hougang MRT (NE14),  Buangkok MRT (NE15)</strong>
+<p>Nearest MRT: <strong>Hougang MRT (NE14), Buangkok MRT (NE15)</strong>
 </p>
 </li>
 <li>
