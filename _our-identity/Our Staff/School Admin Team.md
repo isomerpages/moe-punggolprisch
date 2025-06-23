@@ -33,7 +33,7 @@ variant: markdown
     <td>Ms Norashikin Bte Ishak</td>
   </tr>
   <tr>
-		<td rowspan="3" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
+		<td rowspan="4" style="background-color:ghostwhite">Corporate Support Officer (CSO)</td>
     <td>Mdm Rubiah Binte Mahfol</td>
   </tr>
 	<tr>
@@ -41,6 +41,9 @@ variant: markdown
 	</tr>
 		<tr>
 		<td>Mdm Sharifah Badariah Binte Syed Abdullah Alsagoff</td>
+	</tr>
+			<tr>
+		<td>Mdm Cheng Bu Min (June)</td>
 	</tr>
   <tr>
 		<td rowspan="5" style="background-color:ghostwhite">Operations Support Officer (OSO)</td>
@@ -82,7 +85,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>-</td>
+    <td>Mr Jaikubali TM</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
