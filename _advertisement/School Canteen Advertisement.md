@@ -43,7 +43,7 @@ description: ""
 <h4><strong>&nbsp;Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click on the link below).
+<p>Download and complete the <a href="/files/General/Application_for_Canteen_Stall_Form_BF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>.
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
@@ -85,26 +85,33 @@ etc</p>
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
 School’s General Office by the closing date.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: <strong>Punggol Primary School, 61 Hougang Avenue 8, Singapore 538787</strong>
-</p>
-</li>
-<li>
-<p>Contact No: <strong>63850762</strong>
-</p>
-</li>
-<li>
-<p>Email: <strong><a href="mailto:punggol_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggol_ps</a><a rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a></strong>
-</p>
-</li>
-<li>
-<p>Contact Person: <strong>Mdm Siti Masura, Admin Manager</strong>
-</p>
-</li>
-</ul>
 </li>
 </ol>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: Punggol Primary School, 61 Hougang Avenue 8, Singapore 538787</p>
+</li>
+<li>
+<p>Contact No: 63850762</p>
+</li>
+<li>
+<p>Email: punggol_ps@moe.edu.sg</p>
+</li>
+<li>
+<p>Contact Person: Mdm Siti Masura, Admin Manager</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -116,7 +123,6 @@ School’s General Office by the closing date.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Interested applicants must meet the following criteria:</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
