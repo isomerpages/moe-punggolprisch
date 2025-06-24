@@ -19,7 +19,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Contact</td>
-			<td>+65 6518 9611</td>
+			<td>62848785 or 65189611</td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Book List</td>
