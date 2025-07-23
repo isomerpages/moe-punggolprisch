@@ -3,37 +3,72 @@ title: Learning Support Team
 permalink: /our-identity/Our-Staff/learning-support-team/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-<table width="100%">
-	
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr style="line-height:10px; background-color:royalblue; font-size:18px; color:white">
-    <td width="210">Designation</td>
-    <td>Name</td>
-  </tr>
-	<tr>
-    <td style="background-color:ghostwhite">Senior School Counsellor</td>
-    <td>Mr Lee Ying Chiat</td>
-  </tr>
-	<tr>
-		<td style="background-color:ghostwhite">School Counsellor</td>
-		<td>Ms Lim Shi Hui Canice</td>
-	</tr>
-	<tr>
-    <td style="background-color:ghostwhite">Senior SEN Officer</td>
-    <td>Mr Ahmad Najib Bin Muslim</td>
-  </tr>
-  <tr>
-    <td rowspan="3" style="background-color:ghostwhite">SEN Officer</td>
-		<td>Ms Koh Xiao Pei</td>
-		</tr>
-	<tr>
-		<td>Mdm Nurul Shireen Binte Saburudin</td>
-	</tr>
-	<tr>
-		<td>Mdm Sharon Anne Holmberg</td>
-	</tr>
-	<tr><td></td></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Ying Chiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Shi Hui Canice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Najib Bin Muslim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Xiao Pei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Shireen Binte Saburudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharon Anne Holmberg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
