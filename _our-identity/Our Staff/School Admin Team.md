@@ -85,7 +85,7 @@ variant: markdown
 	</tr>
 	<tr>
     <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>Mr Jaikubali TM</td>
+    <td>-</td>
   </tr>
 	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
@@ -110,7 +110,7 @@ variant: markdown
 		<td>Mr Rajascharan</td>
 	</tr>
 	<tr>
-		<td>Mr Hirose Takayuki</td>
+		<td>Mr Leong Kok Tai</td>
 	</tr>
 
 
