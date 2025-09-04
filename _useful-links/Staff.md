@@ -51,7 +51,7 @@ variant: markdown
 			<li style="line-height:2;"><a href="https://idp.mims.moe.gov.sg" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MIMS Portal</a></li>
 			<li style="line-height:2;"><a href="https://intranet.moe.gov.sg" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px;">MOE Intranet</a></li>
 			<li style="line-height:2;"><a href="https://www.opal2.moe.edu.sg/app/learner" target="_blank"><img src="/images/Icons/opal_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">OPAL</a></li>
-		<li style="line-height:2;"><a href="https://punggolpri.padlet.org/auth/login" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
+		<li style="line-height:2;"><a href="https://padlet.com/punggolpri" target="_blank"><img src="/images/Icons/padlet2.png" style="float:left;width:35px;height:35px">Padlet</a></li>
 		<li style="line-height:2;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Icons/PG.png" style="border:3px solid white; float:left;width:35px;height:35px">Parents Gateway</a></li>
 			</ul></td>
 		<td><ul style="margin:0px; list-style-type:none; line-height:3">
