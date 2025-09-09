@@ -114,8 +114,8 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Teamwork</td>
-    <td>Mdm Tan Ai Kiam</td>
-    <td>Mdm Shiamala d/o Ramyah<br>Mdm Julaiha Mohd Jamil</td>
+    <td>Mdm Shiamala d/o Ramyah</td>
+    <td>Mdm Julaiha Mohd Jamil</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Affection</td>
@@ -209,8 +209,8 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Joy</td>
-    <td>Mdm Nurulhuda Bte Abdul Samat</td>
     <td>Mdm Li Yuan</td>
+    <td>Mdm Teh Hui Ling, Teresa</td>
   </tr>
 </tbody>
 </table>
