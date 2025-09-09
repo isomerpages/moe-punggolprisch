@@ -209,8 +209,8 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Joy</td>
-    <td>Mdm Li Yuan</td>
-    <td>Mdm Teh Hui Ling, Teresa</td>
+    <td>Mdm Nurulhuda Bte Abdul Samat</td>
+    <td>Mdm Li Yuan<br>Mdm Teh Hui Ling, Teresa</td>
   </tr>
 </tbody>
 </table>
