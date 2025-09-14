@@ -114,8 +114,8 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Teamwork</td>
-    <td>Mdm Tan Ai Kiam</td>
-    <td>Mdm Shiamala d/o Ramyah<br>Mdm Julaiha Mohd Jamil</td>
+    <td>Mdm Shiamala d/o Ramyah</td>
+    <td>Mdm Julaiha Mohd Jamil</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Affection</td>
@@ -210,7 +210,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Joy</td>
     <td>Mdm Nurulhuda Bte Abdul Samat</td>
-    <td>Mdm Li Yuan</td>
+    <td>Mdm Li Yuan<br>Mdm Teh Hui Ling, Teresa</td>
   </tr>
 </tbody>
 </table>
@@ -303,11 +303,17 @@ variant: markdown
 		<td></td>
 	</tr>
   <tr style="line-height:1">
-     <td style="background-color:ghostwhite">MALAY</td>
+     <td rowspan="2" style="background-color:ghostwhite">MALAY</td>
 		<td>Mdm Norwati Bte Sulaiman</td>
 		<td>Ms Hairani Bte Asri</td>
 		<td>Mdm Mahirah Bte Mohd Thoimi</td>
   </tr>
+	<tr style="line-height:1">
+		<td>Mdm Nurul Aqilah Bte Zainuddin</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
 	<tr style="line-height:1">
 	  <td rowspan="2" style="border:0px; background-color:ghostwhite">TAMIL</td>
 		<td>Mdm Shiamala d/o Ramyah</td>
