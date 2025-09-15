@@ -24,17 +24,6 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
-      title: PPS e-Open House
-      subtitle: PUNGGOL PRIMARY SCHOOL
-      id: infopic
-      description: Ready to embark on an exciting educational journey? Our interactive
-        e-Open House brings our vibrant school community directly to your
-        screen.
-      button: CLICK HERE
-      url: /events/e-openhouse
-      image: /images/Photos/2025/PPS_OpenHouse.png
-      alt: Image alt text
-  - infopic:
       title: PPS Homecoming
       subtitle: PPS Celebrates
       id: infopic
