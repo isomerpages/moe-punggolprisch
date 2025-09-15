@@ -29,7 +29,6 @@ variant: markdown
     <td>Ms Annie Chin</td>
   </tr>
 	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
-	<tr><td>Mr Stanley Mark Tay Guan Seng</td></tr>
 		<tr><td>Ms Yuna Ernanita</td></tr>
 		<tr><td>Mr Wayne Liang Wenxian</td></tr>
 		<tr><td></td></tr>
