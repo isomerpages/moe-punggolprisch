@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - E Open House 2025.md
+    order: []
