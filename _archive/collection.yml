@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - E Open House 2025.md
       - MK Open House and Registration Exercise.md
       - Our MK @ Punggol.md
       - Chinese Calligraphy & Brush Painting.md
