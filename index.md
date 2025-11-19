@@ -16,7 +16,7 @@ sections:
           url: /useful-links/students
         - title: Our MK@Punggol
           description: ""
-          url: /our-mk/openhouse/
+          url: /our-mk/our-mk-at-punggol/welcome/
         - title: Advertisement
           description: ""
           url: /advertisement/school-canteen-advertisement
