@@ -24,7 +24,7 @@ description: ""
 		<tr>
 			<td style="font-weight:bold"> </td>
 			<td>
-				<img src="/images/Nametag_Ordering.png" style="width:300px; height:300px;" align="left">
+				<img src="/images/Nametag_Ordering.png" style="width:300px; height:350px;" align="left">
 			</td>
 		</tr>
 		<tr><td></td></tr>
