@@ -23,10 +23,9 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold"> </td>
-			<td>
+			<td>![dd](/images/Nametag_Ordering.png)
 			</td>
 		</tr>
-		
 		<tr><td></td></tr>
 	</tbody>
 </table>
