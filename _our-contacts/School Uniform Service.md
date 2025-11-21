@@ -23,11 +23,19 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a><br><a href="https://drive.google.com/file/d/1u2zOCs8G-DnQjQPk-_A12VZpVFc6cfNl/view?usp=sharing" target="_blank">Price List and Exchange Policy</a></td>
+			<td><a href="https://www.magdalene.com.sg" target="_blank">Place your order here</a><br><a href="https://drive.google.com/file/d/1jEmwefEqubGfK9HihG9Z-u17r_fKy5tk/view?usp=sharing" target="_blank">Price List and Exchange Policy</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Outlet</td>
 			<td>5000 Ang Mo Kio Ave 5, #05-09, Techplace II, Singapore 569870</td>
+		</tr>
+		<tr>
+			<td colspan="2"><b><u>2025 Year-End Sales</u></b><br><br>
+			Please note that school uniforms will be available for purchase at the school canteen on the following dates:<br><br>
+				<b>November</b>: 27 &amp; 28 <br>
+				<b>December</b>: 4, 5, 17, 18, 19 <br><br>
+Sales will be conducted from 9am to 3pm on all listed dates.
+</td>
 		</tr>
 		<tr><td></td></tr>
 	</tbody>
