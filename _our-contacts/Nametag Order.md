@@ -15,7 +15,7 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold">Website</td>
-			<td><a target="_blank" href="https://nametags.stitchwerkz.sg/product-page/nametag-punggol-primary-school">https://nametags.stitchwerkz.sg/product-page/nametag-punggol-primary-school</a></td>
+			<td><a target="_blank" href="https://nametags.stitchwerkz.sg/product-page/nametag-punggol-primary-school">https://nametags.stitchwerkz.sg/</a></td>
 		</tr>
 		<tr>
 			<td style="font-weight:bold">WhatsApp</td>
