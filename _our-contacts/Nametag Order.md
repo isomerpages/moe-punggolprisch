@@ -23,7 +23,8 @@ description: ""
 		</tr>
 		<tr>
 			<td style="font-weight:bold"> </td>
-			<td>![dd](/images/Nametag_Ordering.png)
+			<td>
+				<img src="/images/Nametag_Ordering.png" style="width:300px; height:300px;" align="left">
 			</td>
 		</tr>
 		<tr><td></td></tr>
