@@ -33,7 +33,6 @@ variant: markdown
 				<a href="https://drive.google.com/file/d/19zM7BUPGCvihOtgodmn5O531wbN_fXeW/view?usp=drive_link" target="_blank">2026 - Primary 6 Higher &amp; Standard MT</a><br>
 			</td>
 		</tr>
-		
 		<tr><td></td></tr>
 	</tbody>
 </table>
