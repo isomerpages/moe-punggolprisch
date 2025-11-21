@@ -2,9 +2,9 @@ collections:
   our-contacts:
     output: true
     order:
-      - Nametag Order.md
       - Punggol Primary.md
       - Book Shop Service.md
+      - Nametag Order.md
       - Bus Service.md
       - Dental Service.md
       - School Uniform Service.md
