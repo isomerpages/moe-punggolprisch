@@ -70,7 +70,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">2 Teamwork</td>
     <td>Mdm Jeannie Ng Mui Keng</td>
-    <td>Mdm Nurul Aqilah Bte Zainuddin<br>Mdm Loo Ai Lin</td>
+    <td>Mdm Nurul Aqilah Bte Zainuddin</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">2 Affection</td>
@@ -200,7 +200,7 @@ variant: markdown
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Affection</td>
     <td>Mr Cheng Guo Wei, Derek</td>
-    <td>Mdm Bawvaney Sommasundaram<br>Mr Muhamad Raihan Bin Sudirman</td>
+    <td>Mdm Bawvaney Sommasundaram</td>
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">5 Responsibility</td>

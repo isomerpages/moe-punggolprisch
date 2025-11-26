@@ -1,6 +1,6 @@
 ---
 title: Staff Achievements
-permalink: /staff-achievements/
+permalink: /achievements-and-affirmations/2024/staff-achievements/
 variant: tiptap
 description: ""
 third_nav_title: "2024"
