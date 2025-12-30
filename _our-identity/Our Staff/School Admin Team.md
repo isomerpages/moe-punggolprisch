@@ -84,10 +84,6 @@ variant: markdown
 		<td>Mdm Akkayasamy Nagalakshmi</td>
 	</tr>
 	<tr>
-    <td style="background-color:ghostwhite">ICT Trainer</td>
-    <td>-</td>
-  </tr>
-	<tr>
     <td style="background-color:ghostwhite">Library Assistant</td>
     <td>Mdm Tan Kim Heok (Peggy)</td>
   </tr>
