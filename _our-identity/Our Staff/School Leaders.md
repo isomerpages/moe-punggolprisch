@@ -15,7 +15,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:ghostwhite">Principal</td>
-    <td>Mdm Norliza A Rahim</td>
+    <td>Mrs Ko-Tan Li Ling</td>
   </tr>
   <tr>
     <td style="background-color:ghostwhite">Vice Principal - Academic</td>    
