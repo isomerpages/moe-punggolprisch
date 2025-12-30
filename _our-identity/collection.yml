@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - Principal's Message.md
       - School Mission, Vision and Motto.md
       - Our S T A R Values.md
       - Our Staff/.keep
