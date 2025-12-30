@@ -24,14 +24,6 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
-      title: PPS Homecoming
-      subtitle: PPS Celebrates
-      id: infopic
-      button: Click here
-      url: https://go.gov.sg/homecomingsite
-      image: /images/Banner_ppt.png
-      alt: Image alt text
-  - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
       id: infopic
