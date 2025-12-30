@@ -20,10 +20,6 @@ variant: markdown
     <td>Ms Afifah Binti Abd Y Aljaru</td>
   </tr>
   <tr>
-    <td style="background-color:ghostwhite">English (EL),<br>Social Studies (SS)</td>
-    <td>Ms Noraini Bte Yosorh</td>
-  </tr>
-  <tr>
     <td style="background-color:ghostwhite">Mathematics (MA)</td>
     <td>Mr Vincent Koh</td>
   </tr>
@@ -111,7 +107,7 @@ variant: markdown
     <td>Name</td>
   </tr>
   <tr>
-		<td style="background-color:ghostwhite">English (EL)</td>
+		<td style="background-color:ghostwhite">English (EL)<br>(covering HOD)</td>
     <td>Mrs Padmini Prakash</td>
   </tr>
   <tr>
