@@ -116,7 +116,7 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Mathematics (MA)</td>
-    <td>Ms Janet Heng </td>
+    <td>Mdm Janet Heng </td>
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Physical Education (PE)</td>
@@ -137,7 +137,7 @@ variant: markdown
     <td>Name</td>
   </tr>
   <tr>
-		<td style="background-color:ghostwhite">Lead Teacher (Malay Language)</td>
+		<td style="background-color:ghostwhite">Senior Teacher (Malay Language)</td>
     <td>Mdm Norwati Bte Sulaiman</td>
   </tr>
  <tr>
