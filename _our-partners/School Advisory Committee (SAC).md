@@ -22,10 +22,10 @@ variant: markdown
   </tr>
   <tr>
 		<td style="background-color:ghostwhite">Hon Secretary</td>
-    <td>Mdm Norliza A Rahim</td>
+    <td>Mrs Ko-Tan Li Ling</td>
   </tr>
   <tr>
-		<td rowspan="5" style="background-color:ghostwhite">Members</td>
+		<td rowspan="4" style="background-color:ghostwhite">Members</td>
     <td>Ms Annie Chin</td>
   </tr>
 	<tr><td>Mdm Ashirdahwani Binte Asmawi</td></tr>
