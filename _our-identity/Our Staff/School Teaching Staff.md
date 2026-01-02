@@ -109,7 +109,7 @@ variant: markdown
   </tr>
   <tr style="line-height:1">
     <td style="background-color:ghostwhite">3 Self-Discipline</td>
-    <td>Mdm Ang Wee Keng</td>
+    <td>Mrs Regine Ang</td>
     <td>Mdm Chen Yun</td>
   </tr>
   <tr style="line-height:1">
