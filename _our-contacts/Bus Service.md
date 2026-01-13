@@ -62,8 +62,7 @@ variant: markdown
 		<td style="text-align:center; border:1px solid black">$200.00</td>
 	</tr>
 	</tbody>
-	</table>
-	<table>
+	</table><table>
 	<thead>
 		<tr><td style="font-weight:bold;" colspan="2">After School Services</td></tr>
 	</thead>
