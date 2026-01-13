@@ -30,11 +30,7 @@ variant: markdown
 		</tr>
 		<tr><td></td></tr>
 	</tbody>
-</table>
-
-
-
-<table>
+</table><table>
 	<thead>
 		<tr><td style="font-weight:bold;" colspan="2">Period: 1 Jan 2025 to 31 Dec 2026</td></tr>
 	</thead>
