@@ -42,4 +42,11 @@ sections:
       alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
+  - infopic:
+      title: Newsletter 2025 Semester 2
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      button: CLICK HERE
+      url: https://www.canva.com/design/DAG0vydiDCc/xxe0l7kTVCh53sefnTKY3w/watch
+      alt: Image alt text
 ---
