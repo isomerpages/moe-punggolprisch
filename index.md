@@ -24,6 +24,15 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS Heartbeat
+      subtitle: NEWSLETTER
+      id: infopic
+      button: CLICK HERE
+      url: https://www.canva.com/design/DAG0vydiDCc/xxe0l7kTVCh53sefnTKY3w/watch
+      alt: Image alt text
+      image: /images/Photos/2026/PPSNewltr2025S2.png
+      description: Vol 2, 2025
+  - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
       id: infopic
@@ -42,11 +51,4 @@ sections:
       alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
-  - infopic:
-      title: Newsletter 2025 Semester 2
-      subtitle: PUNGGOL PRIMARY SCHOOL
-      id: infopic
-      button: CLICK HERE
-      url: https://www.canva.com/design/DAG0vydiDCc/xxe0l7kTVCh53sefnTKY3w/watch
-      alt: Image alt text
 ---
