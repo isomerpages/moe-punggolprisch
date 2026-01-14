@@ -31,7 +31,7 @@ sections:
       url: https://www.canva.com/design/DAG0vydiDCc/xxe0l7kTVCh53sefnTKY3w/watch
       alt: Image alt text
       image: /images/Photos/2026/PPSNewltr2025S2.png
-      description: Vol 2, 2025
+      description: Don’t miss the buzz—read our latest newsletter!
   - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
