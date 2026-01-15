@@ -30,11 +30,7 @@ variant: markdown
 		</tr>
 		<tr><td></td></tr>
 	</tbody>
-</table>
-
-
-
-<table>
+</table><table>
 	<thead>
 		<tr><td style="font-weight:bold;" colspan="2">Period: 1 Jan 2025 to 31 Dec 2026</td></tr>
 	</thead>
@@ -64,6 +60,28 @@ variant: markdown
 		<td style="text-align:center; border:1px solid black">$200.00</td>
 		<td style="text-align:center; border:1px solid black">$180.00</td>
 		<td style="text-align:center; border:1px solid black">$200.00</td>
+	</tr>
+	</tbody>
+	</table><table>
+	<thead>
+		<tr><td style="font-weight:bold;" colspan="2">After School Services</td></tr>
+	</thead>
+	<tbody>
+	<tr></tr>
+		<tr>
+		<td style="font-weight:bold; vertical-align:middle; text-align:center; border:1px solid black">Distance Range Category</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black">Up to 15 seater (per trip)</td>
+		<td style="font-weight:bold; text-align:center; border:1px solid black">&gt; 15 seater (per trip)</td>
+		</tr>
+	<tr>
+		<td style="text-align:center; border:1px solid black">Up to 2km</td>
+		<td style="text-align:center; border:1px solid black">$5.00</td>
+		<td style="text-align:center; border:1px solid black">$5.00</td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border:1px solid black">&gt;2 - 4km</td>
+		<td style="text-align:center; border:1px solid black">$8.00</td>
+		<td style="text-align:center; border:1px solid black">$8.00</td>
 	</tr>
 	</tbody>
 	</table>

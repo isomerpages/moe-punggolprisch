@@ -1,6 +1,6 @@
 ---
 title: MK Open House and Registration Exercise
-permalink: /archive/openhouse/
+permalink: /our-mk/our-mk-at-punggol/openhouse/
 variant: tiptap
 description: ""
 ---

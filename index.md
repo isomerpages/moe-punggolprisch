@@ -24,6 +24,15 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS Heartbeat
+      subtitle: NEWSLETTER
+      id: infopic
+      button: CLICK HERE
+      url: https://www.canva.com/design/DAG0vydiDCc/xxe0l7kTVCh53sefnTKY3w/watch
+      alt: Image alt text
+      image: /images/Photos/2026/PPSNewltr2025S2.png
+      description: Don’t miss the buzz—read our latest newsletter!
+  - infopic:
       title: Our Pride (PPS Alumni)
       subtitle: Punggol Primary School
       id: infopic
