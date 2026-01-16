@@ -42,7 +42,7 @@ variant: markdown
     <input id="accordion4" type="checkbox">
     <label for="accordion4"><h5>PSG Organisational Chart</h5></label>
     <div>
-      <p><img src="/images/PSG/PSG_Organization_Structure_2026.png" style="width:100%"></p>
+      <p><img src="/images/PSG/PSG_Organization_Structure_2026_png.png" style="width:100%"></p>
     </div>
 </li>
 <li>
