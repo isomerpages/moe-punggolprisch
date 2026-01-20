@@ -5,8 +5,17 @@ description: ""
 third_nav_title: Growing Years Programme
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="1000" width="1000" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vQ3zIa5ioTAv98llHh5OKAXLe4jjEKmixJVa9rCx6U9IW1oT-Rk_3wzegZPu1IOgskvkGVIn9pNk0y7/pub?embedded=true"></iframe>
-</div>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+children out of Sexuality Education lessons, and/or supplementary Sexuality
+Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish
+to opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="/files/ANNEX_A_Growing_Years.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out
+form is to be submitted by <strong><u>30/01/2026</u></strong>.</p>
+<p>&nbsp;10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the
+school at <strong>6385 0762</strong> for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+<hr>
 <p></p>
 <p></p>
