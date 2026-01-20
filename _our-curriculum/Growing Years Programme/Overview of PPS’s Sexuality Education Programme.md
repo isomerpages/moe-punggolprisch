@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <p><strong>Overview of Punggol Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
