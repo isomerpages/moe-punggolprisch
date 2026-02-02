@@ -83,7 +83,7 @@ variant: markdown
 				<li style="line-height:1;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe7SOVBtTmhq0UQMUAE2yHiv8syp_wHzFlNfB6R2-xVf0KMDw/viewform" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Event/Activities During School Term or Holidays</a></li>
 				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeXzijlqP1NRVQ9i3o5au1D5TVlG4879dKrVTYz8J_bcpxAYg/formrestricted#start=openform" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Logistics Support for Event/Function</a></li>
 				<li style="line-height:1;"><a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3O6N7LwnGCsK7QUAAAK4Iaa7ltrQXIvntLElhfRJpkOS7aA/formrestricted" target="_blank"><img src="/images/Icons/gform_icon.png" style="border:3px solid white; float:left;width:35px;height:35px">Repair/Maintenance Work Request</a></li>
-				<li style="line-height:1;"><a href="https://form.gov.sg/5efbeadcd65ea300118041a7" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">PS Card Replacement</a></li>
+				<li style="line-height:1;"><a href="https://go.gov.sg/ps-card2-school" target="_blank"><img src="/images/Icons/moe_logo.jpg" style="border:3px solid white; float:left;width:35px;height:35px">PS Card Replacement</a></li>
 		</ul>
 		</td>
 	</tr></tbody></table>
