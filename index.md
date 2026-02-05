@@ -24,6 +24,17 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: Inspiring Teacher of English Award
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      description: The Inspiring Teacher of English Award recognises Singapore
+        teachers who ignite a love for English and help students communicate
+        effectively.
+      button: Nominate Today!
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/English_Teacher_Award.jpg
+      alt: Image alt text
+  - infopic:
       title: PPS Heartbeat
       subtitle: NEWSLETTER
       id: infopic
