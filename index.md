@@ -32,7 +32,7 @@ sections:
         by 5pm on 6 April 2026.
       button: Nominate Today!
       url: https://www.languagecouncils.sg/goodenglish/-/media/sgem/itea-nomination-forms/2026-teaching-award-nomination-form_itea.docx
-      image: /images/Eng_Teacher_Award.jpg
+      image: /images/Eng_Teacher_Award2.jpg
       alt: Image alt text
   - infopic:
       title: PPS Heartbeat
