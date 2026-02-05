@@ -24,7 +24,7 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
-      title: Inspiring Teacher of English Award
+      title: Nominate Your English Teacher
       subtitle: PUNGGOL PRIMARY SCHOOL
       id: infopic
       description: The Inspiring Teacher of English Award recognises Singapore
