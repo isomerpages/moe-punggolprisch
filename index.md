@@ -32,7 +32,7 @@ sections:
         effectively.
       button: Nominate Today!
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-      image: /images/English_Teacher_Award.jpg
+      image: /images/Eng_Teacher_Award.jpg
       alt: Image alt text
   - infopic:
       title: PPS Heartbeat
