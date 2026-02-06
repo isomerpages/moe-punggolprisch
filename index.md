@@ -24,6 +24,17 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: "Call for Nominations:"
+      id: infopic
+      description: This award recognises Singapore teachers who ignite a love for
+        English and help students communicate effectively. Nomination will close
+        by 5pm on 6 April 2026.
+      button: Nominate Today!
+      url: https://www.languagecouncils.sg/goodenglish/-/media/sgem/itea-nomination-forms/2026-teaching-award-nomination-form_itea.docx
+      image: /images/Eng_Teacher_Award2.jpg
+      alt: Image alt text
+  - infopic:
       title: PPS Heartbeat
       subtitle: NEWSLETTER
       id: infopic
