@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - MK Open House and Registration Exercise.md
       - ICT Literacy Programme.md
       - E Open House 2025.md
       - Our MK @ Punggol.md
