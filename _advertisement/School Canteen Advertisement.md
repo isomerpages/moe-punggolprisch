@@ -31,7 +31,7 @@ description: ""
 <p>Halal Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30<sup>th</sup> January 2026</p>
+<p>31<sup>st</sup> March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Muslim Cooked Food:</p>
