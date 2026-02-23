@@ -62,4 +62,12 @@ sections:
       alt: Growth Mindset
       url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
       image: /images/growth_mindset.JPG
+  - infopic:
+      title: Ready to see where your child's journey begins?
+      subtitle: MK@Punggol Open House
+      id: infopic
+      button: Click to register now!
+      url: https://go.gov.sg/mkpunggol-registeropenhouse2026
+      image: /images/MK/MK_PL_OH_2026.png
+      alt: Image alt text
 ---
