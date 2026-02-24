@@ -20,3 +20,7 @@ the link&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/registe
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_13_at_12_17_18_PM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/howto_get_to_our_kindergarten.png">
+</div>
+<p></p>
