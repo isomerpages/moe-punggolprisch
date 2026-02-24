@@ -70,4 +70,6 @@ sections:
       url: https://go.gov.sg/mkpunggol-registeropenhouse2026
       image: /images/MK/MK_PL_OH_2026.png
       alt: Image alt text
+      description: Join us to see our nurturing spaces, meet our caring teachers, and
+        discover why every child thrives here
 ---
