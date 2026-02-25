@@ -24,6 +24,16 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: Ready to see where your child's journey begins?
+      subtitle: MK@Punggol Open House
+      id: infopic
+      button: Click to register now!
+      url: https://go.gov.sg/mkpunggol-registeropenhouse2026
+      image: /images/MK/mk_openhouse.png
+      alt: Image alt text
+      description: Join us to see our nurturing spaces, meet our caring teachers, and
+        discover why every child thrives here
+  - infopic:
       title: Inspiring Teacher of English Award 2026
       subtitle: "Call for Nominations:"
       id: infopic
