@@ -47,7 +47,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Indian Cooked Food</p>
-<p>&nbsp;</p>
 <p>Examples: Rice, Noodles, Bee Hoon, Indian Vegetarian etc.&nbsp;</p>
 </td>
 </tr>
