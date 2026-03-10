@@ -38,6 +38,29 @@ description: ""
 <p>Noodles/ Rice/ Western Food</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31<sup>st</sup> May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide Indian Cooked Food</p>
+<p>Examples: Rice, Noodles, Bee Hoon, Indian Vegetarian etc.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>&nbsp;Application Procedure</strong></h4>
