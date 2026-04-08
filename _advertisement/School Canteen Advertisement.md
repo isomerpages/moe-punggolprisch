@@ -28,18 +28,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Cuisine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31<sup>st</sup> March 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide Muslim Cooked Food:</p>
-<p>Noodles/ Rice/ Western Food</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Indian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
