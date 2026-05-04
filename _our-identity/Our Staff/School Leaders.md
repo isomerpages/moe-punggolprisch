@@ -27,7 +27,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="background-color:ghostwhite">Vice Principal – Administration</td>
-    <td>Ms Usha Rani Henry</td>
+    <td>-</td>
   </tr>
 	<tr><td></td></tr>
 	</tbody></table>
