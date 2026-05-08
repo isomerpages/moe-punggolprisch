@@ -27,9 +27,9 @@ sections:
       title: Ready to see where your child's journey begins?
       subtitle: MK@Punggol Open House
       id: infopic
-      button: Click to register now!
+      button: Register with us
       url: https://go.gov.sg/mkpunggol-registeropenhouse2026
-      image: /images/MK/mk_openhouse.png
+      image: /images/MK/MK_annouce1.jpg
       alt: Image alt text
       description: Join us to see our nurturing spaces, meet our caring teachers, and
         discover why every child thrives here
