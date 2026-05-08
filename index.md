@@ -28,7 +28,7 @@ sections:
       subtitle: MK@Punggol Open House
       id: infopic
       button: Register with us
-      url: https://go.gov.sg/mkpunggol-registeropenhouse2026
+      url: /our-mk/our-mk-at-punggol/register-with-us/
       image: /images/MK/MK_annouce1.jpg
       alt: Image alt text
       description: Join us to see our nurturing spaces, meet our caring teachers, and
