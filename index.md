@@ -25,7 +25,7 @@ sections:
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
       title: Ready to see where your child's journey begins?
-      subtitle: MK@Punggol Open House
+      subtitle: MK@Punggol
       id: infopic
       button: Register with us
       url: /our-mk/our-mk-at-punggol/register-with-us/
