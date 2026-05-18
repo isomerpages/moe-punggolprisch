@@ -93,7 +93,7 @@ variant: markdown
     <td>Ms Khng Su- Lyn Jacqueline </td>
   </tr>
 	<tr>
-		<td style="background-color:ghostwhite">Student Leadership</td>
+		<td style="background-color:ghostwhite">Student Management</td>
     <td>Mr Yeo Wei Hao</td>
   </tr>
 	<tr><td></td></tr>
