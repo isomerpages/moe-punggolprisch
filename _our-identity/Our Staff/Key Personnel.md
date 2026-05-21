@@ -111,7 +111,7 @@ variant: markdown
     <td>Mrs Padmini Prakash</td>
   </tr>
   <tr>
-		<td style="background-color:ghostwhite">Mother Tongue Language (MTL)</td>
+		<td style="background-color:ghostwhite">Chinese Language (CL)</td>
     <td>Mdm Chang Sok Cheng</td> 
   </tr>
   <tr>
