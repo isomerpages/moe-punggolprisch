@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - E Open House 2025.md
       - School Mission, Vision and Motto.md
       - Our S T A R Values.md
       - Our Staff/.keep
