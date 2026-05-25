@@ -28,7 +28,7 @@ sections:
       subtitle: PUNGGOL PRIMARY SCHOOL
       id: infopic
       button: Click Here
-      url: /events/pps-openHouse
+      url: /events/e-openhouse/
       image: /images/Photos/2026/Screenshot_2026_05_25_155033.jpg
       alt: Image alt text
   - infopic:
