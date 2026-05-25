@@ -1,4 +1,5 @@
 collections:
   events:
     output: true
-    order: []
+    order:
+      - E Open House 2026.md
