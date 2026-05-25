@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="405" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QflrjwuM7m8?autoplay=1;controls=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="505" width="850" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QflrjwuM7m8?autoplay=1;controls=0"></iframe>
 </div>
 <h3>Be Part of PPS! Experiencing the Joy of Learning</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/7jHLt94Kipg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="English" src="/images/Photos/2026/English.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English</div><div class="isomer-card-link">Click here to view the video</div></div></a>
