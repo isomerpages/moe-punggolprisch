@@ -24,6 +24,14 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: PPS Open House
+      subtitle: PUNGGOL PRIMARY SCHOOL
+      id: infopic
+      button: Click Here
+      url: /events/pps-openHouse
+      image: /images/Photos/2026/Screenshot_2026_05_25_155033.jpg
+      alt: Image alt text
+  - infopic:
       title: Ready to see where your child's journey begins?
       subtitle: MK@Punggol
       id: infopic
