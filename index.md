@@ -29,7 +29,7 @@ sections:
       id: infopic
       button: Click Here
       url: /events/e-openhouse/
-      image: /images/Photos/2026/Screenshot_2026_05_25_155033.jpg
+      image: /images/Photos/2026/P1Registration2026.jpg
       alt: Image alt text
       description: Ready to embark on an exciting educational journey? Our interactive
         e-Open House brings our vibrant school community directly to your
