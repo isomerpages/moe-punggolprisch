@@ -44,14 +44,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SEN Officer</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Xiao Pei</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurul Shireen Binte Saburudin</p>
 </td>
