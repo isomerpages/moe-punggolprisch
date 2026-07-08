@@ -17,9 +17,6 @@ sections:
         - title: Our MK@Punggol
           description: ""
           url: /our-mk/our-mk-at-punggol/welcome/
-        - title: Advertisement
-          description: ""
-          url: /advertisement/school-canteen-advertisement
       background: /images/herobanner2.png
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
