@@ -25,7 +25,7 @@ sections:
       subtitle: NEWSLETTER
       id: infopic
       button: CLICK HERE
-      url: https://canva.link/7nobt14rfpmpvsy
+      url: https://go.gov.sg/ppsheartbeatvol12026
       alt: Image alt text
       image: /images/Photos/2026/newsletter012026.jpg
       description: Don’t miss the buzz—read our latest newsletter!
