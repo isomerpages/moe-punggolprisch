@@ -50,9 +50,6 @@ variant: markdown
     <td>Mdm Lim Kwee Ying</td>
   </tr>
   <tr>
-    <td>Mdm Thay Loo Hong </td>
-  </tr>
-  <tr>
     <td>Mdm Rohina Bte Idris</td>
   </tr>
   <tr>
@@ -60,6 +57,9 @@ variant: markdown
   </tr>
 		  <tr>
     <td>Mr Fong Ming Onn</td>
+  </tr>
+		<tr>
+    <td>Mdm Soh Mui Lan</td>
   </tr>
 	<tr><td></td></tr>
 </tbody>
