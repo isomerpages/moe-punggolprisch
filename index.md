@@ -21,6 +21,15 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: "Teachers’ Day Eve 2026:"
+      subtitle: Punggol Primary School
+      id: infopic
+      description: Welcoming Our Alumni Back to PPS
+      button: Registration Link
+      url: https://form.gov.sg/admin/form/6a82f3d60379617c30bc986f
+      image: /images/teacherEve.png
+      alt: Image alt text
+  - infopic:
       title: PPS Heartbeat
       subtitle: NEWSLETTER
       id: infopic
