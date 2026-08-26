@@ -16,4 +16,8 @@ simple 'thank you' to someone who has shaped your journey: <a href="https://go.g
 us on <strong>Thursday, 3 September 2026, from 10.45am to 11.30am</strong>!
 Register via this <a href="https://form.gov.sg/6a82f3d60379617c30bc986f" rel="noopener nofollow" target="_blank">link </a>below
 by <strong>30 August 2026</strong>. Please note that only registered alumni
-will be allowed entry.</p>
+will be allowed entry. Former PPS students are expected to come in their <strong>current</strong> school
+uniform.</p>
+<p></p>
+<p></p>
+<p></p>
