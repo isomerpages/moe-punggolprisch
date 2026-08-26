@@ -28,7 +28,7 @@ sections:
         reconnect with the teachers who shaped your primary school journey!
       button: Registration Link
       url: https://form.gov.sg/admin/form/6a82f3d60379617c30bc986f
-      image: /images/PPS_Website_for_Alumni.png
+      image: /images/TD_Announcement.png
       alt: Image alt text
   - infopic:
       title: PPS Heartbeat
