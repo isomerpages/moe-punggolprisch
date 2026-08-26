@@ -21,6 +21,13 @@ sections:
       variant: image
       subtitle: PUNGGOL PRIMARY SCHOOL
   - infopic:
+      title: Teachers' Day 2026
+      id: infopic
+      button: Find out more
+      url: https://punggolpri.moe.edu.sg/teachers-day-2026/
+      image: /images/Teachers_Day_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: PPS Heartbeat
       subtitle: NEWSLETTER
       id: infopic
@@ -29,17 +36,6 @@ sections:
       alt: Image alt text
       image: /images/Photos/2026/newsletter012026.jpg
       description: Don’t miss the buzz—read our latest newsletter!
-  - infopic:
-      title: PPS e-Open House
-      subtitle: PUNGGOL PRIMARY SCHOOL
-      id: infopic
-      button: Click Here
-      url: /events/e-openhouse/
-      image: /images/Photos/2026/P1Registration2026.jpg
-      alt: Image alt text
-      description: Ready to embark on an exciting educational journey? Our interactive
-        e-Open House brings our vibrant school community directly to your
-        screen.
   - infopic:
       title: Ready to see where your child's journey begins?
       subtitle: MK@Punggol
@@ -61,12 +57,4 @@ sections:
       url: https://forms.gle/vhzWc57m9cCQBf676
       image: /images/Photos/2024/alumni2024.jpg
       alt: Image alt text
-  - infopic:
-      title: PPS Growth Mindset
-      subtitle: PUNGGOL PRIMARY SCHOOL
-      description: Join us on our growth mindset journey in PPS.
-      button: CLICK HERE
-      alt: Growth Mindset
-      url: https://drive.google.com/file/d/1v_bWb8O-OMsLY1Sg8NaaUlvnVxumKSPE/view
-      image: /images/growth_mindset.JPG
 ---

@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Teachers' Day 2026.md
       - E Open House 2026.md
